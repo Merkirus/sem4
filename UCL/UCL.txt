@@ -1,0 +1,20 @@
+Analiza druzyn i pilkarzy grajacych w UCL w celu predykcji finalow.
+Analiza meczy i kontrybucja pojedynczych pilkarzy do gry.
+Pogoda i jej wplyw w dzien meczu.
+Historia rozgrywek w UCL i ich porownanie do gier sezonowych,
+czyli o ile dana druzyna moze sie bardziej starac w UCL.
+Dane historyczne z gotowych baz danych, z obecnego sezonu
+postaram sie webscrapowac.
+Na dzien dzisiejszy bedzie to analiza 4 druzyn i ich graczy.
+Mimo ze przed oddaniem raportu polfinaly sie skoncza i zostana
+dwie druzyny. Raport bedzie aktualny. Postaram sie rozwazyc kazda
+opcje finalowa.
+
+Ponadto w której minucie się spodziewać bramek, strzelcy itp.
+Zbiory, którzy piłkarze jak się kontrubuują itp
+
+
+ASL LABY - kolos:
+skrypty zakladajace uzytkownika
+zarzadzanie plikami i folderami
+do 8 listy wlacznie material na 1 kolos
