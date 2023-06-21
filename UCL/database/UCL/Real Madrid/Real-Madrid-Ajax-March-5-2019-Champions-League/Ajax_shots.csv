@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Hakim Ziyech,Ajax,0.28,0.61,Goal,15,Left Foot,,Dušan Tadić,Pass (Live),Hakim Ziyech,Tackle
+18,David Neres,Ajax,0.72,0.78,Goal,5,Right Foot,,Dušan Tadić,Pass (Live),Dušan Tadić,Take-On
+22,David Neres,Ajax,0.34,,Off Target,16,Left Foot,,Hakim Ziyech,Pass (Live),,
+25,Dušan Tadić,Ajax,0.06,0.07,Saved,11,Left Foot,,Daley Blind,Pass (Live),David Neres,Pass (Live)
+34,Hakim Ziyech,Ajax,0.03,0.16,Saved,27,Right Foot,,,,,
+38,Matthijs de Ligt,Ajax,0.04,,Blocked,11,Head,,Hakim Ziyech,Pass (Dead),Daley Blind,Fouled
+42,Hakim Ziyech,Ajax,0.03,,Blocked,35,Left Foot,,,,,
+51,Donny van de Beek,Ajax,0.10,0.54,Saved,13,Left Foot,,Dušan Tadić,Pass (Live),David Neres,Pass (Live)
+60,Noussair Mazraoui,Ajax,0.12,,Off Target,9,Right Foot,,Dušan Tadić,Pass (Live),David Neres,Pass (Live)
+62,Dušan Tadić,Ajax,0.07,0.55,Goal,17,Left Foot,,Donny van de Beek,Pass (Live),Nicolás Tagliafico,Pass (Live)
+72,Lasse Schöne,Ajax,0.04,0.70,Goal,29,Right Foot,Free kick,Dušan Tadić,Fouled,Nicolás Tagliafico,Pass (Dead)
+78,Matthijs de Ligt,Ajax,0.04,0.06,Saved,10,Head,,Hakim Ziyech,Pass (Dead),,
+82,Hakim Ziyech,Ajax,0.03,,Off Target,34,Left Foot,,Donny van de Beek,Pass (Live),Hakim Ziyech,Pass (Live)
+84,Hakim Ziyech,Ajax,0.03,,Off Target,32,Left Foot,,Joël Veltman,Pass (Live),,
+86,Hakim Ziyech,Ajax,0.67,,Off Target,6,Left Foot,,Dušan Tadić,Pass (Live),Dušan Tadić,Take-On
+90+4,Hakim Ziyech,Ajax,0.03,,Off Target,27,Left Foot,,Donny van de Beek,Pass (Live),Kasper Dolberg,Pass (Live)

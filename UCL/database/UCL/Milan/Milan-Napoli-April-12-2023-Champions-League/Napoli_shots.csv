@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Khvicha Kvaratskhelia,Napoli,0.30,,Blocked,5,Left Foot,,Giovanni Di Lorenzo,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+1,Mário Rui,Napoli,0.10,,Off Target,16,Left Foot,Volley,Khvicha Kvaratskhelia,Shot,,
+3,Andre-Frank Zambo Anguissa,Napoli,0.07,0.11,Saved,26,Right Foot,,Khvicha Kvaratskhelia,Pass (Live),,
+4,Giovanni Di Lorenzo,Napoli,0.04,,Off Target,9,Head,,Mário Rui,Pass (Live),Piotr Zieliński,Pass (Live)
+10,Khvicha Kvaratskhelia,Napoli,0.09,,Blocked,18,Right Foot,,Elif Elmas,Pass (Live),Khvicha Kvaratskhelia,Take-On
+12,Piotr Zieliński,Napoli,0.04,0.13,Saved,30,Left Foot,,Giovanni Di Lorenzo,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+13,Giovanni Di Lorenzo,Napoli,0.02,,Off Target,16,Head,,Amir Rrahmani,Pass (Live),Khvicha Kvaratskhelia,Pass (Live)
+18,Mário Rui,Napoli,0.03,,Off Target,50,Left Foot,,Mário Rui,Interception,,
+23,Piotr Zieliński,Napoli,0.02,,Off Target,31,Left Foot,,Mário Rui,Pass (Live),Kim Min-jae,Pass (Live)
+50,Elif Elmas,Napoli,0.04,0.06,Saved,17,Head,,Khvicha Kvaratskhelia,Pass (Live),Khvicha Kvaratskhelia,Take-On
+51,Giovanni Di Lorenzo,Napoli,0.09,0.04,Saved,8,Head,,Piotr Zieliński,Pass (Dead),Elif Elmas,Shot
+51,Andre-Frank Zambo Anguissa,Napoli,0.02,,Blocked,32,Right Foot,,Stanislav Lobotka,Pass (Live),Khvicha Kvaratskhelia,Tackle
+53,Giovanni Di Lorenzo,Napoli,0.08,,Blocked,14,Right Foot,Volley,Hirving Lozano,Pass (Live),Stanislav Lobotka,Pass (Live)
+68,Andre-Frank Zambo Anguissa,Napoli,0.03,,Blocked,27,Right Foot,,Elif Elmas,Pass (Live),Khvicha Kvaratskhelia,Pass (Live)
+87,Giovanni Di Lorenzo,Napoli,0.20,0.49,Saved,9,Right Foot,,Stanislav Lobotka,Pass (Live),Stanislav Lobotka,Fouled
+87,Mathías Olivera,Napoli,0.20,,Off Target,8,Head,,Matteo Politano,Pass (Live),Amir Rrahmani,Pass (Live)

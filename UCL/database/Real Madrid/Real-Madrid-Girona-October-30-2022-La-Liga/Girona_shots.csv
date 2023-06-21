@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Valentín Castellanos,Girona,0.17,,Off Target,13,Right Foot,,,,,
+19,Valery,Girona,0.08,,Off Target,14,Head,,Arnau Martinez,Pass (Live),Yangel Herrera,Pass (Live)
+38,Yangel Herrera,Girona,0.13,,Woodwork,17,Left Foot,,Valery,Pass (Live),Valery,Take-On
+44,Yan Couto,Girona,0.02,,Off Target,21,Left Foot,,Yangel Herrera,Pass (Live),Yan Couto,Pass (Live)
+57,Arnau Martinez,Girona,0.02,,Off Target,16,Head,,Aleix García,Pass (Dead),Yan Couto,Fouled
+60,Valentín Castellanos,Girona,0.02,0.02,Saved,33,Right Foot,,Valentín Castellanos,Take-On,Rodrigo Riquelme,Pass (Live)
+80,Cristhian Stuani (pen),Girona,0.79,0.99,Goal,13,Right Foot,,,Fouled,Arnau Martinez,Fouled
+81,Rodrigo Riquelme,Girona,0.19,,Off Target,15,Left Foot,,Aleix García,Pass (Live),Reinier,Pass (Live)

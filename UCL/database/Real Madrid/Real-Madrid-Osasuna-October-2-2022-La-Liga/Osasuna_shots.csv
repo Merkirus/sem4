@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+15,Abdessamad Ezzalzouli,Osasuna,0.06,,Off Target,11,Left Foot,,Abdessamad Ezzalzouli,Take-On,Kike,Pass (Live)
+21,Nacho Vidal,Osasuna,0.10,,Off Target,12,Right Foot,,Darko Brašanac,Pass (Live),Jon Moncayola,Pass (Live)
+28,Jon Moncayola,Osasuna,0.07,0.03,Saved,26,Right Foot,,Moi Gómez,Pass (Live),Abdessamad Ezzalzouli,Pass (Live)
+33,Abdessamad Ezzalzouli,Osasuna,0.10,,Off Target,14,Right Foot,,Moi Gómez,Pass (Live),Darko Brašanac,Pass (Live)
+50,Kike,Osasuna,0.01,0.50,Goal,14,Head,,Unai García,Pass (Live),Moi Gómez,Pass (Live)
+53,Kike,Osasuna,0.16,,Off Target,9,Right Foot,,Moi Gómez,Pass (Live),Jon Moncayola,Pass (Live)
+70,David García,Osasuna,0.02,,Off Target,12,Head,,Moi Gómez,Pass (Dead),Kike,Pass (Live)
+90,Moi Gómez,Osasuna,0.01,,Off Target,29,Right Foot,Volley,Ante Budimir,Pass (Live),Moi Gómez,Pass (Live)

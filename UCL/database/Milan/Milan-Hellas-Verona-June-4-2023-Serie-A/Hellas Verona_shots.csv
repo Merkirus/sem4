@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+47,Cyril Ngonge,Hellas Verona,0.03,,Blocked,22,Left Foot,,,,,
+53,Adrien Tameze,Hellas Verona,0.03,,Off Target,26,Right Foot,Volley,Milan Đurić,Pass (Live),Lorenzo Montipò,Pass (Dead)
+56,Miguel Veloso,Hellas Verona,0.05,,Off Target,19,Left Foot,Volley,Adrien Tameze,Pass (Live),Milan Đurić,Pass (Live)
+63,Cyril Ngonge,Hellas Verona,0.09,,Off Target,12,Right Foot,,Cyril Ngonge,Take-On,Adrien Tameze,Pass (Live)
+72,Davide Faraoni,Hellas Verona,0.60,0.99,Goal,2,Head,,Darko Lazović,Pass (Live),Fabio Depaoli,Pass (Dead)
+81,Adolfo Gaich,Hellas Verona,0.02,,Off Target,35,Right Foot,,Darko Lazović,Pass (Live),,

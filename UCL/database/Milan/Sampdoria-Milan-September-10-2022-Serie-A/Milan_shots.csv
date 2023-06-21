@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Rafael Leão,Milan,0.10,,Blocked,14,Left Foot,,Charles De Ketelaere,Pass (Live),Charles De Ketelaere,Take-On
+3,Olivier Giroud,Milan,0.09,,Off Target,12,Head,,Junior Messias,Pass (Live),Pierre Kalulu,Pass (Live)
+6,Junior Messias,Milan,0.08,0.12,Goal,14,Left Foot,,,,,
+29,Rafael Leão,Milan,0.04,,Off Target,26,Right Foot,,Theo Hernández,Pass (Live),Charles De Ketelaere,Pass (Live)
+41,Olivier Giroud,Milan,0.09,,Off Target,10,Head,,Theo Hernández,Pass (Dead),Charles De Ketelaere,Pass (Live)
+41,Theo Hernández,Milan,0.04,,Off Target,12,Left Foot,Volley,Rafael Leão,Pass (Live),Olivier Giroud,Shot
+42,Olivier Giroud,Milan,0.18,0.19,Saved,11,Left Foot,,Tommaso Pobega,Pass (Live),Tommaso Pobega,Pass (Live)
+42,Olivier Giroud,Milan,0.10,,Off Target,7,Left Foot,,Rafael Leão,Pass (Live),Rafael Leão,Take-On
+45+1,Charles De Ketelaere,Milan,0.04,,Blocked,18,Left Foot,,Davide Calabria,Pass (Live),Simon Kjær,Pass (Live)
+53,Junior Messias,Milan,0.05,,Off Target,16,Left Foot,,Junior Messias,Fouled,Tommaso Pobega,Pass (Live)
+55,Tommaso Pobega,Milan,0.03,,Off Target,9,Head,,Theo Hernández,Pass (Dead),Theo Hernández,Fouled
+63,Theo Hernández,Milan,0.06,0.19,Saved,20,Right Foot,,Tommaso Pobega,Pass (Live),Olivier Giroud,Pass (Live)
+64,Olivier Giroud,Milan,0.17,,Blocked,6,Head,,Sandro Tonali,Pass (Dead),Theo Hernández,Shot
+67,Olivier Giroud (pen),Milan,0.79,0.99,Goal,13,Left Foot,,,Fouled,Olivier Giroud,Shot
+85,Olivier Giroud,Milan,0.03,,Blocked,23,Left Foot,,Pierre Kalulu,Pass (Live),Olivier Giroud,Pass (Live)

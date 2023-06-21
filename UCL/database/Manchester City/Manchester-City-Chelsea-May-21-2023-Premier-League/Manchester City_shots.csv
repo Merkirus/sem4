@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Kalvin Phillips,Manchester City,0.06,,Blocked,22,Right Foot,,Cole Palmer,Take-On,Kalvin Phillips,Pass (Live)
+3,Sergio Gómez,Manchester City,0.02,,Off Target,26,Left Foot,Volley,Kalvin Phillips,Shot,,
+8,Phil Foden,Manchester City,0.02,,Off Target,31,Left Foot,,Riyad Mahrez,Pass (Live),Phil Foden,Pass (Live)
+12,Julián Álvarez,Manchester City,0.30,0.79,Goal,17,Right Foot,,Cole Palmer,Pass (Live),Kalvin Phillips,Pass (Live)
+15,Phil Foden,Manchester City,0.15,,Blocked,13,Left Foot,,Julián Álvarez,Pass (Live),Julián Álvarez,Take-On
+15,Riyad Mahrez,Manchester City,0.05,,Blocked,8,Right Foot,,Phil Foden,Shot,,
+24,Cole Palmer,Manchester City,0.06,,Blocked,12,Left Foot,,Phil Foden,Pass (Live),Rico Lewis,Pass (Live)
+29,Phil Foden,Manchester City,0.09,,Off Target,17,Right Foot,,Kalvin Phillips,Pass (Live),Sergio Gómez,Pass (Live)
+43,Kalvin Phillips,Manchester City,0.03,,Off Target,31,Right Foot,,Sergio Gómez,Pass (Live),Cole Palmer,Pass (Live)
+50,Phil Foden,Manchester City,0.11,,Blocked,18,Left Foot,,Rico Lewis,Pass (Live),Julián Álvarez,Pass (Live)
+58,Kalvin Phillips,Manchester City,0.08,,Woodwork,14,Head,,Riyad Mahrez,Pass (Dead),Cole Palmer,Fouled
+74,Erling Haaland,Manchester City,0.12,,Off Target,12,Left Foot,,Julián Álvarez,Pass (Live),Cole Palmer,Pass (Live)
+77,Julián Álvarez,Manchester City,0.02,0.17,Saved,27,Right Foot,,Kalvin Phillips,Pass (Live),,
+87,Cole Palmer,Manchester City,0.02,,Blocked,17,Left Foot,,John Stones,Pass (Live),Rico Lewis,Pass (Live)
+87,Julián Álvarez,Manchester City,0.05,,Off Target,16,Right Foot,,Cole Palmer,Shot,,

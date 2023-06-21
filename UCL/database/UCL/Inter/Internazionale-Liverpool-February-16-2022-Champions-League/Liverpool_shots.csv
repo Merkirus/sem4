@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+8,Mohamed Salah,Liverpool,0.09,,Blocked,17,Right Foot,,Sadio Mané,Pass (Live),Fabinho,Pass (Live)
+9,Fabinho,Liverpool,0.01,,Off Target,13,Head,,Mohamed Salah,Shot,,
+9,Thiago Alcántara,Liverpool,0.02,,Off Target,29,Right Foot,Volley,Thiago Alcántara,Pass (Live),Sadio Mané,Pass (Live)
+14,Sadio Mané,Liverpool,0.23,,Off Target,7,Head,,Andrew Robertson,Pass (Dead),Diogo Jota,Fouled
+23,Ibrahima Konaté,Liverpool,0.04,,Off Target,13,Head,,Andrew Robertson,Pass (Dead),,
+23,Sadio Mané,Liverpool,0.16,,Off Target,7,Right Foot,Volley,Ibrahima Konaté,Shot,,
+29,Trent Alexander-Arnold,Liverpool,0.03,,Off Target,30,Right Foot,Free kick,Mohamed Salah,Fouled,,
+32,Trent Alexander-Arnold,Liverpool,0.02,,Off Target,28,Right Foot,,Thiago Alcántara,Pass (Live),Andrew Robertson,Pass (Live)
+37,Diogo Jota,Liverpool,0.09,,Blocked,17,Left Foot,,Harvey Elliott,Pass (Live),Thiago Alcántara,Pass (Live)
+63,Luis Díaz,Liverpool,0.20,,Blocked,9,Right Foot,,Luis Díaz,Pass (Live),Andrew Robertson,Pass (Live)
+67,Luis Díaz,Liverpool,0.02,,Off Target,30,Right Foot,,Jordan Henderson,Pass (Live),Roberto Firmino,Pass (Live)
+75,Roberto Firmino,Liverpool,0.08,0.57,Goal,7,Head,,Andrew Robertson,Pass (Dead),,
+83,Mohamed Salah,Liverpool,0.05,0.17,Goal,15,Left Foot,Deflected,Trent Alexander-Arnold,Pass (Live),Andrew Robertson,Pass (Live)

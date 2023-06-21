@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Fabio Quagliarella,Sampdoria,0.09,0.20,Goal,13,Right Foot,,Alessandro Zanoli,Pass (Live),Alessandro Zanoli,Take-On
+39,Fabio Quagliarella,Sampdoria,0.04,,Off Target,20,Right Foot,,Mehdi Léris,Pass (Live),Harry Winks,Pass (Live)
+41,Filip Đuričić,Sampdoria,0.13,0.59,Saved,11,Head,,Mehdi Léris,Pass (Live),Alessandro Zanoli,Pass (Dead)
+51,Mehdi Léris,Sampdoria,0.29,,Off Target,10,Right Foot,Volley,Fabio Quagliarella,Pass (Live),Tommaso Augello,Pass (Live)
+59,Tomás Rincón,Sampdoria,0.03,,Off Target,29,Right Foot,,Harry Winks,Pass (Live),Mehdi Léris,Pass (Live)
+61,Manolo Gabbiadini,Sampdoria,0.04,0.13,Saved,22,Left Foot,,Fabio Quagliarella,Pass (Live),Manolo Gabbiadini,Pass (Live)

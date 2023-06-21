@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Kai Havertz,Chelsea,0.06,,Blocked,14,Right Foot,Volley,Reece James,Pass (Live),Trevoh Chalobah,Pass (Live)
+11,N'Golo Kanté,Chelsea,0.35,,Off Target,14,Left Foot,,Kai Havertz,Shot,,
+12,Enzo Fernández,Chelsea,0.04,,Blocked,23,Right Foot,Volley,N'Golo Kanté,Pass (Live),Kai Havertz,Pass (Live)
+23,Thiago Silva,Chelsea,0.02,0.09,Saved,23,Right Foot,Volley,Thiago Silva,Pass (Live),Marc Cucurella,Pass (Live)
+40,Kai Havertz,Chelsea,0.04,,Off Target,8,Other,,Conor Gallagher,Shot,,
+40,Conor Gallagher,Chelsea,0.16,,Off Target,7,Head,,Marc Cucurella,Pass (Dead),,
+45+1,Marc Cucurella,Chelsea,0.33,0.64,Saved,5,Left Foot,,Reece James,Pass (Live),Kai Havertz,Pass (Live)
+52,N'Golo Kanté,Chelsea,0.29,,Blocked,5,Right Foot,,Conor Gallagher,Pass (Live),Enzo Fernández,Pass (Live)
+55,Enzo Fernández,Chelsea,0.02,,Off Target,32,Right Foot,,Reece James,Pass (Live),Reece James,Take-On
+57,Kai Havertz,Chelsea,0.05,0.03,Saved,18,Left Foot,Deflected,Kai Havertz,Take-On,N'Golo Kanté,Pass (Live)
+60,Conor Gallagher,Chelsea,0.08,0.09,Saved,16,Right Foot,,Mateo Kovačić,Pass (Live),,
+65,Enzo Fernández,Chelsea,0.05,0.05,Saved,17,Left Foot,,Marc Cucurella,Pass (Live),Thiago Silva,Pass (Live)
+69,Reece James,Chelsea,0.03,,Blocked,27,Right Foot,,N'Golo Kanté,Pass (Live),Reece James,Pass (Live)
+70,João Félix,Chelsea,0.05,,Blocked,18,Right Foot,,João Félix,Pass (Live),Reece James,Pass (Live)
+72,Trevoh Chalobah,Chelsea,0.19,,Off Target,9,Head,,João Félix,Pass (Dead),,
+76,Mykhailo Mudryk,Chelsea,0.03,,Off Target,23,Right Foot,,Mykhailo Mudryk,Take-On,Reece James,Pass (Live)
+82,João Félix,Chelsea,0.06,,Blocked,11,Left Foot,,Mateo Kovačić,Pass (Live),Wesley Fofana,Pass (Live)
+82,Mykhailo Mudryk,Chelsea,0.04,0.02,Saved,17,Right Foot,Deflected,João Félix,Shot,,
+90,João Félix,Chelsea,0.02,,Off Target,26,Right Foot,,Mateo Kovačić,Pass (Live),Reece James,Pass (Live)

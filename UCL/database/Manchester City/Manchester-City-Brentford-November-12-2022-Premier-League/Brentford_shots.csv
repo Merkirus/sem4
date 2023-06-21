@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Frank Onyeka,Brentford,0.16,0.28,Saved,13,Right Foot,,Rico Henry,Pass (Live),Bryan Mbeumo,Pass (Live)
+5,Bryan Mbeumo,Brentford,0.08,,Blocked,17,Left Foot,,Rico Henry,Pass (Live),Mathias Jensen,Pass (Dead)
+6,Ivan Toney,Brentford,0.08,0.41,Saved,11,Right Foot,,Bryan Mbeumo,Pass (Live),,
+16,Ivan Toney,Brentford,0.04,0.15,Goal,9,Head,,David Raya,Pass (Dead),Frank Onyeka,Fouled
+45,Bryan Mbeumo,Brentford,0.03,0.04,Saved,24,Left Foot,,Ivan Toney,Pass (Live),Vitaly Janelt,Pass (Live)
+45+3,Mathias Jensen,Brentford,0.01,,Off Target,38,Right Foot,,,,,
+67,Ivan Toney,Brentford,0.01,0.15,Saved,17,Right Foot,Volley,Mads Roerslev,Pass (Live),Frank Onyeka,Pass (Live)
+90+1,Ivan Toney,Brentford,0.03,0.44,Saved,5,Right Foot,,Mads Roerslev,Pass (Live),David Raya,Pass (Dead)
+90+8,Ivan Toney,Brentford,0.71,0.97,Goal,5,Right Foot,,Josh Dasilva,Pass (Live),Yoane Wissa,Pass (Live)
+90+10,Ivan Toney,Brentford,0.14,,Blocked,12,Right Foot,Deflected,Josh Dasilva,Pass (Live),Josh Dasilva,Take-On

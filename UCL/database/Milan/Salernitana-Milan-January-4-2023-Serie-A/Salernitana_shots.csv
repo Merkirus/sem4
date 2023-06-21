@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Krzysztof Piątek,Salernitana,0.02,,Blocked,31,Right Foot,,Krzysztof Piątek,Take-On,,
+23,Boulaye Dia,Salernitana,0.04,,Blocked,11,Right Foot,,Tonny Vilhena,Pass (Live),Junior Sambia,Pass (Live)
+24,Krzysztof Piątek,Salernitana,0.04,,Off Target,9,Head,,Tonny Vilhena,Pass (Dead),Boulaye Dia,Shot
+45,Junior Sambia,Salernitana,0.07,,Off Target,17,Right Foot,,Emil Bohinen,Pass (Live),Domagoj Bradarić,Pass (Live)
+45+1,Tonny Vilhena,Salernitana,0.07,,Off Target,22,Left Foot,,Krzysztof Piątek,Pass (Live),Domagoj Bradarić,Pass (Live)
+69,Federico Bonazzoli,Salernitana,0.07,,Off Target,18,Left Foot,Volley,Boulaye Dia,Pass (Live),Junior Sambia,Pass (Live)
+79,Junior Sambia,Salernitana,0.05,,Off Target,17,Right Foot,,Krzysztof Piątek,Pass (Live),Federico Bonazzoli,Pass (Live)
+83,Federico Bonazzoli,Salernitana,0.32,0.76,Goal,2,Left Foot,Volley,Lassana Coulibaly,Pass (Live),Krzysztof Piątek,Pass (Live)

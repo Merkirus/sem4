@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Lautaro Martínez,Inter,0.07,,Off Target,25,Right Foot,,Denzel Dumfries,Interception,,
+16,Hakan Çalhanoğlu,Inter,0.06,,Woodwork,10,Left Foot,Volley,Ivan Perišić,Pass (Live),Ivan Perišić,Take-On
+40,Milan Škriniar,Inter,0.15,,Off Target,8,Head,,Hakan Çalhanoğlu,Pass (Dead),,
+47,Marcelo Brozović,Inter,0.05,,Off Target,28,Right Foot,,Ivan Perišić,Pass (Live),Alessandro Bastoni,Pass (Live)
+55,Edin Džeko,Inter,0.04,,Blocked,14,Head,,Hakan Çalhanoğlu,Pass (Live),Ivan Perišić,Pass (Live)
+57,Alessandro Bastoni,Inter,0.02,,Off Target,23,Left Foot,,Alessandro Bastoni,Pass (Live),Ivan Perišić,Pass (Live)
+62,Edin Džeko,Inter,0.07,,Blocked,12,Right Foot,,Ivan Perišić,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+73,Denzel Dumfries,Inter,0.09,,Off Target,8,Head,,Hakan Çalhanoğlu,Pass (Dead),Alexis Sánchez,Pass (Live)
+80,Ivan Perišić,Inter,0.03,,Off Target,23,Right Foot,,,,,

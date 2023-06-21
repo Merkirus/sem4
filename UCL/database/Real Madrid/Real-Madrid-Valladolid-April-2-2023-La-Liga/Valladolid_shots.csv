@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Roque Mesa,Valladolid,0.13,,Woodwork,19,Right Foot,,Monchu,Pass (Live),Iván Fresneda,Pass (Live)
+11,Monchu,Valladolid,0.17,,Off Target,16,Right Foot,,Lucas Oliveira Rosa,Pass (Live),Roque Mesa,Pass (Live)
+28,Roque Mesa,Valladolid,0.07,,Blocked,18,Right Foot,,Gonzalo Plata,Pass (Live),Monchu,Pass (Live)
+28,Roque Mesa,Valladolid,0.06,0.09,Saved,21,Left Foot,,Monchu,Tackle,,
+34,Martin Hongla,Valladolid,0.03,,Off Target,34,Right Foot,,Iván Fresneda,Pass (Live),Monchu,Pass (Live)
+46,Kike Pérez,Valladolid,0.08,,Woodwork,20,Left Foot,,Gonzalo Plata,Pass (Live),Óscar Plano,Pass (Live)
+47,Álvaro Aguado,Valladolid,0.03,,Blocked,30,Left Foot,,Gonzalo Plata,Pass (Live),,
+51,Gonzalo Plata,Valladolid,0.10,,Blocked,9,Left Foot,,Gonzalo Plata,Take-On,Monchu,Pass (Live)
+53,Monchu,Valladolid,0.05,,Off Target,28,Right Foot,,Gonzalo Plata,Pass (Live),Álvaro Aguado,Pass (Live)
+74,Monchu,Valladolid,0.04,0.05,Saved,28,Right Foot,Free kick,Kike Pérez,Fouled,Sergio León,Pass (Dead)
+86,Kike Pérez,Valladolid,0.03,,Off Target,13,Right Foot,,Monchu,Pass (Live),Óscar Plano,Pass (Live)
+90+1,Selim Amallah,Valladolid,0.05,,Blocked,27,Right Foot,Free kick,Kike Pérez,Fouled,Álvaro Aguado,Pass (Live)

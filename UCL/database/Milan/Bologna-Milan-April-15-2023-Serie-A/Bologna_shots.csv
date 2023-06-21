@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Nicola Sansone,Bologna,0.42,0.78,Goal,6,Right Foot,,Stefan Posch,Pass (Live),Stefan Posch,Take-On
+36,Michel Aebischer,Bologna,0.03,,Off Target,30,Right Foot,,Lewis Ferguson,Pass (Live),Giorgos Kyriakopoulos,Pass (Live)
+43,Musa Barrow,Bologna,0.05,,Blocked,30,Right Foot,Free kick,Musa Barrow,Fouled,Nicola Sansone,Pass (Live)
+74,Stefan Posch,Bologna,0.06,,Off Target,10,Head,,Giorgos Kyriakopoulos,Pass (Dead),Joshua Zirkzee,Fouled
+78,Nicolás Domínguez,Bologna,0.02,0.03,Saved,26,Right Foot,Deflected,Stefan Posch,Pass (Live),,
+83,Charalambos Lykogiannis,Bologna,0.04,,Off Target,27,Left Foot,Free kick,Stefan Posch,Fouled,Nikola Moro,Pass (Live)

@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Danny Welbeck,Brighton,0.06,,Off Target,37,Right Foot,,Danny Welbeck,Interception,,
+35,Leandro Trossard,Brighton,0.05,,Blocked,16,Right Foot,,Leandro Trossard,Take-On,Alexis Mac Allister,Pass (Live)
+37,Danny Welbeck,Brighton,0.15,,Off Target,4,Head,,Pascal Groß,Pass (Dead),Danny Welbeck,Pass (Live)
+53,Leandro Trossard,Brighton,0.05,0.18,Goal,20,Right Foot,,Solly March,Pass (Live),Leandro Trossard,Pass (Live)
+67,Alexis Mac Allister,Brighton,0.02,,Off Target,31,Right Foot,,Alexis Mac Allister,Pass (Live),,
+73,Leandro Trossard,Brighton,0.08,0.10,Saved,8,Left Foot,,Pascal Groß,Pass (Live),Lewis Dunk,Pass (Live)
+85,Solly March,Brighton,0.03,,Blocked,19,Left Foot,,Solly March,Take-On,Pascal Groß,Pass (Live)
+86,Moisés Caicedo,Brighton,0.04,,Blocked,23,Right Foot,,Deniz Undav,Pass (Live),Pervis Estupiñán,Pass (Live)

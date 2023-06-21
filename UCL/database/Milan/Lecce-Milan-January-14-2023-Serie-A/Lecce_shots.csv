@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Federico Di Francesco,Lecce,0.40,,Off Target,8,Left Foot,,Valentin Gendrey,Pass (Live),Gabriel Strefezza,Pass (Live)
+13,Federico Di Francesco,Lecce,0.03,,Blocked,15,Left Foot,,Federico Di Francesco,Pass (Dead),Gabriel Strefezza,Pass (Live)
+14,Federico Di Francesco,Lecce,0.04,,Off Target,26,Right Foot,,Gabriel Strefezza,Pass (Live),Joan Gonzàlez,Pass (Live)
+19,Valentin Gendrey,Lecce,0.04,,Blocked,17,Right Foot,,Lorenzo Colombo,Pass (Live),Valentin Gendrey,Pass (Live)
+19,Gabriel Strefezza,Lecce,0.05,,Off Target,25,Left Foot,,Lorenzo Colombo,Pass (Live),Gabriel Strefezza,Pass (Live)
+22,Lorenzo Colombo,Lecce,0.06,,Blocked,22,Right Foot,,Gabriel Strefezza,Pass (Live),,
+23,Federico Baschirotto,Lecce,0.09,0.42,Goal,11,Head,,Morten Hjulmand,Pass (Live),Gabriel Strefezza,Pass (Live)
+25,Gabriel Strefezza,Lecce,0.03,0.25,Saved,28,Right Foot,,Lorenzo Colombo,Pass (Live),,
+26,Valentin Gendrey,Lecce,0.32,,Off Target,5,Head,,Federico Di Francesco,Pass (Live),Gabriel Strefezza,Pass (Live)
+34,Gabriel Strefezza,Lecce,0.02,,Off Target,32,Right Foot,,Alexis Blin,Pass (Live),Morten Hjulmand,Pass (Live)
+53,Joan Gonzàlez,Lecce,0.09,,Blocked,16,Right Foot,,Lorenzo Colombo,Pass (Live),Valentin Gendrey,Pass (Live)
+68,Gabriel Strefezza,Lecce,0.05,,Off Target,22,Right Foot,Free kick,Antonino Gallo,Fouled,,
+82,Valentin Gendrey,Lecce,0.02,,Off Target,35,Right Foot,,Alexis Blin,Pass (Live),Valentin Gendrey,Pass (Live)
+84,Youssef Maleh,Lecce,0.03,,Blocked,20,Left Foot,,Gabriel Strefezza,Pass (Live),Lameck Banda,Pass (Dead)
+84,Gabriel Strefezza,Lecce,0.05,0.02,Saved,20,Right Foot,,Youssef Maleh,Pass (Live),,
+88,Gabriel Strefezza,Lecce,0.02,,Blocked,27,Right Foot,,Joel Voelkerling Persson,Pass (Live),Alexis Blin,Pass (Live)
+90+1,Lameck Banda,Lecce,0.02,,Blocked,23,Right Foot,,Remi Oudin,Pass (Live),Joel Voelkerling Persson,Pass (Live)

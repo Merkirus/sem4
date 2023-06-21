@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+57,Bruno Tabata,Sporting CP,0.03,0.21,Saved,19,Left Foot,Deflected,Pablo Sarabia,Pass (Live),Paulinho,Pass (Live)
+60,Marcus Edwards,Sporting CP,0.13,0.03,Saved,13,Right Foot,,Islam Slimani,Pass (Live),Sebastián Coates,Pass (Live)
+73,Matheus Reis,Sporting CP,0.08,,Off Target,17,Left Foot,,,,,
+74,Pedro Porro,Sporting CP,0.06,,Off Target,16,Left Foot,,Bruno Tabata,Pass (Dead),Marcus Edwards,Fouled
+76,Paulinho,Sporting CP,0.44,0.81,Saved,12,Left Foot,,Marcus Edwards,Pass (Live),Pedro Porro,Pass (Live)
+90,Ricardo Esgaio,Sporting CP,0.03,,Off Target,26,Right Foot,Volley,Marcus Edwards,Pass (Live),Marcus Edwards,Take-On

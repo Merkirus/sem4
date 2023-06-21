@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Denzel Dumfries,Inter,0.04,0.02,Saved,16,Right Foot,,Roberto Gagliardini,Pass (Live),Lautaro Martínez,Pass (Live)
+7,Roberto Gagliardini,Inter,0.03,0.03,Saved,13,Right Foot,,Denzel Dumfries,Pass (Live),Nicolò Barella,Pass (Live)
+15,Roberto Gagliardini,Inter,0.02,,Off Target,30,Right Foot,,Nicolò Barella,Pass (Live),,
+19,Romelu Lukaku,Inter,0.17,,Off Target,6,Head,,Federico Dimarco,Pass (Dead),Romelu Lukaku,Pass (Live)
+23,Lautaro Martínez,Inter,0.05,,Off Target,59,Right Foot,,,,,
+38,Romelu Lukaku,Inter,0.05,0.15,Saved,9,Head,,Federico Dimarco,Pass (Live),Roberto Gagliardini,Pass (Live)
+51,Lautaro Martínez,Inter,0.22,0.79,Goal,5,Right Foot,Volley,Denzel Dumfries,Pass (Live),Denzel Dumfries,Fouled
+52,Denzel Dumfries,Inter,0.16,0.20,Saved,9,Head,,Federico Dimarco,Pass (Live),,
+53,Lautaro Martínez,Inter,0.07,,Off Target,7,Head,,Federico Dimarco,Pass (Dead),Denzel Dumfries,Shot
+54,Roberto Gagliardini,Inter,0.09,,Off Target,9,Head,,Nicolò Barella,Pass (Live),Alessandro Bastoni,Pass (Live)
+61,Romelu Lukaku,Inter,0.07,,Off Target,11,Head,,Denzel Dumfries,Pass (Live),Marcelo Brozović,Pass (Live)
+65,Milan Škriniar,Inter,0.13,,Off Target,10,Head,,Federico Dimarco,Pass (Dead),Roberto Gagliardini,Fouled
+80,Hakan Çalhanoğlu,Inter,0.03,,Blocked,24,Right Foot,,Milan Škriniar,Pass (Live),Matteo Darmian,Pass (Live)
+80,Edin Džeko,Inter,0.13,,Off Target,8,Head,,Hakan Çalhanoğlu,Shot,,
+85,Marcelo Brozović,Inter,0.03,,Blocked,21,Left Foot,,Hakan Çalhanoğlu,Pass (Live),Joaquín Correa,Pass (Live)
+85,Stefan de Vrij,Inter,0.10,,Off Target,9,Head,,Hakan Çalhanoğlu,Pass (Dead),Marcelo Brozović,Shot
+88,Lautaro Martínez,Inter,0.06,,Off Target,10,Right Foot,Volley,Matteo Darmian,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+90+2,Hakan Çalhanoğlu,Inter,0.03,0.28,Saved,29,Right Foot,,Lautaro Martínez,Pass (Live),,
+90+5,Lautaro Martínez,Inter,0.04,0.07,Saved,25,Left Foot,,Lautaro Martínez,Take-On,Edin Džeko,Pass (Live)

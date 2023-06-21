@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Karim Benzema,Real Madrid,0.03,0.16,Saved,23,Left Foot,,Federico Valverde,Pass (Live),,
+14,Karim Benzema,Real Madrid,0.04,,Blocked,22,Left Foot,,Vinicius Júnior,Pass (Live),Federico Valverde,Pass (Live)
+47,Federico Valverde,Real Madrid,0.07,,Off Target,13,Right Foot,Volley,Vinicius Júnior,Pass (Live),Vinicius Júnior,Take-On
+54,Luka Modrić,Real Madrid,0.04,,Blocked,21,Right Foot,,Eduardo Camavinga,Pass (Live),Federico Valverde,Pass (Live)
+63,Rodrygo,Real Madrid,0.10,,Off Target,18,Right Foot,,Dani Carvajal,Pass (Live),,
+70,Vinicius Júnior,Real Madrid,0.04,,Off Target,19,Right Foot,,Karim Benzema,Pass (Live),Eduardo Camavinga,Pass (Live)
+78,Vinicius Júnior,Real Madrid,0.03,0.04,Saved,26,Right Foot,,Aurélien Tchouaméni,Pass (Live),Vinicius Júnior,Pass (Live)
+80,Karim Benzema,Real Madrid,0.05,0.06,Saved,22,Right Foot,,,,,
+85,Marco Asensio,Real Madrid,0.02,,Off Target,30,Left Foot,,Dani Ceballos,Pass (Live),Karim Benzema,Pass (Live)
+86,Karim Benzema,Real Madrid,0.07,,Blocked,14,Right Foot,,Rodrygo,Pass (Live),Vinicius Júnior,Pass (Live)
+86,Aurélien Tchouaméni,Real Madrid,0.06,,Blocked,15,Right Foot,,Karim Benzema,Shot,,

@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Edin Džeko,9,BIH,FW,37,62,0,0,0,0,1,0,1,0,14,0,0,1,0.1,0.1,0.0,0,0,5,8,62.5,0,12,0,0,0
+Romelu Lukaku,90,BEL,FW,29,28,1,0,1,1,0,0,0,0,10,1,0,1,0.8,0.0,0.0,0,0,3,6,50.0,0,5,1,0,0
+Lautaro Martínez,10,ARG,FW,25,62,0,0,0,0,0,0,0,0,24,1,1,1,0.0,0.0,0.0,0,0,6,15,40.0,0,14,0,2,0
+Joaquín Correa,11,ARG,FW,28,28,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.1,2,0,5,6,83.3,1,8,0,1,1
+Henrikh Mkhitaryan,22,ARM,CM,34,90,0,0,0,0,1,1,0,0,45,3,3,1,0.1,0.1,0.0,2,0,34,38,89.5,3,29,2,1,1
+Marcelo Brozović,77,CRO,CM,30,90,0,0,0,0,0,0,1,0,75,3,2,1,0.0,0.0,0.0,2,0,59,64,92.2,3,56,1,4,2
+Nicolò Barella,23,ITA,CM,26,90,1,0,0,0,3,1,0,0,55,2,0,1,0.3,0.3,0.0,2,1,33,42,78.6,5,36,2,6,3
+Federico Dimarco,32,ITA,WB,25,62,0,0,0,0,0,0,0,0,43,0,0,1,0.0,0.0,0.1,1,0,21,36,58.3,2,23,3,2,2
+Robin Gosens,8,GER,WB,28,28,0,0,0,0,0,0,0,0,18,4,1,0,0.0,0.0,0.0,1,0,11,14,78.6,1,7,1,0,0
+Denzel Dumfries,2,NED,WB,26,85,0,0,0,0,2,1,0,0,58,2,0,3,0.4,0.4,0.0,1,0,33,45,73.3,2,30,1,1,1
+Danilo D'Ambrosio,33,ITA,WB,34,5,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Alessandro Bastoni,95,ITA,CB,23,89,0,1,0,0,0,0,0,0,62,3,0,2,0.0,0.0,0.3,2,1,43,50,86.0,5,40,3,1,0
+Stefan de Vrij,6,NED,CB,31,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Francesco Acerbi,15,ITA,CB,35,90,0,0,0,0,1,0,0,0,64,0,1,0,0.0,0.0,0.0,1,1,44,56,78.6,1,44,1,0,0
+Matteo Darmian,36,ITA,CB,33,90,0,0,0,0,0,0,0,0,71,1,9,1,0.0,0.0,0.0,1,0,51,58,87.9,2,46,1,0,0
+André Onana,24,CMR,GK,27,90,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,31,35,88.6,0,26,0,0,0

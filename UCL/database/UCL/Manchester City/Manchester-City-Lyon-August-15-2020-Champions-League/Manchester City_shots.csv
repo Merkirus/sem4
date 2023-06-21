@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+31,İlkay Gündoğan,Manchester City,0.13,0.07,Saved,8,Right Foot,Volley,Aymeric Laporte,Pass (Live),,
+39,Kevin De Bruyne,Manchester City,0.05,0.04,Saved,23,Right Foot,Free kick,Raheem Sterling,Fouled,João Cancelo,Pass (Live)
+43,Rodri,Manchester City,0.07,0.07,Saved,14,Right Foot,,Raheem Sterling,Take-On,Gabriel Jesus,Pass (Live)
+45,Rodri,Manchester City,0.03,,Off Target,11,Head,,Kevin De Bruyne,Pass (Dead),İlkay Gündoğan,Pass (Live)
+45+1,Raheem Sterling,Manchester City,0.42,,Blocked,5,Right Foot,,Eric García,Pass (Live),Rodri,Pass (Live)
+60,Kevin De Bruyne,Manchester City,0.06,0.11,Saved,28,Right Foot,Free kick,Gabriel Jesus,Fouled,İlkay Gündoğan,Pass (Live)
+66,Kevin De Bruyne,Manchester City,0.07,,Off Target,23,Right Foot,Free kick,Gabriel Jesus,Fouled,Kevin De Bruyne,Pass (Live)
+68,Kevin De Bruyne,Manchester City,0.04,,Blocked,23,Left Foot,,Eric García,Pass (Live),Ederson,Pass (Live)
+69,Kevin De Bruyne,Manchester City,0.09,0.52,Goal,16,Right Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+73,Gabriel Jesus,Manchester City,0.05,0.19,Saved,15,Right Foot,,Riyad Mahrez,Pass (Live),Gabriel Jesus,Pass (Live)
+75,Gabriel Jesus,Manchester City,0.05,,Blocked,16,Right Foot,,Raheem Sterling,Pass (Live),Kevin De Bruyne,Pass (Live)
+75,Gabriel Jesus,Manchester City,0.06,,Blocked,11,Left Foot,Volley,Gabriel Jesus,Shot,,
+76,Gabriel Jesus,Manchester City,0.03,,Off Target,27,Right Foot,Volley,,,,
+77,Gabriel Jesus,Manchester City,0.55,,Off Target,5,Right Foot,Volley,Raheem Sterling,Pass (Live),Gabriel Jesus,Pass (Live)
+86,Raheem Sterling,Manchester City,0.62,,Off Target,5,Right Foot,,Gabriel Jesus,Pass (Live),Gabriel Jesus,Take-On
+90+4,Kevin De Bruyne,Manchester City,0.05,0.04,Saved,23,Right Foot,Free kick,Raheem Sterling,Fouled,David Silva,Pass (Live)
+90+4,Kyle Walker,Manchester City,0.07,,Off Target,9,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Shot
+90+5,Raheem Sterling,Manchester City,0.06,,Blocked,12,Right Foot,,David Silva,Pass (Live),David Silva,Take-On

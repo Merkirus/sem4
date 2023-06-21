@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Domenico Berardi,Sassuolo,0.02,,Blocked,28,Left Foot,,Armand Lauriente,Pass (Live),Domenico Berardi,Pass (Live)
+19,Matheus Henrique,Sassuolo,0.21,,Off Target,10,Head,,Domenico Berardi,Pass (Live),Maxime Lopez,Pass (Live)
+40,Davide Frattesi,Sassuolo,0.26,0.33,Saved,17,Right Foot,,Domenico Berardi,Pass (Live),Maxime Lopez,Pass (Live)
+44,Davide Frattesi,Sassuolo,0.10,,Off Target,17,Left Foot,,Davide Frattesi,Take-On,Domenico Berardi,Pass (Live)
+60,Andrea Pinamonti,Sassuolo,0.03,,Blocked,20,Right Foot,,Maxime Lopez,Pass (Live),Maxime Lopez,Take-On
+62,Rogério,Sassuolo,0.02,0.15,Saved,27,Left Foot,,Maxime Lopez,Pass (Live),Domenico Berardi,Pass (Live)
+63,Matheus Henrique,Sassuolo,0.54,0.75,Goal,6,Head,,Domenico Berardi,Pass (Live),Jeremy Toljan,Pass (Live)
+74,Matheus Henrique,Sassuolo,0.05,,Off Target,29,Right Foot,,Domenico Berardi,Pass (Live),Martin Erlic,Pass (Live)
+75,Davide Frattesi,Sassuolo,0.42,0.38,Saved,6,Right Foot,,Rogério,Pass (Live),Gian Marco Ferrari,Pass (Live)
+76,Andrea Pinamonti,Sassuolo,0.03,,Off Target,13,Left Foot,,Rogério,Pass (Live),Nedim Bajrami,Pass (Live)
+77,Davide Frattesi,Sassuolo,0.24,0.66,Goal,9,Head,,Rogério,Pass (Live),Nedim Bajrami,Pass (Live)
+78,Nedim Bajrami,Sassuolo,0.08,,Off Target,17,Right Foot,Volley,Domenico Berardi,Pass (Live),Rogério,Pass (Live)
+81,Domenico Berardi,Sassuolo,0.03,,Blocked,23,Left Foot,,Nedim Bajrami,Pass (Live),Domenico Berardi,Pass (Live)
+85,Rogério,Sassuolo,0.02,,Off Target,39,Left Foot,,Domenico Berardi,Pass (Dead),Domenico Berardi,Fouled
+88,Davide Frattesi,Sassuolo,0.14,,Off Target,5,Right Foot,Volley,Domenico Berardi,Pass (Dead),Maxime Lopez,Pass (Live)
+90+3,Andrea Pinamonti,Sassuolo,0.10,,Off Target,8,Left Foot,Volley,Rogério,Pass (Live),Kristian Thorstvedt,Pass (Live)

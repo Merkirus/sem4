@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+34,James Tarkowski,Everton,0.20,,Off Target,5,Head,,Dwight McNeil,Pass (Dead),James Garner,Pass (Live)
+34,Mason Holgate,Everton,0.70,,Off Target,4,Right Foot,Volley,James Tarkowski,Shot,,
+59,Yerry Mina,Everton,0.21,0.40,Saved,4,Head,,James Garner,Pass (Dead),Alex Iwobi,Pass (Live)
+59,Neal Maupay,Everton,0.36,,Blocked,5,Left Foot,Volley,Yerry Mina,Shot,,
+65,Dwight McNeil,Everton,0.05,,Blocked,23,Left Foot,,,,,
+66,James Tarkowski,Everton,0.14,0.11,Saved,8,Head,,Dwight McNeil,Pass (Dead),Dwight McNeil,Shot
+67,Yerry Mina,Everton,0.19,,Off Target,4,Head,,Dwight McNeil,Pass (Dead),James Tarkowski,Shot

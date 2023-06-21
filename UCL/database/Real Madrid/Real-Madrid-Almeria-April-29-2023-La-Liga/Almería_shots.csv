@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Largie Ramazani,Almería,0.04,,Off Target,20,Left Foot,,Samu Costa,Pass (Live),Rodrigo Ely,Pass (Live)
+26,Largie Ramazani,Almería,0.05,,Off Target,14,Head,,Francisco Portillo,Pass (Live),Samu Costa,Pass (Live)
+38,Francisco Portillo,Almería,0.02,,Off Target,26,Right Foot,,Sergio Akieme,Pass (Live),Francisco Portillo,Interception
+39,Lázaro,Almería,0.12,0.07,Saved,10,Head,,Francisco Portillo,Pass (Live),Juan Brandáriz,Pass (Live)
+45+1,Lázaro,Almería,0.83,0.95,Goal,3,Right Foot,,Largie Ramazani,Pass (Live),Sergio Akieme,Pass (Live)
+50,Samu Costa,Almería,0.07,,Blocked,22,Left Foot,Free kick,Samu Costa,Fouled,Samu Costa,Tackle
+51,Largie Ramazani,Almería,0.03,,Off Target,13,Left Foot,,Lázaro,Pass (Live),Samu Costa,Pass (Live)
+60,Lucas Robertone,Almería,0.02,,Off Target,34,Right Foot,,Juan Brandáriz,Pass (Live),Íñigo Eguaras,Pass (Live)
+61,Lucas Robertone,Almería,0.16,0.56,Goal,9,Head,,Francisco Portillo,Pass (Live),Lázaro,Pass (Live)

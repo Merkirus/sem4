@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Marco Asensio,Real Madrid,0.31,0.36,Saved,12,Right Foot,,Luka Modrić,Pass (Live),,
+19,Marco Asensio,Real Madrid,0.10,,Blocked,13,Left Foot,,Karim Benzema,Pass (Live),Vinicius Júnior,Pass (Live)
+25,Marco Asensio,Real Madrid,0.30,,Off Target,13,Right Foot,,Karim Benzema,Pass (Live),Vinicius Júnior,Pass (Live)
+28,Vinicius Júnior,Real Madrid,0.07,0.05,Saved,14,Right Foot,,Karim Benzema,Pass (Live),Toni Kroos,Pass (Live)
+31,Eduardo Camavinga,Real Madrid,0.05,,Off Target,14,Left Foot,,Marco Asensio,Pass (Live),Karim Benzema,Pass (Live)
+47,Karim Benzema,Real Madrid,0.17,,Blocked,10,Right Foot,Volley,Marco Asensio,Pass (Live),Dani Carvajal,Pass (Live)
+52,Marco Asensio,Real Madrid,0.02,0.33,Goal,24,Left Foot,,Karim Benzema,Pass (Live),Vinicius Júnior,Pass (Live)
+55,Vinicius Júnior,Real Madrid,0.31,0.39,Goal,13,Right Foot,,Karim Benzema,Pass (Live),Eduardo Camavinga,Pass (Live)
+56,Luka Modrić,Real Madrid,0.12,0.13,Saved,11,Left Foot,,Toni Kroos,Pass (Live),Vinicius Júnior,Pass (Live)
+57,Karim Benzema,Real Madrid,0.33,,Blocked,11,Left Foot,,Luka Modrić,Pass (Live),Luka Modrić,Shot
+64,Rodrygo,Real Madrid,0.02,,Off Target,27,Right Foot,,Rodrygo,Take-On,Vinicius Júnior,Pass (Live)
+74,Federico Valverde,Real Madrid,0.06,0.13,Saved,23,Left Foot,,Federico Valverde,Pass (Live),,
+84,Aurélien Tchouaméni,Real Madrid,0.05,,Blocked,13,Right Foot,,Eduardo Camavinga,Pass (Live),Vinicius Júnior,Pass (Live)
+86,Nacho,Real Madrid,0.11,,Blocked,14,Right Foot,,Nacho,Take-On,Nacho,Pass (Live)
+86,Aurélien Tchouaméni,Real Madrid,0.04,,Off Target,28,Right Foot,,Eduardo Camavinga,Pass (Live),Nacho,Shot
+87,Vinicius Júnior,Real Madrid,0.02,,Off Target,25,Right Foot,,Dani Ceballos,Pass (Live),Dani Ceballos,Pass (Live)
+90,Rodrygo,Real Madrid,0.13,0.16,Saved,20,Right Foot,Free kick,Rodrygo,Fouled,Dani Carvajal,Pass (Live)
+90+2,Marco Asensio,Real Madrid,0.07,,Blocked,22,Left Foot,,Vinicius Júnior,Pass (Live),Dani Ceballos,Pass (Live)
+90+3,Marco Asensio,Real Madrid,0.04,,Off Target,26,Left Foot,,Vinicius Júnior,Pass (Live),Rodrygo,Pass (Live)

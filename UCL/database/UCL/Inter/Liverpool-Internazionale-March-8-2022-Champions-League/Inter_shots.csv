@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Denzel Dumfries,Inter,0.05,0.12,Saved,21,Right Foot,Volley,Arturo Vidal,Pass (Live),Alexis Sánchez,Pass (Live)
+41,Hakan Çalhanoğlu,Inter,0.04,0.14,Saved,22,Right Foot,Free kick,Denzel Dumfries,Fouled,Milan Škriniar,Pass (Live)
+59,Hakan Çalhanoğlu,Inter,0.12,,Blocked,18,Left Foot,,Ivan Perišić,Pass (Live),Arturo Vidal,Pass (Live)
+59,Lautaro Martínez,Inter,0.12,,Blocked,16,Right Foot,,Marcelo Brozović,Pass (Live),Alessandro Bastoni,Pass (Live)
+61,Danilo D'Ambrosio,Inter,0.07,,Off Target,23,Left Foot,,Hakan Çalhanoğlu,Pass (Live),Alexis Sánchez,Pass (Live)
+62,Lautaro Martínez,Inter,0.07,0.52,Goal,22,Right Foot,,Alexis Sánchez,Pass (Live),Hakan Çalhanoğlu,Pass (Live)

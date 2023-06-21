@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Hakan Çalhanoğlu,Inter,0.02,0.16,Saved,29,Right Foot,,Denzel Dumfries,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+8,Edin Džeko,Inter,0.04,,Off Target,21,Right Foot,Volley,Alessandro Bastoni,Pass (Dead),,
+14,Denzel Dumfries,Inter,0.01,,Blocked,14,Head,,Hakan Çalhanoğlu,Pass (Dead),Henrikh Mkhitaryan,Pass (Live)
+20,Edin Džeko,Inter,0.02,,Off Target,10,Head,,Hakan Çalhanoğlu,Pass (Dead),Henrikh Mkhitaryan,Pass (Live)
+27,Hakan Çalhanoğlu,Inter,0.04,,Blocked,30,Right Foot,Free kick,Robin Gosens,Fouled,Henrikh Mkhitaryan,Pass (Live)
+27,Hakan Çalhanoğlu,Inter,0.02,,Off Target,29,Right Foot,,Hakan Çalhanoğlu,Shot,,
+29,Henrikh Mkhitaryan,Inter,0.13,0.60,Goal,17,Right Foot,,Nicolò Barella,Pass (Live),Nicolò Barella,Take-On
+41,Lautaro Martínez,Inter,0.07,,Off Target,16,Head,,Edin Džeko,Pass (Live),Nicolò Barella,Pass (Live)
+53,Lautaro Martínez,Inter,0.17,0.64,Goal,16,Right Foot,,Denzel Dumfries,Pass (Live),Nicolò Barella,Pass (Live)
+66,Lautaro Martínez,Inter,0.07,,Off Target,10,Head,,Hakan Çalhanoğlu,Pass (Dead),Hakan Çalhanoğlu,Pass (Live)
+66,Francesco Acerbi,Inter,0.07,,Off Target,10,Other,,Lautaro Martínez,Pass (Live),Denzel Dumfries,Pass (Live)
+67,Edin Džeko,Inter,0.04,0.04,Saved,13,Left Foot,,Lautaro Martínez,Pass (Dead),,
+72,Alessandro Bastoni,Inter,0.04,,Off Target,17,Left Foot,,Hakan Çalhanoğlu,Pass (Live),Robin Gosens,Pass (Live)
+90+3,Edin Džeko,Inter,0.07,,Blocked,19,Right Foot,,Mattia Zanotti,Pass (Live),,

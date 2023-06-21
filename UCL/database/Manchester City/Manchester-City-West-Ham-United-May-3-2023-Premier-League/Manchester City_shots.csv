@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Julián Álvarez,Manchester City,0.05,0.13,Saved,28,Right Foot,,Erling Haaland,Pass (Live),Julián Álvarez,Pass (Live)
+9,Riyad Mahrez,Manchester City,0.10,0.28,Saved,20,Left Foot,,Jack Grealish,Pass (Live),Bernardo Silva,Pass (Live)
+10,Nathan Aké,Manchester City,0.07,,Off Target,10,Other,,Riyad Mahrez,Pass (Dead),Riyad Mahrez,Shot
+24,Erling Haaland,Manchester City,0.18,,Off Target,3,Head,,Jack Grealish,Pass (Live),Julián Álvarez,Pass (Live)
+30,Jack Grealish,Manchester City,0.05,,Woodwork,15,Right Foot,,John Stones,Pass (Live),Riyad Mahrez,Pass (Live)
+32,Rodri,Manchester City,0.22,,Woodwork,17,Right Foot,,Rodri,Take-On,Erling Haaland,Pass (Live)
+35,John Stones,Manchester City,0.10,,Off Target,11,Head,,Rodri,Pass (Live),Riyad Mahrez,Pass (Dead)
+37,Rodri,Manchester City,0.06,,Blocked,12,Right Foot,"Deflected, Volley",Jack Grealish,Fouled,Nathan Aké,Tackle
+50,Nathan Aké,Manchester City,0.48,0.23,Goal,5,Head,,Riyad Mahrez,Pass (Dead),Jack Grealish,Fouled
+52,Jack Grealish,Manchester City,0.08,,Blocked,21,Right Foot,,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+54,Jack Grealish,Manchester City,0.02,,Off Target,25,Right Foot,,,,,
+69,Julián Álvarez,Manchester City,0.06,0.29,Saved,27,Right Foot,,Jack Grealish,Pass (Live),Bernardo Silva,Pass (Live)
+70,Erling Haaland,Manchester City,0.52,0.73,Goal,16,Left Foot,,Jack Grealish,Pass (Live),Bernardo Silva,Pass (Live)
+79,John Stones,Manchester City,0.15,,Off Target,16,Right Foot,,Riyad Mahrez,Pass (Live),Phil Foden,Pass (Live)
+85,Phil Foden,Manchester City,0.03,0.03,Goal,25,Left Foot,"Deflected, Volley",Erling Haaland,Pass (Live),Bernardo Silva,Pass (Live)
+90+3,Phil Foden,Manchester City,0.14,0.38,Saved,8,Left Foot,,Bernardo Silva,Pass (Live),Jack Grealish,Pass (Live)

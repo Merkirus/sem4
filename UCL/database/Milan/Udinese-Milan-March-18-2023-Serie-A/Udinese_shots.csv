@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Isaac Success,Udinese,0.03,,Off Target,27,Left Foot,,Iyenoma Udogie,Pass (Live),Roberto Pereyra,Pass (Live)
+7,Lazar Samardzic,Udinese,0.06,,Blocked,17,Right Foot,,Isaac Success,Pass (Live),Nehuén Pérez,Pass (Live)
+9,Roberto Pereyra,Udinese,0.05,0.34,Goal,15,Right Foot,,Lazar Samardzic,Interception,,
+15,Walace,Udinese,0.02,,Blocked,32,Right Foot,,Roberto Pereyra,Pass (Live),Iyenoma Udogie,Pass (Live)
+16,Isaac Success,Udinese,0.12,0.06,Saved,9,Head,,Jaka Bijol,Pass (Live),Rodrigo Becão,Pass (Live)
+18,Beto,Udinese,0.06,,Blocked,10,Left Foot,,Beto,Take-On,Roberto Pereyra,Pass (Live)
+39,Isaac Success,Udinese,0.07,0.09,Saved,13,Head,,Roberto Pereyra,Pass (Live),Isaac Success,Pass (Live)
+45+6,Beto,Udinese,0.29,0.96,Goal,6,Left Foot,Deflected,Isaac Success,Pass (Live),Isaac Success,Take-On
+59,Lazar Samardzic,Udinese,0.02,,Off Target,30,Left Foot,,Lazar Samardzic,Tackle,,
+70,Iyenoma Udogie,Udinese,0.14,,Off Target,12,Left Foot,,Isaac Success,Pass (Live),Roberto Pereyra,Pass (Live)
+70,Kingsley Ehizibue,Udinese,0.79,0.95,Goal,2,Right Foot,,Iyenoma Udogie,Shot,,
+75,Roberto Pereyra,Udinese,0.08,,Off Target,21,Right Foot,Volley,Iyenoma Udogie,Pass (Live),Iyenoma Udogie,Take-On
+90+6,Walace,Udinese,0.02,,Off Target,64,Right Foot,,,,,
+90+6,Florian Thauvin,Udinese,0.16,,Off Target,11,Head,,Festy Ebosele,Pass (Live),Festy Ebosele,Tackle

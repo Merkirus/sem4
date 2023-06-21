@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+15,Rodrygo,Real Madrid,0.18,,Off Target,6,Other,,Aurélien Tchouaméni,Pass (Live),Vinicius Júnior,Pass (Live)
+23,Federico Valverde,Real Madrid,0.02,,Blocked,29,Right Foot,,Dani Ceballos,Pass (Dead),Vinicius Júnior,Fouled
+23,Federico Valverde,Real Madrid,0.02,,Off Target,28,Right Foot,,Federico Valverde,Shot,,
+35,Marco Asensio,Real Madrid,0.03,,Blocked,33,Left Foot,Free kick,Aurélien Tchouaméni,Fouled,Antonio Rüdiger,Pass (Live)
+37,Rodrygo,Real Madrid,0.02,,Off Target,31,Right Foot,Free kick,Dani Ceballos,Pass (Live),Rodrygo,Pass (Dead)
+38,Antonio Rüdiger,Real Madrid,0.02,,Off Target,40,Right Foot,,Dani Ceballos,Pass (Live),Eduardo Camavinga,Pass (Live)
+41,Aurélien Tchouaméni,Real Madrid,0.01,,Blocked,31,Right Foot,,Vinicius Júnior,Pass (Live),Dani Ceballos,Pass (Live)
+41,Federico Valverde,Real Madrid,0.03,,Off Target,26,Right Foot,,Marco Asensio,Pass (Dead),Aurélien Tchouaméni,Shot
+52,Rodrygo,Real Madrid,0.07,,Blocked,17,Right Foot,,Dani Ceballos,Pass (Live),Eduardo Camavinga,Pass (Live)
+53,Federico Valverde,Real Madrid,0.02,,Off Target,18,Right Foot,,Eduardo Camavinga,Pass (Live),Rodrygo,Pass (Dead)
+60,Marco Asensio (pen),Real Madrid,0.79,0.99,Saved,13,Left Foot,,Vinicius Júnior,Fouled,Antonio Rüdiger,Pass (Live)
+66,Marco Asensio,Real Madrid,0.02,,Off Target,29,Left Foot,,Dani Carvajal,Pass (Live),Luka Modrić,Pass (Live)
+75,Rodrygo,Real Madrid,0.08,,Off Target,10,Head,,David Alaba,Pass (Live),Rodrygo,Pass (Live)
+85,Eduardo Camavinga,Real Madrid,0.01,,Off Target,34,Left Foot,,Dani Carvajal,Pass (Live),Rodrygo,Pass (Live)
+87,Mariano,Real Madrid,0.12,,Off Target,11,Right Foot,Volley,David Alaba,Pass (Live),Toni Kroos,Pass (Live)
+88,Luka Modrić,Real Madrid,0.06,,Blocked,18,Right Foot,,Rodrygo,Pass (Live),Luka Modrić,Pass (Live)
+88,Toni Kroos,Real Madrid,0.03,,Off Target,29,Left Foot,,David Alaba,Pass (Live),Luka Modrić,Pass (Live)
+90+4,Eduardo Camavinga,Real Madrid,0.06,,Blocked,21,Left Foot,,Luka Modrić,Pass (Live),Luka Modrić,Take-On
+90+4,Mariano,Real Madrid,0.04,,Off Target,13,Head,,Luka Modrić,Pass (Live),Toni Kroos,Pass (Dead)
+90+8,Antonio Rüdiger,Real Madrid,0.08,,Off Target,10,Head,,Toni Kroos,Pass (Live),Eduardo Camavinga,Pass (Live)

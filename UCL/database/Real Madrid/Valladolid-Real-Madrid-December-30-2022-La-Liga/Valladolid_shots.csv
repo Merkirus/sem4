@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+21,Iván Sánchez,Valladolid,0.06,,Off Target,25,Left Foot,,Iván Sánchez,Take-On,Roque Mesa,Pass (Live)
+28,Javi Sánchez,Valladolid,0.07,,Off Target,13,Right Foot,,Javi Sánchez,Take-On,Iván Fresneda,Pass (Live)
+30,Sergio León,Valladolid,0.02,0.03,Saved,16,Right Foot,,Roque Mesa,Pass (Live),Iván Fresneda,Pass (Live)
+31,Monchu,Valladolid,0.04,,Blocked,23,Right Foot,Free kick,Óscar Plano,Fouled,,
+36,Álvaro Aguado,Valladolid,0.03,0.45,Saved,25,Right Foot,,Iván Sánchez,Pass (Live),Álvaro Aguado,Pass (Live)
+36,Roque Mesa,Valladolid,0.02,,Off Target,29,Right Foot,,,,,
+37,Álvaro Aguado,Valladolid,0.04,,Off Target,25,Right Foot,,Roque Mesa,Pass (Live),Óscar Plano,Pass (Live)
+41,Sergio Escudero,Valladolid,0.07,,Blocked,16,Left Foot,,Óscar Plano,Pass (Live),Óscar Plano,Take-On
+66,Gonzalo Plata,Valladolid,0.06,,Blocked,21,Left Foot,,,,,
+67,Monchu,Valladolid,0.02,,Blocked,35,Right Foot,,,,,
+68,Sergio León,Valladolid,0.08,0.28,Saved,9,Head,,Kike Pérez,Pass (Dead),Monchu,Shot
+75,Monchu,Valladolid,0.02,0.02,Saved,24,Right Foot,Volley,Álvaro Aguado,Pass (Dead),Kike Pérez,Pass (Live)
+90+6,Kike Pérez,Valladolid,0.01,,Blocked,31,Left Foot,,Álvaro Aguado,Pass (Live),Luis Pérez,Pass (Live)
+90+7,Shon Weissman,Valladolid,0.02,,Off Target,11,Head,,Álvaro Aguado,Pass (Dead),Kike Pérez,Shot

@@ -1,0 +1,24 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Brahim Díaz,Milan,0.06,,Off Target,27,Right Foot,,Ismaël Bennacer,Pass (Live),Theo Hernández,Pass (Live)
+14,Fikayo Tomori,Milan,0.20,0.09,Saved,17,Right Foot,,Rafael Leão,Pass (Live),Rafael Leão,Take-On
+16,Junior Messias,Milan,0.02,,Blocked,26,Left Foot,,Brahim Díaz,Pass (Live),Brahim Díaz,Take-On
+16,Rade Krunić,Milan,0.05,,Woodwork,17,Right Foot,,Junior Messias,Shot,,
+16,Brahim Díaz,Milan,0.17,0.35,Saved,6,Head,,Rafael Leão,Pass (Live),Ismaël Bennacer,Pass (Live)
+18,Junior Messias,Milan,0.04,0.08,Saved,26,Left Foot,,Divock Origi,Pass (Live),Theo Hernández,Pass (Dead)
+19,Divock Origi,Milan,0.07,,Off Target,10,Head,,Rade Krunić,Pass (Dead),Junior Messias,Shot
+19,Fikayo Tomori,Milan,0.04,0.25,Saved,12,Head,,Divock Origi,Shot,,
+21,Theo Hernández,Milan,0.18,0.96,Goal,4,Left Foot,Volley,Ismaël Bennacer,Pass (Live),Junior Messias,Pass (Live)
+28,Rafael Leão,Milan,0.11,,Blocked,15,Right Foot,,Ismaël Bennacer,Tackle,,
+39,Theo Hernández,Milan,0.06,0.65,Saved,11,Left Foot,Volley,Ismaël Bennacer,Pass (Live),Rafael Leão,Pass (Live)
+45,Divock Origi,Milan,0.03,,Off Target,20,Right Foot,Volley,Rafael Leão,Take-On,Divock Origi,Pass (Live)
+45+3,Rafael Leão,Milan,0.07,,Blocked,21,Left Foot,,Rafael Leão,Pass (Live),Rade Krunić,Pass (Live)
+45+3,Rade Krunić,Milan,0.26,,Blocked,13,Right Foot,,Rafael Leão,Shot,,
+45+3,Rafael Leão,Milan,0.03,,Blocked,17,Right Foot,,Brahim Díaz,Pass (Live),Rade Krunić,Shot
+47,Junior Messias,Milan,0.04,0.04,Saved,17,Left Foot,,Sandro Tonali,Pass (Live),,
+50,Divock Origi,Milan,0.05,0.06,Saved,17,Right Foot,,Rade Krunić,Pass (Live),Rade Krunić,Tackle
+81,Theo Hernández,Milan,0.03,,Blocked,34,Left Foot,Free kick,Sandro Tonali,Pass (Dead),Rafael Leão,Fouled
+87,Theo Hernández,Milan,0.02,,Blocked,32,Left Foot,,Olivier Giroud,Pass (Live),Rafael Leão,Pass (Live)
+87,Charles De Ketelaere,Milan,0.15,,Blocked,7,Left Foot,,Theo Hernández,Shot,,
+89,Theo Hernández,Milan,0.01,,Blocked,25,Left Foot,Volley,Sandro Tonali,Pass (Dead),Fikayo Tomori,Fouled
+89,Olivier Giroud,Milan,0.30,0.98,Goal,4,Left Foot,Volley,Sandro Tonali,Pass (Live),Sandro Tonali,Take-On
+90+6,Sandro Tonali,Milan,0.26,0.27,Saved,14,Right Foot,,Ciprian Tătărușanu,Pass (Live),,

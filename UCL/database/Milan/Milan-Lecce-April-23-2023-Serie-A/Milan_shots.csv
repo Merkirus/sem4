@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Sandro Tonali,Milan,0.02,0.15,Saved,34,Right Foot,Deflected,Theo Hernández,Pass (Live),Rafael Leão,Pass (Live)
+32,Ante Rebić,Milan,0.18,0.12,Saved,12,Head,,Fikayo Tomori,Pass (Live),Theo Hernández,Pass (Live)
+40,Rafael Leão,Milan,0.13,0.49,Goal,4,Head,,Sandro Tonali,Pass (Live),Junior Messias,Pass (Live)
+52,Malick Thiaw,Milan,0.05,,Blocked,20,Right Foot,,Junior Messias,Pass (Live),Brahim Díaz,Pass (Live)
+69,Brahim Díaz,Milan,0.07,0.07,Saved,17,Left Foot,,Simon Kjær,Pass (Dead),Rade Krunić,Fouled
+73,Rafael Leão,Milan,0.23,,Off Target,8,Right Foot,,Rafael Leão,Take-On,Rafael Leão,Take-On
+75,Rafael Leão,Milan,0.10,0.56,Goal,13,Left Foot,,Rade Krunić,Pass (Live),,
+86,Theo Hernández,Milan,0.02,,Off Target,30,Left Foot,Volley,Charles De Ketelaere,Pass (Live),Ante Rebić,Pass (Live)

@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+19,Gleison Bremer,Juventus,0.30,,Off Target,3,Right Foot,Volley,Filip Kostić,Pass (Live),Fabio Miretti,Pass (Live)
+28,Juan Cuadrado,Juventus,0.03,,Blocked,15,Right Foot,,Fabio Miretti,Pass (Live),,
+29,Gleison Bremer,Juventus,0.02,,Blocked,22,Right Foot,,Danilo,Pass (Live),Juan Cuadrado,Pass (Dead)
+30,Filip Kostić,Juventus,0.02,,Off Target,33,Left Foot,,Adrien Rabiot,Pass (Live),Manuel Locatelli,Pass (Live)
+46,Adrien Rabiot,Juventus,0.03,,Off Target,15,Head,,Nicolò Fagioli,Pass (Live),Fabio Miretti,Pass (Live)
+52,Adrien Rabiot,Juventus,0.29,0.92,Goal,10,Right Foot,,Filip Kostić,Pass (Live),,
+76,Filip Kostić,Juventus,0.06,0.21,Saved,17,Left Foot,,Nicolò Fagioli,Pass (Live),Fabio Miretti,Pass (Live)
+84,Nicolò Fagioli,Juventus,0.17,0.40,Goal,13,Right Foot,Deflected,Filip Kostić,Pass (Live),Ángel Di María,Pass (Live)

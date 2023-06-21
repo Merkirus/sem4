@@ -1,0 +1,4 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+38,Ollie Watkins,Aston Villa,0.18,,Blocked,14,Left Foot,,Douglas Luiz,Pass (Live),Ashley Young,Pass (Live)
+59,Leon Bailey,Aston Villa,0.08,,Off Target,21,Left Foot,,Leon Bailey,Pass (Live),Ollie Watkins,Pass (Live)
+74,Leon Bailey,Aston Villa,0.09,0.60,Goal,16,Left Foot,,Jacob Ramsey,Pass (Live),,

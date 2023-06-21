@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Mehdi Léris,Sampdoria,0.06,,Off Target,8,Head,,Filip Đuričić,Fouled,,
+29,Gonzalo Villar,Sampdoria,0.03,,Blocked,26,Left Foot,,Gerard Yepes,Pass (Live),Bruno Amione,Pass (Live)
+56,Francesco Caputo,Sampdoria,0.21,,Off Target,7,Left Foot,,Valerio Verre,Pass (Live),Filip Đuričić,Pass (Live)
+62,Manolo Gabbiadini,Sampdoria,0.02,,Off Target,25,Left Foot,,Filip Đuričić,Pass (Live),,
+70,Filip Đuričić,Sampdoria,0.03,0.05,Saved,26,Right Foot,Volley,Bruno Amione,Pass (Live),Ronaldo Vieira,Pass (Live)
+87,Ignacio Pussetto,Sampdoria,0.12,0.22,Saved,16,Right Foot,,Daniele Montevago,Pass (Live),Ronaldo Vieira,Pass (Live)
+90+2,Alex Ferrari,Sampdoria,0.03,,Off Target,14,Head,,Valerio Verre,Pass (Dead),Valerio Verre,Pass (Live)
+90+3,Alex Ferrari,Sampdoria,0.02,,Off Target,28,Right Foot,Volley,Alex Ferrari,Shot,,
+90+5,Valerio Verre,Sampdoria,0.03,,Blocked,23,Right Foot,,Ignacio Pussetto,Pass (Live),Omar Colley,Pass (Live)

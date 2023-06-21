@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Pietro Pellegri,11,ITA,FW,21,72,0,0,0,0,2,1,1,0,27,0,0,1,0.1,0.1,0.0,0,0,9,11,81.8,0,19,0,2,0
+Yann Karamoh,7,FRA,FW,24,18,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,5,1,1,1
+Nikola Vlašić,16,CRO,AM,25,90,0,1,0,0,0,0,0,0,44,0,0,4,0.0,0.0,0.1,2,2,20,30,66.7,4,22,3,2,0
+Aleksei Miranchuk,59,RUS,AM,27,83,1,0,0,0,1,1,0,0,38,1,1,2,0.1,0.1,0.1,1,0,23,26,88.5,2,23,3,1,0
+Michel Ndary Adopo,21,FRA,CM,22,7,0,0,0,0,0,0,0,0,7,0,0,1,0.0,0.0,0.0,0,0,2,3,66.7,1,1,0,2,1
+Samuele Ricci,28,ITA,CM,21,83,0,0,0,0,0,0,0,0,32,1,0,1,0.0,0.0,0.0,1,0,23,27,85.2,0,16,1,0,0
+Karol Linetty,77,POL,AM,27,7,0,0,0,0,0,0,1,0,6,1,0,1,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,1,0
+Saša Lukić,10,SRB,CM,26,90,0,0,0,0,1,0,1,0,54,1,0,2,0.1,0.1,0.1,4,0,36,46,78.3,3,21,1,2,0
+Valentino Lazaro,19,AUT,WB,26,90,0,1,0,0,0,0,0,0,63,1,0,0,0.0,0.0,0.4,4,1,43,58,74.1,4,21,6,3,2
+Wilfried Singo,17,CIV,WB,21,90,0,0,0,0,0,0,0,0,50,1,1,0,0.0,0.0,0.0,1,0,34,40,85.0,5,23,2,1,0
+Alessandro Buongiorno,4,ITA,CB,23,72,0,0,0,0,1,0,1,0,43,1,0,0,0.2,0.2,0.0,0,0,22,33,66.7,1,20,0,1,0
+Ricardo Rodríguez,13,SUI,CB,30,18,0,0,0,0,0,0,0,0,9,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,1,4,0,0,0
+Perr Schuurs,3,NED,CB,22,75,0,0,0,0,1,1,1,0,22,2,2,1,0.1,0.1,0.0,0,0,11,13,84.6,2,9,0,0,0
+David Zima,6,CZE,CB,21,15,0,0,0,0,0,0,0,0,5,0,0,0,0.0,0.0,0.0,0,0,3,4,75.0,0,1,0,0,0
+Koffi Djidji,26,CIV,CB,29,90,1,0,0,0,1,1,0,0,23,1,2,1,0.1,0.1,0.0,0,0,13,16,81.3,2,10,0,0,0
+Vanja Milinković-Savić,32,SRB,GK,25,90,0,0,0,0,0,0,0,0,45,0,0,0,0.0,0.0,0.0,0,0,15,44,34.1,0,28,0,0,0

@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Éder Militão,Real Madrid,0.01,,Saved off Target,40,Right Foot,,Casemiro,Pass (Live),Ferland Mendy,Pass (Live)
+10,Vinicius Júnior,Real Madrid,0.27,,Woodwork,15,Right Foot,,Federico Valverde,Pass (Live),Karim Benzema,Pass (Live)
+21,Karim Benzema,Real Madrid,0.08,0.24,Goal,15,Head,,Vinicius Júnior,Pass (Live),Karim Benzema,Pass (Live)
+24,Karim Benzema,Real Madrid,0.12,0.40,Goal,8,Head,,Luka Modrić,Pass (Live),Federico Valverde,Pass (Live)
+30,Éder Militão,Real Madrid,0.07,0.09,Saved,11,Head,,Toni Kroos,Pass (Dead),,
+33,Dani Carvajal,Real Madrid,0.15,0.11,Saved,8,Left Foot,,Federico Valverde,Pass (Live),Karim Benzema,Pass (Live)
+42,Karim Benzema,Real Madrid,0.35,,Off Target,9,Left Foot,,Luka Modrić,Pass (Live),Karim Benzema,Pass (Live)
+46,Karim Benzema,Real Madrid,0.78,0.29,Goal,31,Right Foot,,,,,

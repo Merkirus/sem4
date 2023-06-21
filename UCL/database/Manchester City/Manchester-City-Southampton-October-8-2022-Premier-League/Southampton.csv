@@ -1,0 +1,16 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Adam Armstrong,9,ENG,FW,25,65,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.1,1,0,18,19,94.7,0,12,3,2,0
+Mohamed Elyounoussi,24,NOR,AM,28,25,0,0,0,0,1,0,0,0,13,0,0,0,0.0,0.0,0.0,0,0,6,9,66.7,0,6,0,1,1
+Che Adams,10,SCO,FW,26,90,0,0,0,0,0,0,0,0,23,0,0,1,0.0,0.0,0.0,0,0,13,18,72.2,1,13,1,0,0
+Joe Aribo,7,NGA,LM,26,78,0,0,0,0,0,0,0,0,28,1,0,2,0.0,0.0,0.0,0,0,16,23,69.6,5,11,1,2,1
+Sekou Mara,18,FRA,FW,20,12,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,2,0,1,0
+Ibrahima Diallo,27,FRA,"CM,DM",23,90,0,0,0,0,0,0,0,0,50,0,1,1,0.0,0.0,0.0,0,0,37,43,86.0,5,26,0,0,0
+James Ward-Prowse,8,ENG,"CM,DM,RM",27,90,0,0,0,0,0,0,0,0,45,3,2,2,0.0,0.0,0.0,1,0,30,37,81.1,4,22,0,1,1
+Stuart Armstrong,17,SCO,RM,30,65,0,0,0,0,1,0,0,0,26,1,1,1,0.1,0.1,0.0,0,0,12,14,85.7,0,14,3,3,0
+Moussa Djenepo,19,MLI,AM,24,25,0,0,0,0,0,0,0,0,18,1,1,1,0.0,0.0,0.0,0,0,8,8,100.0,1,6,0,1,0
+Romain Perraud,15,FRA,LB,25,90,0,0,0,0,3,0,0,0,50,3,0,1,0.1,0.1,0.0,3,0,32,39,82.1,4,32,3,3,0
+Mohammed Salisu,22,GHA,CB,23,90,0,0,0,0,0,0,0,0,72,5,0,2,0.0,0.0,0.0,0,0,46,55,83.6,4,43,0,0,0
+Armel Bella Kotchap,37,GER,CB,20,90,0,0,0,0,0,0,0,0,67,2,3,5,0.0,0.0,0.0,0,0,41,49,83.7,0,32,0,0,0
+Kyle Walker-Peters,2,ENG,RB,25,78,0,0,0,0,0,0,1,0,43,2,2,2,0.0,0.0,0.0,0,0,24,30,80.0,0,24,2,0,0
+Juan Larios,28,ESP,RB,18,12,0,0,0,0,0,0,0,0,11,0,1,0,0.0,0.0,0.0,0,0,7,8,87.5,0,7,0,0,0
+Gavin Bazunu,31,IRL,GK,20,90,0,0,0,0,0,0,0,0,73,1,0,0,0.0,0.0,0.0,0,0,44,69,63.8,0,53,0,0,0

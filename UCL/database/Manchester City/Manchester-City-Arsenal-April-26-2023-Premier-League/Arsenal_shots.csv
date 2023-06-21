@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+24,Gabriel Dos Santos,Arsenal,0.02,,Off Target,14,Head,,Granit Xhaka,Pass (Dead),Granit Xhaka,Fouled
+35,Thomas Partey,Arsenal,0.10,,Off Target,20,Right Foot,,Martin Ødegaard,Pass (Live),Bukayo Saka,Pass (Live)
+48,Granit Xhaka,Arsenal,0.03,0.04,Saved,21,Left Foot,,Oleksandr Zinchenko,Pass (Live),Granit Xhaka,Pass (Live)
+57,Gabriel Dos Santos,Arsenal,0.06,,Blocked,13,Left Foot,Volley,Gabriel Jesus,Fouled,Gabriel Dos Santos,Pass (Live)
+57,Oleksandr Zinchenko,Arsenal,0.05,,Blocked,23,Left Foot,Deflected,Thomas Partey,Pass (Live),Rob Holding,Pass (Live)
+57,Rob Holding,Arsenal,0.09,,Blocked,11,Right Foot,,Oleksandr Zinchenko,Shot,,
+80,Bukayo Saka,Arsenal,0.06,,Off Target,26,Left Foot,Free kick,,Fouled,,
+86,Rob Holding,Arsenal,0.07,0.12,Goal,16,Right Foot,,Jorginho,Pass (Live),Reiss Nelson,Pass (Live)

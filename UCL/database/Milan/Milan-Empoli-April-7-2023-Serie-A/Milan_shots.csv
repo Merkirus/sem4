@@ -1,0 +1,24 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+13,Ante Rebić,Milan,0.38,0.12,Saved,11,Right Foot,,Alexis Saelemaekers,Pass (Live),Davide Calabria,Pass (Live)
+13,Theo Hernández,Milan,0.14,0.03,Saved,10,Left Foot,,Theo Hernández,Take-On,Ante Rebić,Shot
+15,Alexis Saelemaekers,Milan,0.02,,Off Target,26,Left Foot,,Sandro Tonali,Pass (Live),Ismaël Bennacer,Pass (Live)
+22,Davide Calabria,Milan,0.01,,Off Target,32,Right Foot,Volley,Alexis Saelemaekers,Fouled,Malick Thiaw,Pass (Live)
+31,Divock Origi,Milan,0.01,,Off Target,30,Left Foot,,Davide Calabria,Pass (Live),Malick Thiaw,Pass (Live)
+33,Theo Hernández,Milan,0.07,,Blocked,13,Left Foot,,Davide Calabria,Pass (Live),Ante Rebić,Pass (Live)
+34,Tommaso Pobega,Milan,0.01,,Off Target,34,Left Foot,,Sandro Tonali,Pass (Live),Davide Calabria,Pass (Live)
+39,Sandro Tonali,Milan,0.06,0.13,Saved,16,Right Foot,,Fikayo Tomori,Pass (Live),,
+45,Ante Rebić,Milan,0.15,,Off Target,11,Left Foot,Volley,Fikayo Tomori,Pass (Live),Ismaël Bennacer,Pass (Live)
+48,Ante Rebić,Milan,0.06,,Off Target,13,Head,,Davide Calabria,Pass (Live),Fikayo Tomori,Pass (Live)
+49,Davide Calabria,Milan,0.09,,Off Target,20,Right Foot,,Alexis Saelemaekers,Pass (Live),Ante Rebić,Pass (Live)
+50,Tommaso Pobega,Milan,0.03,,Blocked,26,Left Foot,,Alexis Saelemaekers,Take-On,,
+52,Divock Origi,Milan,0.08,,Blocked,10,Right Foot,,Ante Rebić,Pass (Live),Theo Hernández,Pass (Live)
+55,Alexis Saelemaekers,Milan,0.03,,Blocked,26,Right Foot,,Alexis Saelemaekers,Pass (Live),Davide Calabria,Fouled
+73,Rafael Leão,Milan,0.03,,Off Target,15,Right Foot,Volley,Alessandro Florenzi,Pass (Dead),Brahim Díaz,Fouled
+76,Alessandro Florenzi,Milan,0.09,,Woodwork,11,Right Foot,Volley,Brahim Díaz,Pass (Live),Sandro Tonali,Pass (Live)
+78,Alexis Saelemaekers,Milan,0.04,,Blocked,26,Right Foot,,Rafael Leão,Pass (Live),Brahim Díaz,Pass (Live)
+83,Alexis Saelemaekers,Milan,0.10,,Blocked,15,Right Foot,,Brahim Díaz,Pass (Live),Rafael Leão,Pass (Live)
+83,Olivier Giroud,Milan,0.09,,Blocked,5,Left Foot,,Alexis Saelemaekers,Take-On,Alexis Saelemaekers,Shot
+85,Tommaso Pobega,Milan,0.07,,Off Target,11,Head,,Alessandro Florenzi,Pass (Live),Sandro Tonali,Pass (Live)
+87,Brahim Díaz,Milan,0.34,0.73,Saved,10,Right Foot,,Brahim Díaz,Take-On,Olivier Giroud,Pass (Live)
+90+5,Alessandro Florenzi,Milan,0.04,,Off Target,12,Right Foot,Volley,Theo Hernández,Pass (Live),Rafael Leão,Pass (Dead)
+90+7,Malick Thiaw,Milan,0.05,,Off Target,12,Head,,Sandro Tonali,Pass (Live),Rafael Leão,Take-On

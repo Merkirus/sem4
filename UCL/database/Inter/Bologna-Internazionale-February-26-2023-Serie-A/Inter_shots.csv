@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Romelu Lukaku,Inter,0.04,,Blocked,15,Left Foot,,Lautaro Martínez,Pass (Live),André Onana,Pass (Dead)
+17,Lautaro Martínez,Inter,0.07,,Off Target,7,Head,,Hakan Çalhanoğlu,Pass (Dead),Romelu Lukaku,Shot
+31,Henrikh Mkhitaryan,Inter,0.05,,Off Target,25,Left Foot,,Lautaro Martínez,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+39,Hakan Çalhanoğlu,Inter,0.01,0.02,Saved,35,Right Foot,,,,,
+40,Lautaro Martínez,Inter,0.12,,Off Target,13,Head,,Alessandro Bastoni,Pass (Live),Robin Gosens,Pass (Live)
+48,Hakan Çalhanoğlu,Inter,0.15,,Off Target,10,Right Foot,,Robin Gosens,Pass (Live),Robin Gosens,Take-On
+52,Matteo Darmian,Inter,0.01,,Off Target,36,Right Foot,Volley,Matteo Darmian,Pass (Live),,
+58,Romelu Lukaku,Inter,0.28,0.22,Saved,12,Left Foot,,Robin Gosens,Pass (Live),Robin Gosens,Pass (Live)
+70,Edin Džeko,Inter,0.09,0.03,Saved,15,Left Foot,Volley,Francesco Acerbi,Pass (Live),Robin Gosens,Pass (Live)
+79,Marcelo Brozović,Inter,0.06,,Blocked,18,Right Foot,,Edin Džeko,Pass (Live),Robin Gosens,Pass (Live)
+82,Lautaro Martínez,Inter,0.03,,Blocked,23,Left Foot,,Nicolò Barella,Tackle,,
+82,Robin Gosens,Inter,0.07,,Off Target,6,Head,,Hakan Çalhanoğlu,Pass (Dead),Lautaro Martínez,Shot
+90+5,Robin Gosens,Inter,0.02,0.04,Saved,29,Left Foot,,Matteo Darmian,Pass (Live),Nicolò Barella,Pass (Live)

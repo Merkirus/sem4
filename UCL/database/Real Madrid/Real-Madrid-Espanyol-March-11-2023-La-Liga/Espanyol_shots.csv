@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Martin Braithwaite,Espanyol,0.10,,Blocked,13,Left Foot,,Óscar Gil,Pass (Live),Fernando Pacheco,Pass (Dead)
+3,Leandro Cabrera,Espanyol,0.04,0.08,Saved,10,Head,,Sergi Darder,Pass (Dead),Martin Braithwaite,Shot
+8,Joselu,Espanyol,0.36,0.94,Goal,12,Left Foot,,Rubén,Pass (Live),Rubén,Take-On
+15,Vinicius Souza,Espanyol,0.22,0.07,Saved,4,Head,,Sergi Darder,Pass (Dead),Joselu,Fouled
+48,Joselu,Espanyol,0.04,,Off Target,51,Right Foot,,Joselu,Take-On,,
+54,Joselu,Espanyol,0.02,,Blocked,34,Right Foot,,Joselu,Take-On,,
+55,Leandro Cabrera,Espanyol,0.05,,Off Target,18,Right Foot,,Sergi Darder,Pass (Dead),Rubén,Pass (Live)
+62,José Gragera,Espanyol,0.03,,Off Target,27,Right Foot,,Rubén,Pass (Live),Óscar Gil,Pass (Live)
+87,Leandro Cabrera,Espanyol,0.22,,Blocked,5,Head,,Denis Suárez,Pass (Dead),Nico Ribaudo,Fouled
+89,Martin Braithwaite,Espanyol,0.08,,Off Target,11,Head,,Javi Puado,Pass (Live),Denis Suárez,Pass (Live)

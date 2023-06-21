@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Iván Alejo,Cádiz,0.04,,Blocked,25,Right Foot,,Álex Fernández,Pass (Dead),Iván Alejo,Fouled
+11,Alfonso Espino,Cádiz,0.01,,Woodwork,33,Left Foot,,Iván Alejo,Pass (Live),Iván Alejo,Shot
+45+2,Fali,Cádiz,0.01,,Off Target,40,Right Foot,,,,,
+53,Rubén Sobrino,Cádiz,0.15,0.11,Saved,9,Left Foot,,Anthony Lozano,Pass (Live),Iván Alejo,Pass (Live)
+75,Brian Ocampo,Cádiz,0.02,,Blocked,28,Right Foot,,Alfonso Espino,Pass (Live),Fali,Pass (Live)
+81,Theo Bongonda,Cádiz,0.04,0.12,Saved,17,Left Foot,,José Mari,Pass (Live),José Mari,Tackle
+81,Álvaro Negredo,Cádiz,0.13,0.40,Saved,9,Left Foot,,Theo Bongonda,Shot,,
+82,Lucas Pérez,Cádiz,0.32,0.80,Goal,11,Left Foot,,Álvaro Negredo,Shot,,
+88,Álvaro Negredo,Cádiz,0.03,0.02,Saved,22,Head,,Alfonso Espino,Pass (Live),Jeremías Ledesma,Pass (Live)
+90+3,Alfonso Espino,Cádiz,0.25,,Off Target,9,Head,,Álvaro Negredo,Pass (Live),Lucas Pérez,Pass (Live)

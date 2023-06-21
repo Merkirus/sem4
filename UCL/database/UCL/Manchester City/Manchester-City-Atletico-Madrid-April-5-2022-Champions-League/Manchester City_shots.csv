@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+8,João Cancelo,Manchester City,0.02,,Blocked,27,Right Foot,,Kevin De Bruyne,Pass (Live),Nathan Aké,Pass (Live)
+12,Kevin De Bruyne,Manchester City,0.06,,Blocked,17,Right Foot,,Raheem Sterling,Pass (Live),João Cancelo,Pass (Live)
+12,Aymeric Laporte,Manchester City,0.04,,Off Target,14,Head,,Riyad Mahrez,Pass (Dead),Kevin De Bruyne,Shot
+22,İlkay Gündoğan,Manchester City,0.03,,Off Target,26,Right Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+33,Rodri,Manchester City,0.06,,Blocked,33,Right Foot,,Nathan Aké,Pass (Live),Raheem Sterling,Pass (Live)
+43,John Stones,Manchester City,0.04,,Off Target,27,Right Foot,,İlkay Gündoğan,Pass (Live),Nathan Aké,Pass (Live)
+47,İlkay Gündoğan,Manchester City,0.05,,Blocked,16,Right Foot,,Kevin De Bruyne,Pass (Live),Nathan Aké,Pass (Live)
+55,Kevin De Bruyne,Manchester City,0.11,0.30,Saved,25,Right Foot,Free kick,Riyad Mahrez,Fouled,İlkay Gündoğan,Pass (Live)
+57,Raheem Sterling,Manchester City,0.04,,Off Target,15,Left Foot,,Kevin De Bruyne,Pass (Dead),Riyad Mahrez,Fouled
+64,Aymeric Laporte,Manchester City,0.08,,Off Target,8,Head,,Riyad Mahrez,Pass (Dead),Rodri,Pass (Live)
+68,Riyad Mahrez,Manchester City,0.05,,Off Target,13,Head,,Bernardo Silva,Pass (Live),Nathan Aké,Pass (Live)
+70,Kevin De Bruyne,Manchester City,0.23,0.87,Goal,9,Right Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+80,Kevin De Bruyne,Manchester City,0.12,,Blocked,17,Right Foot,,Bernardo Silva,Pass (Live),Phil Foden,Take-On
+86,Kevin De Bruyne,Manchester City,0.04,,Off Target,24,Right Foot,,João Cancelo,Pass (Live),João Cancelo,Interception
+87,Phil Foden,Manchester City,0.04,,Blocked,14,Left Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)

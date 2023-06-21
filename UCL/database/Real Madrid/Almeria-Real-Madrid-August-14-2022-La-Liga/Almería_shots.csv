@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Largie Ramazani,Almería,0.21,0.54,Goal,17,Right Foot,,Íñigo Eguaras,Pass (Live),Sergio Akieme,Pass (Live)
+13,Umar Sadiq,Almería,0.02,,Off Target,29,Right Foot,,,,,
+50,Samu Costa,Almería,0.02,,Off Target,34,Left Foot,,Umar Sadiq,Pass (Live),Íñigo Eguaras,Pass (Live)
+52,Umar Sadiq,Almería,0.06,0.03,Saved,14,Left Foot,,Samu Costa,Pass (Live),Largie Ramazani,Pass (Live)
+54,Largie Ramazani,Almería,0.03,0.03,Saved,20,Right Foot,,Sergio Akieme,Pass (Live),Srđan Babić,Pass (Live)
+73,José Carlos Lazo,Almería,0.02,0.02,Saved,30,Right Foot,,Samu Costa,Pass (Live),Srđan Babić,Pass (Live)
+85,José Carlos Lazo,Almería,0.04,,Blocked,19,Left Foot,,Arnau Puigmal,Pass (Live),Samu Costa,Pass (Live)
+85,Curro,Almería,0.09,0.03,Saved,16,Right Foot,,José Carlos Lazo,Shot,,
+90+2,Juan Brandáriz,Almería,0.17,,Off Target,9,Head,,Curro,Pass (Dead),José Carlos Lazo,Pass (Live)
+90+3,Rodrigo Ely,Almería,0.04,0.05,Saved,12,Head,,Curro,Pass (Dead),José Carlos Lazo,Fouled

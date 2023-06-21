@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+24,Vinicius Júnior,Real Madrid,0.07,0.26,Saved,18,Right Foot,,Rodrygo,Pass (Live),Karim Benzema,Pass (Live)
+27,Antonio Rüdiger,Real Madrid,0.06,,Off Target,21,Right Foot,,Rodrygo,Pass (Live),Vinicius Júnior,Pass (Live)
+41,Rodrygo,Real Madrid,0.11,,Blocked,6,Right Foot,,,,,
+45,Karim Benzema,Real Madrid,0.14,,Blocked,17,Right Foot,,Dani Ceballos,Pass (Live),Dani Ceballos,Take-On
+45,Dani Carvajal,Real Madrid,0.14,,Off Target,11,Head,,Toni Kroos,Pass (Live),Nacho,Pass (Live)
+68,Rodrygo,Real Madrid,0.08,,Blocked,21,Right Foot,,Toni Kroos,Pass (Live),Éder Militão,Pass (Live)
+72,Karim Benzema (pen),Real Madrid,0.79,0.93,Goal,13,Right Foot,,Éder Militão,Fouled,Rodrygo,Fouled
+89,Rodrygo,Real Madrid,0.35,,Off Target,8,Right Foot,,Vinicius Júnior,Pass (Live),Vinicius Júnior,Take-On
+90+5,Toni Kroos,Real Madrid,0.02,,Off Target,28,Right Foot,,Rodrygo,Pass (Dead),Toni Kroos,Pass (Live)

@@ -1,0 +1,14 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Arkadiusz Milik,14,POL,FW,28,72,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,0,0
+Federico Chiesa,7,ITA,FW,25,18,0,0,0,0,0,0,0,0,10,0,0,0,0.0,0.0,0.0,0,0,8,9,88.9,0,3,0,1,0
+Fabio Miretti,20,ITA,FW,19,80,0,0,0,0,0,0,0,0,41,0,0,1,0.0,0.0,0.0,4,0,26,33,78.8,3,21,1,2,2
+Ángel Di María,22,ARG,FW,34,10,0,0,0,0,0,0,0,0,17,1,0,0,0.0,0.0,0.0,1,1,13,15,86.7,1,10,1,0,0
+Adrien Rabiot,25,FRA,DM,27,90,1,0,0,0,2,1,0,0,59,6,1,0,0.3,0.3,0.0,1,0,33,44,75.0,1,27,2,2,0
+Manuel Locatelli,5,ITA,DM,24,90,0,0,0,0,0,0,0,0,65,1,2,0,0.0,0.0,0.0,1,0,47,57,82.5,2,29,1,1,0
+Nicolò Fagioli,44,ITA,DM,21,90,1,0,0,0,1,1,0,0,39,1,2,1,0.2,0.2,0.1,2,0,27,29,93.1,3,23,0,1,0
+Filip Kostić,17,SRB,WB,30,90,0,2,0,0,2,1,0,0,50,0,0,1,0.1,0.1,0.8,3,2,31,41,75.6,3,25,6,1,1
+Juan Cuadrado,11,COL,WB,34,90,0,0,0,0,1,0,0,0,59,1,0,0,0.0,0.0,0.0,1,0,46,53,86.8,2,39,2,1,0
+Alex Sandro,12,BRA,CB,31,90,0,0,0,0,0,0,0,0,77,0,0,3,0.0,0.0,0.0,0,0,58,67,86.6,5,43,4,1,0
+Gleison Bremer,3,BRA,CB,25,90,0,0,0,0,2,0,0,0,69,2,3,1,0.3,0.3,0.0,0,0,43,52,82.7,0,26,0,0,0
+Danilo,6,BRA,CB,31,90,0,0,0,0,0,0,1,0,72,0,2,1,0.0,0.0,0.0,1,0,54,59,91.5,3,38,0,0,0
+Wojciech Szczęsny,1,POL,GK,32,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,19,34,55.9,0,22,0,0,0

@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+43,Federico Valverde,Real Madrid,0.10,,Blocked,12,Left Foot,,David Alaba,Pass (Live),Ferland Mendy,Pass (Live)
+59,Federico Valverde,Real Madrid,0.06,,Off Target,18,Right Foot,,Casemiro,Pass (Live),Dani Carvajal,Pass (Live)
+59,Vinicius Júnior,Real Madrid,0.70,0.41,Goal,5,Right Foot,,Federico Valverde,Shot,,
+90+2,Eduardo Camavinga,Real Madrid,0.06,,Off Target,22,Left Foot,,Karim Benzema,Pass (Live),Dani Ceballos,Pass (Live)

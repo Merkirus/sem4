@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+13,Florentino Luís,Benfica,0.02,,Off Target,25,Right Foot,,Morato,Pass (Live),Chiquinho,Take-On
+16,Rafa Silva,Benfica,0.11,0.12,Saved,12,Right Foot,,Rafa Silva,Pass (Live),Fredrik Aursnes,Pass (Live)
+19,João Mário,Benfica,0.03,,Off Target,17,Right Foot,Volley,Gonçalo Ramos,Pass (Live),Chiquinho,Pass (Live)
+33,Álex Grimaldo,Benfica,0.03,,Off Target,25,Left Foot,,Fredrik Aursnes,Pass (Live),Florentino Luís,Pass (Live)
+56,Álex Grimaldo,Benfica,0.46,,Off Target,9,Left Foot,,João Mário,Pass (Live),Rafa Silva,Pass (Live)
+56,Rafa Silva,Benfica,0.35,,Blocked,5,Right Foot,,Álex Grimaldo,Shot,,
+58,Fredrik Aursnes,Benfica,0.04,,Blocked,18,Right Foot,,Fredrik Aursnes,Pass (Live),Álex Grimaldo,Pass (Live)
+59,Chiquinho,Benfica,0.09,,Off Target,8,Right Foot,Volley,Fredrik Aursnes,Pass (Live),Gonçalo Ramos,Pass (Live)
+73,Álex Grimaldo,Benfica,0.04,,Blocked,17,Left Foot,,Gonçalo Ramos,Pass (Live),António Silva,Pass (Live)
+85,Álex Grimaldo,Benfica,0.18,,Off Target,10,Left Foot,,David Neres,Pass (Live),Gilberto,Pass (Live)
+89,Gonçalo Ramos,Benfica,0.06,,Blocked,19,Right Foot,,David Neres,Pass (Live),João Mário,Pass (Live)
+90+4,Gonçalo Ramos,Benfica,0.38,0.79,Saved,10,Left Foot,,David Neres,Pass (Live),Fredrik Aursnes,Pass (Live)

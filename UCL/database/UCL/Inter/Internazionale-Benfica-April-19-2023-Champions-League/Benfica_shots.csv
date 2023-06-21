@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+31,Álex Grimaldo,Benfica,0.06,0.23,Saved,30,Left Foot,Free kick,João Mário,Fouled,Álex Grimaldo,Pass (Live)
+34,Chiquinho,Benfica,0.03,0.03,Saved,13,Head,,Álex Grimaldo,Pass (Dead),Rafa Silva,Pass (Live)
+38,Fredrik Aursnes,Benfica,0.09,0.18,Goal,10,Head,,Rafa Silva,Pass (Live),Florentino Luís,Pass (Live)
+39,Nicolás Otamendi,Benfica,0.02,,Blocked,36,Right Foot,,Florentino Luís,Pass (Live),Rafa Silva,Pass (Live)
+53,Nicolás Otamendi,Benfica,0.03,,Blocked,12,Head,,Álex Grimaldo,Pass (Dead),João Mário,Take-On
+53,Fredrik Aursnes,Benfica,0.02,,Off Target,15,Right Foot,,Nicolás Otamendi,Shot,,
+64,Gonçalo Ramos,Benfica,0.07,,Off Target,19,Right Foot,,David Neres,Pass (Live),Florentino Luís,Pass (Live)
+74,Rafa Silva,Benfica,0.03,,Blocked,26,Right Foot,,Álex Grimaldo,Pass (Live),João Mário,Pass (Live)
+83,David Neres,Benfica,0.13,,Woodwork,17,Left Foot,,,,,
+86,António Silva,Benfica,0.08,0.41,Goal,10,Head,,Álex Grimaldo,Pass (Dead),David Neres,Fouled
+89,João Mário,Benfica,0.02,,Off Target,28,Right Foot,,Gonçalo Guedes,Pass (Live),Fredrik Aursnes,Pass (Live)
+90+5,Petar Musa,Benfica,0.11,0.06,Goal,10,Left Foot,,Álex Grimaldo,Take-On,Andreas Schjelderup,Pass (Live)

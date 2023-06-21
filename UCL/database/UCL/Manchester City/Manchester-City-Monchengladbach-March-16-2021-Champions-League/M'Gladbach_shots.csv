@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+8,Breel Embolo,M'Gladbach,0.03,0.39,Saved,27,Right Foot,Deflected,Lars Stindl,Pass (Live),Denis Zakaria,Pass (Live)
+16,Lars Stindl,M'Gladbach,0.05,0.17,Saved,22,Right Foot,,Breel Embolo,Pass (Live),Jonas Hofmann,Pass (Live)
+32,Marcus Thuram,M'Gladbach,0.04,0.10,Saved,18,Right Foot,,Lars Stindl,Pass (Live),Jonas Hofmann,Pass (Live)
+41,Breel Embolo,M'Gladbach,0.08,,Off Target,11,Left Foot,,Marcus Thuram,Pass (Live),Lars Stindl,Pass (Live)
+77,Hannes Wolf,M'Gladbach,0.04,,Off Target,25,Left Foot,,Lars Stindl,Pass (Live),Florian Neuhaus,Pass (Live)
+84,Ibrahima Traoré,M'Gladbach,0.06,,Off Target,15,Left Foot,,Alassane Pléa,Pass (Live),Denis Zakaria,Pass (Live)

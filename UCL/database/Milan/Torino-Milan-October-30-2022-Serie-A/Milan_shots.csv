@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Rafael Leão,Milan,0.11,,Off Target,11,Left Foot,Volley,Brahim Díaz,Pass (Live),Divock Origi,Pass (Live)
+6,Rafael Leão,Milan,0.39,,Off Target,14,Right Foot,,Brahim Díaz,Pass (Live),Junior Messias,Pass (Live)
+33,Rafael Leão,Milan,0.04,,Off Target,26,Left Foot,,Rafael Leão,Take-On,Brahim Díaz,Pass (Live)
+36,Rafael Leão,Milan,0.03,,Off Target,30,Left Foot,,Junior Messias,Pass (Live),Rafael Leão,Pass (Live)
+45+1,Tommaso Pobega,Milan,0.01,,Blocked,31,Left Foot,Volley,Divock Origi,Pass (Live),Pierre Kalulu,Pass (Live)
+46,Divock Origi,Milan,0.09,,Blocked,5,Right Foot,,Sergiño Dest,Pass (Live),Charles De Ketelaere,Pass (Live)
+53,Sergiño Dest,Milan,0.02,,Off Target,30,Right Foot,,Sandro Tonali,Pass (Live),Sergiño Dest,Pass (Live)
+67,Junior Messias,Milan,0.13,0.67,Goal,20,Left Foot,,Sergiño Dest,Pass (Live),Ciprian Tătărușanu,Pass (Live)
+78,Ismaël Bennacer,Milan,0.04,,Off Target,31,Left Foot,,,,,
+85,Charles De Ketelaere,Milan,0.03,,Off Target,14,Head,,Ante Rebić,Pass (Live),Matteo Gabbia,Pass (Live)
+90+1,Ante Rebić,Milan,0.06,,Blocked,30,Right Foot,Free kick,,Fouled,Olivier Giroud,Pass (Live)
+90+2,Olivier Giroud,Milan,0.11,,Off Target,9,Head,,Ismaël Bennacer,Pass (Dead),Ante Rebić,Shot

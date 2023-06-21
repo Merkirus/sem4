@@ -1,0 +1,22 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Marco Asensio,Real Madrid,0.05,,Blocked,16,Left Foot,Volley,Vinicius Júnior,Pass (Live),Vinicius Júnior,Take-On
+7,Marco Asensio,Real Madrid,0.03,,Blocked,28,Right Foot,,David Alaba,Pass (Live),David Alaba,Tackle
+12,Dani Carvajal,Real Madrid,0.03,,Off Target,28,Right Foot,,Toni Kroos,Pass (Live),,
+25,Karim Benzema,Real Madrid,0.03,0.69,Saved,25,Right Foot,,Toni Kroos,Pass (Live),,
+35,Karim Benzema,Real Madrid,0.11,0.10,Saved,12,Head,,Federico Valverde,Pass (Live),Dani Carvajal,Pass (Live)
+37,Federico Valverde,Real Madrid,0.06,,Off Target,24,Right Foot,,Vinicius Júnior,Pass (Live),Luka Modrić,Pass (Live)
+37,Karim Benzema,Real Madrid,0.05,,Off Target,13,Head,,Toni Kroos,Pass (Live),Dani Carvajal,Pass (Live)
+42,Luka Modrić,Real Madrid,0.04,0.05,Saved,29,Right Foot,,Toni Kroos,Pass (Live),Dani Carvajal,Pass (Live)
+52,Federico Valverde,Real Madrid,0.00,,Blocked,34,Right Foot,Volley,Toni Kroos,Pass (Dead),Luka Modrić,Pass (Live)
+55,Vinicius Júnior,Real Madrid,0.04,0.02,Saved,18,Right Foot,Deflected,,,,
+61,Karim Benzema,Real Madrid,0.30,0.80,Goal,9,Right Foot,,Vinicius Júnior,Pass (Live),,
+64,Karim Benzema,Real Madrid,0.07,,Off Target,12,Head,,Rodrygo,Pass (Live),Eduardo Camavinga,Pass (Live)
+66,Dani Carvajal,Real Madrid,0.02,,Off Target,32,Right Foot,,Vinicius Júnior,Pass (Live),Eduardo Camavinga,Pass (Live)
+67,Rodrygo,Real Madrid,0.04,,Off Target,16,Right Foot,,Lucas Vázquez,Pass (Live),Rodrygo,Pass (Live)
+73,Vinicius Júnior,Real Madrid,0.27,,Off Target,8,Left Foot,,Federico Valverde,Pass (Live),Vinicius Júnior,Pass (Live)
+76,Karim Benzema,Real Madrid,0.29,0.27,Goal,10,Right Foot,Deflected,Luka Modrić,Pass (Live),Vinicius Júnior,Pass (Live)
+78,Karim Benzema,Real Madrid,0.14,0.49,Goal,16,Right Foot,,,,,
+84,Vinicius Júnior,Real Madrid,0.08,,Blocked,14,Right Foot,,,,,
+86,Rodrygo,Real Madrid,0.17,,Blocked,22,Right Foot,Free kick,Rodrygo,Fouled,Vinicius Júnior,Pass (Live)
+86,Rodrygo,Real Madrid,0.05,,Off Target,21,Right Foot,Volley,Rodrygo,Shot,,
+89,Luka Modrić,Real Madrid,0.05,,Off Target,25,Left Foot,,Lucas Vázquez,Take-On,Karim Benzema,Pass (Live)

@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Raphaël Varane,Real Madrid,0.06,,Off Target,26,Left Foot,,Raphaël Varane,Take-On,Vinicius Júnior,Pass (Live)
+30,Karim Benzema,Real Madrid,0.27,0.33,Saved,8,Head,,Ferland Mendy,Pass (Live),Casemiro,Pass (Live)
+31,Casemiro,Real Madrid,0.03,,Off Target,27,Left Foot,,Karim Benzema,Pass (Live),Federico Valverde,Pass (Live)
+57,Isco,Real Madrid,0.06,0.13,Saved,8,Head,,Luka Modrić,Pass (Live),Ferland Mendy,Pass (Live)
+60,Isco,Real Madrid,0.46,0.96,Goal,11,Right Foot,,Vinicius Júnior,Pass (Live),,
+71,Sergio Ramos,Real Madrid,0.12,,Blocked,11,Right Foot,Volley,Isco,Pass (Live),Ferland Mendy,Pass (Live)
+76,Gareth Bale,Real Madrid,0.04,,Blocked,17,Left Foot,,Ferland Mendy,Pass (Live),Luka Modrić,Pass (Live)
+81,Gareth Bale,Real Madrid,0.06,,Off Target,11,Head,,Ferland Mendy,Pass (Live),Casemiro,Pass (Live)
+90+2,Ferland Mendy,Real Madrid,0.07,,Off Target,11,Left Foot,,Lucas Vázquez,Pass (Live),Casemiro,Pass (Live)

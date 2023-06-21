@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Nicolò Barella,Inter,0.09,0.50,Goal,14,Left Foot,,Lautaro Martínez,Pass (Live),,
+25,Alessandro Bastoni,Inter,0.07,,Blocked,5,Head,,Federico Dimarco,Pass (Dead),Henrikh Mkhitaryan,Pass (Live)
+26,Edin Džeko,Inter,0.05,,Off Target,14,Head,,Nicolò Barella,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+31,Henrikh Mkhitaryan,Inter,0.04,,Off Target,22,Left Foot,,André Onana,Pass (Live),,
+47,Lautaro Martínez,Inter,0.08,,Off Target,28,Right Foot,,Henrikh Mkhitaryan,Pass (Live),,
+59,Federico Dimarco,Inter,0.02,,Blocked,23,Left Foot,,Lautaro Martínez,Pass (Live),Edin Džeko,Pass (Live)
+61,Edin Džeko,Inter,0.04,,Off Target,14,Head,,Alessandro Bastoni,Pass (Live),Marcelo Brozović,Pass (Live)
+63,Edin Džeko,Inter,0.03,,Blocked,24,Left Foot,,Edin Džeko,Take-On,Edin Džeko,Pass (Live)
+65,Lautaro Martínez,Inter,0.62,0.84,Goal,5,Right Foot,Volley,Federico Dimarco,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+72,Federico Dimarco,Inter,0.10,,Blocked,21,Right Foot,,Denzel Dumfries,Pass (Live),Denzel Dumfries,Interception
+78,Joaquín Correa,Inter,0.06,0.33,Goal,17,Right Foot,,Joaquín Correa,Take-On,Federico Dimarco,Pass (Live)

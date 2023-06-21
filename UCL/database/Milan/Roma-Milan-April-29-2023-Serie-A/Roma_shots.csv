@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Lorenzo Pellegrini,Roma,0.10,,Off Target,22,Right Foot,,Andrea Belotti,Pass (Live),Tammy Abraham,Pass (Live)
+16,Gianluca Mancini,Roma,0.04,,Off Target,10,Head,,Lorenzo Pellegrini,Pass (Dead),Andrea Belotti,Fouled
+33,Andrea Belotti,Roma,0.04,,Blocked,14,Right Foot,,Nemanja Matić,Pass (Live),Leonardo Spinazzola,Pass (Live)
+33,Lorenzo Pellegrini,Roma,0.29,,Blocked,6,Left Foot,,Leonardo Spinazzola,Pass (Live),Andrea Belotti,Pass (Live)
+33,Andrea Belotti,Roma,0.06,,Off Target,12,Right Foot,,Lorenzo Pellegrini,Shot,,
+45+2,Lorenzo Pellegrini,Roma,0.08,,Blocked,21,Right Foot,"Deflected, Volley",Leonardo Spinazzola,Pass (Live),Lorenzo Pellegrini,Pass (Live)
+61,Tammy Abraham,Roma,0.02,,Blocked,22,Right Foot,,Lorenzo Pellegrini,Pass (Live),Stephan El Shaarawy,Pass (Live)
+65,Lorenzo Pellegrini,Roma,0.06,,Blocked,15,Right Foot,,Edoardo Bove,Pass (Live),Stephan El Shaarawy,Pass (Live)
+71,Leonardo Spinazzola,Roma,0.09,,Blocked,18,Right Foot,,Leonardo Spinazzola,Take-On,,
+90+1,Mohamed Camara,Roma,0.11,,Off Target,19,Left Foot,,Zeki Çelik,Pass (Live),Stephan El Shaarawy,Pass (Live)
+90+4,Tammy Abraham,Roma,0.15,0.48,Goal,15,Right Foot,,Zeki Çelik,Pass (Live),Zeki Çelik,Interception

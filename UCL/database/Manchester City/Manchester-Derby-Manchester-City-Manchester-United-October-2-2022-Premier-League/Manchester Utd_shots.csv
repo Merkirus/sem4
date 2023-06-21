@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+15,Christian Eriksen,Manchester Utd,0.06,0.33,Saved,16,Left Foot,,Jadon Sancho,Pass (Live),Bruno Fernandes,Pass (Live)
+39,Bruno Fernandes,Manchester Utd,0.02,0.02,Saved,31,Right Foot,,Bruno Fernandes,Take-On,Jadon Sancho,Pass (Live)
+43,Antony,Manchester Utd,0.03,,Blocked,22,Left Foot,,Christian Eriksen,Pass (Live),Marcus Rashford,Pass (Live)
+56,Antony,Manchester Utd,0.03,0.45,Goal,26,Left Foot,,Christian Eriksen,Pass (Live),Luke Shaw,Pass (Live)
+67,Bruno Fernandes,Manchester Utd,0.02,,Blocked,25,Right Foot,,Antony,Pass (Live),Diogo Dalot,Pass (Live)
+71,Antony,Manchester Utd,0.03,,Off Target,32,Left Foot,,Fred,Pass (Live),Christian Eriksen,Pass (Live)
+84,Fred,Manchester Utd,0.10,0.02,Saved,12,Left Foot,,Luke Shaw,Pass (Live),Christian Eriksen,Pass (Live)
+84,Anthony Martial,Manchester Utd,0.48,0.96,Goal,5,Head,,Fred,Shot,,
+86,Antony,Manchester Utd,0.09,0.10,Saved,14,Right Foot,,Diogo Dalot,Pass (Live),Casemiro,Pass (Live)
+89,Casemiro,Manchester Utd,0.02,0.02,Saved,35,Right Foot,,Fred,Pass (Live),Luke Shaw,Pass (Live)
+89,Antony,Manchester Utd,0.05,,Blocked,14,Left Foot,,Casemiro,Shot,,
+90+1,Anthony Martial (pen),Manchester Utd,0.79,1.00,Goal,13,Right Foot,,Anthony Martial,Fouled,,

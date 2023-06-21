@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Marko Arnautović,9,AUT,FW,33,59,0,0,0,0,2,2,1,0,16,0,0,0,0.2,0.2,0.1,1,0,11,12,91.7,1,7,0,1,0
+Joshua Zirkzee,11,NED,FW,21,31,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,2,0,10,10,100.0,0,4,0,0,0
+Musa Barrow,99,GAM,LW,23,73,0,0,0,0,2,0,0,0,23,0,0,1,0.2,0.2,0.0,2,0,10,14,71.4,0,9,3,2,1
+Emanuel Vignato,55,ITA,LW,22,17,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,2,0,0,0
+Riccardo Orsolini,7,ITA,RW,25,90,0,1,0,0,2,1,1,0,36,0,2,0,0.0,0.0,0.1,3,1,17,27,63.0,3,23,3,3,3
+Lewis Ferguson,19,SCO,AM,23,59,0,0,0,0,1,0,0,0,23,1,1,0,0.0,0.0,0.2,2,0,13,18,72.2,2,7,0,0,0
+Roberto Soriano,21,ITA,AM,31,31,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,14,15,93.3,1,9,1,0,0
+Jerdy Schouten,30,NED,DM,25,90,0,0,0,0,0,0,0,0,43,1,1,0,0.0,0.0,0.0,0,0,34,40,85.0,0,26,0,0,0
+Gary Medel,17,CHI,DM,35,45,0,0,0,0,0,0,1,0,32,0,1,0,0.0,0.0,0.0,1,0,24,29,82.8,1,8,0,0,0
+Nikola Moro,6,CRO,DM,24,45,0,0,0,0,0,0,0,0,19,0,0,0,0.0,0.0,0.0,1,0,16,18,88.9,3,13,0,0,0
+Charalambos Lykogiannis,22,GRE,LB,29,90,1,0,0,0,3,1,0,0,60,2,0,1,0.2,0.2,0.0,2,0,32,50,64.0,5,22,4,0,0
+Jhon Lucumí,26,COL,CB,24,45,0,0,0,0,0,0,1,0,26,0,1,1,0.0,0.0,0.0,1,0,17,21,81.0,0,7,0,0,0
+Joaquin Sosa,4,URU,CB,20,45,0,0,0,0,0,0,1,0,28,0,0,0,0.0,0.0,0.0,0,0,24,27,88.9,0,18,1,0,0
+Adama Soumaoro,5,FRA,CB,30,90,0,0,0,0,0,0,0,0,51,1,2,1,0.0,0.0,0.0,0,0,42,45,93.3,1,27,0,0,0
+Stefan Posch,3,AUT,RB,25,90,0,0,0,0,0,0,0,0,69,0,3,0,0.0,0.0,0.0,1,0,48,68,70.6,3,25,1,0,0
+Łukasz Skorupski,28,POL,GK,31,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,27,37,73.0,0,17,0,0,0

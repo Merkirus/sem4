@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Nikola Vlašić,Torino,0.07,0.15,Saved,16,Right Foot,,Nikola Vlašić,Take-On,Karol Linetty,Pass (Live)
+46,Mërgim Vojvoda,Torino,0.05,,Blocked,15,Right Foot,,Nikola Vlašić,Pass (Live),Demba Seck,Pass (Live)
+47,Antonio Sanabria,Torino,0.09,0.10,Saved,12,Head,,Nikola Vlašić,Pass (Live),Karol Linetty,Pass (Live)
+48,Nikola Vlašić,Torino,0.02,,Blocked,31,Right Foot,,Demba Seck,Pass (Live),,
+57,Ricardo Rodríguez,Torino,0.13,0.19,Saved,25,Left Foot,Free kick,Karol Linetty,Fouled,Nikola Vlašić,Pass (Live)
+61,Karol Linetty,Torino,0.05,0.10,Saved,14,Left Foot,Volley,Nikola Vlašić,Pass (Live),Antonio Sanabria,Pass (Live)
+66,Nikola Vlašić,Torino,0.08,0.21,Saved,17,Left Foot,,Antonio Sanabria,Pass (Live),Vanja Milinković-Savić,Pass (Live)
+69,Nikola Vlašić,Torino,0.10,0.62,Saved,17,Left Foot,,Alessandro Buongiorno,Pass (Live),Alessandro Buongiorno,Interception
+83,Nemanja Radonjić,Torino,0.09,0.19,Saved,21,Right Foot,,Emirhan İlkhan,Pass (Live),Nikola Vlašić,Pass (Live)

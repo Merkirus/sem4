@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Cyriel Dessers,Cremonese,0.23,0.10,Saved,8,Right Foot,,Emanuel Aiwum,Pass (Live),Gonzalo Escalante,Pass (Live)
+21,Charles Pickel,Cremonese,0.08,0.04,Saved,12,Left Foot,Volley,Cyriel Dessers,Pass (Live),Paolo Ghiglione,Pass (Dead)
+46,Cyriel Dessers,Cremonese,0.07,0.12,Saved,14,Left Foot,Deflected,Gonzalo Escalante,Pass (Live),Giacomo Quagliata,Pass (Live)
+48,Emanuel Aiwum,Cremonese,0.14,,Off Target,9,Head,,Luca Zanimacchia,Pass (Dead),Luca Zanimacchia,Pass (Live)
+59,Luca Zanimacchia,Cremonese,0.06,,Off Target,27,Left Foot,,,,,
+64,Cyriel Dessers,Cremonese,0.19,,Off Target,8,Right Foot,Volley,David Okereke,Pass (Live),Ionuț Radu,Pass (Dead)
+68,Luca Zanimacchia,Cremonese,0.15,,Blocked,14,Left Foot,,Charles Pickel,Pass (Live),Gonzalo Escalante,Pass (Live)
+68,Luca Zanimacchia,Cremonese,0.07,,Blocked,14,Left Foot,,Luca Zanimacchia,Shot,,
+83,Samuel Di Carmine,Cremonese,0.09,,Blocked,11,Right Foot,,Emanuele Valeri,Pass (Live),,
+90,David Okereke,Cremonese,0.05,0.53,Goal,27,Right Foot,,Paolo Ghiglione,Pass (Live),Michele Castagnetti,Pass (Live)
+90+2,David Okereke,Cremonese,0.04,,Off Target,28,Right Foot,,Charles Pickel,Pass (Live),,

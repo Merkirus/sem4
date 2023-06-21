@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Aurélien Tchouaméni,Real Madrid,0.14,,Off Target,9,Head,,Marco Asensio,Pass (Dead),Dani Ceballos,Pass (Live)
+21,Karim Benzema,Real Madrid,0.04,,Off Target,28,Right Foot,,Dani Ceballos,Pass (Live),Vinicius Júnior,Pass (Live)
+22,Marco Asensio,Real Madrid,0.02,,Blocked,27,Left Foot,,Nacho,Pass (Live),Marco Asensio,Pass (Live)
+25,Dani Ceballos,Real Madrid,0.05,,Off Target,24,Right Foot,,,,,
+26,Marco Asensio,Real Madrid,0.04,,Blocked,23,Left Foot,,Vinicius Júnior,Pass (Live),,
+26,Nacho,Real Madrid,0.03,,Off Target,23,Left Foot,,Marco Asensio,Pass (Live),Nacho,Pass (Live)
+28,Karim Benzema,Real Madrid,0.19,,Off Target,8,Head,,Marco Asensio,Pass (Dead),Vinicius Júnior,Fouled
+32,Karim Benzema,Real Madrid,0.18,,Blocked,21,Right Foot,Free kick,Vinicius Júnior,Fouled,Karim Benzema,Pass (Live)
+33,Antonio Rüdiger,Real Madrid,0.14,,Off Target,7,Head,,Nacho,Pass (Live),Dani Ceballos,Pass (Live)
+36,Aurélien Tchouaméni,Real Madrid,0.04,,Off Target,11,Head,,Marco Asensio,Pass (Dead),Éder Militão,Pass (Live)
+42,Marco Asensio,Real Madrid,0.09,0.43,Goal,15,Left Foot,Deflected,Vinicius Júnior,Pass (Live),Dani Ceballos,Pass (Live)
+48,Éder Militão,Real Madrid,0.13,0.23,Goal,8,Head,,Marco Asensio,Pass (Dead),Marco Asensio,Pass (Live)
+51,Marco Asensio,Real Madrid,0.11,0.06,Saved,18,Left Foot,,Karim Benzema,Pass (Live),Vinicius Júnior,Pass (Live)
+61,Karim Benzema,Real Madrid,0.14,0.61,Saved,7,Head,Deflected,Vinicius Júnior,Pass (Live),Vinicius Júnior,Take-On
+66,Vinicius Júnior,Real Madrid,0.02,0.02,Saved,15,Right Foot,,Vinicius Júnior,Take-On,Vinicius Júnior,Take-On
+76,Karim Benzema,Real Madrid,0.07,,Off Target,10,Head,,Marco Asensio,Pass (Dead),Marco Asensio,Pass (Live)
+89,Lucas Vázquez,Real Madrid,0.03,,Off Target,27,Right Foot,,Karim Benzema,Pass (Live),Rodrygo,Pass (Live)

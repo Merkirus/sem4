@@ -1,0 +1,22 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Mateus Uribe,Porto,0.02,0.48,Saved,29,Right Foot,,Galeno,Pass (Live),Zaidu Sanusi,Pass (Live)
+19,Stephen Eustáquio,Porto,0.05,0.24,Saved,22,Right Foot,,Zaidu Sanusi,Pass (Live),,
+28,Mehdi Taremi,Porto,0.05,,Off Target,17,Right Foot,,Marko Grujić,Pass (Live),Stephen Eustáquio,Pass (Live)
+38,Marko Grujić,Porto,0.02,,Blocked,13,Head,,Stephen Eustáquio,Pass (Dead),Pepê,Fouled
+40,Evanilson,Porto,0.06,,Blocked,12,Right Foot,,Marko Grujić,Pass (Live),Stephen Eustáquio,Pass (Live)
+45+1,Mehdi Taremi,Porto,0.04,,Blocked,14,Left Foot,,Evanilson,Pass (Live),Mehdi Taremi,Pass (Live)
+48,Mateus Uribe,Porto,0.01,,Off Target,31,Right Foot,Volley,Mateus Uribe,Pass (Live),Evanilson,Fouled
+49,Galeno,Porto,0.07,,Blocked,26,Right Foot,Free kick,Stephen Eustáquio,Fouled,Marko Grujić,Pass (Live)
+49,Stephen Eustáquio,Porto,0.05,,Blocked,14,Left Foot,,Galeno,Shot,,
+55,Galeno,Porto,0.38,0.65,Saved,16,Right Foot,,Pepê,Pass (Live),Iván Marcano,Pass (Live)
+67,Marko Grujić,Porto,0.02,,Off Target,26,Right Foot,,Evanilson,Pass (Live),Marko Grujić,Pass (Live)
+68,Pepê,Porto,0.05,,Blocked,23,Left Foot,,Evanilson,Pass (Live),Pepê,Pass (Live)
+68,Zaidu Sanusi,Porto,0.02,,Blocked,27,Left Foot,,Marko Grujić,Pass (Live),Pepê,Shot
+74,Galeno,Porto,0.02,,Blocked,25,Right Foot,,André Franco,Pass (Live),Zaidu Sanusi,Pass (Live)
+76,Marko Grujić,Porto,0.05,0.13,Saved,20,Right Foot,,Pepê,Pass (Live),Marko Grujić,Pass (Live)
+84,Galeno,Porto,0.06,0.19,Saved,18,Right Foot,,Marko Grujić,Pass (Live),Mateus Uribe,Pass (Live)
+90,Danny Loader,Porto,0.08,,Off Target,11,Head,,Fábio Cardoso,Pass (Live),Marko Grujić,Pass (Live)
+90+3,Toni Martínez,Porto,0.16,,Off Target,11,Right Foot,Volley,Iván Marcano,Pass (Live),Galeno,Pass (Live)
+90+5,Iván Marcano,Porto,0.10,,Blocked,10,Left Foot,,Marko Grujić,Pass (Live),Danny Loader,Pass (Live)
+90+5,Mehdi Taremi,Porto,0.30,0.89,Saved,8,Head,,Iván Marcano,Pass (Live),Galeno,Pass (Live)
+90+5,Marko Grujić,Porto,0.25,,Woodwork,9,Head,,Galeno,Pass (Live),Mehdi Taremi,Shot

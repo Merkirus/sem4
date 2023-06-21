@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Musa Barrow,Bologna,0.02,,Off Target,24,Right Foot,,Emanuel Vignato,Pass (Live),Denso Kasius,Pass (Live)
+9,Musa Barrow,Bologna,0.04,,Off Target,29,Right Foot,,Marko Arnautović,Pass (Live),Musa Barrow,Pass (Live)
+27,Denso Kasius,Bologna,0.03,,Blocked,17,Right Foot,,Marko Arnautović,Pass (Live),Andrea Cambiaso,Pass (Live)
+38,Marko Arnautović,Bologna,0.03,,Off Target,27,Right Foot,,Musa Barrow,Pass (Live),Jerdy Schouten,Pass (Live)
+53,Nicolás Domínguez,Bologna,0.04,,Off Target,25,Right Foot,,Musa Barrow,Pass (Live),Musa Barrow,Take-On
+55,Marko Arnautović,Bologna,0.32,,Off Target,10,Right Foot,Volley,Andrea Cambiaso,Pass (Live),Nicolás Domínguez,Pass (Live)
+68,Nicola Sansone,Bologna,0.03,,Woodwork,28,Right Foot,,Roberto Soriano,Pass (Dead),Nicola Sansone,Fouled
+87,Nicola Sansone,Bologna,0.02,,Blocked,35,Right Foot,Free kick,Lewis Ferguson,Fouled,Michel Aebischer,Pass (Live)

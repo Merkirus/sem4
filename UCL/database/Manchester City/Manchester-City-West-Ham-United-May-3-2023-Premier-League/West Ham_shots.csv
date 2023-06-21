@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Vladimír Coufal,West Ham,0.01,,Off Target,33,Right Foot,Volley,Aaron Cresswell,Pass (Live),Pablo Fornals,Pass (Dead)
+29,Jarrod Bowen,West Ham,0.24,0.38,Saved,3,Right Foot,,Vladimír Coufal,Pass (Dead),,
+42,Pablo Fornals,West Ham,0.03,,Off Target,24,Right Foot,Volley,Aaron Cresswell,Pass (Dead),Lucas Paquetá,Fouled
+80,Pablo Fornals,West Ham,0.03,,Off Target,59,Right Foot,,,,,
+89,Lucas Paquetá,West Ham,0.03,0.12,Saved,15,Left Foot,,Saïd Benrahma,Pass (Live),Emerson Palmieri,Pass (Live)
+89,Pablo Fornals,West Ham,0.10,,Blocked,12,Right Foot,,Lucas Paquetá,Shot,,

@@ -1,0 +1,4 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+21,Ben Pearson,Bournemouth,0.03,0.12,Saved,20,Left Foot,,Kieffer Moore,Pass (Live),Adam Smith,Pass (Live)
+37,Adam Smith,Bournemouth,0.07,,Blocked,17,Left Foot,,,,,
+82,Junior Stanislas,Bournemouth,0.04,,Off Target,24,Right Foot,,Philip Billing,Pass (Live),Junior Stanislas,Pass (Live)

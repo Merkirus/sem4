@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Timo Werner,Chelsea,0.38,0.43,Saved,11,Right Foot,,Mason Mount,Pass (Live),Mason Mount,Take-On
+15,Timo Werner,Chelsea,0.06,,Blocked,12,Left Foot,,Mason Mount,Pass (Live),Jorginho,Pass (Live)
+17,N'Golo Kanté,Chelsea,0.07,,Off Target,8,Head,,Ben Chilwell,Pass (Live),Timo Werner,Pass (Live)
+42,Kai Havertz,Chelsea,0.37,0.28,Goal,14,Left Foot,,Kai Havertz,Take-On,Mason Mount,Pass (Live)
+45+2,Timo Werner,Chelsea,0.06,,Off Target,12,Right Foot,,N'Golo Kanté,Pass (Live),Reece James,Pass (Live)
+73,Christian Pulisic,Chelsea,0.44,,Off Target,10,Right Foot,,Kai Havertz,Pass (Live),Christian Pulisic,Pass (Live)
+76,Mason Mount,Chelsea,0.03,,Off Target,28,Right Foot,,Christian Pulisic,Pass (Live),Mason Mount,Pass (Live)
+82,Jorginho,Chelsea,0.03,,Off Target,27,Right Foot,Volley,Reece James,Pass (Live),Ben Chilwell,Fouled

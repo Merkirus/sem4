@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Olivier Giroud,Milan,0.09,,Off Target,30,Left Foot,,Yacine Adli,Pass (Live),,
+11,Olivier Giroud,Milan,0.39,,Off Target,15,Left Foot,,Brahim Díaz,Pass (Live),Olivier Giroud,Pass (Live)
+21,Olivier Giroud,Milan,0.05,,Blocked,11,Head,,Theo Hernández,Pass (Dead),Olivier Giroud,Pass (Live)
+34,Theo Hernández,Milan,0.02,,Blocked,34,Left Foot,,Ciprian Tătărușanu,Pass (Live),Matteo Gabbia,Pass (Live)
+47,Sandro Tonali,Milan,0.10,,Blocked,18,Right Foot,,,,,
+49,Ante Rebić,Milan,0.31,0.05,Saved,11,Left Foot,,Theo Hernández,Pass (Live),Rade Krunić,Pass (Live)
+60,Ante Rebić,Milan,0.04,,Blocked,24,Right Foot,,Ante Rebić,Take-On,Rafael Leão,Pass (Live)
+68,Theo Hernández,Milan,0.05,,Blocked,22,Left Foot,,Rafael Leão,Pass (Live),Divock Origi,Fouled
+69,Tommaso Pobega,Milan,0.01,,Off Target,14,Head,,Theo Hernández,Pass (Dead),Tommaso Pobega,Fouled
+76,Theo Hernández,Milan,0.03,0.12,Saved,27,Left Foot,,,,,
+76,Ante Rebić,Milan,0.16,0.05,Saved,10,Head,,Sandro Tonali,Pass (Live),Matteo Gabbia,Pass (Live)
+76,Ante Rebić,Milan,0.07,,Off Target,11,Left Foot,,Ante Rebić,Shot,,
+79,Divock Origi,Milan,0.05,,Off Target,25,Left Foot,,Ante Rebić,Pass (Live),Theo Hernández,Pass (Live)
+81,Sandro Tonali,Milan,0.47,0.75,Goal,14,Left Foot,,Ante Rebić,Pass (Live),Rafael Leão,Pass (Live)
+90+2,Divock Origi,Milan,0.04,0.01,Saved,34,Right Foot,,Ciprian Tătărușanu,Pass (Dead),,
+90+5,Sandro Tonali,Milan,0.08,0.09,Saved,16,Right Foot,,Ismaël Bennacer,Pass (Live),Divock Origi,Pass (Live)

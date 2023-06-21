@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Tyronne Ebuehi,Empoli,0.02,,Blocked,24,Left Foot,,Nicolas Haas,Pass (Live),Răzvan Marin,Pass (Live)
+13,Nicolò Cambiaghi,Empoli,0.08,0.07,Saved,20,Left Foot,,Filippo Bandinelli,Pass (Live),Ardian Ismajli,Interception
+19,Tommaso Baldanzi,Empoli,0.12,0.35,Saved,15,Left Foot,,Fabiano Parisi,Pass (Live),Francesco Caputo,Pass (Live)
+42,Nicolas Haas,Empoli,0.06,,Blocked,13,Right Foot,,Nicolò Cambiaghi,Pass (Live),Filippo Bandinelli,Pass (Dead)
+55,Nicolò Cambiaghi,Empoli,0.06,,Off Target,17,Left Foot,,Tommaso Baldanzi,Pass (Live),Francesco Caputo,Pass (Live)
+63,Filippo Bandinelli,Empoli,0.01,,Off Target,31,Left Foot,,Nicolò Cambiaghi,Pass (Live),Francesco Caputo,Pass (Live)
+67,Sebastiano Luperto,Empoli,0.05,,Blocked,11,Head,,Răzvan Marin,Pass (Dead),Tyronne Ebuehi,Pass (Live)
+74,Tommaso Baldanzi,Empoli,0.15,,Blocked,17,Left Foot,,Tyronne Ebuehi,Pass (Live),Emanuel Vignato,Pass (Live)
+90+1,Tommaso Baldanzi,Empoli,0.05,,Off Target,20,Left Foot,,Tommaso Baldanzi,Pass (Live),Răzvan Marin,Pass (Live)
+90+3,Martin Satriano,Empoli,0.20,,Off Target,10,Head,,Răzvan Marin,Pass (Dead),Tommaso Baldanzi,Fouled
+90+5,Mattia Destro,Empoli,0.13,0.04,Saved,8,Head,,Răzvan Marin,Pass (Live),Tyronne Ebuehi,Pass (Live)

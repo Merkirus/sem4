@@ -1,0 +1,15 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Dušan Vlahović,9,SRB,FW,23,90,0,0,0,0,2,1,0,0,34,0,0,0,0.1,0.1,0.0,2,1,16,23,69.6,5,17,1,2,1
+Matìas Soulé,30,ARG,FW,19,65,0,0,0,0,1,0,0,0,28,0,1,0,0.3,0.3,0.0,2,0,17,20,85.0,1,13,1,4,3
+Federico Chiesa,7,ITA,FW,25,17,0,0,0,0,1,0,0,0,11,2,0,0,0.1,0.1,0.0,2,0,5,6,83.3,1,6,1,2,1
+Leandro Paredes,32,ARG,FW,28,7,0,0,0,0,0,0,1,1,1,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Adrien Rabiot,25,FRA,DM,27,90,0,1,0,0,0,0,1,0,53,2,2,3,0.0,0.0,0.2,2,1,22,37,59.5,6,26,3,1,0
+Manuel Locatelli,5,ITA,DM,25,90,0,0,0,0,1,1,0,0,45,2,0,4,0.0,0.0,0.0,1,0,27,31,87.1,6,16,0,0,0
+Nicolò Fagioli,44,ITA,DM,22,90,0,0,0,0,0,0,0,0,28,1,0,0,0.0,0.0,0.0,1,0,17,19,89.5,1,20,3,1,0
+Filip Kostić,17,SRB,WB,30,90,1,0,0,0,2,1,0,0,44,2,2,0,0.1,0.1,0.3,2,0,19,32,59.4,2,20,3,1,1
+Mattia De Sciglio,2,ITA,WB,30,74,0,0,0,0,0,0,0,0,35,1,0,2,0.0,0.0,0.0,1,0,22,26,84.6,2,18,2,0,0
+Juan Cuadrado,11,COL,WB,34,16,0,0,0,0,0,0,0,0,10,0,1,0,0.0,0.0,0.0,0,0,5,7,71.4,0,4,0,1,0
+Danilo,6,BRA,CB,31,90,0,0,0,0,0,0,1,0,55,2,3,2,0.0,0.0,0.0,1,0,28,44,63.6,7,19,3,0,0
+Gleison Bremer,3,BRA,CB,26,90,0,0,0,0,0,0,0,0,28,0,1,1,0.0,0.0,0.0,0,0,13,14,92.9,2,6,0,0,0
+Federico Gatti,15,ITA,CB,24,90,0,0,0,0,0,0,1,0,41,3,3,1,0.0,0.0,0.0,0,0,17,25,68.0,3,19,1,1,1
+Wojciech Szczęsny,1,POL,GK,32,90,0,0,0,0,0,0,0,0,29,0,0,0,0.0,0.0,0.0,0,0,20,27,74.1,0,13,0,0,0

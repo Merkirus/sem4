@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Neymar,Paris S-G,0.08,0.08,Saved,16,Left Foot,Deflected,Kylian Mbappé,Pass (Live),,
+13,Alessandro Florenzi,Paris S-G,0.03,,Blocked,22,Right Foot,,Kylian Mbappé,Pass (Live),Neymar,Pass (Dead)
+13,Neymar,Paris S-G,0.04,0.07,Saved,14,Right Foot,Deflected,Marco Verratti,Pass (Live),Neymar,Pass (Live)
+14,Ángel Di María,Paris S-G,0.03,,Blocked,29,Left Foot,,Kylian Mbappé,Pass (Live),Alessandro Florenzi,Pass (Live)
+15,Marquinhos,Paris S-G,0.53,0.84,Goal,4,Head,,Ángel Di María,Pass (Dead),Ángel Di María,Shot
+28,Leandro Paredes,Paris S-G,0.12,,Off Target,4,Head,,Neymar,Pass (Dead),Marco Verratti,Pass (Live)
+28,Ángel Di María,Paris S-G,0.11,0.05,Saved,10,Left Foot,,,,,
+33,Ángel Di María,Paris S-G,0.04,,Blocked,19,Left Foot,Volley,Ángel Di María,Pass (Live),Neymar,Pass (Live)
+34,Mitchel Bakker,Paris S-G,0.06,,Blocked,15,Left Foot,,Kylian Mbappé,Pass (Live),Marco Verratti,Pass (Live)
+57,Ángel Di María,Paris S-G,0.05,,Off Target,7,Head,,Neymar,Pass (Dead),Ángel Di María,Pass (Live)

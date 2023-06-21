@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Jude Bellingham,Dortmund,0.06,0.02,Saved,12,Left Foot,,Erling Haaland,Pass (Live),Marco Reus,Pass (Live)
+7,Emre Can,Dortmund,0.03,,Blocked,26,Right Foot,Volley,Jude Bellingham,Shot,,
+45,Raphaël Guerreiro,Dortmund,0.06,,Blocked,21,Left Foot,,Ansgar Knauff,Pass (Live),Erling Haaland,Pass (Live)
+48,Erling Haaland,Dortmund,0.40,0.51,Saved,14,Left Foot,,Mahmoud Dahoud,Pass (Live),Manuel Akanji,Pass (Live)
+62,Marco Reus,Dortmund,0.10,,Blocked,22,Right Foot,Free kick,Erling Haaland,Fouled,Mateu Morey,Pass (Live)
+62,Marco Reus,Dortmund,0.04,,Off Target,22,Right Foot,,Ansgar Knauff,Pass (Live),Marco Reus,Shot
+84,Marco Reus,Dortmund,0.39,0.89,Goal,15,Right Foot,,Erling Haaland,Pass (Live),Jude Bellingham,Pass (Live)

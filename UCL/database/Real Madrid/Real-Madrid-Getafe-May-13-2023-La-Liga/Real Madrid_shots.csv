@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Marco Asensio,Real Madrid,0.05,0.34,Saved,22,Left Foot,Deflected,Aurélien Tchouaméni,Pass (Live),Marco Asensio,Pass (Live)
+13,Federico Valverde,Real Madrid,0.06,,Blocked,22,Right Foot,,Aurélien Tchouaméni,Pass (Live),Ferland Mendy,Pass (Live)
+14,Marco Asensio,Real Madrid,0.02,,Blocked,26,Left Foot,,Lucas Vázquez,Pass (Live),Nacho,Pass (Live)
+14,Eduardo Camavinga,Real Madrid,0.02,,Blocked,31,Left Foot,,,,,
+35,Dani Ceballos,Real Madrid,0.02,,Off Target,31,Right Foot,,Marco Asensio,Pass (Live),Eden Hazard,Pass (Live)
+43,Dani Ceballos,Real Madrid,0.03,,Blocked,17,Right Foot,,Eduardo Camavinga,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+49,Aurélien Tchouaméni,Real Madrid,0.01,,Off Target,33,Right Foot,,Eduardo Camavinga,Pass (Live),Nacho,Pass (Live)
+59,Aurélien Tchouaméni,Real Madrid,0.06,,Blocked,23,Right Foot,,Lucas Vázquez,Pass (Live),Lucas Vázquez,Take-On
+59,Marco Asensio,Real Madrid,0.02,,Off Target,31,Left Foot,,Lucas Vázquez,Pass (Live),Lucas Vázquez,Take-On
+62,Marco Asensio,Real Madrid,0.05,,Blocked,27,Left Foot,Free kick,Eden Hazard,Fouled,Lucas Vázquez,Pass (Live)
+62,Luka Modrić,Real Madrid,0.05,,Blocked,25,Right Foot,,Marco Asensio,Shot,,
+64,Luka Modrić,Real Madrid,0.05,,Off Target,21,Right Foot,,Vinicius Júnior,Pass (Live),Vinicius Júnior,Take-On
+70,Marco Asensio,Real Madrid,0.04,0.17,Goal,25,Left Foot,Deflected,Lucas Vázquez,Pass (Live),Marco Asensio,Pass (Live)
+78,Marco Asensio,Real Madrid,0.24,0.49,Saved,9,Head,,Toni Kroos,Pass (Live),Eduardo Camavinga,Pass (Live)
+90+5,Marco Asensio,Real Madrid,0.04,,Blocked,27,Left Foot,,Luka Modrić,Pass (Live),Marco Asensio,Pass (Live)
+90+5,Mariano,Real Madrid,0.10,,Off Target,10,Head,,Luka Modrić,Pass (Dead),Marco Asensio,Shot

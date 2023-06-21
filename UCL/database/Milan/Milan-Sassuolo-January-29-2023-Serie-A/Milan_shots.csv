@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+24,Olivier Giroud,Milan,0.09,0.52,Goal,10,Head,,Davide Calabria,Pass (Live),Alexis Saelemaekers,Pass (Live)
+33,Ante Rebić,Milan,0.08,,Off Target,15,Right Foot,Volley,Theo Hernández,Pass (Live),Alexis Saelemaekers,Pass (Live)
+39,Olivier Giroud,Milan,0.04,,Off Target,10,Head,,Theo Hernández,Pass (Dead),Theo Hernández,Fouled
+45+1,Ante Rebić,Milan,0.11,0.13,Saved,14,Right Foot,Volley,Davide Calabria,Pass (Live),Alexis Saelemaekers,Pass (Live)
+57,Alexis Saelemaekers,Milan,0.07,0.12,Saved,26,Left Foot,,Ante Rebić,Pass (Live),Olivier Giroud,Pass (Live)
+60,Ante Rebić,Milan,0.16,,Off Target,16,Left Foot,,Rafael Leão,Pass (Live),Pierre Kalulu,Interception
+75,Divock Origi,Milan,0.02,0.05,Saved,28,Right Foot,,Rafael Leão,Pass (Live),Matteo Gabbia,Pass (Live)
+81,Divock Origi,Milan,0.03,0.38,Goal,24,Right Foot,,Junior Messias,Pass (Live),Rafael Leão,Pass (Live)
+86,Junior Messias,Milan,0.02,,Off Target,26,Left Foot,,Junior Messias,Take-On,Divock Origi,Pass (Live)

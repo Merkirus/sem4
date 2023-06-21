@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+27,Marko Grujić,Porto,0.05,,Off Target,24,Right Foot,,Galeno,Pass (Live),,
+31,Pepê,Porto,0.06,,Blocked,14,Right Foot,Volley,Otávio,Pass (Live),Pepê,Pass (Live)
+37,Marko Grujić,Porto,0.09,0.09,Saved,13,Right Foot,,Mehdi Taremi,Pass (Live),Otávio,Pass (Live)
+37,Galeno,Porto,0.22,,Off Target,11,Head,,Marko Grujić,Shot,,
+48,Mateus Uribe,Porto,0.02,,Off Target,27,Right Foot,,Galeno,Pass (Live),Marko Grujić,Pass (Live)
+55,Mehdi Taremi,Porto,0.29,0.20,Saved,18,Right Foot,,Pepê,Pass (Live),Pepe,Tackle
+57,Zaidu Sanusi,Porto,0.11,,Blocked,13,Left Foot,,Mateus Uribe,Pass (Live),João Mário Lopes,Pass (Live)
+57,Zaidu Sanusi,Porto,0.07,0.31,Saved,12,Left Foot,,Zaidu Sanusi,Shot,,
+57,Mehdi Taremi,Porto,0.67,0.82,Saved,6,Right Foot,Volley,Zaidu Sanusi,Shot,,
+73,Mehdi Taremi,Porto,0.13,,Off Target,16,Right Foot,,Otávio,Pass (Live),Mateus Uribe,Pass (Live)

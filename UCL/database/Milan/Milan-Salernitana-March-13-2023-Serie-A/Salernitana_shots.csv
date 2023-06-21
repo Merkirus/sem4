@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+8,Pasquale Mazzocchi,Salernitana,0.03,,Blocked,15,Left Foot,,Pasquale Mazzocchi,Take-On,Pasquale Mazzocchi,Take-On
+33,Grigoris Kastanos,Salernitana,0.09,,Blocked,13,Left Foot,,Emil Bohinen,Pass (Live),,
+56,Antonio Candreva,Salernitana,0.03,0.02,Saved,30,Right Foot,,Lassana Coulibaly,Pass (Live),Krzysztof Piątek,Pass (Live)
+61,Boulaye Dia,Salernitana,0.50,0.40,Goal,9,Right Foot,,Domagoj Bradarić,Pass (Live),Lassana Coulibaly,Pass (Live)
+82,Krzysztof Piątek,Salernitana,0.04,0.16,Saved,24,Right Foot,,Krzysztof Piątek,Take-On,Boulaye Dia,Pass (Live)
+84,Boulaye Dia,Salernitana,0.10,,Blocked,21,Right Foot,,Domagoj Bradarić,Pass (Live),Krzysztof Piątek,Pass (Live)

@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Riyad Mahrez,Manchester City,0.04,,Blocked,19,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Tackle
+5,Manuel Akanji,Manchester City,0.17,0.07,Saved,6,Head,Deflected,Jack Grealish,Pass (Dead),Riyad Mahrez,Shot
+6,Julián Álvarez,Manchester City,0.06,,Blocked,17,Right Foot,Volley,Jack Grealish,Pass (Live),Riyad Mahrez,Pass (Live)
+19,Bernardo Silva,Manchester City,0.04,0.07,Saved,26,Left Foot,,Rodri,Pass (Live),Rico Lewis,Pass (Live)
+41,Rodri,Manchester City,0.10,0.39,Saved,20,Right Foot,,Julián Álvarez,Pass (Live),Riyad Mahrez,Pass (Live)
+42,Jack Grealish,Manchester City,0.05,,Off Target,17,Right Foot,,Erling Haaland,Pass (Live),Kyle Walker,Pass (Live)
+45+1,Riyad Mahrez,Manchester City,0.12,,Woodwork,11,Left Foot,,Julián Álvarez,Pass (Live),Rodri,Interception
+64,Julián Álvarez,Manchester City,0.14,,Blocked,15,Right Foot,,Kevin De Bruyne,Pass (Dead),Jack Grealish,Fouled
+65,Manuel Akanji,Manchester City,0.07,,Blocked,15,Right Foot,,Rodri,Pass (Live),Julián Álvarez,Shot
+65,Kevin De Bruyne,Manchester City,0.06,,Off Target,21,Right Foot,,Manuel Akanji,Pass (Live),Manuel Akanji,Shot
+68,Julián Álvarez,Manchester City,0.06,,Off Target,19,Right Foot,,Kevin De Bruyne,Pass (Live),Julián Álvarez,Pass (Live)
+73,Rodri,Manchester City,0.06,,Off Target,10,Head,,Kevin De Bruyne,Pass (Dead),Rodri,Pass (Live)
+76,Kyle Walker,Manchester City,0.01,0.04,Saved,31,Right Foot,Deflected,Rico Lewis,Pass (Live),Kevin De Bruyne,Pass (Live)
+89,Kevin De Bruyne,Manchester City,0.04,,Blocked,32,Right Foot,Free kick,Jack Grealish,Fouled,Jack Grealish,Take-On
+90+3,Rodri,Manchester City,0.30,0.31,Saved,4,Head,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)

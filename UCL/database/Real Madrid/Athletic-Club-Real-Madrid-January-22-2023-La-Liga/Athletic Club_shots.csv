@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Aitor Paredes,Athletic Club,0.05,,Off Target,9,Head,,Álex Berenguer,Pass (Dead),,
+10,Aitor Paredes,Athletic Club,0.03,0.16,Saved,13,Head,,Oier Zarraga,Pass (Live),Nico Williams,Pass (Live)
+17,Nico Williams,Athletic Club,0.03,,Off Target,24,Left Foot,,Nico Williams,Take-On,Oier Zarraga,Pass (Live)
+22,Iñaki Williams,Athletic Club,0.04,,Off Target,12,Right Foot,,Oihan Sancet,Pass (Live),Nico Williams,Pass (Live)
+45,Mikel Vesga,Athletic Club,0.02,,Off Target,29,Left Foot,,Óscar de Marcos,Pass (Live),Mikel Vesga,Pass (Live)
+47,Iñaki Williams,Athletic Club,0.03,,Off Target,23,Left Foot,Volley,Nico Williams,Pass (Live),Óscar de Marcos,Pass (Live)
+56,Nico Williams,Athletic Club,0.02,,Off Target,22,Right Foot,,Álex Berenguer,Pass (Live),Nico Williams,Pass (Live)
+60,Aitor Paredes,Athletic Club,0.02,,Blocked,16,Head,,Álex Berenguer,Pass (Live),Yuri Berchiche,Pass (Live)
+60,Oier Zarraga,Athletic Club,0.02,0.10,Saved,29,Right Foot,Volley,Aitor Paredes,Shot,,
+69,Nico Williams,Athletic Club,0.25,,Off Target,10,Right Foot,,Yuri Berchiche,Pass (Live),Iker Muniain,Pass (Live)
+75,Gorka Guruzeta,Athletic Club,0.05,,Blocked,11,Right Foot,,Mikel Vesga,Pass (Live),Ander Herrera,Pass (Live)
+75,Gorka Guruzeta,Athletic Club,0.03,,Off Target,10,Head,,Iker Muniain,Pass (Dead),Gorka Guruzeta,Shot
+77,Yuri Berchiche,Athletic Club,0.04,,Blocked,22,Right Foot,"Deflected, Volley",,,,
+80,Ander Herrera,Athletic Club,0.05,,Off Target,10,Head,,Iker Muniain,Pass (Dead),Iñigo Lekue,Fouled
+80,Gorka Guruzeta,Athletic Club,0.10,,Blocked,4,Head,,Iker Muniain,Pass (Dead),Ander Herrera,Shot
+80,Aitor Paredes,Athletic Club,0.13,0.27,Saved,4,Head,,Iker Muniain,Pass (Dead),Gorka Guruzeta,Shot
+81,Nico Williams,Athletic Club,0.02,,Blocked,18,Right Foot,,Yuri Berchiche,Pass (Live),Iker Muniain,Pass (Dead)
+90+2,Gorka Guruzeta,Athletic Club,0.23,,Off Target,9,Left Foot,,Nico Williams,Pass (Live),Iker Muniain,Pass (Live)

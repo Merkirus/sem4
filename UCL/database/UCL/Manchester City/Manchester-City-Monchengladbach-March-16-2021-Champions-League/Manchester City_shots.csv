@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Phil Foden,Manchester City,0.41,0.69,Saved,10,Left Foot,Volley,João Cancelo,Pass (Live),İlkay Gündoğan,Pass (Live)
+12,Kevin De Bruyne,Manchester City,0.04,0.28,Goal,25,Left Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Take-On
+18,İlkay Gündoğan,Manchester City,0.57,0.98,Goal,11,Right Foot,,Phil Foden,Pass (Live),John Stones,Pass (Live)
+35,Kevin De Bruyne,Manchester City,0.05,0.06,Saved,33,Right Foot,Free kick,Bernardo Silva,Fouled,İlkay Gündoğan,Pass (Live)
+36,Rodri,Manchester City,0.06,,Blocked,5,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Shot
+48,Riyad Mahrez,Manchester City,0.06,,Off Target,20,Left Foot,,İlkay Gündoğan,Pass (Live),Bernardo Silva,Pass (Live)
+65,Riyad Mahrez,Manchester City,0.06,0.17,Saved,17,Left Foot,,Fernandinho,Pass (Live),Fernandinho,Take-On
+68,Riyad Mahrez,Manchester City,0.03,0.03,Saved,16,Left Foot,,Phil Foden,Pass (Live),Phil Foden,Take-On
+89,Riyad Mahrez,Manchester City,0.06,,Off Target,16,Left Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Take-On
+90+3,Riyad Mahrez,Manchester City,0.09,,Off Target,15,Left Foot,,Kevin De Bruyne,Pass (Live),Fernandinho,Pass (Live)

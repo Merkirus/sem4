@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Sergio Agüero,Manchester City,0.70,,Woodwork,5,Right Foot,,Raheem Sterling,Pass (Live),Kyle Walker,Pass (Live)
+31,Sergio Agüero,Manchester City,0.04,0.05,Saved,9,Head,,Oleksandr Zinchenko,Pass (Live),İlkay Gündoğan,Pass (Dead)
+35,Sergio Agüero (pen),Manchester City,0.79,0.83,Goal,13,Right Foot,,Bernardo Silva,Fouled,Sergio Agüero,Pass (Live)
+37,Sergio Agüero,Manchester City,0.11,0.04,Saved,16,Right Foot,,İlkay Gündoğan,Pass (Live),Aymeric Laporte,Pass (Live)
+38,Sergio Agüero,Manchester City,0.12,0.18,Goal,6,Right Foot,,Raheem Sterling,Pass (Live),İlkay Gündoğan,Pass (Live)
+42,Leroy Sané,Manchester City,0.40,0.79,Goal,14,Left Foot,,Oleksandr Zinchenko,Pass (Live),İlkay Gündoğan,Pass (Live)
+45+2,Raheem Sterling,Manchester City,0.10,0.08,Saved,11,Right Foot,,Danilo,Pass (Live),Raheem Sterling,Pass (Live)
+47,Leroy Sané,Manchester City,0.05,,Blocked,18,Left Foot,,Raheem Sterling,Pass (Live),Raheem Sterling,Take-On
+51,Leroy Sané,Manchester City,0.06,,Off Target,12,Left Foot,,İlkay Gündoğan,Pass (Live),Danilo,Pass (Live)
+56,Raheem Sterling,Manchester City,0.38,0.89,Goal,10,Right Foot,,Leroy Sané,Pass (Live),David Silva,Pass (Live)
+71,Bernardo Silva,Manchester City,0.09,0.40,Goal,16,Left Foot,,Leroy Sané,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+78,Phil Foden,Manchester City,0.71,0.90,Goal,5,Left Foot,,Phil Foden,Take-On,Leroy Sané,Pass (Live)
+80,Phil Foden,Manchester City,0.07,0.06,Saved,21,Right Foot,,Phil Foden,Take-On,Raheem Sterling,Pass (Live)
+82,Gabriel Jesus,Manchester City,0.07,,Blocked,17,Right Foot,,Raheem Sterling,Pass (Live),Gabriel Jesus,Pass (Live)
+84,Gabriel Jesus,Manchester City,0.05,0.09,Goal,19,Right Foot,,Bernardo Silva,Pass (Live),Danilo,Pass (Live)

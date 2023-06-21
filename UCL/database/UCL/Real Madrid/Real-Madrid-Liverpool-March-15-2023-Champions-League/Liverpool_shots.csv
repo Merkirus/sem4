@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Darwin Núñez,Liverpool,0.14,0.05,Saved,16,Right Foot,,Mohamed Salah,Pass (Live),,
+18,Diogo Jota,Liverpool,0.10,,Off Target,15,Left Foot,Volley,Mohamed Salah,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+26,Cody Gakpo,Liverpool,0.05,,Off Target,14,Head,,Trent Alexander-Arnold,Pass (Live),Fabinho,Pass (Live)
+31,Darwin Núñez,Liverpool,0.10,0.09,Saved,12,Head,,Fabinho,Pass (Live),James Milner,Pass (Live)
+33,Darwin Núñez,Liverpool,0.02,0.56,Saved,19,Right Foot,,,,,
+34,Ibrahima Konaté,Liverpool,0.03,,Off Target,13,Right Foot,Volley,Cody Gakpo,Pass (Live),Darwin Núñez,Shot
+36,Cody Gakpo,Liverpool,0.04,0.18,Saved,20,Right Foot,,Diogo Jota,Pass (Live),,
+37,James Milner,Liverpool,0.04,,Blocked,24,Right Foot,,Trent Alexander-Arnold,Pass (Dead),Cody Gakpo,Shot
+83,Harvey Elliott,Liverpool,0.02,0.12,Saved,27,Left Foot,,Fabinho,Pass (Live),Mohamed Salah,Pass (Live)

@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Marko Pjaca,Empoli,0.07,,Blocked,15,Right Foot,,Marko Pjaca,Take-On,Sam Lammers,Pass (Live)
+16,Liam Henderson,Empoli,0.06,0.20,Saved,16,Right Foot,,Marko Pjaca,Shot,,
+25,Sam Lammers,Empoli,0.08,,Blocked,11,Right Foot,Volley,Marko Pjaca,Pass (Dead),Fabiano Parisi,Fouled
+36,Nicolas Haas,Empoli,0.06,,Blocked,24,Right Foot,,Liam Henderson,Pass (Live),Martin Satriano,Pass (Live)
+41,Liam Henderson,Empoli,0.03,,Blocked,19,Right Foot,,Sam Lammers,Pass (Live),Liam Henderson,Pass (Live)
+47,Marko Pjaca,Empoli,0.07,,Blocked,12,Right Foot,,Marko Pjaca,Take-On,Fabiano Parisi,Pass (Dead)
+47,Răzvan Marin,Empoli,0.06,,Off Target,24,Right Foot,,Marko Pjaca,Shot,,
+51,Petar Stojanović,Empoli,0.05,,Off Target,18,Left Foot,,Petar Stojanović,Take-On,Nicolas Haas,Pass (Live)
+55,Martin Satriano,Empoli,0.02,,Off Target,21,Right Foot,,Liam Henderson,Pass (Live),Marko Pjaca,Pass (Live)
+58,Sam Lammers,Empoli,0.14,,Off Target,8,Head,,Fabiano Parisi,Pass (Live),Nedim Bajrami,Pass (Live)
+67,Fabiano Parisi,Empoli,0.01,,Blocked,27,Left Foot,"Deflected, Volley",Nedim Bajrami,Pass (Live),Răzvan Marin,Pass (Live)
+74,Nedim Bajrami,Empoli,0.13,0.74,Saved,13,Right Foot,,,,,
+84,Sam Lammers,Empoli,0.13,,Blocked,11,Left Foot,,Fabiano Parisi,Pass (Dead),Fabiano Parisi,Fouled
+86,Mattia Destro,Empoli,0.03,0.09,Saved,13,Head,,Răzvan Marin,Pass (Dead),Fabiano Parisi,Fouled
+88,Nedim Bajrami,Empoli,0.13,,Off Target,16,Left Foot,,Sam Lammers,Pass (Live),Petar Stojanović,Pass (Live)
+90+2,Nedim Bajrami,Empoli,0.07,0.40,Goal,29,Right Foot,Free kick,Nedim Bajrami,Fouled,Mattia Destro,Pass (Live)

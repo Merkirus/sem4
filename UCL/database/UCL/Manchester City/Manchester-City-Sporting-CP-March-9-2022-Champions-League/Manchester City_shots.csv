@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+24,Phil Foden,Manchester City,0.07,0.13,Saved,29,Left Foot,Deflected,İlkay Gündoğan,Pass (Live),,
+25,John Stones,Manchester City,0.02,,Blocked,14,Head,,İlkay Gündoğan,Pass (Dead),Phil Foden,Shot
+26,Aymeric Laporte,Manchester City,0.46,,Off Target,7,Head,,Phil Foden,Pass (Dead),Gabriel Jesus,Fouled
+38,Raheem Sterling,Manchester City,0.13,0.12,Saved,15,Left Foot,,Phil Foden,Pass (Live),Fernandinho,Pass (Live)
+56,Gabriel Jesus,Manchester City,0.04,0.03,Saved,17,Right Foot,,James Mcatee,Pass (Live),James Mcatee,Take-On
+57,Fernandinho,Manchester City,0.07,,Blocked,25,Right Foot,,,,,
+72,Oleksandr Zinchenko,Manchester City,0.02,,Blocked,28,Left Foot,,,,,
+82,Riyad Mahrez,Manchester City,0.12,,Blocked,15,Left Foot,Volley,Raheem Sterling,Pass (Live),Fernandinho,Pass (Live)
+82,Riyad Mahrez,Manchester City,0.13,,Blocked,15,Right Foot,,Raheem Sterling,Pass (Live),Fernandinho,Pass (Live)
+88,Riyad Mahrez,Manchester City,0.06,0.05,Saved,25,Left Foot,Free kick,Riyad Mahrez,Fouled,İlkay Gündoğan,Pass (Live)
+90+1,Riyad Mahrez,Manchester City,0.05,,Blocked,16,Left Foot,,Riyad Mahrez,Take-On,Luke Mbete-Tatu,Pass (Live)
+90+2,John Stones,Manchester City,0.12,,Off Target,10,Head,,İlkay Gündoğan,Pass (Dead),Riyad Mahrez,Shot
+90+2,Oleksandr Zinchenko,Manchester City,0.05,,Off Target,20,Left Foot,,Raheem Sterling,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+90+3,Raheem Sterling,Manchester City,0.20,,Off Target,6,Right Foot,,Raheem Sterling,Take-On,James Mcatee,Pass (Live)

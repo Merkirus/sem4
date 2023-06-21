@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Raheem Sterling,Manchester City,0.06,,Blocked,18,Right Foot,,İlkay Gündoğan,Pass (Live),David Silva,Pass (Live)
+13,Sergio Agüero (pen),Manchester City,0.79,0.97,Saved,13,Right Foot,,,Fouled,Raheem Sterling,Shot
+39,Sergio Agüero,Manchester City,0.03,,Off Target,30,Right Foot,,Fernandinho,Pass (Live),,
+45+1,Sergio Agüero,Manchester City,0.07,,Off Target,18,Right Foot,,David Silva,Pass (Live),Raheem Sterling,Pass (Live)
+47,Raheem Sterling,Manchester City,0.07,0.03,Saved,12,Left Foot,,Sergio Agüero,Pass (Live),İlkay Gündoğan,Pass (Live)
+49,Riyad Mahrez,Manchester City,0.04,,Blocked,17,Left Foot,,,,,
+73,Fabian Delph,Manchester City,0.03,,Off Target,27,Left Foot,,David Silva,Pass (Live),Riyad Mahrez,Pass (Live)
+75,Gabriel Jesus,Manchester City,0.13,,Off Target,7,Head,,Riyad Mahrez,Pass (Live),David Silva,Pass (Live)
+76,David Silva,Manchester City,0.09,,Blocked,16,Right Foot,,Raheem Sterling,Pass (Live),David Silva,Pass (Live)
+90+6,Fernandinho,Manchester City,0.09,,Off Target,9,Head,,Leroy Sané,Fouled,Kevin De Bruyne,Pass (Live)

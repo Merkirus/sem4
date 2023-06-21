@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+18,Rodrygo,Real Madrid,0.35,0.96,Goal,8,Right Foot,Volley,Aurélien Tchouaméni,Pass (Live),Rodrygo,Pass (Live)
+26,Rodrygo,Real Madrid,0.09,,Blocked,16,Right Foot,,Luka Modrić,Pass (Live),Toni Kroos,Pass (Live)
+36,Vinicius Júnior,Real Madrid,0.16,0.43,Saved,11,Right Foot,,Luka Modrić,Pass (Live),Vinicius Júnior,Pass (Live)
+36,Federico Valverde,Real Madrid,0.26,0.25,Goal,4,Right Foot,,Vinicius Júnior,Shot,,
+74,Federico Valverde,Real Madrid,0.05,,Off Target,30,Right Foot,Free kick,Toni Kroos,Pass (Dead),Rodrygo,Fouled
+90+4,David Alaba,Real Madrid,0.02,,Off Target,35,Left Foot,,Marco Asensio,Pass (Dead),Eduardo Camavinga,Fouled

@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+8,Dele Alli,Tottenham,0.07,,Off Target,17,Right Foot,Volley,Moussa Sissoko,Pass (Live),Dele Alli,Pass (Live)
+24,Harry Kane,Tottenham,0.27,0.44,Saved,13,Right Foot,,Christian Eriksen,Pass (Live),Dele Alli,Pass (Live)
+28,Harry Winks,Tottenham,0.04,,Off Target,22,Right Foot,,,,,
+34,Harry Kane,Tottenham,0.05,,Off Target,10,Head,,Kieran Trippier,Pass (Live),Christian Eriksen,Pass (Live)
+37,Christian Eriksen,Tottenham,0.05,,Blocked,34,Right Foot,Free kick,Harry Kane,Fouled,Harry Winks,Pass (Live)
+37,Christian Eriksen,Tottenham,0.03,,Blocked,33,Right Foot,,Christian Eriksen,Shot,,
+37,Toby Alderweireld,Tottenham,0.05,,Blocked,12,Left Foot,Volley,Harry Kane,Pass (Live),Christian Eriksen,Shot
+42,Danny Rose,Tottenham,0.06,0.08,Saved,25,Left Foot,Free kick,Son Heung-min,Fouled,Son Heung-min,Pass (Live)
+48,Son Heung-min,Tottenham,0.03,,Off Target,29,Left Foot,,Kieran Trippier,Pass (Live),,
+50,Son Heung-min,Tottenham,0.05,0.17,Saved,19,Right Foot,,Harry Kane,Pass (Live),Harry Kane,Tackle
+69,Dele Alli,Tottenham,0.04,,Blocked,22,Right Foot,,Moussa Sissoko,Pass (Live),,
+78,Son Heung-min,Tottenham,0.10,0.06,Goal,11,Left Foot,,Son Heung-min,Take-On,Christian Eriksen,Pass (Live)
+87,Son Heung-min,Tottenham,0.04,,Off Target,18,Right Foot,,Christian Eriksen,Pass (Live),Fernando Llorente,Pass (Live)

@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+51,Diogo Jota,Liverpool,0.06,,Blocked,16,Right Foot,,Georginio Wijnaldum,Pass (Live),Georginio Wijnaldum,Take-On
+51,Mohamed Salah,Liverpool,0.46,0.62,Goal,9,Left Foot,,Diogo Jota,Shot,,
+53,Diogo Jota,Liverpool,0.05,,Off Target,11,Head,,Trent Alexander-Arnold,Pass (Live),Sadio Mané,Pass (Live)
+72,Diogo Jota,Liverpool,0.05,,Off Target,11,Head,,Mohamed Salah,Pass (Live),Sadio Mané,Pass (Live)
+77,Thiago Alcántara,Liverpool,0.03,,Off Target,27,Left Foot,,Mohamed Salah,Pass (Live),Diogo Jota,Pass (Live)
+88,Georginio Wijnaldum,Liverpool,0.03,,Blocked,31,Right Foot,Deflected,Roberto Firmino,Pass (Live),Sadio Mané,Pass (Live)
+90+2,Mohamed Salah,Liverpool,0.07,,Blocked,21,Left Foot,,Mohamed Salah,Take-On,Thiago Alcántara,Pass (Live)

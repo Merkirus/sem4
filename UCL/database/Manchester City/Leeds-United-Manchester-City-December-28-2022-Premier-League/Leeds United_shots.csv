@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+34,Degnand Gnonto,Leeds United,0.06,,Off Target,14,Right Foot,Volley,Rodrigo,Pass (Live),Robin Koch,Pass (Live)
+54,Degnand Gnonto,Leeds United,0.04,,Blocked,17,Right Foot,,Degnand Gnonto,Take-On,Brenden Aaronson,Pass (Live)
+55,Rasmus Nissen,Leeds United,0.03,,Blocked,25,Left Foot,,Degnand Gnonto,Shot,,
+55,Brenden Aaronson,Leeds United,0.03,,Off Target,24,Right Foot,,Brenden Aaronson,Take-On,Degnand Gnonto,Pass (Live)
+64,Sam Greenwood,Leeds United,0.04,,Blocked,33,Right Foot,Free kick,Degnand Gnonto,Fouled,Adam Forshaw,Pass (Live)
+73,Pascal Struijk,Leeds United,0.10,0.25,Goal,9,Head,,Sam Greenwood,Pass (Dead),,
+79,Joe Gelhardt,Leeds United,0.14,,Off Target,9,Right Foot,,Sam Greenwood,Pass (Live),Brenden Aaronson,Pass (Live)
+82,Sam Greenwood,Leeds United,0.09,,Off Target,25,Right Foot,Free kick,Degnand Gnonto,Fouled,Pascal Struijk,Pass (Live)
+89,Darko Gyabi,Leeds United,0.06,,Blocked,18,Right Foot,,,,,

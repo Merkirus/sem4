@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Robin Gosens,Atalanta,0.39,0.21,Saved,9,Right Foot,,Luis Muriel,Pass (Live),Mario Pašalić,Pass (Live)
+15,Cristian Romero,Atalanta,0.08,,Blocked,12,Right Foot,Volley,Luis Muriel,Pass (Dead),Rafael Tolói,Fouled
+16,Berat Djimsiti,Atalanta,0.04,,Off Target,17,Right Foot,Volley,Ruslan Malinovskyi,Pass (Dead),Berat Djimsiti,Pass (Live)
+22,Luis Muriel,Atalanta,0.03,,Blocked,31,Right Foot,,Rafael Tolói,Pass (Live),Cristian Romero,Pass (Live)
+42,Ruslan Malinovskyi,Atalanta,0.03,,Off Target,28,Left Foot,,Marten de Roon,Pass (Live),Luis Muriel,Pass (Live)
+63,Matteo Pessina,Atalanta,0.06,,Off Target,14,Left Foot,,Berat Djimsiti,Pass (Live),Matteo Pessina,Pass (Live)
+67,Duván Zapata,Atalanta,0.39,0.42,Saved,17,Left Foot,,Ruslan Malinovskyi,Pass (Live),Matteo Pessina,Pass (Live)
+75,Joakim Mæhle,Atalanta,0.02,0.05,Saved,32,Right Foot,,,,,
+76,Duván Zapata,Atalanta,0.10,0.03,Saved,14,Right Foot,,Duván Zapata,Take-On,Ruslan Malinovskyi,Pass (Live)
+78,Luis Muriel,Atalanta,0.05,,Blocked,17,Left Foot,,Josip Iličić,Pass (Live),Cristian Romero,Pass (Live)
+83,Luis Muriel,Atalanta,0.07,0.18,Goal,28,Right Foot,Free kick,Cristian Romero,Fouled,Josip Iličić,Pass (Live)
+88,Ruslan Malinovskyi,Atalanta,0.03,,Off Target,32,Left Foot,,,,,
+90,Berat Djimsiti,Atalanta,0.05,,Off Target,12,Head,,Joakim Mæhle,Pass (Live),Marten de Roon,Pass (Live)

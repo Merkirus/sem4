@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+19,Piotr Zieliński,Napoli,0.03,,Blocked,27,Right Foot,"Free kick, Deflected",Khvicha Kvaratskhelia,Fouled,Mário Rui,Pass (Live)
+36,Matteo Politano,Napoli,0.08,0.63,Saved,7,Head,,Piotr Zieliński,Pass (Live),Khvicha Kvaratskhelia,Pass (Live)
+42,Khvicha Kvaratskhelia,Napoli,0.22,,Off Target,10,Right Foot,,Giovanni Di Lorenzo,Pass (Live),Matteo Politano,Pass (Live)
+55,Matteo Politano (pen),Napoli,0.79,0.97,Goal,13,Left Foot,,Khvicha Kvaratskhelia,Fouled,Mário Rui,Pass (Live)
+65,Piotr Zieliński,Napoli,0.05,,Off Target,27,Right Foot,,Mário Rui,Pass (Live),Stanislav Lobotka,Pass (Live)
+78,Giovanni Simeone,Napoli,0.08,0.34,Goal,11,Head,,Mário Rui,Pass (Live),Giovanni Simeone,Pass (Live)
+79,Alessio Zerbin,Napoli,0.04,0.09,Saved,14,Right Foot,,Giovanni Simeone,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+90,Tanguy Ndombele,Napoli,0.03,,Blocked,27,Left Foot,,Stanislav Lobotka,Pass (Live),,
+90+1,Andre-Frank Zambo Anguissa,Napoli,0.03,,Off Target,29,Right Foot,,Tanguy Ndombele,Shot,,

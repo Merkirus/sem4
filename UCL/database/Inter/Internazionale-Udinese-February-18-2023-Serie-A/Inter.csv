@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Romelu Lukaku,90,BEL,FW,29,65,1,0,1,1,0,0,1,0,26,0,0,0,0.8,0.0,0.3,2,0,13,21,61.9,0,9,0,1,0
+Lautaro Martínez,10,ARG,FW,25,25,1,0,0,0,4,2,0,0,12,1,0,0,0.9,0.9,0.0,2,0,4,6,66.7,1,6,2,0,0
+Edin Džeko,9,BIH,FW,36,90,0,0,0,0,2,1,0,0,33,0,0,2,0.6,0.6,0.0,2,0,15,24,62.5,3,17,3,3,1
+Henrikh Mkhitaryan,22,ARM,CM,34,83,1,0,0,0,3,2,0,0,78,5,0,2,0.2,0.2,0.4,6,0,55,64,85.9,9,48,1,0,0
+Roberto Gagliardini,5,ITA,CM,28,7,0,0,0,0,0,0,0,0,6,1,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,0,0,0,0
+Marcelo Brozović,77,CRO,CM,30,65,0,0,0,0,0,0,0,0,63,2,1,0,0.0,0.0,0.0,1,0,52,58,89.7,8,28,3,0,0
+Hakan Çalhanoğlu,20,TUR,CM,29,25,0,0,0,0,2,0,0,0,29,0,0,0,0.1,0.1,0.0,3,1,20,23,87.0,6,17,2,1,1
+Nicolò Barella,23,ITA,CM,26,90,0,0,0,0,2,0,0,0,68,4,0,1,0.1,0.1,0.7,3,0,41,55,74.5,6,34,4,5,4
+Federico Dimarco,32,ITA,WB,25,78,0,1,0,0,1,0,0,0,55,3,0,0,0.0,0.0,0.2,6,1,39,48,81.3,5,28,1,1,0
+Robin Gosens,8,GER,WB,28,12,0,0,0,0,0,0,0,0,11,2,2,0,0.0,0.0,0.0,0,0,4,8,50.0,0,5,0,0,0
+Denzel Dumfries,2,NED,WB,26,90,0,0,0,0,3,0,0,0,44,3,0,3,0.3,0.3,0.0,4,2,20,28,71.4,3,15,1,0,0
+Alessandro Bastoni,95,ITA,CB,23,90,0,0,0,0,0,0,0,0,94,3,1,2,0.0,0.0,0.0,3,0,70,83,84.3,10,52,4,2,1
+Francesco Acerbi,15,ITA,CB,35,90,0,0,0,0,1,1,0,0,67,1,0,1,0.0,0.0,0.0,1,0,51,58,87.9,5,28,1,2,1
+Matteo Darmian,36,ITA,CB,33,45,0,0,0,0,0,0,1,0,42,0,3,1,0.0,0.0,0.0,0,0,30,37,81.1,1,27,1,1,0
+Danilo D'Ambrosio,33,ITA,CB,34,45,0,1,0,0,0,0,0,0,32,2,2,2,0.0,0.0,0.2,1,1,21,23,91.3,0,18,0,0,0
+Samir Handanović,1,SVN,GK,38,90,0,0,0,0,0,0,0,0,31,0,0,0,0.0,0.0,0.0,1,1,27,31,87.1,0,13,0,0,0

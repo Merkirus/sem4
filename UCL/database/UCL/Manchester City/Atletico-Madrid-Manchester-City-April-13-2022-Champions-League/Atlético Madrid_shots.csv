@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+35,Geoffrey Kondogbia,Atlético Madrid,0.03,0.37,Saved,30,Left Foot,Deflected,Marcos Llorente,Pass (Live),Antoine Griezmann,Pass (Live)
+47,Antoine Griezmann,Atlético Madrid,0.06,,Blocked,11,Right Foot,,Koke,Pass (Live),Geoffrey Kondogbia,Pass (Live)
+48,Thomas Lemar,Atlético Madrid,0.03,,Blocked,26,Left Foot,,Koke,Pass (Live),Geoffrey Kondogbia,Pass (Live)
+55,João Félix,Atlético Madrid,0.04,,Off Target,12,Head,,Marcos Llorente,Pass (Live),Stefan Savić,Pass (Live)
+57,Antoine Griezmann,Atlético Madrid,0.04,,Off Target,24,Left Foot,Volley,João Félix,Pass (Live),Marcos Llorente,Pass (Live)
+70,Rodrigo De Paul,Atlético Madrid,0.07,,Off Target,16,Right Foot,,Marcos Llorente,Pass (Live),Ángel Correa,Pass (Live)
+77,Rodrigo De Paul,Atlético Madrid,0.03,,Off Target,17,Right Foot,Volley,Reinildo Mandava,Pass (Live),Yannick Carrasco,Pass (Live)
+79,Ángel Correa,Atlético Madrid,0.04,,Off Target,17,Right Foot,,,,,
+86,Matheus Cunha,Atlético Madrid,0.10,,Blocked,11,Right Foot,,Ángel Correa,Pass (Live),Yannick Carrasco,Pass (Live)
+87,Matheus Cunha,Atlético Madrid,0.14,,Off Target,6,Head,,Matheus Cunha,Shot,,
+87,Stefan Savić,Atlético Madrid,0.12,,Off Target,3,Right Foot,,Matheus Cunha,Shot,,
+90+8,Yannick Carrasco,Atlético Madrid,0.05,0.07,Saved,24,Right Foot,Free kick,Yannick Carrasco,Fouled,Rodrigo De Paul,Pass (Live)
+90+12,Rodrigo De Paul,Atlético Madrid,0.03,,Off Target,26,Right Foot,,Geoffrey Kondogbia,Pass (Live),Marcos Llorente,Tackle
+90+12,Ángel Correa,Atlético Madrid,0.06,0.03,Saved,13,Right Foot,,Rodrigo De Paul,Shot,,

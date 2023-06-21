@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Zlatan Ibrahimović,Milan,0.04,,Off Target,32,Right Foot,Free kick,Ismaël Bennacer,Fouled,,
+22,Alexis Saelemaekers,Milan,0.02,0.09,Saved,26,Left Foot,,Pierre Kalulu,Pass (Live),Alexis Saelemaekers,Pass (Dead)
+23,Rafael Leão,Milan,0.10,0.03,Saved,14,Right Foot,,Sandro Tonali,Pass (Live),Pierre Kalulu,Pass (Live)
+40,Rafael Leão,Milan,0.02,0.27,Saved,26,Right Foot,,Sandro Tonali,Pass (Live),Zlatan Ibrahimović,Pass (Live)
+45+4,Zlatan Ibrahimović (pen),Milan,0.79,0.95,Goal,13,Right Foot,,,Fouled,Pierre Kalulu,Pass (Live)
+52,Malick Thiaw,Milan,0.10,0.05,Saved,9,Head,,Sandro Tonali,Pass (Dead),,
+55,Fodé Ballo-Touré,Milan,0.30,0.98,Saved,3,Head,,Alexis Saelemaekers,Pass (Dead),Pierre Kalulu,Pass (Live)
+73,Rafael Leão,Milan,0.02,,Blocked,32,Left Foot,,Brahim Díaz,Pass (Live),Ante Rebić,Pass (Live)
+84,Rade Krunić,Milan,0.07,,Off Target,15,Right Foot,Volley,Rafael Leão,Fouled,Rafael Leão,Pass (Live)
+88,Divock Origi,Milan,0.04,,Off Target,26,Right Foot,,Ante Rebić,Pass (Live),Pierre Kalulu,Pass (Live)

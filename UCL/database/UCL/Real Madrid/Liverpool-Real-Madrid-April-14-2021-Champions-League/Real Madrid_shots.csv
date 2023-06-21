@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Toni Kroos,Real Madrid,0.04,,Blocked,25,Right Foot,Deflected,Marco Asensio,Pass (Live),Toni Kroos,Pass (Live)
+9,Luka Modrić,Real Madrid,0.04,,Blocked,24,Right Foot,Volley,Toni Kroos,Shot,,
+20,Vinicius Júnior,Real Madrid,0.03,0.44,Saved,30,Right Foot,,Casemiro,Pass (Live),,
+66,Vinicius Júnior,Real Madrid,0.35,0.34,Saved,14,Right Foot,,Federico Valverde,Pass (Live),Casemiro,Pass (Live)
+75,Marco Asensio,Real Madrid,0.04,,Blocked,26,Left Foot,,Federico Valverde,Pass (Live),,
+81,Karim Benzema,Real Madrid,0.28,,Off Target,9,Head,,Éder Militão,Pass (Live),,

@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+13,Eric Dier,Tottenham,0.04,0.03,Saved,14,Head,,Son Heung-min,Pass (Dead),Harry Kane,Fouled
+21,Eric Dier,Tottenham,0.03,,Off Target,14,Head,,Son Heung-min,Pass (Dead),Ivan Perišić,Fouled
+26,Emerson,Tottenham,0.02,0.02,Saved,31,Right Foot,,Pape Matar Sarr,Tackle,,
+45+2,Harry Kane,Tottenham,0.14,,Off Target,11,Right Foot,Volley,Emerson,Pass (Live),Ivan Perišić,Pass (Live)
+59,Dejan Kulusevski,Tottenham,0.03,,Blocked,21,Left Foot,,Harry Kane,Fouled,Oliver Skipp,Pass (Live)
+66,Pape Matar Sarr,Tottenham,0.01,,Blocked,27,Right Foot,Volley,Clément Lenglet,Take-On,Ivan Perišić,Pass (Live)
+74,Richarlison,Tottenham,0.08,,Blocked,13,Right Foot,,Oliver Skipp,Pass (Live),Emerson,Pass (Live)
+75,Pape Matar Sarr,Tottenham,0.02,0.11,Saved,34,Right Foot,,,,,
+81,Pape Matar Sarr,Tottenham,0.03,,Blocked,27,Right Foot,,Richarlison,Pass (Live),Oliver Skipp,Pass (Live)
+84,Ben Davies,Tottenham,0.02,,Off Target,33,Left Foot,,Oliver Skipp,Pass (Live),Pape Matar Sarr,Pass (Live)
+86,Eric Dier,Tottenham,0.02,,Off Target,13,Head,,Ivan Perišić,Pass (Dead),Ivan Perišić,Pass (Live)

@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Ciro Immobile,Lazio,0.06,,Off Target,15,Left Foot,,Adam Marušić,Pass (Live),Mattia Zaccagni,Pass (Live)
+32,Mattia Zaccagni,Lazio,0.02,0.14,Saved,17,Left Foot,Deflected,Danilo Cataldi,Pass (Live),Adam Marušić,Pass (Live)
+35,Mattia Zaccagni,Lazio,0.04,,Blocked,19,Right Foot,,Matías Vecino,Pass (Live),Felipe Anderson,Pass (Live)
+37,Ciro Immobile,Lazio,0.18,0.05,Saved,12,Right Foot,Deflected,Felipe Anderson,Pass (Live),Sergej Milinković-Savić,Pass (Live)
+40,Felipe Anderson,Lazio,0.28,0.42,Goal,11,Head,,Sergej Milinković-Savić,Pass (Live),Matías Vecino,Pass (Live)
+47,Ciro Immobile,Lazio,0.14,0.31,Saved,13,Right Foot,,Manuel Lazzari,Pass (Live),Sergej Milinković-Savić,Pass (Live)
+48,Felipe Anderson,Lazio,0.10,,Off Target,9,Head,,Danilo Cataldi,Pass (Dead),Ciro Immobile,Shot
+75,Luis Alberto,Lazio,0.06,0.59,Goal,25,Right Foot,Deflected,Pedro,Pass (Live),Sergej Milinković-Savić,Pass (Live)
+86,Pedro,Lazio,0.06,0.42,Goal,12,Right Foot,,Ciro Immobile,Pass (Live),Luis Alberto,Pass (Live)
+90+1,Matteo Cancellieri,Lazio,0.10,,Off Target,17,Left Foot,,Pedro,Pass (Live),Ciro Immobile,Pass (Live)
+90+6,Ciro Immobile,Lazio,0.09,0.08,Saved,11,Left Foot,,Luis Alberto,Pass (Live),Marcos Antônio,Pass (Live)

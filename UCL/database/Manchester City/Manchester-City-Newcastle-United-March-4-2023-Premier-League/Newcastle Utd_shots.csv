@@ -1,0 +1,6 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+17,Sean Longstaff,Newcastle Utd,0.10,,Blocked,10,Right Foot,,Callum Wilson,Pass (Live),Miguel Almirón,Pass (Live)
+37,Callum Wilson,Newcastle Utd,0.16,,Off Target,10,Right Foot,Volley,Kieran Trippier,Pass (Live),Sean Longstaff,Pass (Live)
+64,Alexander Isak,Newcastle Utd,0.04,,Blocked,15,Right Foot,,Joe Willock,Pass (Live),Bruno Guimarães,Pass (Live)
+64,Alexander Isak,Newcastle Utd,0.10,0.10,Saved,7,Left Foot,,Alexander Isak,Shot,,
+90+4,Kieran Trippier,Newcastle Utd,0.03,0.34,Saved,34,Right Foot,"Free kick, Deflected",Jacob Murphy,Fouled,Joelinton,Pass (Live)

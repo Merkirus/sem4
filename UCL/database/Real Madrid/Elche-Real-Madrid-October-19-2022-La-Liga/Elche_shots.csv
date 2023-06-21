@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Tete Morente,Elche,0.06,,Off Target,15,Right Foot,,,,,
+29,Nicolás Ezequiel Fernández,Elche,0.04,0.42,Saved,22,Left Foot,,Pere Milla,Pass (Live),Lucas Boyé,Pass (Live)
+30,Lucas Boyé,Elche,0.04,0.02,Saved,21,Right Foot,,Omar Mascarell,Take-On,Helibelton Palacios,Pass (Live)
+40,Tete Morente,Elche,0.06,,Blocked,17,Right Foot,,Pere Milla,Pass (Live),Gonzalo Verdú,Interception
+46,Lucas Boyé,Elche,0.14,,Off Target,9,Left Foot,Volley,Nicolás Ezequiel Fernández,Pass (Live),Tete Morente,Pass (Live)
+47,Tete Morente,Elche,0.06,,Blocked,20,Right Foot,,Helibelton Palacios,Pass (Live),Raúl Guti,Pass (Live)
+70,Carlos Clerc,Elche,0.21,0.53,Saved,5,Head,,Helibelton Palacios,Pass (Live),Lucas Boyé,Pass (Live)
+85,Domingos Quina,Elche,0.03,,Blocked,22,Left Foot,,Omar Mascarell,Pass (Live),Pedro Bigas,Pass (Live)
+86,Gonzalo Verdú,Elche,0.02,,Off Target,14,Head,,Gerard Gumbau,Pass (Dead),Gerard Gumbau,Pass (Live)
+88,Ezequiel Ponce,Elche,0.09,,Off Target,10,Left Foot,Volley,Domingos Quina,Pass (Live),Gerard Gumbau,Pass (Live)

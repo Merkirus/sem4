@@ -1,0 +1,22 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Sergio Agüero,Manchester City,0.05,,Blocked,18,Right Foot,,Kevin De Bruyne,Pass (Live),Nicolás Otamendi,Pass (Live)
+7,Sergio Agüero,Manchester City,0.05,0.24,Saved,12,Head,,David Silva,Pass (Live),Raheem Sterling,Pass (Live)
+8,İlkay Gündoğan,Manchester City,0.03,,Off Target,24,Right Foot,,Kevin De Bruyne,Pass (Dead),Kyle Walker,Pass (Live)
+11,Sergio Agüero,Manchester City,0.04,,Blocked,20,Right Foot,,Kevin De Bruyne,Pass (Live),,
+16,Kevin De Bruyne,Manchester City,0.03,0.02,Saved,29,Left Foot,,David Silva,Pass (Live),Fernandinho,Pass (Live)
+17,Sergio Agüero,Manchester City,0.05,,Blocked,13,Right Foot,,Raheem Sterling,Pass (Live),Bernardo Silva,Pass (Live)
+17,Aymeric Laporte,Manchester City,0.05,,Off Target,11,Left Foot,Volley,Nicolás Otamendi,Pass (Live),Kyle Walker,Pass (Live)
+18,Sergio Agüero,Manchester City,0.45,0.57,Goal,10,Right Foot,,David Silva,Pass (Live),David Silva,Interception
+32,Raheem Sterling,Manchester City,0.04,,Blocked,24,Right Foot,Deflected,Bernardo Silva,Pass (Live),Sergio Agüero,Pass (Live)
+33,Kevin De Bruyne,Manchester City,0.05,0.02,Saved,29,Right Foot,Free kick,,Fouled,Raheem Sterling,Shot
+45+4,Bernardo Silva,Manchester City,0.05,,Off Target,21,Left Foot,,Kevin De Bruyne,Pass (Live),,
+47,Kevin De Bruyne,Manchester City,0.05,,Blocked,17,Right Foot,,Fernandinho,Pass (Live),David Silva,Pass (Live)
+47,Raheem Sterling,Manchester City,0.03,,Off Target,21,Right Foot,Volley,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Shot
+47,Raheem Sterling,Manchester City,0.05,,Off Target,14,Right Foot,,Fernandinho,Pass (Live),Sergio Agüero,Pass (Live)
+52,Sergio Agüero,Manchester City,0.05,,Off Target,27,Right Foot,,Sergio Agüero,Take-On,,
+56,İlkay Gündoğan,Manchester City,0.03,,Blocked,29,Right Foot,,Raheem Sterling,Pass (Live),Sergio Agüero,Pass (Live)
+56,İlkay Gündoğan,Manchester City,0.04,,Off Target,24,Left Foot,,İlkay Gündoğan,Shot,,
+74,Kevin De Bruyne,Manchester City,0.08,,Blocked,24,Right Foot,Free kick,Bernardo Silva,Fouled,Bernardo Silva,Take-On
+77,Bernardo Silva,Manchester City,0.05,,Off Target,20,Left Foot,,Kyle Walker,Pass (Live),Kevin De Bruyne,Pass (Live)
+85,Leroy Sané,Manchester City,0.06,0.44,Goal,29,Left Foot,Free kick,Raheem Sterling,Fouled,Bernardo Silva,Pass (Live)
+90,Raheem Sterling,Manchester City,0.27,0.89,Goal,13,Right Foot,,Ederson,Pass (Live),Oleksandr Zinchenko,Pass (Live)

@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Kevin De Bruyne,Manchester City,0.03,,Blocked,35,Right Foot,,İlkay Gündoğan,Pass (Live),,
+9,Raheem Sterling,Manchester City,0.52,0.53,Goal,9,Right Foot,,Gabriel Jesus,Pass (Live),Gabriel Jesus,Tackle
+11,Phil Foden,Manchester City,0.05,,Blocked,14,Left Foot,,Kevin De Bruyne,Pass (Live),Fernandinho,Pass (Live)
+12,İlkay Gündoğan,Manchester City,0.06,,Blocked,18,Left Foot,,Phil Foden,Shot,,
+15,Raheem Sterling,Manchester City,0.03,,Off Target,27,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+33,Kyle Walker,Manchester City,0.05,,Off Target,28,Right Foot,,Kyle Walker,Take-On,Kyle Walker,Take-On
+37,João Cancelo,Manchester City,0.04,0.04,Saved,20,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+42,Phil Foden,Manchester City,0.05,,Off Target,22,Left Foot,,Kevin De Bruyne,Pass (Live),,
+47,Raheem Sterling,Manchester City,0.10,0.13,Saved,12,Left Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+54,Raheem Sterling,Manchester City,0.40,0.54,Saved,6,Left Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+58,Kevin De Bruyne,Manchester City,0.06,,Blocked,17,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+58,Rodri,Manchester City,0.04,,Blocked,10,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Shot
+61,Kevin De Bruyne,Manchester City,0.05,,Blocked,14,Right Foot,,Phil Foden,Pass (Live),Kyle Walker,Pass (Live)
+66,Gabriel Jesus,Manchester City,0.08,0.30,Saved,12,Right Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Live)
+68,Gabriel Jesus,Manchester City,0.29,0.21,Goal,12,Left Foot,,,,,
+71,Bernardo Silva,Manchester City,0.10,,Blocked,16,Left Foot,,Bernardo Silva,Take-On,Raheem Sterling,Pass (Live)
+72,Gabriel Jesus,Manchester City,0.04,,Off Target,11,Head,,Kevin De Bruyne,Pass (Dead),Bernardo Silva,Shot
+73,Kyle Walker,Manchester City,0.03,0.31,Saved,30,Right Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+76,Gabriel Jesus,Manchester City,0.03,,Off Target,28,Right Foot,,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+86,David Silva,Manchester City,0.07,,Off Target,26,Left Foot,Free kick,Kevin De Bruyne,Fouled,,

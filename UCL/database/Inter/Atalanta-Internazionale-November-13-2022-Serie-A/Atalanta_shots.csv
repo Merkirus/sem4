@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Duván Zapata,Atalanta,0.03,,Blocked,16,Head,,Giorgio Scalvini,Pass (Live),Ademola Lookman,Pass (Live)
+5,Duván Zapata,Atalanta,0.04,,Blocked,28,Right Foot,,Duván Zapata,Tackle,,
+7,Joakim Mæhle,Atalanta,0.01,,Blocked,33,Right Foot,Volley,Teun Koopmeiners,Pass (Live),Ademola Lookman,Pass (Dead)
+15,Teun Koopmeiners,Atalanta,0.05,0.13,Saved,12,Left Foot,,Mario Pašalić,Pass (Live),,
+16,José Luis Palomino,Atalanta,0.08,0.14,Saved,12,Head,,Ademola Lookman,Pass (Dead),Teun Koopmeiners,Shot
+25,Ademola Lookman (pen),Atalanta,0.79,0.99,Goal,13,Right Foot,,Duván Zapata,Fouled,Ademola Lookman,Pass (Live)
+38,Duván Zapata,Atalanta,0.02,,Off Target,12,Head,,Ademola Lookman,Pass (Live),Giorgio Scalvini,Pass (Live)
+53,Duván Zapata,Atalanta,0.14,,Off Target,16,Right Foot,,Mario Pašalić,Pass (Live),Teun Koopmeiners,Pass (Live)
+59,Ruslan Malinovskyi,Atalanta,0.03,,Off Target,27,Left Foot,,Joakim Mæhle,Pass (Live),Ruslan Malinovskyi,Pass (Live)
+65,Ruslan Malinovskyi,Atalanta,0.02,0.06,Saved,28,Left Foot,,Hans Hateboer,Pass (Live),Hans Hateboer,Take-On
+71,Ruslan Malinovskyi,Atalanta,0.02,0.15,Saved,22,Left Foot,Deflected,Hans Hateboer,Pass (Live),Teun Koopmeiners,Pass (Dead)
+77,Teun Koopmeiners,Atalanta,0.05,,Blocked,28,Left Foot,Free kick,,Fouled,Ademola Lookman,Pass (Live)
+77,José Luis Palomino,Atalanta,0.02,0.19,Goal,8,Head,,Teun Koopmeiners,Shot,,
+82,Rasmus Højlund,Atalanta,0.13,,Off Target,10,Head,,Joakim Mæhle,Pass (Live),Ademola Lookman,Pass (Dead)
+86,Rasmus Højlund,Atalanta,0.11,,Off Target,11,Head,,Teun Koopmeiners,Pass (Dead),Joakim Mæhle,Fouled
+90,Ademola Lookman,Atalanta,0.03,,Off Target,23,Right Foot,,Joakim Mæhle,Pass (Live),Ruslan Malinovskyi,Pass (Live)
+90+5,Ruslan Malinovskyi,Atalanta,0.06,,Blocked,22,Left Foot,,Joakim Mæhle,Pass (Live),Ademola Lookman,Pass (Live)
+90+5,Teun Koopmeiners,Atalanta,0.21,0.17,Saved,10,Head,,José Luis Palomino,Pass (Live),Ruslan Malinovskyi,Shot

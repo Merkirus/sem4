@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Brahim Díaz,Milan,0.05,0.03,Saved,16,Right Foot,,Brahim Díaz,Take-On,Ante Rebić,Pass (Live)
+11,Theo Hernández (pen),Milan,0.79,0.99,Goal,13,Left Foot,,Davide Calabria,Fouled,Brahim Díaz,Shot
+15,Ante Rebić,Milan,0.08,0.03,Goal,13,Right Foot,Volley,Davide Calabria,Pass (Live),Brahim Díaz,Pass (Live)
+18,Rafael Leão,Milan,0.03,,Off Target,30,Left Foot,,Junior Messias,Pass (Live),Ante Rebić,Pass (Live)
+30,Ismaël Bennacer,Milan,0.03,,Off Target,28,Left Foot,Free kick,Brahim Díaz,Fouled,,
+46,Brahim Díaz,Milan,0.76,0.99,Goal,1,Left Foot,,Rade Krunić,Pass (Live),Ante Rebić,Pass (Live)
+57,Ante Rebić,Milan,0.05,,Off Target,18,Left Foot,Volley,Davide Calabria,Pass (Dead),Junior Messias,Fouled
+63,Theo Hernández,Milan,0.05,,Off Target,31,Left Foot,Free kick,Ante Rebić,Fouled,Ismaël Bennacer,Pass (Live)
+68,Ante Rebić,Milan,0.26,0.97,Goal,9,Left Foot,,Brahim Díaz,Pass (Live),Brahim Díaz,Tackle
+75,Rafael Leão,Milan,0.03,,Off Target,17,Left Foot,,Fikayo Tomori,Pass (Live),Ismaël Bennacer,Pass (Live)
+78,Alexis Saelemaekers,Milan,0.03,,Blocked,23,Right Foot,,Charles De Ketelaere,Pass (Live),Davide Calabria,Pass (Live)
+79,Alexis Saelemaekers,Milan,0.01,,Off Target,26,Left Foot,Volley,Alexis Saelemaekers,Shot,,
+81,Olivier Giroud,Milan,0.09,,Blocked,17,Left Foot,,Charles De Ketelaere,Pass (Live),Rade Krunić,Pass (Live)
+86,Alexis Saelemaekers,Milan,0.07,,Off Target,13,Right Foot,Volley,Ismaël Bennacer,Pass (Live),Charles De Ketelaere,Pass (Live)

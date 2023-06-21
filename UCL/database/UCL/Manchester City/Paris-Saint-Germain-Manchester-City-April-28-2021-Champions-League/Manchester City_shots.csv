@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+21,Bernardo Silva,Manchester City,0.08,0.25,Saved,6,Left Foot,Volley,João Cancelo,Pass (Live),İlkay Gündoğan,Pass (Live)
+32,Riyad Mahrez,Manchester City,0.04,,Blocked,11,Head,,Phil Foden,Pass (Live),Phil Foden,Interception
+41,João Cancelo,Manchester City,0.02,,Off Target,35,Right Foot,,Rodri,Pass (Live),Riyad Mahrez,Pass (Live)
+42,Phil Foden,Manchester City,0.29,0.17,Saved,16,Left Foot,,Bernardo Silva,Pass (Live),Kyle Walker,Pass (Live)
+61,Kevin De Bruyne,Manchester City,0.06,,Off Target,16,Right Foot,Volley,Rodri,Pass (Live),Riyad Mahrez,Pass (Live)
+64,Kevin De Bruyne,Manchester City,0.02,0.43,Goal,31,Right Foot,,Oleksandr Zinchenko,Pass (Live),Phil Foden,Pass (Live)
+71,Riyad Mahrez,Manchester City,0.06,0.14,Goal,29,Left Foot,Free kick,Phil Foden,Fouled,Riyad Mahrez,Pass (Live)
+75,Phil Foden,Manchester City,0.06,0.06,Saved,10,Head,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+84,Riyad Mahrez,Manchester City,0.03,,Off Target,24,Left Foot,,Riyad Mahrez,Pass (Live),Bernardo Silva,Pass (Live)
+87,Phil Foden,Manchester City,0.06,0.02,Saved,17,Left Foot,,Phil Foden,Take-On,Phil Foden,Take-On
+90+4,Kevin De Bruyne,Manchester City,0.03,,Blocked,28,Left Foot,,,,,

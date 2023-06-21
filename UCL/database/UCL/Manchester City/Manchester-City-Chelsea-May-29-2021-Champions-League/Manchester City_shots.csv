@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+8,Raheem Sterling,Manchester City,0.10,0.20,Saved,5,Right Foot,,Ederson,Pass (Live),Rúben Dias,Pass (Live)
+27,Phil Foden,Manchester City,0.09,,Blocked,12,Left Foot,,Kevin De Bruyne,Pass (Live),Raheem Sterling,Pass (Live)
+30,Raheem Sterling,Manchester City,0.04,,Blocked,19,Right Foot,,İlkay Gündoğan,Pass (Live),,
+60,Raheem Sterling,Manchester City,0.03,,Blocked,18,Right Foot,,John Stones,Pass (Live),Rúben Dias,Pass (Live)
+61,Phil Foden,Manchester City,0.03,,Off Target,29,Left Foot,,Rúben Dias,Pass (Live),Oleksandr Zinchenko,Pass (Live)
+90,Phil Foden,Manchester City,0.12,,Blocked,10,Right Foot,,Riyad Mahrez,Pass (Live),Rúben Dias,Pass (Live)
+90+7,Riyad Mahrez,Manchester City,0.04,,Off Target,21,Right Foot,Volley,Gabriel Jesus,Take-On,Sergio Agüero,Pass (Live)

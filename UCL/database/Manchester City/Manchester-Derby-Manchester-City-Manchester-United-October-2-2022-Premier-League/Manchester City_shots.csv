@@ -1,0 +1,23 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Erling Haaland,Manchester City,0.07,,Off Target,6,Head,,Bernardo Silva,Pass (Live),Jack Grealish,Pass (Live)
+3,Kevin De Bruyne,Manchester City,0.23,0.08,Saved,11,Right Foot,,Erling Haaland,Shot,,
+3,Bernardo Silva,Manchester City,0.47,,Blocked,8,Right Foot,,Kevin De Bruyne,Shot,,
+8,Phil Foden,Manchester City,0.18,0.15,Goal,10,Left Foot,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+18,İlkay Gündoğan,Manchester City,0.15,,Woodwork,25,Right Foot,Free kick,Jack Grealish,Fouled,Erling Haaland,Pass (Live)
+21,Phil Foden,Manchester City,0.14,,Off Target,16,Left Foot,,Bernardo Silva,Pass (Live),Jack Grealish,Pass (Live)
+29,Kevin De Bruyne,Manchester City,0.03,,Off Target,23,Right Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+31,Phil Foden,Manchester City,0.03,,Blocked,29,Left Foot,,Erling Haaland,Pass (Live),Kyle Walker,Pass (Live)
+31,Jack Grealish,Manchester City,0.09,,Blocked,12,Right Foot,,Jack Grealish,Take-On,Phil Foden,Shot
+31,İlkay Gündoğan,Manchester City,0.08,,Blocked,21,Right Foot,Volley,Jack Grealish,Shot,,
+31,Bernardo Silva,Manchester City,0.07,,Blocked,17,Left Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Shot
+32,Kevin De Bruyne,Manchester City,0.02,0.06,Saved,32,Right Foot,,Jack Grealish,Pass (Live),Bernardo Silva,Shot
+34,Erling Haaland,Manchester City,0.16,0.14,Goal,6,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Shot
+37,Erling Haaland,Manchester City,0.46,0.88,Goal,4,Left Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+44,Phil Foden,Manchester City,0.41,0.88,Goal,7,Right Foot,,Erling Haaland,Pass (Live),Kevin De Bruyne,Pass (Live)
+46,Phil Foden,Manchester City,0.08,0.05,Saved,12,Right Foot,,,,,
+61,Manuel Akanji,Manchester City,0.02,,Blocked,10,Head,,Nathan Aké,Pass (Live),Phil Foden,Pass (Dead)
+64,Erling Haaland,Manchester City,0.05,,Off Target,13,Left Foot,,Bernardo Silva,Pass (Live),Sergio Gómez,Pass (Live)
+64,Erling Haaland,Manchester City,0.34,0.03,Goal,10,Left Foot,,Sergio Gómez,Pass (Live),Kevin De Bruyne,Pass (Live)
+73,Phil Foden,Manchester City,0.25,0.79,Goal,14,Left Foot,,Erling Haaland,Pass (Live),Jack Grealish,Pass (Live)
+76,Erling Haaland,Manchester City,0.04,,Blocked,16,Left Foot,,Cole Palmer,Pass (Live),João Cancelo,Pass (Live)
+85,Aymeric Laporte,Manchester City,0.06,,Off Target,11,Head,,Sergio Gómez,Pass (Dead),,

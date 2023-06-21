@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+12,Vinicius Júnior,Real Madrid,0.41,0.96,Goal,12,Right Foot,,Aurélien Tchouaméni,Pass (Live),Federico Valverde,Pass (Live)
+14,Karim Benzema,Real Madrid,0.03,,Blocked,21,Right Foot,,Karim Benzema,Take-On,Vinicius Júnior,Pass (Live)
+19,Vinicius Júnior,Real Madrid,0.19,0.12,Saved,11,Right Foot,,Federico Valverde,Pass (Live),Karim Benzema,Pass (Live)
+20,Antonio Rüdiger,Real Madrid,0.07,,Off Target,10,Head,,Toni Kroos,Pass (Dead),Vinicius Júnior,Shot
+32,Vinicius Júnior,Real Madrid,0.08,,Off Target,13,Right Foot,,Lucas Vázquez,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+36,Karim Benzema,Real Madrid,0.01,,Off Target,12,Left Foot,Volley,Aurélien Tchouaméni,Fouled,Lucas Vázquez,Pass (Dead)
+36,Toni Kroos,Real Madrid,0.03,,Blocked,18,Right Foot,,Karim Benzema,Pass (Live),Vinicius Júnior,Pass (Dead)
+63,Karim Benzema,Real Madrid,0.07,0.20,Saved,21,Right Foot,,Eduardo Camavinga,Pass (Live),Rodrygo,Pass (Live)
+66,Eduardo Camavinga,Real Madrid,0.06,,Blocked,21,Left Foot,,Eduardo Camavinga,Take-On,Thibaut Courtois,Pass (Live)
+70,Rodrygo,Real Madrid,0.03,,Blocked,28,Left Foot,,Aurélien Tchouaméni,Pass (Live),Toni Kroos,Pass (Live)
+74,Éder Militão,Real Madrid,0.01,,Blocked,16,Head,,Vinicius Júnior,Pass (Live),Lucas Vázquez,Pass (Live)
+76,Karim Benzema,Real Madrid,0.06,,Blocked,17,Right Foot,,Rodrygo,Pass (Live),Karim Benzema,Pass (Live)
+87,Karim Benzema,Real Madrid,0.03,,Blocked,22,Right Foot,,Vinicius Júnior,Pass (Live),Karim Benzema,Pass (Live)
+88,Karim Benzema,Real Madrid,0.68,0.94,Goal,4,Right Foot,Volley,Rodrygo,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+90+1,Vinicius Júnior,Real Madrid,0.04,,Blocked,13,Right Foot,,Eduardo Camavinga,Pass (Live),Dani Ceballos,Pass (Live)
+90+2,Karim Benzema,Real Madrid,0.09,0.10,Saved,11,Head,,David Alaba,Pass (Dead),Eduardo Camavinga,Fouled
+90+3,Aurélien Tchouaméni,Real Madrid,0.03,,Blocked,14,Right Foot,Volley,Dani Ceballos,Pass (Dead),Karim Benzema,Shot
+90+10,Karim Benzema,Real Madrid,0.13,0.48,Goal,22,Right Foot,Free kick,Dani Ceballos,Fouled,Éder Militão,Pass (Live)
+90+12,Vinicius Júnior,Real Madrid,0.04,,Blocked,22,Right Foot,Deflected,David Alaba,Pass (Live),Vinicius Júnior,Pass (Live)

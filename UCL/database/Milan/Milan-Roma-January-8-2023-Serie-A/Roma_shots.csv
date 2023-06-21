@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Nicolò Zaniolo,Roma,0.02,,Blocked,33,Left Foot,,Paulo Dybala,Pass (Live),Tammy Abraham,Pass (Live)
+23,Nicolò Zaniolo,Roma,0.02,,Blocked,22,Left Foot,,Zeki Çelik,Pass (Live),Nicolò Zaniolo,Pass (Live)
+41,Nicola Zalewski,Roma,0.04,,Off Target,24,Right Foot,,Nicola Zalewski,Take-On,Paulo Dybala,Pass (Live)
+43,Paulo Dybala,Roma,0.02,,Off Target,32,Left Foot,Volley,,,,
+59,Lorenzo Pellegrini,Roma,0.02,,Blocked,26,Right Foot,Volley,Paulo Dybala,Pass (Dead),,
+76,Lorenzo Pellegrini,Roma,0.01,,Blocked,32,Right Foot,,Roger Ibanez,Pass (Live),Nemanja Matić,Pass (Live)
+79,Paulo Dybala,Roma,0.03,,Blocked,23,Left Foot,,Tammy Abraham,Pass (Live),Paulo Dybala,Pass (Live)
+80,Roger Ibanez,Roma,0.02,,Off Target,36,Right Foot,,Benjamin Tahirovic,Pass (Live),Stephan El Shaarawy,Pass (Live)
+87,Roger Ibanez,Roma,0.20,0.16,Goal,9,Head,,Lorenzo Pellegrini,Pass (Dead),Nicola Zalewski,Pass (Dead)
+90+2,Tammy Abraham,Roma,0.03,,Off Target,15,Head,,Lorenzo Pellegrini,Pass (Live),Nicola Zalewski,Pass (Live)
+90+3,Nemanja Matić,Roma,0.29,0.04,Saved,9,Head,,Paulo Dybala,Fouled,Nicola Zalewski,Pass (Live)
+90+3,Tammy Abraham,Roma,0.78,0.90,Goal,4,Right Foot,Volley,Nemanja Matić,Shot,,

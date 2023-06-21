@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Roberto Gagliardini,Inter,0.07,,Blocked,17,Left Foot,,Lautaro Martínez,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+3,Lautaro Martínez,Inter,0.07,0.39,Goal,17,Left Foot,,Roberto Gagliardini,Shot,,
+15,Lautaro Martínez,Inter,0.12,0.03,Saved,12,Head,,Roberto Gagliardini,Pass (Live),Lautaro Martínez,Pass (Live)
+31,Lautaro Martínez,Inter,0.06,,Off Target,23,Right Foot,,,,,
+41,Edin Džeko,Inter,0.04,,Off Target,28,Left Foot,,Federico Dimarco,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+41,Henrikh Mkhitaryan,Inter,0.12,,Blocked,15,Right Foot,,Federico Dimarco,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+45+2,Edin Džeko,Inter,0.03,,Off Target,11,Head,,Matteo Darmian,Pass (Dead),,
+69,Federico Dimarco,Inter,0.02,,Off Target,15,Left Foot,Volley,Matteo Darmian,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+81,Kristjan Asllani,Inter,0.06,,Off Target,27,Right Foot,,Kristjan Asllani,Take-On,Nicolò Barella,Pass (Live)
+86,Roberto Gagliardini,Inter,0.04,0.37,Saved,14,Head,,Nicolò Barella,Pass (Live),Alessandro Bastoni,Pass (Live)
+88,Matteo Darmian,Inter,0.02,,Off Target,30,Left Foot,,Nicolò Barella,Pass (Live),Alessandro Bastoni,Pass (Live)

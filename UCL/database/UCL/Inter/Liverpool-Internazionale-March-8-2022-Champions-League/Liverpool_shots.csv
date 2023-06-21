@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Virgil van Dijk,Liverpool,0.02,0.02,Saved,16,Head,,Trent Alexander-Arnold,Pass (Dead),Alisson,Pass (Live)
+31,Joël Matip,Liverpool,0.13,,Woodwork,10,Head,,Trent Alexander-Arnold,Pass (Dead),Sadio Mané,Fouled
+31,Virgil van Dijk,Liverpool,0.24,,Blocked,5,Head,,Trent Alexander-Arnold,Pass (Dead),,
+45+7,Trent Alexander-Arnold,Liverpool,0.06,,Off Target,31,Right Foot,Free kick,Curtis Jones,Fouled,Joël Matip,Pass (Live)
+48,Trent Alexander-Arnold,Liverpool,0.03,0.05,Saved,28,Right Foot,Deflected,Mohamed Salah,Pass (Live),Andrew Robertson,Pass (Live)
+52,Mohamed Salah,Liverpool,0.47,,Woodwork,11,Left Foot,,Fabinho,Pass (Live),Virgil van Dijk,Pass (Live)
+53,Curtis Jones,Liverpool,0.03,,Blocked,24,Left Foot,,Mohamed Salah,Pass (Live),Curtis Jones,Pass (Live)
+76,Mohamed Salah,Liverpool,0.31,,Woodwork,14,Right Foot,,Sadio Mané,Pass (Live),Virgil van Dijk,Pass (Live)
+79,Naby Keïta,Liverpool,0.06,,Blocked,27,Left Foot,,Mohamed Salah,Take-On,Mohamed Salah,Take-On
+86,Sadio Mané,Liverpool,0.07,,Off Target,9,Head,,Trent Alexander-Arnold,Pass (Dead),Mohamed Salah,Fouled
+90,Mohamed Salah,Liverpool,0.03,,Off Target,19,Left Foot,Volley,Virgil van Dijk,Pass (Live),Alisson,Pass (Live)
+90+2,Luis Díaz,Liverpool,0.31,,Blocked,10,Right Foot,,Trent Alexander-Arnold,Pass (Live),Luis Díaz,Pass (Live)

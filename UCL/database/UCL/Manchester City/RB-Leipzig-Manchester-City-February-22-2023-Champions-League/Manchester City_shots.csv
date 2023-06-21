@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Rúben Dias,Manchester City,0.07,0.04,Saved,10,Head,,Riyad Mahrez,Pass (Dead),Kyle Walker,Take-On
+17,Riyad Mahrez,Manchester City,0.08,,Blocked,28,Left Foot,Free kick,Jack Grealish,Fouled,İlkay Gündoğan,Pass (Live)
+18,Rodri,Manchester City,0.04,,Off Target,24,Right Foot,,Bernardo Silva,Pass (Live),Riyad Mahrez,Interception
+27,Riyad Mahrez,Manchester City,0.23,0.47,Goal,18,Left Foot,,Jack Grealish,Pass (Live),,
+30,Rodri,Manchester City,0.07,,Off Target,7,Head,,Riyad Mahrez,Pass (Dead),,
+36,Jack Grealish,Manchester City,0.06,,Off Target,18,Right Foot,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On
+40,Rodri,Manchester City,0.06,,Off Target,8,Head,,Riyad Mahrez,Pass (Dead),Manuel Akanji,Pass (Live)
+50,Riyad Mahrez,Manchester City,0.20,,Blocked,15,Left Foot,,İlkay Gündoğan,Pass (Live),Nathan Aké,Tackle
+68,Erling Haaland,Manchester City,0.25,,Off Target,13,Right Foot,,Erling Haaland,Take-On,Jack Grealish,Pass (Live)
+73,İlkay Gündoğan,Manchester City,0.08,0.19,Saved,16,Right Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+79,Bernardo Silva,Manchester City,0.04,,Blocked,22,Left Foot,,Bernardo Silva,Take-On,Riyad Mahrez,Pass (Live)
+90+3,Rodri,Manchester City,0.02,,Off Target,12,Head,,Riyad Mahrez,Pass (Live),İlkay Gündoğan,Pass (Live)

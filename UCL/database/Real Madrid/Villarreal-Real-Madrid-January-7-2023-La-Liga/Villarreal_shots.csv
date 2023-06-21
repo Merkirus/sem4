@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Alex Baena,Villarreal,0.07,,Off Target,14,Right Foot,,Gerard Moreno,Pass (Live),Juan Foyth,Pass (Live)
+2,Daniel Parejo,Villarreal,0.01,,Off Target,31,Right Foot,Volley,,,,
+5,Francis Coquelin,Villarreal,0.36,,Woodwork,5,Left Foot,,Alberto Moreno,Pass (Live),Gerard Moreno,Pass (Live)
+25,Alex Baena,Villarreal,0.03,,Off Target,28,Right Foot,,Samuel Chukwueze,Pass (Live),Samuel Chukwueze,Take-On
+29,Alex Baena,Villarreal,0.05,,Off Target,24,Right Foot,,Samuel Chukwueze,Pass (Live),Gerard Moreno,Pass (Live)
+33,Alex Baena,Villarreal,0.02,,Blocked,28,Right Foot,Volley,,,,
+34,Alberto Moreno,Villarreal,0.02,,Blocked,25,Left Foot,,Alex Baena,Shot,,
+44,Daniel Parejo,Villarreal,0.10,0.06,Saved,17,Right Foot,Volley,Yeremi Pino,Pass (Live),Alberto Moreno,Pass (Live)
+47,Yeremi Pino,Villarreal,0.36,0.48,Goal,14,Right Foot,Deflected,Gerard Moreno,Pass (Live),Daniel Parejo,Pass (Live)
+53,Samuel Chukwueze,Villarreal,0.14,,Off Target,21,Left Foot,,Gerard Moreno,Pass (Live),Yeremi Pino,Pass (Live)
+63,Gerard Moreno (pen),Villarreal,0.79,0.99,Goal,13,Left Foot,,,Fouled,Samuel Chukwueze,Pass (Live)
+90,Arnaut Danjuma,Villarreal,0.07,,Blocked,16,Left Foot,,José Luis Morales,Pass (Live),Arnaut Danjuma,Pass (Live)
+90,Samuel Chukwueze,Villarreal,0.14,0.14,Saved,6,Left Foot,,Samuel Chukwueze,Take-On,Arnaut Danjuma,Pass (Live)
+90+1,Pau Torres,Villarreal,0.06,,Blocked,10,Head,,Daniel Parejo,Pass (Dead),Samuel Chukwueze,Shot
+90+1,Arnaut Danjuma,Villarreal,0.18,,Off Target,8,Right Foot,Volley,Pau Torres,Shot,,
+90+7,Arnaut Danjuma,Villarreal,0.06,0.03,Saved,16,Right Foot,,Alfonso Pedraza,Pass (Live),Manu Trigueros,Pass (Live)
+90+8,Arnaut Danjuma,Villarreal,0.60,,Off Target,36,Right Foot,,Samuel Chukwueze,Pass (Live),Samuel Chukwueze,Tackle

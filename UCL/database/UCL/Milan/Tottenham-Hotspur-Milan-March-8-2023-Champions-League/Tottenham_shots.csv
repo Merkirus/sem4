@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Emerson,Tottenham,0.09,,Blocked,17,Left Foot,,Dejan Kulusevski,Pass (Live),Harry Kane,Pass (Live)
+23,Son Heung-min,Tottenham,0.02,,Blocked,28,Right Foot,,Pierre Højbjerg,Pass (Live),Dejan Kulusevski,Tackle
+60,Pedro Porro,Tottenham,0.04,,Blocked,28,Right Foot,Free kick,Harry Kane,Fouled,Pierre Højbjerg,Pass (Live)
+64,Harry Kane,Tottenham,0.06,,Blocked,11,Right Foot,,Dejan Kulusevski,Pass (Live),Pedro Porro,Pass (Live)
+64,Pierre Højbjerg,Tottenham,0.03,0.15,Saved,13,Right Foot,,Pierre Højbjerg,Take-On,Harry Kane,Shot
+65,Harry Kane,Tottenham,0.09,,Off Target,9,Other,,Pedro Porro,Pass (Live),Pedro Porro,Pass (Dead)
+68,Harry Kane,Tottenham,0.08,,Off Target,13,Head,,Pedro Porro,Pass (Live),Cristian Romero,Pass (Live)
+71,Pedro Porro,Tottenham,0.02,,Off Target,27,Right Foot,,Richarlison,Pass (Live),Dejan Kulusevski,Pass (Live)
+90+3,Harry Kane,Tottenham,0.05,0.16,Saved,10,Head,,Son Heung-min,Pass (Dead),Pierre Højbjerg,Fouled

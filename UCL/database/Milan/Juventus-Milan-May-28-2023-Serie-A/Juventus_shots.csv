@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+13,Juan Cuadrado,Juventus,0.03,0.25,Saved,27,Right Foot,,Danilo,Pass (Live),Manuel Locatelli,Pass (Live)
+24,Ángel Di María,Juventus,0.22,,Off Target,9,Left Foot,Volley,Moise Kean,Take-On,,
+26,Federico Chiesa,Juventus,0.07,,Off Target,14,Right Foot,,,,,
+28,Moise Kean,Juventus,0.04,,Off Target,13,Left Foot,Volley,Filip Kostić,Pass (Live),Danilo,Pass (Live)
+32,Moise Kean,Juventus,0.05,0.34,Saved,20,Right Foot,,Ángel Di María,Pass (Live),Danilo,Pass (Live)
+38,Danilo,Juventus,0.02,,Off Target,32,Right Foot,,Ángel Di María,Pass (Live),Danilo,Pass (Live)
+44,Federico Chiesa,Juventus,0.03,,Blocked,27,Right Foot,,Adrien Rabiot,Pass (Live),,
+50,Federico Chiesa,Juventus,0.01,,Blocked,36,Right Foot,,,,,
+55,Adrien Rabiot,Juventus,0.03,0.18,Saved,27,Left Foot,,Manuel Locatelli,Pass (Live),Juan Cuadrado,Pass (Live)
+70,Adrien Rabiot,Juventus,0.03,,Blocked,27,Left Foot,,Manuel Locatelli,Pass (Live),Leandro Paredes,Pass (Live)
+75,Manuel Locatelli,Juventus,0.03,,Blocked,19,Left Foot,,Manuel Locatelli,Tackle,,
+76,Samuel Iling-Junior,Juventus,0.02,,Off Target,35,Left Foot,,,,,
+80,Leandro Paredes,Juventus,0.02,,Blocked,33,Right Foot,,Danilo,Pass (Live),,
+84,Federico Chiesa,Juventus,0.02,,Blocked,20,Left Foot,Deflected,Juan Cuadrado,Pass (Live),Juan Cuadrado,Pass (Live)
+84,Adrien Rabiot,Juventus,0.02,,Off Target,14,Head,,Leandro Paredes,Pass (Live),Federico Gatti,Pass (Live)
+90+2,Danilo,Juventus,0.27,,Blocked,5,Left Foot,Volley,Leandro Paredes,Pass (Dead),Leandro Paredes,Pass (Live)

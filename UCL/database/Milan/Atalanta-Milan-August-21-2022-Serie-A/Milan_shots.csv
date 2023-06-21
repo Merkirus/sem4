@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Rafael Leão,Milan,0.09,,Off Target,14,Right Foot,,Brahim Díaz,Pass (Live),Ante Rebić,Pass (Live)
+3,Rafael Leão,Milan,0.05,0.12,Saved,16,Right Foot,,Ante Rebić,Pass (Live),Rafael Leão,Pass (Live)
+19,Sandro Tonali,Milan,0.05,,Off Target,26,Right Foot,,Ismaël Bennacer,Pass (Live),Davide Calabria,Pass (Live)
+22,Theo Hernández,Milan,0.02,,Blocked,31,Left Foot,,Ismaël Bennacer,Pass (Dead),Ante Rebić,Fouled
+23,Junior Messias,Milan,0.12,,Off Target,10,Left Foot,Volley,Theo Hernández,Pass (Live),Ismaël Bennacer,Pass (Live)
+30,Theo Hernández,Milan,0.03,,Off Target,29,Left Foot,,Ismaël Bennacer,Pass (Live),Davide Calabria,Pass (Live)
+32,Pierre Kalulu,Milan,0.12,,Off Target,9,Head,,Ismaël Bennacer,Pass (Dead),Rafael Leão,Pass (Live)
+34,Rafael Leão,Milan,0.02,0.21,Saved,32,Right Foot,,Brahim Díaz,Pass (Live),Sandro Tonali,Pass (Live)
+43,Theo Hernández,Milan,0.04,,Blocked,27,Left Foot,,Ismaël Bennacer,Pass (Live),Ante Rebić,Pass (Live)
+45,Davide Calabria,Milan,0.02,,Off Target,30,Right Foot,Volley,Ismaël Bennacer,Pass (Live),Theo Hernández,Shot
+50,Pierre Kalulu,Milan,0.36,,Off Target,7,Head,,Ismaël Bennacer,Pass (Dead),Rafael Leão,Fouled
+53,Rafael Leão,Milan,0.04,,Off Target,29,Right Foot,,Ismaël Bennacer,Pass (Live),,
+60,Sandro Tonali,Milan,0.05,0.10,Saved,14,Right Foot,,Charles De Ketelaere,Pass (Live),Theo Hernández,Pass (Live)
+63,Olivier Giroud,Milan,0.02,0.11,Saved,12,Head,,Ismaël Bennacer,Pass (Live),Rafael Leão,Pass (Live)
+65,Junior Messias,Milan,0.11,,Off Target,10,Head,,Sandro Tonali,Pass (Live),Davide Calabria,Pass (Live)
+68,Ismaël Bennacer,Milan,0.03,0.15,Saved,29,Left Foot,,Alexis Saelemaekers,Pass (Live),Divock Origi,Pass (Live)
+68,Ismaël Bennacer,Milan,0.09,0.53,Goal,13,Left Foot,,Alexis Saelemaekers,Pass (Live),Ismaël Bennacer,Shot
+86,Theo Hernández,Milan,0.02,0.07,Saved,27,Left Foot,Deflected,Sandro Tonali,Pass (Live),Fikayo Tomori,Pass (Live)

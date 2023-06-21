@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Assan Ceesay,77,GAM,FW,28,90,0,0,0,0,2,1,0,0,34,0,0,0,0.0,0.0,0.0,3,0,17,26,65.4,2,15,3,2,2
+Federico Di Francesco,11,ITA,LW,28,81,0,0,0,0,1,0,0,0,26,1,0,0,0.2,0.2,0.1,3,0,5,14,35.7,1,16,4,6,2
+Lameck Banda,22,ZAM,LW,22,9,0,0,0,0,1,0,0,0,10,0,0,0,0.0,0.0,0.0,1,0,7,7,100.0,1,8,0,0,0
+Gabriel Strefezza,27,BRA,RW,25,56,0,0,0,0,0,0,0,0,20,0,0,2,0.0,0.0,0.1,1,0,5,14,35.7,1,16,1,1,1
+Remi Oudin,28,FRA,RW,26,34,0,0,0,0,1,0,0,0,26,2,0,0,0.0,0.0,0.2,3,0,15,21,71.4,5,16,0,0,0
+Youssef Maleh,32,ITA,LM,24,56,0,0,0,0,1,0,0,0,22,1,1,5,0.1,0.1,0.0,1,0,8,13,61.5,1,7,0,1,0
+Alexis Blin,29,FRA,LM,26,34,0,0,0,0,2,0,0,0,18,0,0,0,0.1,0.1,0.0,1,0,13,16,81.3,1,10,0,1,1
+Morten Hjulmand,42,DEN,CM,23,90,0,0,0,0,1,0,0,0,49,2,0,0,0.1,0.1,0.0,3,0,31,40,77.5,8,24,0,1,1
+Joan Gonzàlez,16,ESP,RM,21,82,0,0,0,0,1,0,0,0,34,2,0,2,0.0,0.0,0.0,2,0,22,25,88.0,2,18,2,1,1
+Þórir Jóhann Helgason,14,ISL,RM,22,8,0,0,0,0,1,0,0,0,5,0,1,0,0.0,0.0,0.0,0,0,2,3,66.7,0,1,0,0,0
+Giuseppe Pezzella,97,ITA,LB,25,90,0,0,0,0,0,0,0,0,60,3,0,1,0.0,0.0,0.1,2,0,43,50,86.0,4,27,3,1,1
+Samuel Umtiti,93,FRA,CB,29,90,0,0,0,0,0,0,0,0,43,1,2,2,0.0,0.0,0.0,0,0,23,26,88.5,0,20,0,2,0
+Alessandro Tuia,13,ITA,CB,32,64,0,0,0,0,0,0,0,0,34,1,3,0,0.0,0.0,0.0,0,0,16,21,76.2,1,10,0,0,0
+Simone Romagnoli,4,ITA,CB,33,26,0,0,0,0,0,0,0,0,20,1,0,0,0.0,0.0,0.0,0,0,13,16,81.3,1,6,0,0,0
+Valentin Gendrey,17,FRA,RB,22,90,0,0,0,0,0,0,0,0,40,2,1,1,0.0,0.0,0.0,0,0,26,31,83.9,2,14,0,1,0
+Wladimiro Falcone,30,ITA,GK,27,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,19,33,57.6,0,16,0,0,0

@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Rafael Leão,Milan,0.53,0.79,Saved,14,Left Foot,,Rafael Leão,Take-On,Brahim Díaz,Pass (Live)
+10,Rafael Leão,Milan,0.32,0.57,Goal,20,Left Foot,,Rafael Leão,Take-On,Sandro Tonali,Pass (Live)
+15,Sandro Tonali,Milan,0.11,0.13,Saved,22,Right Foot,,,,,
+15,Sandro Tonali,Milan,0.09,0.11,Goal,17,Right Foot,,Brahim Díaz,Pass (Live),Sandro Tonali,Shot
+20,Theo Hernández,Milan,0.02,,Blocked,33,Left Foot,,Brahim Díaz,Pass (Live),Davide Calabria,Pass (Live)
+28,Brahim Díaz,Milan,0.16,,Blocked,16,Right Foot,,Olivier Giroud,Pass (Live),Rafael Leão,Pass (Live)
+28,Brahim Díaz,Milan,0.06,,Off Target,17,Right Foot,,Sandro Tonali,Pass (Live),Brahim Díaz,Shot
+32,Olivier Giroud,Milan,0.25,0.58,Saved,8,Left Foot,,Rafael Leão,Pass (Live),Brahim Díaz,Pass (Live)
+49,Olivier Giroud,Milan,0.13,0.29,Saved,17,Left Foot,,Rafael Leão,Pass (Live),Sandro Tonali,Pass (Live)
+58,Pierre Kalulu,Milan,0.05,,Blocked,12,Right Foot,Volley,Ismaël Bennacer,Pass (Dead),Alexis Saelemaekers,Fouled
+58,Fikayo Tomori,Milan,0.23,,Blocked,6,Left Foot,,Pierre Kalulu,Shot,,
+82,Olivier Giroud,Milan,0.11,0.02,Saved,10,Left Foot,Volley,Sandro Tonali,Pass (Dead),Ismaël Bennacer,Fouled
+82,Charles De Ketelaere,Milan,0.25,0.04,Saved,12,Left Foot,,Olivier Giroud,Shot,,
+87,Sandro Tonali,Milan,0.04,,Blocked,34,Right Foot,Free kick,Rafael Leão,Fouled,Ismaël Bennacer,Pass (Live)
+90,Sergiño Dest,Milan,0.28,0.50,Saved,10,Right Foot,Volley,Aster Vranckx,Pass (Live),Charles De Ketelaere,Pass (Live)
+90+8,Charles De Ketelaere,Milan,0.09,0.07,Saved,18,Left Foot,,Charles De Ketelaere,Pass (Live),Ciprian Tătărușanu,Pass (Dead)

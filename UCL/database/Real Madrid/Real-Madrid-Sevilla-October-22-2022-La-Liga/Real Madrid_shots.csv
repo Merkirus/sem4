@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Luka Modrić,Real Madrid,0.62,0.81,Goal,3,Right Foot,,Vinicius Júnior,Pass (Live),Vinicius Júnior,Tackle
+19,David Alaba,Real Madrid,0.05,,Off Target,27,Left Foot,Free kick,Vinicius Júnior,Fouled,Federico Valverde,Pass (Live)
+22,Rodrygo,Real Madrid,0.11,,Off Target,13,Right Foot,,Federico Valverde,Pass (Live),Ferland Mendy,Pass (Live)
+25,Vinicius Júnior,Real Madrid,0.02,,Blocked,31,Right Foot,,Toni Kroos,Pass (Live),Luka Modrić,Pass (Live)
+32,Toni Kroos,Real Madrid,0.02,,Off Target,23,Right Foot,,Luka Modrić,Pass (Live),Toni Kroos,Pass (Dead)
+33,Luka Modrić,Real Madrid,0.04,,Off Target,28,Right Foot,,Federico Valverde,Pass (Live),Luka Modrić,Pass (Live)
+40,Luka Modrić,Real Madrid,0.21,,Blocked,13,Left Foot,,Rodrygo,Pass (Live),,
+46,Rodrygo,Real Madrid,0.11,,Blocked,21,Right Foot,,Federico Valverde,Pass (Live),,
+59,Vinicius Júnior,Real Madrid,0.02,0.01,Saved,25,Right Foot,,Toni Kroos,Pass (Dead),Luka Modrić,Pass (Live)
+62,Éder Militão,Real Madrid,0.02,,Blocked,31,Right Foot,,Ferland Mendy,Pass (Live),Toni Kroos,Pass (Live)
+68,Federico Valverde,Real Madrid,0.10,,Blocked,27,Right Foot,,Luka Modrić,Pass (Live),Rodrygo,Pass (Live)
+70,Rodrygo,Real Madrid,0.11,,Blocked,10,Head,,Dani Carvajal,Pass (Live),Eduardo Camavinga,Pass (Live)
+70,Federico Valverde,Real Madrid,0.03,0.41,Saved,11,Head,,Rodrygo,Shot,,
+71,Rodrygo,Real Madrid,0.04,,Off Target,27,Right Foot,,Rodrygo,Take-On,Luka Modrić,Pass (Live)
+72,Vinicius Júnior,Real Madrid,0.79,,Off Target,5,Left Foot,,Vinicius Júnior,Take-On,Rodrygo,Pass (Live)
+79,Lucas Vázquez,Real Madrid,0.65,0.26,Goal,14,Right Foot,,Vinicius Júnior,Pass (Live),Marco Asensio,Pass (Live)
+81,Marco Asensio,Real Madrid,0.02,0.04,Saved,28,Left Foot,,Federico Valverde,Pass (Live),Toni Kroos,Pass (Live)
+81,Federico Valverde,Real Madrid,0.05,0.34,Goal,24,Right Foot,,Marco Asensio,Pass (Live),Rodrygo,Pass (Live)

@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+15,Harry Kane,Tottenham,0.35,0.63,Goal,13,Right Foot,,Pierre Højbjerg,Pass (Live),,
+30,Dejan Kulusevski,Tottenham,0.04,,Blocked,23,Left Foot,,Emerson,Pass (Live),Eric Dier,Pass (Live)
+44,Eric Dier,Tottenham,0.09,,Blocked,6,Right Foot,,Ivan Perišić,Pass (Live),Pierre Højbjerg,Pass (Live)
+44,Harry Kane,Tottenham,0.07,,Blocked,10,Right Foot,Deflected,Eric Dier,Shot,,
+44,Eric Dier,Tottenham,0.08,,Blocked,10,Left Foot,,Harry Kane,Shot,,
+44,Eric Dier,Tottenham,0.05,,Off Target,10,Right Foot,,Eric Dier,Shot,,
+47,Harry Kane,Tottenham,0.27,,Off Target,15,Left Foot,,Emerson,Pass (Live),Cristian Romero,Pass (Live)
+56,Ben Davies,Tottenham,0.07,,Off Target,6,Head,,Ivan Perišić,Pass (Dead),,
+69,Harry Kane,Tottenham,0.05,,Off Target,20,Right Foot,,Rodrigo Bentancur,Pass (Live),,
+70,Harry Kane,Tottenham,0.31,0.20,Saved,10,Right Foot,,Harry Kane,Take-On,Harry Kane,Take-On
+77,Son Heung-min,Tottenham,0.02,0.21,Saved,31,Left Foot,,,,,
+77,Pierre Højbjerg,Tottenham,0.05,,Off Target,23,Right Foot,,Harry Kane,Pass (Live),Son Heung-min,Shot

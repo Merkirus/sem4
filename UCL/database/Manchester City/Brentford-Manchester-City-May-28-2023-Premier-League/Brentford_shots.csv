@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+36,Ben Mee,Brentford,0.08,0.18,Saved,8,Left Foot,,Mathias Jørgensen,Pass (Dead),Frank Onyeka,Pass (Live)
+37,Ben Mee,Brentford,0.06,,Off Target,10,Head,,Bryan Mbeumo,Pass (Dead),Ben Mee,Shot
+40,Ethan Pinnock,Brentford,0.04,,Blocked,22,Left Foot,,Mathias Jørgensen,Pass (Live),,
+40,Vitaly Janelt,Brentford,0.11,,Blocked,16,Right Foot,Volley,Ben Mee,Pass (Live),Mathias Jørgensen,Pass (Dead)
+40,Vitaly Janelt,Brentford,0.05,,Off Target,17,Left Foot,Volley,Vitaly Janelt,Shot,,
+54,Mathias Jørgensen,Brentford,0.09,,Blocked,8,Head,,Vitaly Janelt,Pass (Live),Rico Henry,Pass (Live)
+54,Ethan Pinnock,Brentford,0.13,0.09,Saved,14,Left Foot,,Ben Mee,Tackle,,
+67,Frank Onyeka,Brentford,0.02,,Off Target,32,Right Foot,,,,,
+68,Bryan Mbeumo,Brentford,0.42,0.50,Saved,10,Left Foot,,Mikkel Damsgaard,Pass (Live),Ethan Pinnock,Pass (Live)
+74,Vitaly Janelt,Brentford,0.05,,Off Target,7,Head,,Bryan Mbeumo,Pass (Dead),,
+85,Ethan Pinnock,Brentford,0.22,0.54,Goal,10,Left Foot,,Bryan Mbeumo,Pass (Live),Kevin Schade,Pass (Live)

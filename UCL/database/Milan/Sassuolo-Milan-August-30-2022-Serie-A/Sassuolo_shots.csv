@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+22,Domenico Berardi (pen),Sassuolo,0.79,0.97,Saved,13,Left Foot,,Giorgos Kyriakopoulos,Fouled,Kristian Thorstvedt,Pass (Live)
+25,Davide Frattesi,Sassuolo,0.12,,Off Target,13,Right Foot,,Domenico Berardi,Pass (Live),Andrea Pinamonti,Pass (Live)
+35,Giorgos Kyriakopoulos,Sassuolo,0.05,,Off Target,17,Right Foot,,Domenico Berardi,Pass (Live),Giorgos Kyriakopoulos,Pass (Live)
+42,Gian Marco Ferrari,Sassuolo,0.03,,Off Target,25,Left Foot,Volley,Gian Marco Ferrari,Pass (Live),Maxime Lopez,Pass (Live)
+45+1,Davide Frattesi,Sassuolo,0.03,0.28,Saved,10,Head,,Jeremy Toljan,Pass (Live),Domenico Berardi,Pass (Live)
+53,Kristian Thorstvedt,Sassuolo,0.06,0.27,Saved,25,Left Foot,,Jeremy Toljan,Pass (Live),Martin Erlic,Pass (Live)
+56,Grégoire Defrel,Sassuolo,0.02,,Blocked,24,Left Foot,,Davide Frattesi,Pass (Live),Giorgos Kyriakopoulos,Pass (Live)
+79,Andrea Pinamonti,Sassuolo,0.04,,Blocked,21,Right Foot,,Giorgos Kyriakopoulos,Pass (Live),Rogério,Pass (Dead)

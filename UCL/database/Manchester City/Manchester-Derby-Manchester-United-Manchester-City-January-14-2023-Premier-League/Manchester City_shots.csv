@@ -1,0 +1,6 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+23,Erling Haaland,Manchester City,0.10,,Blocked,18,Left Foot,,Rodri,Pass (Live),Riyad Mahrez,Pass (Live)
+45+1,Kyle Walker,Manchester City,0.02,,Off Target,34,Right Foot,,Rodri,Pass (Live),João Cancelo,Pass (Live)
+48,Bernardo Silva,Manchester City,0.02,,Blocked,26,Left Foot,,Kyle Walker,Pass (Live),Manuel Akanji,Pass (Live)
+60,Jack Grealish,Manchester City,0.44,0.90,Goal,4,Head,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+87,Erling Haaland,Manchester City,0.05,,Off Target,14,Head,,João Cancelo,Pass (Live),Jack Grealish,Pass (Live)

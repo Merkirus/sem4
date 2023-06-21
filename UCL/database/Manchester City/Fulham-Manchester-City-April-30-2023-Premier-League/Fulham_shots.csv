@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+15,Carlos Vinícius,Fulham,0.07,0.66,Goal,14,Left Foot,Volley,Harry Wilson,Pass (Live),Andreas Pereira,Pass (Live)
+45+2,Kenny Tete,Fulham,0.04,,Blocked,22,Right Foot,,Andreas Pereira,Pass (Live),Antonee Robinson,Pass (Dead)
+76,Bobby Reid,Fulham,0.03,,Off Target,33,Right Foot,,,,,
+78,Manor Solomon,Fulham,0.04,,Blocked,21,Right Foot,,João Palhinha,Fouled,,

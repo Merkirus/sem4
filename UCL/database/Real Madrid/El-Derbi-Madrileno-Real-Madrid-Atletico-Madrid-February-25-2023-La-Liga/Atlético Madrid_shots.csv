@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+22,Yannick Carrasco,Atlético Madrid,0.02,,Saved off Target,22,Right Foot,,Marcos Llorente,Pass (Live),Koke,Pass (Live)
+43,Saúl Ñíguez,Atlético Madrid,0.02,,Off Target,31,Left Foot,,Antoine Griezmann,Pass (Live),Marcos Llorente,Pass (Live)
+58,Thomas Lemar,Atlético Madrid,0.02,,Blocked,24,Left Foot,,Thomas Lemar,Take-On,Nahuel Molina,Pass (Live)
+61,Antoine Griezmann,Atlético Madrid,0.10,,Off Target,20,Left Foot,,Yannick Carrasco,Pass (Live),Ángel Correa,Pass (Live)
+72,Antoine Griezmann,Atlético Madrid,0.05,,Blocked,11,Left Foot,,Koke,Pass (Live),Antoine Griezmann,Pass (Live)
+73,Antoine Griezmann,Atlético Madrid,0.02,,Off Target,18,Head,,Koke,Pass (Live),Nahuel Molina,Pass (Live)
+78,José María Giménez,Atlético Madrid,0.08,0.58,Goal,10,Head,,Antoine Griezmann,Pass (Dead),Álvaro Morata,Fouled

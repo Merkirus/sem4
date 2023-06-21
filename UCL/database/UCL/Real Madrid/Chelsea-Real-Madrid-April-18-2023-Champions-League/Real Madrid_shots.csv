@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Rodrygo,Real Madrid,0.08,,Woodwork,13,Right Foot,,Dani Carvajal,Pass (Live),Rodrygo,Pass (Live)
+32,Karim Benzema,Real Madrid,0.05,0.07,Saved,25,Right Foot,,Rodrygo,Pass (Live),Federico Valverde,Pass (Live)
+32,Luka Modrić,Real Madrid,0.03,0.02,Saved,14,Right Foot,,Dani Carvajal,Pass (Live),Éder Militão,Pass (Live)
+41,Vinicius Júnior,Real Madrid,0.20,,Off Target,10,Left Foot,Volley,Luka Modrić,Pass (Live),Dani Carvajal,Pass (Live)
+43,Karim Benzema,Real Madrid,0.07,,Off Target,9,Left Foot,Volley,Federico Valverde,Pass (Live),Federico Valverde,Take-On
+58,Rodrygo,Real Madrid,0.28,0.91,Goal,6,Left Foot,,Vinicius Júnior,Pass (Live),Rodrygo,Pass (Live)
+66,Karim Benzema,Real Madrid,0.10,0.15,Saved,12,Left Foot,,Rodrygo,Pass (Live),Vinicius Júnior,Take-On
+80,Rodrygo,Real Madrid,0.89,0.98,Goal,2,Right Foot,,Federico Valverde,Pass (Live),Federico Valverde,Take-On
+90+4,Dani Ceballos,Real Madrid,0.09,0.08,Saved,14,Right Foot,,Federico Valverde,Pass (Live),Marco Asensio,Pass (Live)

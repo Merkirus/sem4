@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Federico Valverde,Real Madrid,0.01,,Off Target,33,Right Foot,Volley,Rodrygo,Fouled,Rodrygo,Tackle
+14,Vinicius Júnior,Real Madrid,0.09,,Off Target,12,Right Foot,,Vinicius Júnior,Take-On,Eduardo Camavinga,Pass (Live)
+32,Toni Kroos,Real Madrid,0.03,0.18,Saved,28,Right Foot,,Federico Valverde,Pass (Live),Vinicius Júnior,Pass (Live)
+32,Federico Valverde,Real Madrid,0.01,,Off Target,31,Right Foot,Volley,Toni Kroos,Shot,,
+35,Karim Benzema,Real Madrid,0.05,0.04,Saved,20,Left Foot,,Rodrygo,Pass (Live),Rodrygo,Take-On
+41,Dani Ceballos,Real Madrid,0.03,,Blocked,25,Right Foot,,Nacho,Pass (Live),Nacho,Take-On
+43,Federico Valverde,Real Madrid,0.02,,Off Target,28,Right Foot,Volley,Rodrygo,Pass (Live),Federico Valverde,Pass (Live)
+45,Dani Ceballos,Real Madrid,0.02,,Off Target,24,Right Foot,,Karim Benzema,Pass (Live),Karim Benzema,Take-On
+45+1,Vinicius Júnior,Real Madrid,0.06,0.05,Saved,20,Right Foot,,Karim Benzema,Pass (Live),,
+46,Dani Ceballos,Real Madrid,0.04,0.11,Saved,22,Right Foot,,Vinicius Júnior,Pass (Live),Eduardo Camavinga,Pass (Live)
+49,Vinicius Júnior,Real Madrid,0.10,0.05,Saved,10,Left Foot,,Karim Benzema,Pass (Live),Karim Benzema,Take-On
+49,Rodrygo,Real Madrid,0.02,,Blocked,24,Right Foot,,Vinicius Júnior,Pass (Live),Dani Ceballos,Pass (Live)
+50,Federico Valverde,Real Madrid,0.04,,Off Target,22,Right Foot,,Rodrygo,Shot,,
+54,Karim Benzema,Real Madrid,0.07,,Blocked,21,Right Foot,,Rodrygo,Pass (Live),Eduardo Camavinga,Take-On
+57,Rodrygo,Real Madrid,0.15,,Blocked,12,Right Foot,,Federico Valverde,Pass (Live),Éder Militão,Pass (Live)
+67,Éder Militão,Real Madrid,0.04,0.07,Saved,13,Head,,Federico Valverde,Pass (Live),Karim Benzema,Pass (Live)
+71,Vinicius Júnior,Real Madrid,0.32,0.16,Saved,11,Right Foot,,Vinicius Júnior,Take-On,Karim Benzema,Pass (Live)
+71,Éder Militão,Real Madrid,0.06,,Off Target,10,Head,,Dani Ceballos,Pass (Live),Toni Kroos,Pass (Dead)
+82,Luka Modrić,Real Madrid,0.07,,Off Target,14,Right Foot,,Marco Asensio,Pass (Live),Éder Militão,Pass (Live)
+87,Marco Asensio,Real Madrid,0.04,,Blocked,32,Left Foot,Free kick,Rodrygo,Fouled,Luka Modrić,Pass (Live)

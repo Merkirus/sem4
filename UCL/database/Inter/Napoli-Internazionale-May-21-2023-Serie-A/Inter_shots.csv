@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Joaquín Correa,Inter,0.02,,Blocked,27,Right Foot,,Danilo D'Ambrosio,Pass (Live),,
+30,Romelu Lukaku,Inter,0.03,,Blocked,19,Right Foot,Volley,Joaquín Correa,Pass (Live),Joaquín Correa,Take-On
+45+1,Romelu Lukaku,Inter,0.04,,Off Target,12,Left Foot,,Nicolò Barella,Pass (Live),Romelu Lukaku,Pass (Live)
+78,Denzel Dumfries,Inter,0.06,,Blocked,7,Head,,Robin Gosens,Pass (Live),Marcelo Brozović,Pass (Live)
+82,Romelu Lukaku,Inter,0.39,0.85,Goal,6,Right Foot,,Federico Dimarco,Pass (Live),Federico Dimarco,Pass (Live)
+90,Federico Dimarco,Inter,0.02,,Off Target,56,Left Foot,,,,,

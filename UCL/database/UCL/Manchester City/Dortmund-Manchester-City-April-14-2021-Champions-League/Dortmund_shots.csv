@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Mahmoud Dahoud,Dortmund,0.04,0.02,Saved,23,Right Foot,,Marco Reus,Pass (Live),,
+15,Mahmoud Dahoud,Dortmund,0.05,,Blocked,18,Right Foot,,Erling Haaland,Pass (Live),Emre Can,Pass (Live)
+15,Jude Bellingham,Dortmund,0.06,0.56,Goal,17,Right Foot,,Mahmoud Dahoud,Shot,,
+18,Marco Reus,Dortmund,0.07,,Blocked,12,Left Foot,,Mahmoud Dahoud,Pass (Live),,
+18,Manuel Akanji,Dortmund,0.06,0.12,Saved,10,Head,,Raphaël Guerreiro,Pass (Dead),Marco Reus,Shot
+42,Mahmoud Dahoud,Dortmund,0.03,,Blocked,26,Right Foot,Volley,Manuel Akanji,Pass (Live),Emre Can,Pass (Live)
+60,Mahmoud Dahoud,Dortmund,0.08,,Blocked,11,Left Foot,,,,,
+69,Mats Hummels,Dortmund,0.05,,Off Target,13,Head,,Marco Reus,Pass (Dead),Jude Bellingham,Fouled
+80,Erling Haaland,Dortmund,0.05,,Off Target,20,Left Foot,,Emre Can,Pass (Live),,
+89,Emre Can,Dortmund,0.05,,Off Target,26,Right Foot,,Emre Can,Take-On,Thorgan Hazard,Pass (Live)

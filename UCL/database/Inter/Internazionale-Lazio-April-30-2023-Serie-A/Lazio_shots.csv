@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+30,Felipe Anderson,Lazio,0.21,0.52,Goal,16,Right Foot,,Luis Alberto,Pass (Live),Felipe Anderson,Pass (Live)
+45+1,Ciro Immobile,Lazio,0.08,0.50,Saved,16,Right Foot,,Mattia Zaccagni,Pass (Live),Mattia Zaccagni,Take-On
+45+1,Felipe Anderson,Lazio,0.12,,Blocked,8,Right Foot,,Ciro Immobile,Shot,,
+45+1,Alessio Romagnoli,Lazio,0.15,0.03,Saved,11,Right Foot,Deflected,Luis Alberto,Pass (Dead),Felipe Anderson,Shot
+59,Luis Alberto,Lazio,0.11,0.14,Saved,12,Right Foot,,Felipe Anderson,Pass (Live),Luis Alberto,Pass (Live)
+70,Mattia Zaccagni,Lazio,0.02,,Blocked,32,Right Foot,,Luis Alberto,Pass (Live),Alessio Romagnoli,Pass (Dead)
+88,Sergej Milinković-Savić,Lazio,0.03,,Blocked,24,Right Foot,,Pedro,Tackle,Mattia Zaccagni,Pass (Live)
+90+3,Pedro,Lazio,0.07,0.09,Saved,12,Left Foot,,Luis Alberto,Pass (Live),Luca Pellegrini,Pass (Live)
+90+7,Pedro,Lazio,0.07,,Off Target,21,Left Foot,,Felipe Anderson,Pass (Live),Matías Vecino,Pass (Live)

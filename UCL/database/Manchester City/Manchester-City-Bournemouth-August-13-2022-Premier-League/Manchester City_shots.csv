@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Nathan Aké,Manchester City,0.01,,Blocked,15,Head,,Phil Foden,Pass (Dead),Riyad Mahrez,Pass (Live)
+4,Rodri,Manchester City,0.07,,Off Target,11,Head,,Kevin De Bruyne,Pass (Dead),,
+6,Nathan Aké,Manchester City,0.06,,Blocked,13,Left Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Dead)
+7,Riyad Mahrez,Manchester City,0.03,,Off Target,19,Left Foot,Volley,Phil Foden,Pass (Dead),Nathan Aké,Shot
+9,Kevin De Bruyne,Manchester City,0.04,,Blocked,28,Right Foot,,Kevin De Bruyne,Take-On,Kevin De Bruyne,Take-On
+9,Phil Foden,Manchester City,0.26,0.57,Saved,10,Left Foot,,Kevin De Bruyne,Shot,,
+10,Rúben Dias,Manchester City,0.01,,Blocked,17,Head,,Kevin De Bruyne,Pass (Dead),Phil Foden,Shot
+19,İlkay Gündoğan,Manchester City,0.45,0.92,Goal,12,Left Foot,,Erling Haaland,Pass (Live),Kyle Walker,Pass (Live)
+28,Rodri,Manchester City,0.07,,Off Target,24,Right Foot,,Riyad Mahrez,Pass (Live),Phil Foden,Pass (Live)
+31,Kevin De Bruyne,Manchester City,0.07,0.51,Goal,16,Right Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+37,Phil Foden,Manchester City,0.28,0.69,Goal,10,Left Foot,Deflected,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+45,Erling Haaland,Manchester City,0.02,0.20,Saved,13,Left Foot,Volley,João Cancelo,Pass (Live),Rodri,Pass (Live)
+55,Kevin De Bruyne,Manchester City,0.05,0.15,Saved,14,Right Foot,,İlkay Gündoğan,Pass (Live),Kyle Walker,Pass (Live)
+56,Riyad Mahrez,Manchester City,0.03,,Blocked,24,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Pass (Live)
+58,Kevin De Bruyne,Manchester City,0.04,,Off Target,22,Right Foot,,Jack Grealish,Pass (Live),João Cancelo,Tackle
+60,İlkay Gündoğan,Manchester City,0.06,,Off Target,25,Right Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Take-On
+61,Riyad Mahrez,Manchester City,0.03,0.17,Saved,28,Left Foot,,Kyle Walker,Pass (Live),Jack Grealish,Pass (Live)
+62,João Cancelo,Manchester City,0.04,,Blocked,22,Right Foot,,Riyad Mahrez,Pass (Live),Kyle Walker,Pass (Live)
+73,Erling Haaland,Manchester City,0.13,,Off Target,11,Left Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)

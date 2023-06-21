@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Jhon Lucumí,Bologna,0.08,,Blocked,14,Left Foot,Volley,Riccardo Orsolini,Pass (Dead),Lewis Ferguson,Fouled
+2,Jerdy Schouten,Bologna,0.12,,Off Target,13,Right Foot,,Musa Barrow,Pass (Live),Andrea Cambiaso,Pass (Live)
+12,Lewis Ferguson,Bologna,0.09,,Blocked,13,Right Foot,,Stefan Posch,Pass (Live),Nicolás Domínguez,Pass (Live)
+18,Andrea Cambiaso,Bologna,0.02,0.05,Saved,29,Left Foot,,Riccardo Orsolini,Pass (Live),Nicolás Domínguez,Pass (Live)
+18,Roberto Soriano,Bologna,0.06,,Woodwork,15,Right Foot,,Andrea Cambiaso,Shot,,
+42,Andrea Cambiaso,Bologna,0.04,0.03,Saved,17,Left Foot,,Stefan Posch,Pass (Live),Joaquin Sosa,Pass (Live)
+45,Riccardo Orsolini,Bologna,0.04,,Off Target,28,Left Foot,,Jerdy Schouten,Pass (Live),Stefan Posch,Pass (Live)
+45+3,Riccardo Orsolini,Bologna,0.03,,Off Target,31,Left Foot,Free kick,Lewis Ferguson,Fouled,,
+53,Roberto Soriano,Bologna,0.08,,Blocked,15,Right Foot,,Musa Barrow,Pass (Live),Riccardo Orsolini,Pass (Live)
+53,Nicolás Domínguez,Bologna,0.08,0.13,Saved,22,Left Foot,,Roberto Soriano,Pass (Live),Roberto Soriano,Shot
+64,Stefan Posch,Bologna,0.03,,Off Target,30,Right Foot,,Musa Barrow,Pass (Live),Roberto Soriano,Pass (Live)
+74,Musa Barrow,Bologna,0.11,0.06,Saved,14,Right Foot,,Riccardo Orsolini,Pass (Live),Lewis Ferguson,Interception
+76,Riccardo Orsolini,Bologna,0.45,0.28,Goal,17,Left Foot,Volley,Jerdy Schouten,Pass (Live),,

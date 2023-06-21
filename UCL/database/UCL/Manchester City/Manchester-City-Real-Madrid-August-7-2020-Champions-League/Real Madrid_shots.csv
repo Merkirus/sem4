@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Luka Modrić,Real Madrid,0.04,,Off Target,27,Right Foot,,Karim Benzema,Pass (Live),Rodrygo,Pass (Live)
+21,Karim Benzema,Real Madrid,0.10,0.19,Saved,18,Right Foot,,Karim Benzema,Take-On,Eden Hazard,Pass (Live)
+22,Eden Hazard,Real Madrid,0.02,0.22,Saved,25,Left Foot,,Toni Kroos,Pass (Live),Rodrygo,Pass (Dead)
+28,Karim Benzema,Real Madrid,0.36,0.83,Goal,8,Head,,Rodrygo,Pass (Live),Rodrygo,Take-On
+53,Toni Kroos,Real Madrid,0.03,,Blocked,32,Right Foot,,Eden Hazard,Pass (Live),Toni Kroos,Pass (Live)
+55,Karim Benzema,Real Madrid,0.03,,Off Target,22,Right Foot,,Toni Kroos,Pass (Live),Dani Carvajal,Pass (Live)
+63,Karim Benzema,Real Madrid,0.04,,Blocked,20,Right Foot,,Toni Kroos,Pass (Live),Toni Kroos,Interception
+64,Karim Benzema,Real Madrid,0.05,0.02,Saved,18,Right Foot,,Marco Asensio,Pass (Live),Toni Kroos,Pass (Live)
+70,Luka Modrić,Real Madrid,0.08,,Blocked,9,Right Foot,,Karim Benzema,Pass (Live),Dani Carvajal,Pass (Live)

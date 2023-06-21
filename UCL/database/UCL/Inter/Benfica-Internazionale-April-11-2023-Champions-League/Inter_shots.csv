@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Edin Džeko,Inter,0.09,,Off Target,14,Head,,Federico Dimarco,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+25,Francesco Acerbi,Inter,0.01,,Off Target,38,Left Foot,,Marcelo Brozović,Tackle,,
+51,Nicolò Barella,Inter,0.23,0.69,Goal,8,Head,,Alessandro Bastoni,Pass (Live),Francesco Acerbi,Pass (Live)
+66,Henrikh Mkhitaryan,Inter,0.13,0.56,Saved,11,Left Foot,,Joaquín Correa,Pass (Live),Nicolò Barella,Pass (Live)
+68,Nicolò Barella,Inter,0.03,,Blocked,30,Right Foot,Volley,Robin Gosens,Pass (Live),Matteo Darmian,Pass (Live)
+74,Nicolò Barella,Inter,0.03,,Off Target,25,Right Foot,,Henrikh Mkhitaryan,Pass (Live),Joaquín Correa,Pass (Live)
+78,Denzel Dumfries,Inter,0.07,0.05,Saved,8,Head,,Alessandro Bastoni,Pass (Live),Marcelo Brozović,Pass (Live)
+78,Denzel Dumfries,Inter,0.35,,Blocked,7,Left Foot,,Denzel Dumfries,Shot,,
+82,Romelu Lukaku (pen),Inter,0.79,0.99,Goal,13,Left Foot,,,Fouled,Nicolò Barella,Pass (Live)

@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Lautaro Martínez,Inter,0.05,,Off Target,19,Right Foot,,Romelu Lukaku,Pass (Live),Samir Handanović,Pass (Live)
+22,Denzel Dumfries,Inter,0.09,,Off Target,9,Left Foot,Deflected,Hakan Çalhanoğlu,Pass (Dead),Hakan Çalhanoğlu,Pass (Live)
+32,Romelu Lukaku,Inter,0.05,,Blocked,14,Left Foot,,Romelu Lukaku,Take-On,Samir Handanović,Pass (Live)
+32,Stefan de Vrij,Inter,0.10,0.13,Saved,8,Head,,Hakan Çalhanoğlu,Pass (Dead),Romelu Lukaku,Shot
+37,Marcelo Brozović,Inter,0.05,0.08,Goal,25,Left Foot,,Romelu Lukaku,Pass (Live),Lautaro Martínez,Pass (Live)
+45,Roberto Gagliardini,Inter,0.02,,Off Target,29,Right Foot,Volley,Romelu Lukaku,Pass (Live),Marcelo Brozović,Pass (Live)
+45+1,Marcelo Brozović,Inter,0.11,,Blocked,17,Right Foot,,Romelu Lukaku,Pass (Live),Marcelo Brozović,Pass (Live)
+45+1,Roberto Gagliardini,Inter,0.05,,Off Target,11,Head,,Hakan Çalhanoğlu,Pass (Dead),Marcelo Brozović,Shot
+53,Hakan Çalhanoğlu,Inter,0.03,0.04,Saved,29,Right Foot,,Romelu Lukaku,Pass (Live),Roberto Gagliardini,Pass (Live)
+56,Edin Džeko,Inter,0.03,,Off Target,26,Left Foot,,Marcelo Brozović,Pass (Live),Roberto Gagliardini,Pass (Live)
+59,Roberto Gagliardini,Inter,0.08,,Off Target,7,Head,,Marcelo Brozović,Pass (Dead),Nicolò Barella,Fouled
+66,Romelu Lukaku,Inter,0.13,0.05,Saved,12,Head,,Denzel Dumfries,Pass (Live),Robin Gosens,Pass (Live)
+80,Edin Džeko,Inter,0.11,,Woodwork,15,Right Foot,,Romelu Lukaku,Pass (Live),Edin Džeko,Pass (Live)
+90+4,Romelu Lukaku,Inter,0.10,,Off Target,19,Left Foot,,Nicolò Barella,Pass (Live),Marcelo Brozović,Pass (Live)

@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Filip Kostić,Juventus,0.13,,Off Target,16,Right Foot,,Juan Cuadrado,Pass (Live),Arkadiusz Milik,Pass (Live)
+9,Juan Cuadrado,Juventus,0.04,,Off Target,17,Right Foot,,Dušan Vlahović,Pass (Live),Manuel Locatelli,Pass (Live)
+12,Arkadiusz Milik,Juventus,0.05,0.06,Saved,17,Left Foot,,Juan Cuadrado,Pass (Live),Danilo,Pass (Live)
+13,Danilo,Juventus,0.02,,Off Target,30,Right Foot,,Gleison Bremer,Pass (Live),Adrien Rabiot,Pass (Live)
+21,Filip Kostić,Juventus,0.06,,Blocked,16,Left Foot,,Juan Cuadrado,Pass (Live),Arkadiusz Milik,Pass (Live)
+71,Arkadiusz Milik,Juventus,0.10,0.03,Saved,9,Head,,Danilo,Pass (Live),Fabio Miretti,Pass (Live)
+84,Moise Kean,Juventus,0.18,,Blocked,15,Right Foot,,Arkadiusz Milik,Pass (Live),Moise Kean,Pass (Live)
+90,Moise Kean,Juventus,0.01,0.04,Saved,35,Left Foot,,Leandro Paredes,Pass (Live),Moise Kean,Pass (Live)
+90,Weston McKennie,Juventus,0.10,,Blocked,9,Head,,Matìas Soulé,Pass (Dead),Moise Kean,Shot
+90,Gleison Bremer,Juventus,0.09,,Blocked,15,Left Foot,,Weston McKennie,Shot,,

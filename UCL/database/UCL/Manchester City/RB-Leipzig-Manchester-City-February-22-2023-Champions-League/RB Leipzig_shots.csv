@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+45+2,Timo Werner,RB Leipzig,0.06,0.18,Saved,15,Right Foot,Deflected,Emil Forsberg,Pass (Live),Konrad Laimer,Pass (Live)
+48,Timo Werner,RB Leipzig,0.03,,Blocked,17,Left Foot,,Marcel Halstenberg,Pass (Live),Xaver Schlager,Pass (Live)
+53,Benjamin Henrichs,RB Leipzig,0.06,,Off Target,13,Head,,Marcel Halstenberg,Pass (Live),Timo Werner,Pass (Live)
+55,Benjamin Henrichs,RB Leipzig,0.21,,Off Target,14,Right Foot,,Dominik Szoboszlai,Pass (Live),Xaver Schlager,Pass (Live)
+63,André Silva,RB Leipzig,0.20,0.21,Saved,7,Right Foot,,André Silva,Take-On,Joško Gvardiol,Pass (Live)
+69,Dominik Szoboszlai,RB Leipzig,0.02,0.34,Saved,33,Right Foot,,Timo Werner,Pass (Live),Marcel Halstenberg,Pass (Dead)
+70,Joško Gvardiol,RB Leipzig,0.20,0.50,Goal,4,Head,,Marcel Halstenberg,Pass (Live),Timo Werner,Pass (Dead)

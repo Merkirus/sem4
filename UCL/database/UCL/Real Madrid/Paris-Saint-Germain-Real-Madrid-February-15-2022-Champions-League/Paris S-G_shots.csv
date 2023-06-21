@@ -1,0 +1,22 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Ángel Di María,Paris S-G,0.16,,Off Target,11,Left Foot,,Nuno Mendes,Pass (Live),Leandro Paredes,Pass (Live)
+15,Ángel Di María,Paris S-G,0.02,,Blocked,27,Left Foot,,Achraf Hakimi,Pass (Live),Achraf Hakimi,Take-On
+18,Kylian Mbappé,Paris S-G,0.31,0.31,Saved,14,Left Foot,,Lionel Messi,Pass (Live),Leandro Paredes,Pass (Live)
+18,Danilo Pereira,Paris S-G,0.16,,Off Target,8,Head,,Lionel Messi,Pass (Dead),Kylian Mbappé,Shot
+32,Lionel Messi,Paris S-G,0.06,,Off Target,18,Right Foot,,Lionel Messi,Take-On,Ángel Di María,Pass (Live)
+45,Lionel Messi,Paris S-G,0.05,,Blocked,22,Left Foot,,Marco Verratti,Pass (Live),Marco Verratti,Take-On
+50,Kylian Mbappé,Paris S-G,0.11,0.04,Saved,16,Right Foot,Deflected,Achraf Hakimi,Pass (Live),Marco Verratti,Pass (Live)
+50,Lionel Messi,Paris S-G,0.06,,Off Target,15,Left Foot,Volley,Kylian Mbappé,Shot,,
+51,Ángel Di María,Paris S-G,0.03,,Off Target,18,Left Foot,,Lionel Messi,Pass (Live),Nuno Mendes,Pass (Live)
+52,Nuno Mendes,Paris S-G,0.01,0.04,Saved,34,Left Foot,,Kylian Mbappé,Fouled,Marco Verratti,Pass (Live)
+53,Kylian Mbappé,Paris S-G,0.08,,Blocked,18,Right Foot,,Marco Verratti,Pass (Live),,
+53,Lionel Messi,Paris S-G,0.04,0.04,Saved,27,Left Foot,,Kylian Mbappé,Pass (Live),Marco Verratti,Pass (Live)
+56,Kylian Mbappé,Paris S-G,0.05,0.02,Saved,25,Right Foot,,Marco Verratti,Pass (Live),Nuno Mendes,Pass (Live)
+60,Lionel Messi,Paris S-G,0.04,,Blocked,27,Left Foot,,Marco Verratti,Pass (Live),Nuno Mendes,Pass (Live)
+62,Lionel Messi (pen),Paris S-G,0.79,0.97,Saved,13,Left Foot,,Kylian Mbappé,Fouled,Lionel Messi,Pass (Live)
+65,Lionel Messi,Paris S-G,0.05,,Blocked,25,Left Foot,,Marco Verratti,Pass (Live),Kylian Mbappé,Pass (Live)
+75,Lionel Messi,Paris S-G,0.08,,Off Target,29,Left Foot,Free kick,Neymar,Fouled,Kylian Mbappé,Pass (Live)
+77,Kylian Mbappé,Paris S-G,0.06,,Off Target,14,Right Foot,,Lionel Messi,Pass (Live),Marco Verratti,Pass (Live)
+79,Kylian Mbappé,Paris S-G,0.09,,Blocked,14,Right Foot,,Achraf Hakimi,Pass (Live),,
+90+3,Idrissa Gana Gueye,Paris S-G,0.07,0.07,Saved,28,Right Foot,,Idrissa Gana Gueye,Take-On,Marco Verratti,Pass (Live)
+90+4,Kylian Mbappé,Paris S-G,0.18,0.11,Goal,10,Right Foot,Deflected,Kylian Mbappé,Take-On,Kylian Mbappé,Take-On

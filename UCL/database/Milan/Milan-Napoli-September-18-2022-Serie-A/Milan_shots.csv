@@ -1,0 +1,23 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Theo Hernández,Milan,0.04,,Off Target,22,Left Foot,Volley,Simon Kjær,Pass (Live),Fikayo Tomori,Pass (Live)
+7,Olivier Giroud,Milan,0.08,,Off Target,9,Left Foot,Volley,Theo Hernández,Shot,,
+12,Olivier Giroud,Milan,0.14,,Off Target,9,Head,,Sandro Tonali,Pass (Live),Charles De Ketelaere,Pass (Live)
+13,Olivier Giroud,Milan,0.21,0.29,Saved,12,Left Foot,,Rade Krunić,Pass (Live),Sandro Tonali,Pass (Live)
+21,Olivier Giroud,Milan,0.12,,Off Target,9,Head,,Theo Hernández,Pass (Live),Sandro Tonali,Pass (Live)
+25,Olivier Giroud,Milan,0.32,,Off Target,4,Left Foot,Volley,Charles De Ketelaere,Pass (Live),Rade Krunić,Pass (Live)
+27,Sandro Tonali,Milan,0.00,,Blocked,31,Right Foot,Free kick,Theo Hernández,Fouled,,
+28,Rade Krunić,Milan,0.06,0.14,Saved,6,Head,,Ismaël Bennacer,Pass (Dead),Sandro Tonali,Shot
+28,Charles De Ketelaere,Milan,0.07,,Off Target,10,Head,,Ismaël Bennacer,Pass (Dead),Rade Krunić,Shot
+31,Rade Krunić,Milan,0.09,,Blocked,12,Right Foot,,Sandro Tonali,Pass (Live),Olivier Giroud,Pass (Live)
+38,Rade Krunić,Milan,0.02,,Off Target,15,Head,,Ismaël Bennacer,Pass (Live),Alexis Saelemaekers,Pass (Live)
+57,Theo Hernández,Milan,0.08,,Blocked,6,Head,,Alexis Saelemaekers,Pass (Live),Sergiño Dest,Pass (Live)
+59,Olivier Giroud,Milan,0.06,,Blocked,9,Left Foot,,Fikayo Tomori,Pass (Live),Ismaël Bennacer,Pass (Live)
+60,Alexis Saelemaekers,Milan,0.02,,Off Target,32,Left Foot,Volley,Olivier Giroud,Fouled,Sergiño Dest,Pass (Dead)
+62,Alexis Saelemaekers,Milan,0.06,,Blocked,16,Right Foot,,Olivier Giroud,Pass (Live),Theo Hernández,Pass (Live)
+68,Junior Messias,Milan,0.10,0.27,Saved,17,Left Foot,,Charles De Ketelaere,Pass (Live),Ismaël Bennacer,Pass (Live)
+69,Olivier Giroud,Milan,0.60,0.91,Goal,9,Left Foot,,Theo Hernández,Pass (Live),Charles De Ketelaere,Pass (Live)
+75,Olivier Giroud,Milan,0.06,,Off Target,20,Left Foot,,Charles De Ketelaere,Pass (Live),Sandro Tonali,Pass (Live)
+84,Yacine Adli,Milan,0.02,0.06,Saved,33,Right Foot,,Ismaël Bennacer,Pass (Live),,
+86,Pierre Kalulu,Milan,0.20,,Woodwork,8,Right Foot,,Olivier Giroud,Pass (Live),Theo Hernández,Pass (Live)
+90+7,Brahim Díaz,Milan,0.10,,Blocked,8,Head,,Ismaël Bennacer,Pass (Live),Ismaël Bennacer,Pass (Live)
+90+7,Pierre Kalulu,Milan,0.21,,Blocked,6,Head,,Sandro Tonali,Pass (Dead),Brahim Díaz,Shot

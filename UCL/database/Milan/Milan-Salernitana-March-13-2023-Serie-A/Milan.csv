@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Olivier Giroud,9,FRA,FW,36,61,1,0,0,0,4,1,1,0,23,0,0,2,0.5,0.5,0.0,1,0,5,14,35.7,0,8,0,0,0
+Zlatan Ibrahimović,11,SWE,FW,41,29,0,0,0,0,3,1,0,0,15,0,0,0,0.3,0.3,0.2,1,0,6,9,66.7,1,8,0,0,0
+Rafael Leão,17,POR,AM,23,61,0,0,0,0,5,0,0,0,23,0,0,0,0.3,0.3,0.0,2,0,4,11,36.4,0,17,3,5,2
+Charles De Ketelaere,90,BEL,AM,22,29,0,0,0,0,1,0,0,0,14,1,0,0,0.1,0.1,0.0,3,0,10,10,100.0,3,10,1,1,1
+Brahim Díaz,10,ESP,AM,23,61,0,0,0,0,0,0,0,0,38,1,0,0,0.0,0.0,0.0,4,0,26,32,81.3,2,34,3,3,1
+Divock Origi,27,BEL,AM,27,29,0,0,0,0,2,1,0,0,10,0,0,0,0.2,0.2,0.0,1,0,4,5,80.0,1,7,1,1,0
+Rade Krunić,33,BIH,CM,29,90,0,0,0,0,1,0,0,0,73,3,1,2,0.1,0.1,0.0,3,0,55,63,87.3,1,50,2,2,2
+Ismaël Bennacer,4,ALG,CM,25,84,0,1,0,0,4,0,0,0,100,2,1,4,0.2,0.2,0.5,8,1,74,83,89.2,10,69,3,2,2
+Sandro Tonali,8,ITA,CM,22,6,0,0,0,0,0,0,0,0,14,3,0,1,0.0,0.0,0.0,0,0,5,10,50.0,1,6,1,1,0
+Theo Hernández,19,FRA,WB,25,90,0,0,0,0,2,0,0,0,60,1,0,1,0.1,0.1,0.0,0,0,39,54,72.2,3,36,4,1,1
+Alexis Saelemaekers,56,BEL,WB,23,76,0,0,0,0,1,0,0,0,46,2,0,0,0.0,0.0,0.3,5,1,34,41,82.9,2,24,4,0,0
+Alessandro Florenzi,25,ITA,WB,32,14,0,0,0,0,1,0,0,0,11,0,0,0,0.5,0.5,0.1,1,0,6,9,66.7,1,7,0,0,0
+Fikayo Tomori,23,ENG,CB,25,90,0,0,0,0,0,0,1,0,94,3,3,1,0.0,0.0,0.0,1,0,70,82,85.4,6,63,0,0,0
+Malick Thiaw,28,GER,CB,21,90,0,0,0,0,0,0,0,0,94,2,0,1,0.0,0.0,0.0,3,0,79,87,90.8,9,73,3,0,0
+Pierre Kalulu,20,FRA,CB,22,90,0,0,0,0,0,0,0,0,97,3,2,2,0.0,0.0,0.1,5,0,80,85,94.1,7,75,8,0,0
+Mike Maignan,16,FRA,GK,27,90,0,0,0,0,0,0,0,0,36,1,0,0,0.0,0.0,0.0,0,0,30,33,90.9,1,31,0,0,0

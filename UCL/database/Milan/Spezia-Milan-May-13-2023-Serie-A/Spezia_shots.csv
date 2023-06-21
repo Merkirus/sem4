@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,M'Bala Nzola,Spezia,0.12,,Blocked,14,Left Foot,,Arkadiusz Reca,Pass (Live),Salvatore Esposito,Pass (Dead)
+17,M'Bala Nzola,Spezia,0.08,,Off Target,15,Right Foot,,Arkadiusz Reca,Pass (Live),Emmanuel Gyasi,Tackle
+27,Kelvin Amian,Spezia,0.11,,Off Target,11,Head,,Arkadiusz Reca,Pass (Live),Emmanuel Gyasi,Pass (Live)
+29,Arkadiusz Reca,Spezia,0.07,,Blocked,15,Right Foot,,Arkadiusz Reca,Take-On,Mehdi Bourabia,Pass (Live)
+29,Mehdi Bourabia,Spezia,0.04,,Off Target,21,Right Foot,,Albin Ekdal,Pass (Live),M'Bala Nzola,Pass (Live)
+30,Arkadiusz Reca,Spezia,0.03,,Blocked,23,Left Foot,,M'Bala Nzola,Pass (Live),Dimitris Nikolaou,Pass (Live)
+44,Albin Ekdal,Spezia,0.04,,Off Target,13,Head,,Salvatore Esposito,Pass (Dead),Ethan Ampadu,Fouled
+49,Arkadiusz Reca,Spezia,0.08,,Blocked,17,Left Foot,,Salvatore Esposito,Pass (Live),Kelvin Amian,Pass (Live)
+56,Mehdi Bourabia,Spezia,0.05,,Off Target,24,Right Foot,,Emmanuel Gyasi,Pass (Live),M'Bala Nzola,Pass (Live)
+68,M'Bala Nzola,Spezia,0.08,0.14,Saved,15,Left Foot,,Emmanuel Gyasi,Pass (Live),Albin Ekdal,Pass (Live)
+68,Albin Ekdal,Spezia,0.18,0.05,Saved,8,Right Foot,,Arkadiusz Reca,Pass (Live),Emmanuel Gyasi,Pass (Live)
+75,Kelvin Amian,Spezia,0.40,,Woodwork,4,Head,,Salvatore Esposito,Pass (Dead),Emmanuel Gyasi,Pass (Live)
+75,Przemysław Wiśniewski,Spezia,0.77,0.69,Goal,4,Right Foot,Volley,Kelvin Amian,Shot,,
+85,Salvatore Esposito,Spezia,0.06,0.45,Goal,25,Right Foot,Free kick,M'Bala Nzola,Fouled,Albin Ekdal,Pass (Live)

@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+35,Sandi Lovrić,Udinese,0.04,,Blocked,25,Right Foot,,Florian Thauvin,Pass (Dead),Sandi Lovrić,Pass (Live)
+43,Sandi Lovrić,Udinese,0.12,0.12,Goal,13,Right Foot,Deflected,Roberto Pereyra,Pass (Live),Kingsley Ehizibue,Pass (Live)
+56,Rodrigo Becão,Udinese,0.02,,Off Target,33,Right Foot,,Walace,Pass (Live),Walace,Pass (Live)
+62,Rodrigo Becão,Udinese,0.06,,Off Target,11,Right Foot,Volley,Roberto Pereyra,Pass (Live),Sandi Lovrić,Pass (Dead)
+72,Isaac Success,Udinese,0.30,,Blocked,16,Left Foot,,Isaac Success,Take-On,Walace,Pass (Live)
+83,Festy Ebosele,Udinese,0.05,,Blocked,21,Left Foot,,Iyenoma Udogie,Pass (Live),Isaac Success,Pass (Live)
+85,Lazar Samardzic,Udinese,0.04,,Off Target,16,Left Foot,,Festy Ebosele,Pass (Live),Jaka Bijol,Pass (Live)
+90,Isaac Success,Udinese,0.13,,Off Target,21,Right Foot,,Isaac Success,Take-On,,
+90+3,Isaac Success,Udinese,0.06,,Blocked,15,Right Foot,Volley,Tolgay Arslan,Pass (Live),Rodrigo Becão,Pass (Live)

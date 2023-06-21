@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+8,Rafael Leão,Milan,0.20,0.65,Saved,6,Left Foot,,Rafael Leão,Take-On,Olivier Giroud,Pass (Live)
+17,Olivier Giroud,Milan,0.08,,Off Target,16,Left Foot,Volley,Theo Hernández,Pass (Live),Alexis Saelemaekers,Pass (Live)
+17,Ismaël Bennacer,Milan,0.18,0.56,Goal,12,Left Foot,Volley,Olivier Giroud,Pass (Live),Ismaël Bennacer,Interception
+29,Theo Hernández,Milan,0.03,0.19,Goal,30,Left Foot,Deflected,Theo Hernández,Take-On,Mike Maignan,Pass (Live)
+45,Alexis Saelemaekers,Milan,0.02,,Blocked,28,Right Foot,,Alexis Saelemaekers,Take-On,Ismaël Bennacer,Pass (Live)
+45+1,Theo Hernández,Milan,0.07,,Blocked,14,Left Foot,,Alexis Saelemaekers,Shot,,
+47,Ismaël Bennacer,Milan,0.05,,Off Target,23,Left Foot,,Rade Krunić,Pass (Live),Pierre Kalulu,Pass (Live)
+51,Ismaël Bennacer,Milan,0.07,,Blocked,22,Left Foot,Volley,Rade Krunić,Pass (Live),Olivier Giroud,Pass (Live)
+56,Junior Messias,Milan,0.06,,Off Target,13,Right Foot,Volley,Fikayo Tomori,Pass (Live),Theo Hernández,Pass (Live)
+65,Malick Thiaw,Milan,0.09,,Off Target,8,Head,,Sandro Tonali,Pass (Dead),,

@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Rodrygo,Real Madrid,0.33,,Off Target,9,Right Foot,,Lucas Vázquez,Pass (Live),Dani Ceballos,Pass (Live)
+29,Rodrygo,Real Madrid,0.06,0.32,Goal,30,Right Foot,Free kick,Aurélien Tchouaméni,Fouled,Éder Militão,Pass (Live)
+61,David Alaba,Real Madrid,0.05,,Off Target,17,Left Foot,,Rodrygo,Pass (Live),Toni Kroos,Pass (Dead)
+69,Rodrygo,Real Madrid,0.16,0.51,Goal,14,Right Foot,,Rodrygo,Take-On,Toni Kroos,Pass (Live)
+88,Toni Kroos,Real Madrid,0.08,0.07,Saved,19,Left Foot,,Dani Ceballos,Pass (Live),Dani Ceballos,Take-On
+90+9,Antonio Rüdiger,Real Madrid,0.09,,Blocked,23,Right Foot,,Eduardo Camavinga,Pass (Live),Nacho,Pass (Live)

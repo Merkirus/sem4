@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+19,Simone Verdi,Hellas Verona,0.06,0.04,Saved,11,Left Foot,,Darko Lazović,Pass (Live),Lorenzo Montipò,Pass (Live)
+34,Isak Hien,Hellas Verona,0.12,,Off Target,9,Head,,Simone Verdi,Pass (Dead),Simone Verdi,Fouled
+44,Adolfo Gaich,Hellas Verona,0.08,0.09,Saved,15,Right Foot,Volley,Davide Faraoni,Pass (Live),Giangiacomo Magnani,Pass (Live)
+50,Adolfo Gaich,Hellas Verona,0.17,,Off Target,11,Left Foot,,Josh Doig,Pass (Live),Federico Ceccherini,Pass (Live)
+57,Adolfo Gaich,Hellas Verona,0.07,,Off Target,10,Right Foot,,Fabio Depaoli,Pass (Live),Ondrej Duda,Pass (Live)
+73,Davide Faraoni,Hellas Verona,0.02,,Blocked,26,Right Foot,,Josh Doig,Pass (Dead),,
+74,Fabio Depaoli,Hellas Verona,0.03,,Blocked,25,Right Foot,,Adrien Tameze,Pass (Live),Josh Doig,Pass (Dead)

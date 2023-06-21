@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+22,Olivier Giroud (pen),Milan,0.79,0.96,Saved,13,Left Foot,,Rafael Leão,Fouled,Theo Hernández,Pass (Live)
+28,Olivier Giroud,Milan,0.31,0.38,Saved,12,Left Foot,,Sandro Tonali,Pass (Live),Ismaël Bennacer,Pass (Live)
+28,Rafael Leão,Milan,0.05,,Off Target,26,Right Foot,,Olivier Giroud,Shot,,
+43,Olivier Giroud,Milan,0.77,0.93,Goal,9,Left Foot,,Rafael Leão,Pass (Live),Rafael Leão,Take-On
+84,Alexis Saelemaekers,Milan,0.03,0.04,Saved,18,Right Foot,,Alexis Saelemaekers,Take-On,Sandro Tonali,Pass (Dead)
+85,Junior Messias,Milan,0.07,,Blocked,16,Left Foot,,Simon Kjær,Pass (Live),Fikayo Tomori,Pass (Dead)

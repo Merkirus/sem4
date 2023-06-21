@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Sergej Milinković-Savić,Lazio,0.09,,Off Target,6,Right Foot,Volley,Luis Alberto,Pass (Live),Mattia Zaccagni,Pass (Live)
+34,Mattia Zaccagni,Lazio,0.03,,Blocked,18,Right Foot,,Luis Alberto,Pass (Live),,
+35,Ciro Immobile,Lazio,0.03,,Blocked,27,Right Foot,,,,,
+39,Ciro Immobile,Lazio,0.06,,Off Target,13,Head,,Elseid Hysaj,Pass (Live),Mattia Zaccagni,Pass (Live)
+87,Luca Pellegrini,Lazio,0.05,,Off Target,13,Left Foot,,Luis Alberto,Pass (Live),Luca Pellegrini,Pass (Live)
+90,Luis Alberto,Lazio,0.05,,Blocked,27,Right Foot,"Free kick, Deflected",Toma Bašić,Fouled,Luis Alberto,Pass (Live)
+90,Alessio Romagnoli,Lazio,0.42,,Off Target,3,Head,,Luis Alberto,Pass (Dead),Luis Alberto,Shot
+90+5,Toma Bašić,Lazio,0.50,,Off Target,9,Left Foot,,Pedro,Pass (Live),Luis Alberto,Pass (Live)

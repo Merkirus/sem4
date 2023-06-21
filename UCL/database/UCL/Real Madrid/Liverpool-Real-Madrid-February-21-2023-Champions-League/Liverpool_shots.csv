@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Darwin Núñez,Liverpool,0.56,0.87,Goal,9,Right Foot,,Mohamed Salah,Pass (Live),Jordan Henderson,Pass (Live)
+12,Mohamed Salah,Liverpool,0.13,,Off Target,12,Left Foot,,Mohamed Salah,Take-On,Cody Gakpo,Pass (Live)
+14,Mohamed Salah,Liverpool,0.25,0.37,Goal,9,Left Foot,,,,,
+23,Andrew Robertson,Liverpool,0.04,,Blocked,16,Left Foot,Volley,Trent Alexander-Arnold,Pass (Live),Trent Alexander-Arnold,Pass (Dead)
+25,Mohamed Salah,Liverpool,0.23,,Blocked,5,Left Foot,,Jordan Henderson,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+25,Darwin Núñez,Liverpool,0.65,,Blocked,2,Right Foot,Deflected,Mohamed Salah,Shot,,
+45,Trent Alexander-Arnold,Liverpool,0.05,0.16,Saved,31,Right Foot,Free kick,,Fouled,Stefan Bajcetic,Pass (Live)
+65,Stefan Bajcetic,Liverpool,0.02,,Off Target,33,Right Foot,,Joe Gomez,Interception,,
+70,Roberto Firmino,Liverpool,0.05,0.04,Saved,11,Head,Deflected,Trent Alexander-Arnold,Pass (Dead),Joe Gomez,Pass (Live)

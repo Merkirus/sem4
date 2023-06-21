@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Phil Foden,Manchester City,0.04,,Off Target,12,Left Foot,Volley,João Cancelo,Pass (Live),Rúben Dias,Pass (Live)
+13,Erling Haaland,Manchester City,0.08,,Off Target,9,Head,,Riyad Mahrez,Pass (Dead),Phil Foden,Pass (Dead)
+23,Erling Haaland,Manchester City,0.06,,Off Target,13,Left Foot,,Phil Foden,Pass (Live),Rúben Dias,Pass (Live)
+32,Erling Haaland,Manchester City,0.02,,Off Target,11,Head,,João Cancelo,Pass (Live),Riyad Mahrez,Pass (Live)
+39,Phil Foden,Manchester City,0.25,,Off Target,9,Head,,Bernardo Silva,Pass (Live),Riyad Mahrez,Pass (Live)
+44,Kevin De Bruyne,Manchester City,0.04,,Blocked,29,Right Foot,,,,,
+44,Kevin De Bruyne,Manchester City,0.06,,Blocked,22,Left Foot,Deflected,Kevin De Bruyne,Shot,,
+53,Bernardo Silva,Manchester City,0.04,0.07,Goal,20,Left Foot,Deflected,Rodri,Pass (Live),Kevin De Bruyne,Pass (Live)
+61,Bernardo Silva,Manchester City,0.07,,Off Target,12,Right Foot,,Bernardo Silva,Take-On,Kevin De Bruyne,Pass (Live)
+62,Erling Haaland,Manchester City,0.36,0.76,Goal,6,Head,,Phil Foden,Pass (Live),Kevin De Bruyne,Pass (Live)
+70,Kevin De Bruyne,Manchester City,0.02,,Blocked,28,Left Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+70,John Stones,Manchester City,0.23,,Off Target,10,Right Foot,,Bernardo Silva,Pass (Live),Julián Álvarez,Pass (Live)
+70,Erling Haaland,Manchester City,0.63,0.26,Goal,3,Left Foot,,John Stones,Shot,,
+73,Erling Haaland,Manchester City,0.05,,Off Target,15,Head,,Phil Foden,Pass (Live),Julián Álvarez,Pass (Live)
+79,Bernardo Silva,Manchester City,0.05,,Blocked,16,Right Foot,,Kyle Walker,Pass (Live),,
+81,Erling Haaland,Manchester City,0.22,0.55,Goal,14,Left Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+85,İlkay Gündoğan,Manchester City,0.10,0.13,Saved,9,Head,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+90+1,Sergio Gómez,Manchester City,0.10,,Off Target,17,Left Foot,,Bernardo Silva,Pass (Live),Bernardo Silva,Take-On

@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Eddie Nketiah,Arsenal,0.04,,Blocked,13,Right Foot,,Martinelli,Pass (Live),Martinelli,Take-On
+2,Granit Xhaka,Arsenal,0.05,,Off Target,20,Left Foot,,Eddie Nketiah,Shot,,
+12,Eddie Nketiah,Arsenal,0.05,,Blocked,19,Right Foot,,Jorginho,Pass (Live),Jorginho,Interception
+22,Eddie Nketiah,Arsenal,0.29,,Off Target,9,Head,,Oleksandr Zinchenko,Pass (Live),Martinelli,Pass (Live)
+24,Martin Ødegaard,Arsenal,0.02,,Blocked,25,Left Foot,,Martinelli,Pass (Dead),Martinelli,Pass (Live)
+28,Takehiro Tomiyasu,Arsenal,0.10,,Off Target,13,Left Foot,Volley,Oleksandr Zinchenko,Pass (Live),Martin Ødegaard,Pass (Live)
+42,Bukayo Saka (pen),Arsenal,0.79,0.99,Goal,13,Left Foot,,Eddie Nketiah,Fouled,Granit Xhaka,Pass (Live)
+83,Martin Ødegaard,Arsenal,0.09,,Blocked,21,Left Foot,,Leandro Trossard,Pass (Live),Gabriel Dos Santos,Pass (Live)
+87,Ben White,Arsenal,0.03,,Blocked,29,Right Foot,,Martin Ødegaard,Pass (Live),,
+89,Eddie Nketiah,Arsenal,0.17,,Off Target,11,Head,,Bukayo Saka,Pass (Live),Oleksandr Zinchenko,Pass (Live)

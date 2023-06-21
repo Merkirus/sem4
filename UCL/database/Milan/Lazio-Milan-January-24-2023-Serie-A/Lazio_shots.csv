@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Sergej Milinković-Savić,Lazio,0.35,0.65,Goal,15,Left Foot,,Mattia Zaccagni,Pass (Live),Felipe Anderson,Pass (Live)
+30,Mattia Zaccagni,Lazio,0.07,,Blocked,15,Right Foot,Volley,Sergej Milinković-Savić,Pass (Live),Adam Marušić,Pass (Dead)
+38,Adam Marušić,Lazio,0.14,0.07,Saved,9,Right Foot,,Pedro,Pass (Live),Adam Marušić,Pass (Live)
+38,Mattia Zaccagni,Lazio,0.98,0.99,Goal,3,Left Foot,,Adam Marušić,Shot,,
+44,Sergej Milinković-Savić,Lazio,0.02,,Blocked,27,Right Foot,,Mattia Zaccagni,Pass (Live),Elseid Hysaj,Pass (Live)
+45+1,Mattia Zaccagni,Lazio,0.10,,Blocked,12,Right Foot,,Luis Alberto,Pass (Live),Pedro,Pass (Live)
+67,Luis Alberto (pen),Lazio,0.79,0.95,Goal,13,Right Foot,,Pedro,Fouled,Felipe Anderson,Pass (Live)
+75,Felipe Anderson,Lazio,0.71,0.90,Goal,10,Right Foot,,Luis Alberto,Pass (Live),Mattia Zaccagni,Pass (Live)
+84,Luka Romero,Lazio,0.04,,Blocked,22,Left Foot,,Felipe Anderson,Pass (Live),Luis Alberto,Pass (Live)
+85,Luis Alberto,Lazio,0.03,,Off Target,28,Right Foot,Free kick,Toma Bašić,Fouled,Felipe Anderson,Pass (Live)

@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+13,Riyad Mahrez,Manchester City,0.05,,Blocked,29,Left Foot,Free kick,Julián Álvarez,Fouled,Rodri,Pass (Live)
+19,İlkay Gündoğan,Manchester City,0.02,,Off Target,26,Right Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+21,Julián Álvarez,Manchester City,0.10,,Blocked,14,Left Foot,,Jack Grealish,Pass (Live),Riyad Mahrez,Pass (Live)
+28,Rodri,Manchester City,0.04,,Blocked,29,Right Foot,,Nathan Aké,Pass (Live),Rodri,Pass (Live)
+39,Rico Lewis,Manchester City,0.04,0.12,Saved,26,Right Foot,Deflected,Jack Grealish,Pass (Live),Rodri,Pass (Live)
+42,Erling Haaland,Manchester City,0.10,0.32,Saved,12,Left Foot,,Nathan Aké,Pass (Live),Manuel Akanji,Pass (Live)
+43,Erling Haaland,Manchester City,0.09,,Off Target,9,Head,,Rodri,Pass (Live),Riyad Mahrez,Pass (Live)
+48,Julián Álvarez,Manchester City,0.04,,Off Target,26,Right Foot,,Rico Lewis,Pass (Dead),,
+51,İlkay Gündoğan,Manchester City,0.23,,Blocked,5,Head,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Take-On
+51,Julián Álvarez,Manchester City,0.19,0.76,Goal,9,Right Foot,"Deflected, Volley",İlkay Gündoğan,Shot,,
+53,Erling Haaland,Manchester City,0.70,0.98,Goal,4,Head,,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+56,Riyad Mahrez,Manchester City,0.08,,Off Target,21,Right Foot,,,,,
+63,Riyad Mahrez,Manchester City,0.03,0.13,Goal,13,Right Foot,Deflected,Nathan Aké,Pass (Live),Jack Grealish,Pass (Live)
+82,Rodri,Manchester City,0.08,,Blocked,6,Head,,Riyad Mahrez,Pass (Dead),Erling Haaland,Pass (Live)
+90,Riyad Mahrez,Manchester City,0.52,0.17,Goal,16,Left Foot,,John Stones,Pass (Live),Kyle Walker,Pass (Live)
+90+2,Julián Álvarez,Manchester City,0.05,,Off Target,15,Left Foot,,Jack Grealish,Pass (Live),Rodri,Pass (Live)

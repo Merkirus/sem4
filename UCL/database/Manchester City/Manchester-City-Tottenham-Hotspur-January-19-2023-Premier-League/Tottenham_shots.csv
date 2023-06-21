@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+27,Emerson,Tottenham,0.01,,Off Target,31,Right Foot,,Dejan Kulusevski,Pass (Live),Ivan Perišić,Pass (Live)
+36,Son Heung-min,Tottenham,0.09,0.07,Saved,9,Head,Deflected,Ben Davies,Pass (Live),Harry Kane,Pass (Live)
+37,Harry Kane,Tottenham,0.07,,Blocked,13,Right Foot,,Dejan Kulusevski,Pass (Live),Emerson,Tackle
+44,Dejan Kulusevski,Tottenham,0.13,0.18,Goal,16,Left Foot,,,,,
+45+2,Harry Kane,Tottenham,0.04,,Off Target,11,Right Foot,,Harry Kane,Tackle,,
+45+2,Emerson,Tottenham,0.10,0.07,Goal,7,Head,,Harry Kane,Shot,,
+60,Ivan Perišić,Tottenham,0.31,,Blocked,8,Right Foot,,Dejan Kulusevski,Pass (Live),Harry Kane,Pass (Live)
+62,Harry Kane,Tottenham,0.02,,Off Target,26,Left Foot,,Dejan Kulusevski,Pass (Live),Pierre Højbjerg,Pass (Live)
+74,Cristian Romero,Tottenham,0.04,,Off Target,28,Right Foot,,Son Heung-min,Pass (Live),Emerson,Pass (Live)

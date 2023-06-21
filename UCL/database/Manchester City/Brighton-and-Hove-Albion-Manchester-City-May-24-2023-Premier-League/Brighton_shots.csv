@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Danny Welbeck,Brighton,0.08,,Blocked,13,Right Foot,,Facundo Buonanotte,Pass (Live),Kaoru Mitoma,Pass (Live)
+10,Billy Gilmour,Brighton,0.13,0.16,Saved,17,Left Foot,,Billy Gilmour,Interception,,
+17,Pascal Groß,Brighton,0.03,0.07,Saved,33,Right Foot,Free kick,Julio César Enciso,Fouled,Jan Paul van Hecke,Pass (Live)
+20,Danny Welbeck,Brighton,0.07,,Woodwork,28,Right Foot,Free kick,Billy Gilmour,Fouled,Danny Welbeck,Pass (Live)
+22,Kaoru Mitoma,Brighton,0.02,,Blocked,25,Right Foot,,Moisés Caicedo,Pass (Live),Danny Welbeck,Pass (Live)
+30,Julio César Enciso,Brighton,0.03,,Blocked,28,Right Foot,,Danny Welbeck,Pass (Live),Levi Colwill,Pass (Live)
+31,Danny Welbeck,Brighton,0.18,,Off Target,6,Head,,Pascal Groß,Pass (Dead),Julio César Enciso,Shot
+31,Kaoru Mitoma,Brighton,0.71,0.76,Saved,4,Other,,Danny Welbeck,Shot,,
+35,Facundo Buonanotte,Brighton,0.09,,Blocked,5,Head,,Pervis Estupiñán,Pass (Live),Kaoru Mitoma,Pass (Live)
+36,Facundo Buonanotte,Brighton,0.12,0.02,Saved,17,Left Foot,,Facundo Buonanotte,Take-On,Facundo Buonanotte,Take-On
+38,Julio César Enciso,Brighton,0.02,0.46,Goal,32,Right Foot,,Levi Colwill,Pass (Live),Jason Steele,Pass (Live)
+56,Evan Ferguson,Brighton,0.05,0.14,Saved,14,Right Foot,,,,,
+56,Evan Ferguson,Brighton,0.11,,Off Target,5,Head,,Pascal Groß,Pass (Dead),Evan Ferguson,Shot
+56,Pervis Estupiñán,Brighton,0.03,,Blocked,16,Left Foot,Volley,Evan Ferguson,Shot,,
+57,Kaoru Mitoma,Brighton,0.10,,Off Target,12,Right Foot,Volley,Pascal Groß,Pass (Live),Alexis Mac Allister,Pass (Live)
+61,Alexis Mac Allister,Brighton,0.02,,Blocked,30,Right Foot,,Kaoru Mitoma,Pass (Live),Danny Welbeck,Pass (Live)
+61,Moisés Caicedo,Brighton,0.08,,Blocked,21,Right Foot,,Alexis Mac Allister,Shot,,
+64,Kaoru Mitoma,Brighton,0.35,0.54,Saved,3,Right Foot,,Pervis Estupiñán,Pass (Live),Alexis Mac Allister,Pass (Live)
+76,Pervis Estupiñán,Brighton,0.02,,Off Target,32,Left Foot,,Joël Veltman,Pass (Live),Alexis Mac Allister,Pass (Live)
+81,Kaoru Mitoma,Brighton,0.13,,Off Target,8,Head,,Pascal Groß,Pass (Live),Moisés Caicedo,Pass (Live)

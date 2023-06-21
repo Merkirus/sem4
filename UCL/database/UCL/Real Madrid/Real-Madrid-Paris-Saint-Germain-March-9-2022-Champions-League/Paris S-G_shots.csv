@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+13,Kylian Mbappé,Paris S-G,0.45,0.38,Saved,12,Left Foot,,Neymar,Pass (Live),Marco Verratti,Pass (Live)
+19,Neymar,Paris S-G,0.05,,Blocked,15,Right Foot,,Marco Verratti,Pass (Live),Lionel Messi,Pass (Live)
+20,Leandro Paredes,Paris S-G,0.03,,Off Target,32,Right Foot,,Neymar,Pass (Live),Neymar,Shot
+22,Neymar,Paris S-G,0.04,0.15,Saved,18,Left Foot,,Kylian Mbappé,Pass (Live),Marco Verratti,Pass (Live)
+31,Lionel Messi,Paris S-G,0.06,,Off Target,4,Left Foot,,Neymar,Pass (Live),Lionel Messi,Pass (Live)
+39,Kylian Mbappé,Paris S-G,0.11,0.27,Goal,16,Right Foot,,Neymar,Pass (Live),Nuno Mendes,Tackle
+42,Lionel Messi,Paris S-G,0.06,,Blocked,17,Left Foot,,Kylian Mbappé,Pass (Live),Neymar,Pass (Live)
+45+2,Kylian Mbappé,Paris S-G,0.08,0.13,Saved,8,Head,,Marco Verratti,Pass (Live),Kylian Mbappé,Pass (Live)
+56,Kylian Mbappé,Paris S-G,0.14,,Blocked,13,Left Foot,,Lionel Messi,Pass (Live),Neymar,Pass (Live)
+90+1,Lionel Messi,Paris S-G,0.05,,Off Target,33,Left Foot,Free kick,Neymar,Fouled,Idrissa Gana Gueye,Pass (Live)

@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+17,Mickaël Cuisance,Sampdoria,0.05,0.06,Saved,24,Left Foot,,Tommaso Augello,Pass (Live),Sam Lammers,Pass (Live)
+33,Sam Lammers,Sampdoria,0.09,0.18,Saved,9,Right Foot,,Alessandro Zanoli,Pass (Live),Manolo Gabbiadini,Pass (Live)
+40,Harry Winks,Sampdoria,0.07,,Blocked,14,Left Foot,,Manolo Gabbiadini,Pass (Live),Alessandro Zanoli,Pass (Live)
+51,Manolo Gabbiadini,Sampdoria,0.13,,Off Target,13,Left Foot,,Sam Lammers,Pass (Live),Filip Đuričić,Pass (Live)
+59,Manolo Gabbiadini,Sampdoria,0.15,,Off Target,7,Head,,Harry Winks,Pass (Live),Abdelhamid Sabiri,Pass (Live)
+65,Abdelhamid Sabiri,Sampdoria,0.02,,Blocked,28,Right Foot,,Sam Lammers,Pass (Live),Alessandro Zanoli,Pass (Live)
+87,Fabio Quagliarella,Sampdoria,0.02,,Off Target,14,Left Foot,,Tommaso Augello,Pass (Live),,

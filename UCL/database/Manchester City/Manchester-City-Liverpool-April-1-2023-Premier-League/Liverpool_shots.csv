@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+15,Mohamed Salah,Liverpool,0.09,,Blocked,17,Left Foot,,Harvey Elliott,Pass (Live),Jordan Henderson,Pass (Live)
+15,Harvey Elliott,Liverpool,0.06,,Blocked,16,Left Foot,,Mohamed Salah,Pass (Live),Mohamed Salah,Shot
+17,Mohamed Salah,Liverpool,0.13,0.57,Goal,16,Left Foot,,Diogo Jota,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+55,Cody Gakpo,Liverpool,0.06,,Blocked,15,Right Foot,,Diogo Jota,Pass (Live),Virgil van Dijk,Pass (Live)

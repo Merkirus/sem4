@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Assan Ceesay,Lecce,0.04,,Blocked,16,Left Foot,,Federico Baschirotto,Pass (Live),Morten Hjulmand,Pass (Live)
+39,Gabriel Strefezza,Lecce,0.07,0.04,Saved,14,Right Foot,,Gabriel Strefezza,Take-On,Federico Di Francesco,Pass (Live)
+43,Federico Di Francesco,Lecce,0.11,,Off Target,11,Head,,Gabriel Strefezza,Pass (Live),Gabriel Strefezza,Take-On
+45+3,Kristijan Bistrović,Lecce,0.03,,Blocked,29,Right Foot,Free kick,Assan Ceesay,Fouled,Antonino Gallo,Pass (Live)
+45+3,Kristijan Bistrović,Lecce,0.02,,Off Target,28,Left Foot,Volley,Valentin Gendrey,Pass (Live),,
+48,Assan Ceesay,Lecce,0.07,0.91,Goal,11,Left Foot,,Federico Di Francesco,Pass (Live),Assan Ceesay,Pass (Live)
+53,Gabriel Strefezza,Lecce,0.03,,Off Target,28,Right Foot,,Alexis Blin,Pass (Live),,
+61,Kristijan Bistrović,Lecce,0.13,0.22,Saved,23,Right Foot,Free kick,Morten Hjulmand,Fouled,Gabriel Strefezza,Pass (Live)
+76,Lameck Banda,Lecce,0.04,0.17,Saved,23,Right Foot,,Morten Hjulmand,Pass (Live),Gabriel Strefezza,Pass (Live)
+77,Federico Baschirotto,Lecce,0.16,,Off Target,8,Head,,Gabriel Strefezza,Pass (Dead),Lameck Banda,Shot

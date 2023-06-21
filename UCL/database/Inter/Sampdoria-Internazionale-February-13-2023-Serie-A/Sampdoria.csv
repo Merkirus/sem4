@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Sam Lammers,10,NED,FW,25,84,0,0,0,0,1,1,1,0,32,1,0,1,0.1,0.1,0.2,3,0,13,20,65.0,1,25,3,3,2
+Fabio Quagliarella,27,ITA,FW,40,6,0,0,0,0,1,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,2,0,0,0
+Manolo Gabbiadini,23,ITA,FW,31,71,0,0,0,0,2,0,0,0,23,0,0,1,0.3,0.3,0.1,2,0,10,16,62.5,4,15,0,1,0
+Nicola Murru,29,ITA,WB,28,19,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,2,4,50.0,1,1,0,0,0
+Filip Đuričić,7,SRB,AM,31,71,0,0,0,0,0,0,0,0,35,1,0,0,0.0,0.0,0.0,1,0,22,28,78.6,2,21,3,4,2
+Tomás Rincón,8,VEN,CM,35,19,0,0,0,0,0,0,0,0,8,0,0,0,0.0,0.0,0.0,0,0,5,6,83.3,2,4,0,0,0
+Harry Winks,20,ENG,CM,27,90,0,0,0,0,1,0,0,0,60,0,3,1,0.1,0.1,0.1,1,0,41,51,80.4,2,40,2,1,0
+Mickaël Cuisance,80,FRA,CM,23,58,0,0,0,0,1,1,0,0,25,0,0,0,0.0,0.0,0.0,0,0,14,21,66.7,2,16,0,3,2
+Abdelhamid Sabiri,11,MAR,"AM,CM",26,32,0,0,0,0,1,0,0,0,16,0,0,0,0.0,0.0,0.0,1,0,13,15,86.7,1,13,0,1,1
+Tommaso Augello,3,ITA,WB,28,90,0,0,0,0,0,0,0,0,65,0,0,1,0.0,0.0,0.1,2,0,41,61,67.2,7,44,4,0,0
+Alessandro Zanoli,59,ITA,"WB,FW",22,84,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.1,3,0,18,28,64.3,4,17,2,2,1
+Flavio Paoletti,36,ITA,WB,20,6,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,1,0,0,0
+Bruno Amione,2,ARG,CB,21,90,0,0,0,0,0,0,1,0,44,0,0,1,0.0,0.0,0.0,0,0,28,37,75.7,4,27,1,0,0
+Bram Nuytinck,17,NED,CB,32,90,0,0,0,0,0,0,1,0,43,4,1,4,0.0,0.0,0.0,0,0,20,24,83.3,0,19,0,0,0
+Jeison Murillo,21,COL,CB,30,90,0,0,0,0,0,0,0,0,51,3,1,3,0.0,0.0,0.0,0,0,28,41,68.3,1,23,0,0,0
+Emil Audero,1,ITA,GK,26,90,0,0,0,0,0,0,0,0,43,0,0,0,0.0,0.0,0.0,0,0,27,41,65.9,0,20,0,0,0

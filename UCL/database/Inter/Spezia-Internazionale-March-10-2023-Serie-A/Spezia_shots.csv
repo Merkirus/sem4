@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+32,Kevin Agudelo,Spezia,0.07,,Blocked,8,Right Foot,,Kevin Agudelo,Take-On,,
+55,Daniel Maldini,Spezia,0.10,0.26,Goal,17,Right Foot,,M'Bala Nzola,Pass (Live),Bartłomiej Drągowski,Pass (Live)
+58,Daniel Maldini,Spezia,0.03,,Blocked,23,Right Foot,,Emmanuel Gyasi,Pass (Live),M'Bala Nzola,Pass (Live)
+87,M'Bala Nzola (pen),Spezia,0.79,0.98,Goal,13,Left Foot,,Viktor Kovalenko,Fouled,Kelvin Amian,Pass (Live)

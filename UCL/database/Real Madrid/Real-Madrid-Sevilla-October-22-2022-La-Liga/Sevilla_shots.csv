@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+12,Alex Telles,Sevilla,0.04,,Blocked,20,Left Foot,,Óliver Torres,Pass (Live),Jesús Navas,Pass (Live)
+16,Érik Lamela,Sevilla,0.04,,Blocked,11,Right Foot,,Óliver Torres,Tackle,Gonzalo Montiel,Pass (Dead)
+37,Nemanja Gudelj,Sevilla,0.01,,Blocked,32,Right Foot,,,,,
+38,Ivan Rakitić,Sevilla,0.14,,Blocked,22,Right Foot,Free kick,Érik Lamela,Fouled,Nemanja Gudelj,Shot
+45,Alex Telles,Sevilla,0.01,,Blocked,27,Left Foot,,Ivan Rakitić,Pass (Live),Jesús Navas,Pass (Live)
+45,Jesús Navas,Sevilla,0.03,0.16,Saved,21,Right Foot,,Gonzalo Montiel,Pass (Live),Alex Telles,Shot
+54,Érik Lamela,Sevilla,0.10,0.37,Goal,9,Left Foot,,Gonzalo Montiel,Pass (Live),,
+57,Isco,Sevilla,0.08,,Off Target,11,Left Foot,,Jesús Navas,Pass (Live),Érik Lamela,Pass (Live)
+60,Érik Lamela,Sevilla,0.07,,Off Target,18,Right Foot,,Gonzalo Montiel,Pass (Live),Gonzalo Montiel,Interception

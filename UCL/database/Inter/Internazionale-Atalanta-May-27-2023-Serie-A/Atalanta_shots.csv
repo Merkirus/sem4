@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Éderson,Atalanta,0.02,,Blocked,32,Right Foot,,Marten de Roon,Pass (Live),,
+21,Davide Zappacosta,Atalanta,0.03,,Blocked,14,Right Foot,,Teun Koopmeiners,Pass (Live),Joakim Mæhle,Pass (Live)
+23,Rasmus Højlund,Atalanta,0.27,0.04,Saved,14,Left Foot,,Mario Pašalić,Pass (Live),Marten de Roon,Pass (Live)
+29,Teun Koopmeiners,Atalanta,0.03,,Off Target,23,Left Foot,,Teun Koopmeiners,Take-On,Éderson,Pass (Live)
+34,Teun Koopmeiners,Atalanta,0.05,0.22,Saved,22,Left Foot,Volley,Rasmus Højlund,Pass (Live),Giorgio Scalvini,Pass (Live)
+35,Giorgio Scalvini,Atalanta,0.09,,Off Target,8,Head,,Teun Koopmeiners,Pass (Dead),Teun Koopmeiners,Shot
+36,Berat Djimsiti,Atalanta,0.11,,Blocked,7,Head,,Teun Koopmeiners,Pass (Dead),,
+36,Mario Pašalić,Atalanta,0.10,0.27,Goal,10,Right Foot,,Berat Djimsiti,Shot,,
+43,Giorgio Scalvini,Atalanta,0.25,,Off Target,9,Head,,Joakim Mæhle,Pass (Live),Mario Pašalić,Pass (Live)
+90+1,Luis Muriel,Atalanta,0.05,,Blocked,31,Right Foot,Free kick,Luis Muriel,Fouled,Ademola Lookman,Pass (Live)
+90+1,Luis Muriel,Atalanta,0.03,,Woodwork,30,Right Foot,,Luis Muriel,Shot,,
+90+5,Luis Muriel,Atalanta,0.02,,Off Target,23,Left Foot,,Teun Koopmeiners,Pass (Live),Luis Muriel,Pass (Dead)

@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Rade Krunić,Milan,0.13,,Off Target,10,Head,,Brahim Díaz,Pass (Live),Ismaël Bennacer,Pass (Live)
+31,Rafael Leão,Milan,0.03,,Off Target,23,Right Foot,,Davide Calabria,Pass (Live),Davide Calabria,Interception
+45,Davide Calabria,Milan,0.03,,Off Target,18,Right Foot,,,,,
+45+4,Brahim Díaz,Milan,0.05,,Blocked,17,Right Foot,,Rafael Leão,Pass (Live),Ismaël Bennacer,Pass (Live)
+45+5,Fikayo Tomori,Milan,0.09,,Off Target,10,Right Foot,Volley,Sandro Tonali,Pass (Dead),Brahim Díaz,Shot
+57,Alexis Saelemaekers,Milan,0.02,,Blocked,29,Left Foot,Volley,Theo Hernández,Pass (Live),Rade Krunić,Pass (Live)
+60,Alexis Saelemaekers,Milan,0.20,,Off Target,10,Right Foot,Volley,Rafael Leão,Pass (Live),Olivier Giroud,Pass (Live)
+68,Ismaël Bennacer,Milan,0.02,,Off Target,35,Left Foot,,Alexis Saelemaekers,Pass (Live),Davide Calabria,Pass (Live)
+84,Alexis Saelemaekers,Milan,0.07,,Off Target,11,Head,,Theo Hernández,Pass (Live),Rafael Leão,Pass (Live)
+87,Olivier Giroud,Milan,0.06,,Blocked,27,Left Foot,Free kick,Rade Krunić,Fouled,Alexis Saelemaekers,Pass (Live)
+90+7,Alexis Saelemaekers,Milan,0.29,0.33,Goal,4,Right Foot,Volley,Rafael Leão,Pass (Live),Pierre Kalulu,Pass (Dead)

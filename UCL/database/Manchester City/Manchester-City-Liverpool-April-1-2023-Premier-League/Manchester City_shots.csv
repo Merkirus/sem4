@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Rodri,Manchester City,0.03,0.11,Saved,18,Right Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Pass (Live)
+15,Riyad Mahrez,Manchester City,0.09,,Off Target,24,Left Foot,Free kick,Kevin De Bruyne,Fouled,Kevin De Bruyne,Interception
+21,İlkay Gündoğan,Manchester City,0.08,,Off Target,10,Left Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+22,Riyad Mahrez,Manchester City,0.06,,Off Target,16,Left Foot,Volley,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Live)
+27,Julián Álvarez,Manchester City,0.51,0.42,Goal,8,Right Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+34,Riyad Mahrez,Manchester City,0.06,,Blocked,12,Right Foot,,Julián Álvarez,Pass (Live),Kevin De Bruyne,Pass (Live)
+44,İlkay Gündoğan,Manchester City,0.05,,Blocked,26,Right Foot,,Riyad Mahrez,Pass (Live),Rúben Dias,Pass (Live)
+45+1,Rodri,Manchester City,0.03,,Blocked,14,Right Foot,Volley,Riyad Mahrez,Pass (Dead),Riyad Mahrez,Pass (Live)
+46,Kevin De Bruyne,Manchester City,0.84,0.56,Goal,8,Left Foot,,Julián Álvarez,Pass (Live),Jack Grealish,Pass (Live)
+53,Julián Álvarez,Manchester City,0.18,,Blocked,14,Left Foot,,Julián Álvarez,Take-On,Riyad Mahrez,Pass (Live)
+53,İlkay Gündoğan,Manchester City,0.32,0.96,Goal,8,Right Foot,,Julián Álvarez,Shot,,
+60,Jack Grealish,Manchester City,0.03,0.65,Saved,16,Right Foot,,Julián Álvarez,Pass (Live),İlkay Gündoğan,Pass (Live)
+74,Jack Grealish,Manchester City,0.37,0.87,Goal,10,Right Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+82,Jack Grealish,Manchester City,0.08,0.04,Saved,12,Right Foot,Volley,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+82,Rodri,Manchester City,0.04,,Blocked,26,Right Foot,,Riyad Mahrez,Pass (Live),Jack Grealish,Pass (Live)
+86,Julián Álvarez,Manchester City,0.13,0.26,Saved,9,Right Foot,,Kevin De Bruyne,Pass (Live),,
+86,Riyad Mahrez,Manchester City,0.06,,Blocked,14,Left Foot,,Kevin De Bruyne,Pass (Live),Manuel Akanji,Pass (Live)

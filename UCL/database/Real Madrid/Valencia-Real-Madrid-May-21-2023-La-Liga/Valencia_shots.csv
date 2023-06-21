@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Nicolás González,Valencia,0.09,,Blocked,5,Other,,Domingos André Ribeiro Almeida,Pass (Dead),Javier Guerra,Pass (Live)
+16,Domingos André Ribeiro Almeida,Valencia,0.02,0.03,Saved,29,Right Foot,,José Luis Gayà,Pass (Live),Domingos André Ribeiro Almeida,Pass (Live)
+33,Justin Kluivert,Valencia,0.03,,Blocked,16,Left Foot,,José Luis Gayà,Pass (Live),Domingos André Ribeiro Almeida,Pass (Live)
+33,Diego Noguerol,Valencia,0.23,0.77,Goal,4,Right Foot,,Justin Kluivert,Shot,,
+40,Javier Guerra,Valencia,0.11,0.32,Saved,17,Left Foot,Deflected,Justin Kluivert,Pass (Live),Javier Guerra,Pass (Live)
+45,Javier Guerra,Valencia,0.06,0.09,Saved,16,Right Foot,,Domingos André Ribeiro Almeida,Pass (Live),Thierry Correia,Pass (Live)
+45,Javier Guerra,Valencia,0.11,0.44,Saved,12,Right Foot,Volley,Javier Guerra,Shot,,
+52,Diego Noguerol,Valencia,0.16,,Blocked,6,Right Foot,Volley,Domingos André Ribeiro Almeida,Pass (Live),Justin Kluivert,Pass (Live)
+52,Justin Kluivert,Valencia,0.04,,Blocked,18,Right Foot,,Domingos André Ribeiro Almeida,Pass (Live),Diego Noguerol,Shot
+54,Diego Noguerol,Valencia,0.11,0.07,Saved,12,Left Foot,,Justin Kluivert,Pass (Live),Justin Kluivert,Take-On
+81,Justin Kluivert,Valencia,0.04,,Off Target,22,Right Foot,,Nicolás González,Pass (Live),Nicolás González,Take-On

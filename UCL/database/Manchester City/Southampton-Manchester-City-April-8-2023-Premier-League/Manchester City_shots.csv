@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Jack Grealish,Manchester City,0.11,0.05,Saved,16,Right Foot,,İlkay Gündoğan,Pass (Live),Riyad Mahrez,Pass (Live)
+15,İlkay Gündoğan,Manchester City,0.07,,Blocked,18,Right Foot,Volley,Riyad Mahrez,Pass (Live),Jack Grealish,Pass (Live)
+32,İlkay Gündoğan,Manchester City,0.02,0.04,Saved,10,Head,,Kevin De Bruyne,Pass (Dead),Jack Grealish,Pass (Dead)
+41,Erling Haaland,Manchester City,0.16,,Off Target,3,Head,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+45,Erling Haaland,Manchester City,0.47,0.50,Goal,6,Head,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+51,İlkay Gündoğan,Manchester City,0.08,,Off Target,12,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+53,Kevin De Bruyne,Manchester City,0.05,,Blocked,22,Right Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+58,Jack Grealish,Manchester City,0.08,0.13,Saved,15,Left Foot,,Kevin De Bruyne,Pass (Live),Erling Haaland,Pass (Live)
+58,Jack Grealish,Manchester City,0.29,0.49,Goal,8,Right Foot,,Jack Grealish,Shot,,
+67,Bernardo Silva,Manchester City,0.17,0.29,Saved,14,Left Foot,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Live)
+68,Erling Haaland,Manchester City,0.38,0.45,Goal,9,Left Foot,Volley,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+75,Julián Álvarez (pen),Manchester City,0.79,0.84,Goal,13,Right Foot,,Kevin De Bruyne,Fouled,Kevin De Bruyne,Pass (Live)
+77,Bernardo Silva,Manchester City,0.26,,Blocked,13,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)

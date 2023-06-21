@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Patrick Ciurria,Monza,0.06,0.13,Saved,12,Left Foot,,Samuele Birindelli,Take-On,Gianluca Caprari,Pass (Live)
+2,Andrea Petagna,Monza,0.03,0.18,Saved,8,Head,,Patrick Ciurria,Pass (Dead),Patrick Ciurria,Shot
+53,Andrea Petagna,Monza,0.07,0.05,Saved,18,Right Foot,,Dany Mota,Pass (Live),,
+60,Nicolò Rovella,Monza,0.03,0.12,Saved,33,Right Foot,Free kick,Nicolò Rovella,Fouled,Gianluca Caprari,Pass (Live)
+62,Nicolò Rovella,Monza,0.09,,Blocked,14,Right Foot,,Dany Mota,Pass (Live),Nicolò Rovella,Pass (Live)
+73,Patrick Ciurria,Monza,0.04,,Woodwork,23,Left Foot,,Franco Carboni,Pass (Live),,
+73,Pablo Marí,Monza,0.03,,Blocked,12,Head,,Stefano Sensi,Pass (Dead),Stefano Sensi,Pass (Dead)
+86,Pepín,Monza,0.02,0.08,Saved,19,Left Foot,Deflected,Armando Izzo,Pass (Live),Stefano Sensi,Pass (Dead)
+87,Pablo Marí,Monza,0.03,,Blocked,16,Right Foot,,Matteo Pessina,Pass (Live),Stefano Sensi,Pass (Live)
+90+3,Armando Izzo,Monza,0.07,,Off Target,14,Left Foot,Volley,Stefano Sensi,Pass (Dead),Stefano Sensi,Fouled
+90+4,Patrick Ciurria,Monza,0.03,,Off Target,30,Left Foot,,Pepín,Pass (Live),Stefano Sensi,Pass (Live)

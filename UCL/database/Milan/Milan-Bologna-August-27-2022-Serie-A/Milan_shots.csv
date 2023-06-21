@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Theo Hernández,Milan,0.02,,Off Target,27,Left Foot,Volley,,,,
+21,Rafael Leão,Milan,0.14,0.70,Goal,13,Right Foot,,Charles De Ketelaere,Pass (Live),,
+26,Pierre Kalulu,Milan,0.14,0.73,Saved,5,Right Foot,,Charles De Ketelaere,Pass (Live),Pierre Kalulu,Pass (Live)
+28,Junior Messias,Milan,0.16,0.03,Saved,14,Right Foot,,Rafael Leão,Pass (Live),Olivier Giroud,Pass (Live)
+28,Rafael Leão,Milan,0.09,,Off Target,14,Right Foot,Volley,Junior Messias,Shot,,
+33,Rafael Leão,Milan,0.03,,Blocked,8,Head,,Charles De Ketelaere,Pass (Live),Junior Messias,Pass (Live)
+39,Rafael Leão,Milan,0.03,,Blocked,28,Left Foot,,Ismaël Bennacer,Pass (Live),Ismaël Bennacer,Take-On
+43,Theo Hernández,Milan,0.06,,Off Target,10,Head,,Ismaël Bennacer,Pass (Dead),Theo Hernández,Pass (Live)
+45,Olivier Giroud,Milan,0.09,,Off Target,19,Right Foot,,Sandro Tonali,Pass (Live),,
+45+2,Rafael Leão,Milan,0.24,0.39,Saved,9,Right Foot,,Olivier Giroud,Pass (Live),,
+45+2,Charles De Ketelaere,Milan,0.13,,Blocked,11,Left Foot,,Rafael Leão,Shot,,
+48,Rafael Leão,Milan,0.04,,Blocked,28,Right Foot,,Charles De Ketelaere,Pass (Live),Junior Messias,Pass (Live)
+57,Olivier Giroud,Milan,0.10,,Off Target,9,Head,,Sandro Tonali,Pass (Dead),Charles De Ketelaere,Pass (Live)
+58,Olivier Giroud,Milan,0.32,0.95,Goal,9,Left Foot,Volley,Rafael Leão,Pass (Live),,
+69,Davide Calabria,Milan,0.04,,Off Target,30,Right Foot,,Olivier Giroud,Pass (Live),Tommaso Pobega,Pass (Live)
+70,Alexis Saelemaekers,Milan,0.04,0.12,Saved,25,Right Foot,,Theo Hernández,Pass (Live),Fikayo Tomori,Pass (Live)
+71,Theo Hernández,Milan,0.04,,Blocked,11,Head,,Sandro Tonali,Pass (Dead),Alexis Saelemaekers,Shot
+85,Yacine Adli,Milan,0.06,0.13,Saved,4,Right Foot,Volley,Fodé Ballo-Touré,Pass (Live),Rafael Leão,Pass (Live)
+90+1,Davide Calabria,Milan,0.15,,Blocked,11,Right Foot,,Rafael Leão,Pass (Live),Alexis Saelemaekers,Pass (Live)

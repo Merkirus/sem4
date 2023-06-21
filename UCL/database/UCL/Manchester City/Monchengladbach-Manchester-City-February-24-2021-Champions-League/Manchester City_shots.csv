@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Phil Foden,Manchester City,0.02,0.16,Saved,28,Left Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+29,Bernardo Silva,Manchester City,0.31,0.33,Goal,8,Head,,João Cancelo,Pass (Live),,
+40,João Cancelo,Manchester City,0.03,,Off Target,27,Right Foot,,Gabriel Jesus,Pass (Live),João Cancelo,Pass (Live)
+45+1,Phil Foden,Manchester City,0.03,,Off Target,23,Left Foot,,Gabriel Jesus,Pass (Live),João Cancelo,Pass (Live)
+54,Gabriel Jesus,Manchester City,0.30,,Blocked,13,Left Foot,,,,,
+65,Gabriel Jesus,Manchester City,0.69,0.95,Goal,5,Left Foot,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)
+78,Phil Foden,Manchester City,0.06,,Off Target,14,Left Foot,Volley,İlkay Gündoğan,Pass (Live),João Cancelo,Pass (Live)
+83,Riyad Mahrez,Manchester City,0.07,0.18,Saved,10,Right Foot,,Ferrán Torres,Pass (Live),Ferrán Torres,Take-On
+90+2,Ferrán Torres,Manchester City,0.03,,Blocked,29,Right Foot,,Kyle Walker,Pass (Live),Riyad Mahrez,Pass (Live)

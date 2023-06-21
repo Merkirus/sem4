@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Edin Džeko,Inter,0.08,,Off Target,8,Head,,Denzel Dumfries,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+8,Federico Dimarco,Inter,0.06,,Off Target,16,Left Foot,,Henrikh Mkhitaryan,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+10,Edin Džeko,Inter,0.13,,Off Target,6,Head,,Federico Dimarco,Pass (Dead),Hakan Çalhanoğlu,Pass (Live)
+18,Stefan de Vrij,Inter,0.04,,Blocked,14,Head,,Francesco Acerbi,Pass (Live),Marcelo Brozović,Pass (Live)
+22,Henrikh Mkhitaryan,Inter,0.03,,Off Target,14,Left Foot,,Federico Dimarco,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+27,Edin Džeko,Inter,0.23,0.13,Saved,8,Head,,Hakan Çalhanoğlu,Pass (Dead),Federico Dimarco,Fouled
+27,Danilo D'Ambrosio,Inter,0.12,0.17,Saved,4,Head,,Federico Dimarco,Pass (Dead),Edin Džeko,Shot
+28,Stefan de Vrij,Inter,0.59,0.15,Saved,6,Right Foot,,Danilo D'Ambrosio,Shot,,
+33,Edin Džeko,Inter,0.03,,Blocked,24,Left Foot,,Danilo D'Ambrosio,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+36,Hakan Çalhanoğlu,Inter,0.03,0.46,Goal,32,Right Foot,,Marcelo Brozović,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+38,Edin Džeko,Inter,0.24,0.83,Goal,17,Left Foot,,Lautaro Martínez,Pass (Live),,
+41,Henrikh Mkhitaryan,Inter,0.10,,Off Target,21,Left Foot,,Edin Džeko,Pass (Live),Francesco Acerbi,Pass (Live)
+49,Henrikh Mkhitaryan,Inter,0.09,,Off Target,22,Right Foot,,Lautaro Martínez,Pass (Live),Danilo D'Ambrosio,Pass (Live)
+55,Lautaro Martínez,Inter,0.34,0.23,Goal,15,Right Foot,,Marcelo Brozović,Pass (Live),,
+61,Edin Džeko,Inter,0.09,0.57,Goal,18,Left Foot,,Francesco Acerbi,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+86,Lautaro Martínez,Inter,0.06,0.02,Saved,28,Right Foot,,Lautaro Martínez,Take-On,Edin Džeko,Pass (Live)
+90+1,Kristjan Asllani,Inter,0.05,,Off Target,16,Head,,Lautaro Martínez,Pass (Live),Roberto Gagliardini,Pass (Live)
+90+2,Raoul Bellanova,Inter,0.04,,Blocked,11,Head,,Hakan Çalhanoğlu,Pass (Live),Kristjan Asllani,Pass (Live)
+90+2,Lautaro Martínez,Inter,0.20,0.95,Saved,5,Left Foot,,Raoul Bellanova,Shot,,
+90+2,Lautaro Martínez,Inter,0.20,0.44,Goal,6,Left Foot,Deflected,Lautaro Martínez,Shot,,

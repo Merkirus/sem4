@@ -1,0 +1,23 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Aurélien Tchouaméni,Real Madrid,0.08,,Blocked,10,Head,,Toni Kroos,Pass (Live),Dani Ceballos,Pass (Live)
+6,Aurélien Tchouaméni,Real Madrid,0.06,,Blocked,10,Right Foot,,Aurélien Tchouaméni,Shot,,
+14,Aurélien Tchouaméni,Real Madrid,0.01,,Blocked,32,Right Foot,,Dani Ceballos,Pass (Live),Rodrygo,Pass (Live)
+17,Ferland Mendy,Real Madrid,0.26,,Off Target,7,Head,,Dani Carvajal,Pass (Live),Rodrygo,Pass (Live)
+29,Vinicius Júnior,Real Madrid,0.06,0.02,Saved,15,Right Foot,,Dani Ceballos,Pass (Live),David Alaba,Pass (Live)
+30,Antonio Rüdiger,Real Madrid,0.11,,Off Target,10,Other,,Toni Kroos,Pass (Dead),Vinicius Júnior,Fouled
+33,Dani Carvajal,Real Madrid,0.01,,Blocked,29,Right Foot,,Toni Kroos,Pass (Dead),Karim Benzema,Pass (Live)
+37,Karim Benzema,Real Madrid,0.08,,Woodwork,12,Right Foot,Volley,Vinicius Júnior,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+41,Karim Benzema,Real Madrid,0.05,,Off Target,22,Left Foot,,Ferland Mendy,Pass (Live),Toni Kroos,Pass (Live)
+42,Vinicius Júnior,Real Madrid,0.02,0.43,Goal,31,Right Foot,,David Alaba,Pass (Live),Dani Ceballos,Pass (Live)
+45,Aurélien Tchouaméni,Real Madrid,0.05,,Off Target,10,Head,,Rodrygo,Pass (Live),Dani Ceballos,Pass (Dead)
+61,Rodrygo,Real Madrid,0.19,,Off Target,14,Left Foot,,Karim Benzema,Pass (Live),Toni Kroos,Pass (Live)
+66,Rodrygo,Real Madrid,0.03,0.24,Saved,29,Right Foot,,David Alaba,Pass (Live),Toni Kroos,Pass (Live)
+68,Dani Carvajal,Real Madrid,0.04,,Blocked,26,Right Foot,,Antonio Rüdiger,Pass (Live),Karim Benzema,Pass (Live)
+75,Federico Valverde,Real Madrid,0.02,,Blocked,27,Right Foot,,David Alaba,Pass (Dead),David Alaba,Pass (Live)
+79,Karim Benzema (pen),Real Madrid,0.79,,Woodwork,13,Right Foot,,Karim Benzema,Fouled,Eduardo Camavinga,Pass (Live)
+84,Eduardo Camavinga,Real Madrid,0.05,,Blocked,27,Left Foot,,Karim Benzema,Pass (Live),Rodrygo,Pass (Live)
+87,Rodrygo,Real Madrid,0.04,,Blocked,17,Left Foot,,Vinicius Júnior,Pass (Live),Éder Militão,Pass (Live)
+87,Vinicius Júnior,Real Madrid,0.03,0.30,Saved,29,Right Foot,,Eduardo Camavinga,Pass (Live),Antonio Rüdiger,Pass (Live)
+90+2,Mariano,Real Madrid,0.26,,Off Target,7,Head,,Federico Valverde,Pass (Live),Rodrygo,Pass (Live)
+90+4,Karim Benzema,Real Madrid,0.29,,Off Target,7,Head,,Rodrygo,Pass (Live),Antonio Rüdiger,Pass (Live)
+90+6,Federico Valverde,Real Madrid,0.02,,Blocked,29,Right Foot,Volley,Eduardo Camavinga,Fouled,Eduardo Camavinga,Take-On

@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+28,Riyad Mahrez,Manchester City,0.03,,Off Target,25,Left Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+31,Phil Foden,Manchester City,0.03,,Blocked,24,Left Foot,,Riyad Mahrez,Pass (Dead),Riyad Mahrez,Pass (Live)
+35,Rodri,Manchester City,0.02,0.35,Saved,29,Right Foot,,Aymeric Laporte,Pass (Live),Phil Foden,Take-On
+37,İlkay Gündoğan,Manchester City,0.17,0.25,Goal,9,Right Foot,Volley,Riyad Mahrez,Pass (Live),Kyle Walker,Pass (Live)
+39,Erling Haaland,Manchester City,0.23,0.31,Goal,6,Head,,İlkay Gündoğan,Pass (Live),,
+43,Kyle Walker,Manchester City,0.02,,Off Target,22,Right Foot,Volley,Erling Haaland,Fouled,Rúben Dias,Pass (Live)
+51,İlkay Gündoğan,Manchester City,0.09,0.31,Goal,23,Right Foot,Free kick,Phil Foden,Fouled,Julián Álvarez,Pass (Live)
+54,Riyad Mahrez,Manchester City,0.04,,Blocked,25,Left Foot,Free kick,Riyad Mahrez,Fouled,Riyad Mahrez,Take-On
+60,Erling Haaland,Manchester City,0.14,,Off Target,12,Left Foot,Volley,Phil Foden,Pass (Live),Rodri,Pass (Live)

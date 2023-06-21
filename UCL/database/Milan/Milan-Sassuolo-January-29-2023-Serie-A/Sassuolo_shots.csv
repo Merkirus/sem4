@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Armand Lauriente,Sassuolo,0.06,,Blocked,17,Right Foot,,Hamed Junior Traorè,Pass (Live),,
+18,Armand Lauriente,Sassuolo,0.05,0.12,Saved,17,Right Foot,,Hamed Junior Traorè,Pass (Live),Davide Frattesi,Pass (Live)
+19,Grégoire Defrel,Sassuolo,0.86,0.90,Goal,4,Left Foot,,Domenico Berardi,Pass (Live),Hamed Junior Traorè,Pass (Live)
+22,Davide Frattesi,Sassuolo,0.14,0.16,Goal,11,Right Foot,,Domenico Berardi,Pass (Live),Hamed Junior Traorè,Pass (Live)
+30,Domenico Berardi,Sassuolo,0.07,0.09,Goal,6,Head,,Hamed Junior Traorè,Pass (Dead),Rogério,Pass (Live)
+47,Armand Lauriente (pen),Sassuolo,0.79,0.98,Goal,13,Right Foot,,Armand Lauriente,Fouled,Hamed Junior Traorè,Pass (Live)
+62,Hamed Junior Traorè,Sassuolo,0.04,0.01,Saved,31,Left Foot,,Grégoire Defrel,Pass (Live),,
+66,Giorgos Kyriakopoulos,Sassuolo,0.01,,Blocked,25,Right Foot,Volley,,,,
+79,Matheus Henrique,Sassuolo,0.15,0.29,Goal,16,Left Foot,,Domenico Berardi,Pass (Live),,

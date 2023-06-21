@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+12,Alexander Sørloth,Real Sociedad,0.09,,Blocked,13,Right Foot,,Andoni Gorosabel,Pass (Live),David Silva,Pass (Live)
+15,Alexander Sørloth,Real Sociedad,0.10,,Off Target,5,Head,,Takefusa Kubo,Pass (Dead),,
+15,Martín Zubimendi,Real Sociedad,0.95,,Woodwork,2,Left Foot,Volley,Alexander Sørloth,Shot,,
+19,David Silva,Real Sociedad,0.18,0.50,Saved,12,Left Foot,,Alexander Sørloth,Pass (Live),Alexander Sørloth,Take-On
+38,Mikel Oyarzabal,Real Sociedad,0.04,,Blocked,22,Right Foot,,Martín Zubimendi,Pass (Live),,
+47,Takefusa Kubo,Real Sociedad,0.38,0.95,Goal,8,Left Foot,,,,,
+58,Martín Zubimendi,Real Sociedad,0.03,,Off Target,29,Left Foot,,David Silva,Pass (Live),Takefusa Kubo,Pass (Live)
+81,Ander Barrenetxea,Real Sociedad,0.13,0.14,Saved,21,Right Foot,"Free kick, Deflected",David Silva,Pass (Live),Mikel Oyarzabal,Pass (Dead)
+85,Ander Barrenetxea,Real Sociedad,0.05,0.20,Goal,13,Right Foot,,David Silva,Pass (Live),,

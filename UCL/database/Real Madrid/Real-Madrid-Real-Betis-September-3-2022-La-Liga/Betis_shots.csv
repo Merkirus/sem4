@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+17,Sergio Canales,Betis,0.05,0.07,Goal,13,Right Foot,,Borja Iglesias,Pass (Live),Álex Moreno,Pass (Dead)
+41,Borja Iglesias,Betis,0.15,,Off Target,8,Head,,Sergio Canales,Pass (Live),Sergio Canales,Pass (Live)
+41,Luiz Henrique,Betis,0.04,,Blocked,29,Left Foot,,Youssouf Sabaly,Pass (Live),Youssouf Sabaly,Take-On
+49,Juanmi,Betis,0.05,0.05,Saved,24,Right Foot,,Juanmi,Take-On,,
+53,Álex Moreno,Betis,0.12,0.08,Saved,16,Right Foot,,Sergio Canales,Pass (Live),Luiz Felipe,Pass (Live)
+62,Borja Iglesias,Betis,0.06,,Blocked,18,Right Foot,,Sergio Canales,Pass (Live),Sergio Canales,Take-On
+72,Guido Rodríguez,Betis,0.04,,Off Target,30,Right Foot,,Willian José,Pass (Live),Borja Iglesias,Pass (Live)
+75,Guido Rodríguez,Betis,0.02,0.07,Saved,31,Right Foot,,Sergio Canales,Pass (Live),Joaquín,Pass (Live)

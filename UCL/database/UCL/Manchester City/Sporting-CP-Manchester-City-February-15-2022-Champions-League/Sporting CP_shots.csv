@@ -1,0 +1,4 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Pedro Gonçalves,Sporting CP,0.10,,Off Target,16,Left Foot,,Pedro Porro,Pass (Live),Pablo Sarabia,Pass (Live)
+37,Pedro Gonçalves,Sporting CP,0.01,,Off Target,32,Right Foot,,Paulinho,Pass (Live),Pedro Gonçalves,Pass (Live)
+63,Matheus Reis,Sporting CP,0.03,,Blocked,20,Left Foot,,Manuel Ugarte Ribeiro,Pass (Live),Manuel Ugarte Ribeiro,Pass (Live)

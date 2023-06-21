@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+39,Armando Izzo,Monza,0.20,,Off Target,8,Head,,Andrea Colpani,Pass (Dead),Andrea Colpani,Pass (Live)
+47,Patrick Ciurria,Monza,0.04,,Blocked,18,Left Foot,,Patrick Ciurria,Take-On,Andrea Colpani,Pass (Live)
+51,Gianluca Caprari,Monza,0.05,,Blocked,18,Right Foot,,Dany Mota,Pass (Live),,
+53,Nicolò Rovella,Monza,0.03,,Off Target,25,Right Foot,,Dany Mota,Pass (Live),Andrea Colpani,Pass (Live)
+64,Dany Mota,Monza,0.17,,Off Target,16,Left Foot,,Matteo Pessina,Pass (Live),Pepín,Pass (Live)
+67,Pepín,Monza,0.04,0.03,Saved,32,Right Foot,Free kick,Matteo Pessina,Fouled,Gianluca Caprari,Pass (Live)
+78,Luca Caldirola,Monza,0.15,0.33,Goal,11,Head,,Patrick Ciurria,Pass (Dead),Matteo Pessina,Pass (Live)

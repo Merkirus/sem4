@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+21,Edin Džeko,Inter,0.07,0.11,Saved,17,Left Foot,,Nicolò Barella,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+25,Nicolò Barella,Inter,0.02,0.05,Saved,25,Right Foot,Volley,Henrikh Mkhitaryan,Pass (Live),Edin Džeko,Pass (Live)
+27,Federico Dimarco,Inter,0.04,0.04,Saved,21,Left Foot,Volley,Edin Džeko,Pass (Live),Denzel Dumfries,Pass (Dead)
+45+1,Lautaro Martínez,Inter,0.03,0.05,Saved,13,Right Foot,,Lautaro Martínez,Take-On,Lautaro Martínez,Interception
+52,Nicolò Barella,Inter,0.05,,Off Target,29,Right Foot,,Edin Džeko,Pass (Live),Federico Dimarco,Pass (Live)
+62,Nicolò Barella,Inter,0.04,,Blocked,14,Right Foot,,Denzel Dumfries,Pass (Live),Nicolò Barella,Pass (Live)
+77,Hakan Çalhanoğlu,Inter,0.07,,Off Target,14,Left Foot,,Lautaro Martínez,Pass (Live),Danilo D'Ambrosio,Pass (Live)
+80,Denzel Dumfries,Inter,0.02,,Off Target,10,Head,,Hakan Çalhanoğlu,Pass (Dead),Danilo D'Ambrosio,Fouled
+83,Romelu Lukaku,Inter,0.11,,Blocked,14,Right Foot,,Lautaro Martínez,Pass (Live),Danilo D'Ambrosio,Pass (Live)
+83,Denzel Dumfries,Inter,0.03,0.14,Saved,10,Head,,Hakan Çalhanoğlu,Pass (Dead),Romelu Lukaku,Shot
+87,Lautaro Martínez,Inter,0.02,,Off Target,30,Right Foot,,,,,

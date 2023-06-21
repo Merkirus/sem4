@@ -1,0 +1,6 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Vedat Muriqi,Mallorca,0.05,0.04,Saved,17,Left Foot,Volley,Vedat Muriqi,Take-On,Martin Valjent,Pass (Live)
+1,Lee Kangin,Mallorca,0.06,,Off Target,18,Left Foot,Volley,Vedat Muriqi,Shot,,
+35,Vedat Muriqi,Mallorca,0.17,0.27,Goal,4,Head,,Lee Kangin,Pass (Dead),Pablo Maffeo,Fouled
+64,Antonio Sánchez,Mallorca,0.17,,Off Target,10,Left Foot,,Clément Grenier,Pass (Live),Clément Grenier,Take-On
+88,Antonio Sánchez,Mallorca,0.06,,Blocked,17,Right Foot,,Matija Nastasić,Interception,,

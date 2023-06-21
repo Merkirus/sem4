@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Karim Benzema,Real Madrid,0.07,,Off Target,22,Right Foot,Free kick,Vinicius Júnior,Fouled,Federico Valverde,Pass (Live)
+23,Karim Benzema,Real Madrid,0.03,,Blocked,26,Left Foot,Volley,Federico Valverde,Pass (Live),Luka Modrić,Pass (Live)
+32,Casemiro,Real Madrid,0.04,,Off Target,25,Left Foot,,Karim Benzema,Pass (Live),Federico Valverde,Pass (Live)
+56,Toni Kroos,Real Madrid,0.06,0.30,Saved,30,Right Foot,Free kick,Casemiro,Fouled,Karim Benzema,Pass (Live)
+61,Federico Valverde,Real Madrid,0.04,,Off Target,19,Right Foot,,Dani Carvajal,Pass (Live),Casemiro,Pass (Live)
+66,Karim Benzema,Real Madrid,0.07,,Woodwork,10,Head,,Ferland Mendy,Pass (Live),Federico Valverde,Pass (Live)
+80,Rodrygo,Real Madrid,0.43,0.86,Goal,10,Right Foot,Volley,Luka Modrić,Pass (Live),Marcelo,Pass (Live)
+82,Luka Modrić,Real Madrid,0.03,0.42,Saved,28,Right Foot,,Karim Benzema,Pass (Live),Marcelo,Pass (Live)
+96,Karim Benzema,Real Madrid,0.42,0.81,Goal,10,Head,,Vinicius Júnior,Pass (Live),Eduardo Camavinga,Pass (Live)
+103,Eduardo Camavinga,Real Madrid,0.03,,Off Target,26,Left Foot,,Karim Benzema,Pass (Live),,

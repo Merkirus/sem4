@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Son Heung-min,Tottenham,0.05,0.06,Goal,21,Right Foot,,Lucas Moura,Pass (Live),Lucas Moura,Take-On
+10,Son Heung-min,Tottenham,0.06,0.49,Goal,17,Right Foot,,Christian Eriksen,Pass (Live),Lucas Moura,Pass (Live)
+20,Christian Eriksen,Tottenham,0.03,,Off Target,31,Left Foot,,Jan Vertonghen,Pass (Live),Christian Eriksen,Pass (Live)
+43,Son Heung-min,Tottenham,0.05,,Off Target,16,Left Foot,,Christian Eriksen,Pass (Live),Fernando Llorente,Pass (Live)
+58,Fernando Llorente,Tottenham,0.07,0.09,Saved,10,Head,,Dele Alli,Pass (Live),Victor Wanyama,Pass (Live)
+59,Christian Eriksen,Tottenham,0.04,0.02,Saved,23,Right Foot,,Lucas Moura,Pass (Live),Dele Alli,Pass (Live)
+72,Son Heung-min,Tottenham,0.09,0.14,Saved,7,Right Foot,,Kieran Trippier,Pass (Live),Victor Wanyama,Pass (Live)
+73,Fernando Llorente,Tottenham,0.23,0.29,Goal,3,Right Foot,,Son Heung-min,Shot,,
+77,Christian Eriksen,Tottenham,0.07,,Blocked,14,Left Foot,,Son Heung-min,Pass (Live),Christian Eriksen,Pass (Live)
+85,Christian Eriksen,Tottenham,0.01,0.36,Saved,62,Left Foot,,,,,
+90+6,Son Heung-min,Tottenham,0.06,,Blocked,13,Right Foot,,Ben Davies,Pass (Live),Dele Alli,Pass (Live)

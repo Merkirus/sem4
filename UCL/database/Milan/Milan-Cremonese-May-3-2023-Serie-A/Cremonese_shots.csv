@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+34,Luka Lochoshvili,Cremonese,0.01,,Off Target,21,Head,,Leonardo Sernicola,Pass (Live),Marco Benassi,Pass (Live)
+52,Felix Afena-Gyan,Cremonese,0.03,,Off Target,30,Right Foot,,Charles Pickel,Pass (Live),,
+62,Emanuele Valeri,Cremonese,0.38,,Off Target,6,Head,,Leonardo Sernicola,Pass (Live),Felix Afena-Gyan,Pass (Live)
+76,Charles Pickel,Cremonese,0.01,,Off Target,26,Right Foot,Volley,,,,
+77,David Okereke,Cremonese,0.64,0.91,Goal,16,Left Foot,,David Okereke,Take-On,David Okereke,Take-On
+90+8,Paolo Ghiglione,Cremonese,0.13,0.14,Saved,18,Right Foot,,Emanuele Valeri,Pass (Live),Marco Carnesecchi,Pass (Live)

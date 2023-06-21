@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Aurélien Tchouaméni,Real Madrid,0.02,0.19,Saved,31,Right Foot,,Rodrygo,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+9,Éder Militão,Real Madrid,0.04,0.11,Saved,11,Head,,Toni Kroos,Pass (Dead),,
+10,Marco Asensio,Real Madrid,0.04,,Blocked,30,Left Foot,Free kick,Marco Asensio,Fouled,Dani Ceballos,Pass (Live)
+24,Éder Militão,Real Madrid,0.12,,Off Target,9,Head,,Toni Kroos,Pass (Dead),Rodrygo,Fouled
+28,Rodrygo,Real Madrid,0.03,0.04,Saved,29,Right Foot,,Nacho,Pass (Live),,
+38,Rodrygo,Real Madrid,0.02,,Blocked,24,Right Foot,,Aurélien Tchouaméni,Pass (Live),Dani Ceballos,Pass (Live)
+55,Toni Kroos,Real Madrid,0.03,0.36,Saved,27,Right Foot,Deflected,Dani Carvajal,Pass (Live),Marco Asensio,Pass (Dead)
+56,Marco Asensio,Real Madrid,0.04,,Blocked,25,Left Foot,,,Fouled,,
+90+2,Éder Militão,Real Madrid,0.40,,Blocked,6,Left Foot,Deflected,Rodrygo,Fouled,Dani Ceballos,Pass (Dead)
+90+2,Álvaro Muñoz,Real Madrid,0.09,,Off Target,9,Head,,Lucas Vázquez,Pass (Live),Sergio Arribas,Pass (Dead)

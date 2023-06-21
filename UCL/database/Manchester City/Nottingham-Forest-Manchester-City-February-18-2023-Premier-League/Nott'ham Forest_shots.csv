@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Brennan Johnson,Nott'ham Forest,0.03,,Blocked,16,Right Foot,,,,,
+24,Brennan Johnson,Nott'ham Forest,0.05,,Off Target,15,Right Foot,,Danilo,Pass (Live),,
+54,Morgan Gibbs-White,Nott'ham Forest,0.03,,Off Target,25,Right Foot,,Brennan Johnson,Pass (Live),Danilo,Pass (Live)
+84,Chris Wood,Nott'ham Forest,0.84,0.97,Goal,3,Left Foot,,Morgan Gibbs-White,Pass (Live),Brennan Johnson,Pass (Live)

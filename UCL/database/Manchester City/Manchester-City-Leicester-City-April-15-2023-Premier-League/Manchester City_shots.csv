@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Riyad Mahrez,Manchester City,0.11,,Blocked,6,Left Foot,Volley,Kevin De Bruyne,Pass (Live),Aymeric Laporte,Pass (Live)
+5,John Stones,Manchester City,0.04,0.46,Goal,21,Left Foot,Volley,Rodri,Pass (Live),Riyad Mahrez,Shot
+10,Riyad Mahrez,Manchester City,0.06,,Off Target,13,Right Foot,,Aymeric Laporte,Pass (Live),Rodri,Pass (Live)
+10,Erling Haaland,Manchester City,0.25,,Off Target,8,Left Foot,,Riyad Mahrez,Shot,,
+10,Rodri,Manchester City,0.18,,Blocked,7,Right Foot,Volley,Erling Haaland,Shot,,
+13,Erling Haaland (pen),Manchester City,0.79,1.00,Goal,13,Left Foot,,,Fouled,Kevin De Bruyne,Pass (Live)
+25,Erling Haaland,Manchester City,0.45,0.44,Goal,14,Left Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Take-On
+41,Kevin De Bruyne,Manchester City,0.02,,Off Target,24,Right Foot,,Rodri,Pass (Live),Aymeric Laporte,Pass (Live)
+56,Jack Grealish,Manchester City,0.05,,Off Target,21,Right Foot,Volley,Riyad Mahrez,Pass (Dead),Bernardo Silva,Pass (Live)
+61,Riyad Mahrez,Manchester City,0.03,0.42,Saved,28,Left Foot,,Bernardo Silva,Pass (Live),Jack Grealish,Pass (Live)
+61,Riyad Mahrez,Manchester City,0.04,,Off Target,17,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),Riyad Mahrez,Shot
+68,Jack Grealish,Manchester City,0.04,,Blocked,24,Right Foot,,Julián Álvarez,Pass (Live),Kalvin Phillips,Pass (Live)

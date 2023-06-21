@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Sandro Tonali,Milan,0.03,,Woodwork,27,Right Foot,,Sandro Tonali,Pass (Live),Alexis Saelemaekers,Pass (Live)
+9,Sandro Tonali,Milan,0.01,,Blocked,31,Right Foot,,Ante Rebić,Pass (Live),Theo Hernández,Pass (Live)
+20,Alexis Saelemaekers,Milan,0.04,,Off Target,22,Right Foot,Volley,Sandro Tonali,Pass (Dead),Theo Hernández,Fouled
+20,Tommaso Pobega,Milan,0.12,,Off Target,11,Head,,Alexis Saelemaekers,Shot,,
+24,Ante Rebić,Milan,0.09,,Blocked,18,Right Foot,,Sandro Tonali,Pass (Live),Alexis Saelemaekers,Pass (Live)
+24,Theo Hernández,Milan,0.04,0.04,Saved,28,Left Foot,,Ante Rebić,Shot,,
+36,Tommaso Pobega,Milan,0.04,0.03,Saved,28,Left Foot,,Theo Hernández,Pass (Live),Pierre Kalulu,Pass (Live)
+56,Brahim Díaz,Milan,0.19,,Woodwork,8,Right Foot,,Sandro Tonali,Pass (Live),Brahim Díaz,Pass (Live)
+59,Tommaso Pobega,Milan,0.05,,Off Target,10,Head,,Theo Hernández,Pass (Dead),Divock Origi,Pass (Live)
+60,Sandro Tonali,Milan,0.08,,Blocked,16,Right Foot,Volley,Pierre Kalulu,Pass (Live),Brahim Díaz,Pass (Live)
+65,Divock Origi,Milan,0.04,,Blocked,18,Right Foot,,Fodé Ballo-Touré,Pass (Live),Brahim Díaz,Pass (Live)
+89,Charles De Ketelaere,Milan,0.17,,Off Target,8,Head,,Yacine Adli,Pass (Dead),Sandro Tonali,Pass (Live)
+90+1,Olivier Giroud,Milan,0.08,,Blocked,27,Left Foot,Free kick,Olivier Giroud,Fouled,Mike Maignan,Pass (Live)
+90+2,Sandro Tonali,Milan,0.05,0.07,Saved,17,Right Foot,"Deflected, Volley",Olivier Giroud,Shot,,

@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+17,Leroy Sané,Bayern Munich,0.20,,Off Target,12,Left Foot,,Jamal Musiala,Pass (Live),Leon Goretzka,Pass (Live)
+21,Leroy Sané,Bayern Munich,0.04,0.19,Saved,28,Left Foot,Free kick,Kingsley Coman,Fouled,Matthijs de Ligt,Pass (Live)
+22,Leon Goretzka,Bayern Munich,0.03,0.04,Saved,29,Right Foot,Deflected,Jamal Musiala,Pass (Live),João Cancelo,Pass (Live)
+24,Leon Goretzka,Bayern Munich,0.09,,Off Target,18,Right Foot,,Leroy Sané,Pass (Live),Kingsley Coman,Pass (Live)
+30,Eric Maxim Choupo-Moting,Bayern Munich,0.06,,Off Target,6,Head,,Leroy Sané,Pass (Dead),Dayot Upamecano,Pass (Live)
+39,Joshua Kimmich,Bayern Munich,0.04,,Off Target,30,Right Foot,,Leroy Sané,Pass (Live),Kingsley Coman,Pass (Live)
+42,Kingsley Coman,Bayern Munich,0.03,0.09,Saved,16,Left Foot,,Leroy Sané,Pass (Live),Leroy Sané,Take-On
+43,Leroy Sané,Bayern Munich,0.02,,Off Target,29,Left Foot,,Leon Goretzka,Pass (Live),Eric Maxim Choupo-Moting,Pass (Live)
+45+1,Eric Maxim Choupo-Moting,Bayern Munich,0.29,,Blocked,5,Right Foot,,Jamal Musiala,Pass (Live),Kingsley Coman,Pass (Live)
+45+1,Kingsley Coman,Bayern Munich,0.11,,Blocked,10,Right Foot,,Eric Maxim Choupo-Moting,Shot,,
+52,Kingsley Coman,Bayern Munich,0.04,,Blocked,19,Right Foot,,Leroy Sané,Pass (Live),Leroy Sané,Interception
+57,Kingsley Coman,Bayern Munich,0.06,,Saved off Target,11,Right Foot,,Kingsley Coman,Take-On,Kingsley Coman,Take-On
+64,Joshua Kimmich,Bayern Munich,0.02,0.04,Saved,34,Right Foot,,Kingsley Coman,Pass (Live),Alphonso Davies,Pass (Live)
+67,Eric Maxim Choupo-Moting,Bayern Munich,0.07,0.42,Saved,13,Right Foot,,Jamal Musiala,Pass (Live),Joshua Kimmich,Pass (Live)
+77,Mathys Tel,Bayern Munich,0.02,,Blocked,23,Right Foot,,Sadio Mané,Pass (Live),Joshua Kimmich,Pass (Dead)
+83,Joshua Kimmich (pen),Bayern Munich,0.79,0.92,Goal,13,Right Foot,,,Fouled,Leon Goretzka,Pass (Live)
+85,Mathys Tel,Bayern Munich,0.11,,Off Target,18,Right Foot,,Alphonso Davies,Pass (Live),Alphonso Davies,Take-On
+90+2,Sadio Mané,Bayern Munich,0.16,,Off Target,6,Right Foot,Volley,Alphonso Davies,Pass (Live),Thomas Müller,Pass (Live)
+90+5,Kingsley Coman,Bayern Munich,0.04,,Off Target,15,Right Foot,,,,,

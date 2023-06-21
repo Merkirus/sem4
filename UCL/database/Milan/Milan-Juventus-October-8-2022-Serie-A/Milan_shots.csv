@@ -1,0 +1,22 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Theo Hernández,Milan,0.03,,Blocked,22,Left Foot,,Brahim Díaz,Pass (Live),,
+11,Theo Hernández,Milan,0.04,,Off Target,27,Left Foot,Volley,Tommaso Pobega,Pass (Live),Tommaso Pobega,Take-On
+20,Pierre Kalulu,Milan,0.08,,Off Target,7,Head,,Sandro Tonali,Pass (Dead),,
+20,Rafael Leão,Milan,0.35,,Woodwork,6,Right Foot,,Pierre Kalulu,Shot,,
+29,Rafael Leão,Milan,0.05,,Blocked,15,Right Foot,,Rafael Leão,Take-On,Theo Hernández,Pass (Live)
+31,Olivier Giroud,Milan,0.04,,Blocked,14,Head,,Theo Hernández,Pass (Dead),Tommaso Pobega,Pass (Live)
+31,Tommaso Pobega,Milan,0.02,,Off Target,19,Left Foot,Volley,Olivier Giroud,Shot,,
+34,Rafael Leão,Milan,0.02,,Woodwork,33,Right Foot,,Ismaël Bennacer,Pass (Live),Olivier Giroud,Pass (Live)
+36,Rafael Leão,Milan,0.04,,Blocked,29,Right Foot,,Olivier Giroud,Pass (Live),Rafael Leão,Pass (Live)
+36,Ismaël Bennacer,Milan,0.02,,Off Target,31,Left Foot,,Sandro Tonali,Interception,,
+45+1,Olivier Giroud,Milan,0.02,,Blocked,14,Left Foot,Volley,,,,
+45+1,Fikayo Tomori,Milan,0.58,0.61,Goal,4,Left Foot,,Olivier Giroud,Shot,,
+53,Rafael Leão,Milan,0.05,,Off Target,22,Right Foot,,Brahim Díaz,Pass (Live),,
+54,Brahim Díaz,Milan,0.18,0.56,Goal,12,Right Foot,,Brahim Díaz,Take-On,Brahim Díaz,Take-On
+60,Olivier Giroud,Milan,0.10,,Off Target,9,Head,,Ismaël Bennacer,Pass (Live),Rafael Leão,Pass (Live)
+64,Rade Krunić,Milan,0.07,,Off Target,12,Head,,Brahim Díaz,Pass (Live),Sandro Tonali,Pass (Live)
+67,Theo Hernández,Milan,0.23,,Off Target,14,Left Foot,,Charles De Ketelaere,Pass (Live),Pierre Kalulu,Pass (Dead)
+75,Charles De Ketelaere,Milan,0.05,,Off Target,11,Head,,Theo Hernández,Pass (Dead),Rafael Leão,Pass (Live)
+76,Rafael Leão,Milan,0.05,,Blocked,25,Right Foot,,Rade Krunić,Pass (Live),Ante Rebić,Pass (Live)
+77,Matteo Gabbia,Milan,0.04,,Blocked,20,Right Foot,,Charles De Ketelaere,Pass (Live),Sandro Tonali,Pass (Live)
+90+2,Divock Origi,Milan,0.24,0.40,Saved,12,Right Foot,,Divock Origi,Take-On,Rade Krunić,Pass (Live)

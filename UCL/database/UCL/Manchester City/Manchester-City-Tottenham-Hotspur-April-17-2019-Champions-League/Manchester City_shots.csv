@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Raheem Sterling,Manchester City,0.05,0.54,Goal,16,Right Foot,,Kevin De Bruyne,Pass (Live),Sergio Agüero,Pass (Live)
+11,Bernardo Silva,Manchester City,0.07,0.21,Goal,12,Left Foot,Deflected,Sergio Agüero,Pass (Live),David Silva,Pass (Live)
+18,David Silva,Manchester City,0.05,,Off Target,30,Left Foot,Free kick,Kyle Walker,Fouled,Vincent Kompany,Pass (Live)
+21,Raheem Sterling,Manchester City,0.40,0.20,Goal,4,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+32,Bernardo Silva,Manchester City,0.04,,Off Target,18,Left Foot,,Kyle Walker,Pass (Live),Kevin De Bruyne,Pass (Live)
+37,Sergio Agüero,Manchester City,0.08,,Blocked,13,Right Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+45,Kyle Walker,Manchester City,0.03,,Blocked,35,Right Foot,,İlkay Gündoğan,Pass (Live),,
+45,Kevin De Bruyne,Manchester City,0.04,0.17,Saved,28,Left Foot,,Kevin De Bruyne,Take-On,Bernardo Silva,Pass (Live)
+49,Kevin De Bruyne,Manchester City,0.08,,Off Target,25,Right Foot,Free kick,Kevin De Bruyne,Fouled,Sergio Agüero,Pass (Live)
+50,Raheem Sterling,Manchester City,0.09,0.09,Saved,13,Right Foot,,David Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+50,Bernardo Silva,Manchester City,0.44,,Off Target,4,Right Foot,,Raheem Sterling,Shot,,
+54,Kevin De Bruyne,Manchester City,0.07,0.53,Saved,15,Right Foot,,Sergio Agüero,Pass (Live),Sergio Agüero,Take-On
+56,David Silva,Manchester City,0.05,,Off Target,10,Head,,İlkay Gündoğan,Pass (Dead),Bernardo Silva,Fouled
+59,Sergio Agüero,Manchester City,0.39,0.59,Goal,12,Right Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Take-On
+76,Sergio Agüero,Manchester City,0.06,,Off Target,14,Left Foot,,Raheem Sterling,Pass (Live),Fernandinho,Pass (Live)
+78,Bernardo Silva,Manchester City,0.04,,Blocked,18,Left Foot,,Vincent Kompany,Pass (Live),Benjamin Mendy,Pass (Live)
+79,İlkay Gündoğan,Manchester City,0.02,,Off Target,22,Right Foot,,Bernardo Silva,Shot,,
+80,Sergio Agüero,Manchester City,0.08,0.15,Saved,10,Head,,Kyle Walker,Pass (Live),Bernardo Silva,Pass (Live)
+86,İlkay Gündoğan,Manchester City,0.43,,Off Target,5,Left Foot,Volley,Leroy Sané,Pass (Live),Fernandinho,Pass (Live)
+90+3,İlkay Gündoğan,Manchester City,0.03,,Blocked,27,Right Foot,,Leroy Sané,Pass (Live),İlkay Gündoğan,Pass (Live)

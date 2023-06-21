@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Aleksei Miranchuk,Torino,0.03,,Off Target,29,Left Foot,,Alessandro Buongiorno,Pass (Live),,
+13,Samuele Ricci,Torino,0.02,,Off Target,29,Right Foot,,Samuele Ricci,Take-On,Ivan Ilić,Pass (Live)
+17,Mërgim Vojvoda,Torino,0.02,,Off Target,24,Right Foot,,Nikola Vlašić,Pass (Live),Mërgim Vojvoda,Pass (Live)
+25,Wilfried Singo,Torino,0.05,0.03,Saved,19,Left Foot,Deflected,Ivan Ilić,Pass (Live),Antonio Sanabria,Pass (Live)
+36,Wilfried Singo,Torino,0.04,0.05,Saved,11,Head,,Ivan Ilić,Pass (Dead),Aleksei Miranchuk,Pass (Live)
+60,Yann Karamoh,Torino,0.05,0.08,Saved,16,Left Foot,,Nikola Vlašić,Pass (Live),,
+61,Nikola Vlašić,Torino,0.06,,Blocked,19,Left Foot,,Aleksei Miranchuk,Pass (Live),Ivan Ilić,Pass (Live)
+65,Wilfried Singo,Torino,0.03,,Off Target,12,Head,,Nikola Vlašić,Pass (Dead),,
+71,Antonio Sanabria,Torino,0.12,0.50,Saved,10,Left Foot,,Nikola Vlašić,Pass (Live),Ivan Ilić,Pass (Live)
+72,Ola Aina,Torino,0.06,,Blocked,8,Right Foot,Volley,Karol Linetty,Pass (Live),Aleksei Miranchuk,Pass (Live)
+76,Antonio Sanabria,Torino,0.04,,Blocked,23,Right Foot,,Yann Karamoh,Pass (Live),Aleksei Miranchuk,Pass (Live)
+77,Antonio Sanabria,Torino,0.02,,Blocked,31,Right Foot,,Karol Linetty,Pass (Live),Karol Linetty,Pass (Live)
+83,Pietro Pellegri,Torino,0.06,,Off Target,11,Head,,Karol Linetty,Pass (Dead),Demba Seck,Take-On
+86,Aleksei Miranchuk,Torino,0.05,0.01,Saved,24,Left Foot,,Yann Karamoh,Pass (Live),Nikola Vlašić,Pass (Live)
+90,Aleksei Miranchuk,Torino,0.03,,Off Target,30,Left Foot,,Ola Aina,Pass (Live),Nikola Vlašić,Pass (Live)
+90+2,Antonio Sanabria,Torino,0.43,,Off Target,11,Left Foot,,Perr Schuurs,Pass (Live),Perr Schuurs,Take-On
+90+4,Karol Linetty,Torino,0.04,,Off Target,28,Right Foot,,Antonio Sanabria,Pass (Live),Nikola Vlašić,Pass (Live)

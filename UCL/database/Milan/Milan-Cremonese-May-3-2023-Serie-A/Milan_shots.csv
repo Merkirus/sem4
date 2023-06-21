@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Divock Origi,Milan,0.03,0.04,Saved,24,Right Foot,Deflected,Brahim Díaz,Pass (Live),Malick Thiaw,Pass (Live)
+15,Davide Calabria,Milan,0.02,,Blocked,29,Left Foot,,Brahim Díaz,Pass (Live),,
+17,Divock Origi,Milan,0.03,0.34,Saved,17,Left Foot,,Brahim Díaz,Pass (Live),Fodé Ballo-Touré,Tackle
+18,Fodé Ballo-Touré,Milan,0.02,,Off Target,25,Left Foot,Volley,Alexis Saelemaekers,Pass (Dead),Divock Origi,Shot
+28,Alexis Saelemaekers,Milan,0.05,,Blocked,13,Right Foot,,Alexis Saelemaekers,Pass (Live),,
+38,Charles De Ketelaere,Milan,0.04,,Off Target,9,Head,,Alexis Saelemaekers,Pass (Dead),,
+44,Divock Origi,Milan,0.20,,Off Target,7,Head,,Alexis Saelemaekers,Pass (Live),Malick Thiaw,Pass (Live)
+52,Alexis Saelemaekers,Milan,0.03,,Off Target,26,Right Foot,,Rade Krunić,Pass (Live),Divock Origi,Pass (Live)
+60,Brahim Díaz,Milan,0.57,,Off Target,4,Head,,Alexis Saelemaekers,Pass (Live),Brahim Díaz,Pass (Live)
+64,Brahim Díaz,Milan,0.23,,Blocked,16,Right Foot,,Rafael Leão,Pass (Live),Aster Vranckx,Pass (Live)
+74,Alexis Saelemaekers,Milan,0.02,0.04,Saved,31,Left Foot,,Malick Thiaw,Pass (Live),Pierre Kalulu,Pass (Live)
+81,Malick Thiaw,Milan,0.06,,Blocked,10,Head,,Sandro Tonali,Pass (Dead),Junior Messias,Take-On
+81,Junior Messias,Milan,0.05,,Off Target,11,Head,,Sandro Tonali,Pass (Dead),Malick Thiaw,Shot
+81,Rafael Leão,Milan,0.10,,Off Target,12,Right Foot,,Junior Messias,Shot,,
+83,Rade Krunić,Milan,0.04,,Off Target,8,Head,,Sandro Tonali,Pass (Dead),Rafael Leão,Pass (Live)
+87,Rade Krunić,Milan,0.03,,Off Target,32,Right Foot,,Sandro Tonali,Pass (Live),,
+90+3,Junior Messias,Milan,0.04,0.09,Goal,23,Left Foot,"Free kick, Deflected",Junior Messias,Fouled,Davide Calabria,Pass (Live)
+90+8,Rade Krunić,Milan,0.03,0.42,Saved,31,Right Foot,,Rafael Leão,Pass (Live),Sandro Tonali,Pass (Live)

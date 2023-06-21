@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Christian Pulisic,Chelsea,0.06,,Blocked,11,Right Foot,,Kai Havertz,Pass (Live),Marc Cucurella,Pass (Live)
+24,Carney Chukwuemeka,Chelsea,0.13,,Blocked,14,Right Foot,,Kai Havertz,Pass (Live),Hakim Ziyech,Pass (Live)
+24,Hakim Ziyech,Chelsea,0.02,0.50,Saved,14,Right Foot,,Carney Chukwuemeka,Shot,,
+44,Carney Chukwuemeka,Chelsea,0.03,,Blocked,23,Right Foot,,Kai Havertz,Pass (Live),Denis Zakaria,Pass (Live)
+56,Thiago Silva,Chelsea,0.05,,Off Target,11,Right Foot,,Carney Chukwuemeka,Pass (Live),Kai Havertz,Pass (Live)
+74,Kai Havertz,Chelsea,0.06,0.13,Saved,13,Head,,Lewis Hall,Pass (Live),Mateo Kovačić,Pass (Live)
+74,Mateo Kovačić,Chelsea,0.03,,Off Target,32,Right Foot,,Omari Hutchinson,Pass (Live),Lewis Hall,Pass (Live)
+90+1,Lewis Hall,Chelsea,0.04,,Off Target,17,Left Foot,,Carney Chukwuemeka,Pass (Live),Mateo Kovačić,Pass (Live)

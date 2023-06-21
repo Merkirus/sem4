@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+28,Giovanni González,Mallorca,0.06,,Blocked,17,Right Foot,Volley,Lee Kangin,Pass (Dead),Dani Rodríguez,Fouled
+54,Vedat Muriqi,Mallorca,0.02,,Blocked,64,Left Foot,,,,,
+79,Amath,Mallorca,0.10,,Blocked,7,Right Foot,,Antonio Sánchez,Pass (Live),Predrag Rajković,Pass (Live)
+84,Antonio Sánchez,Mallorca,0.05,0.13,Saved,22,Left Foot,,Rodrigo Battaglia,Pass (Live),,

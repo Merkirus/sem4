@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+18,Alex Baena,Villarreal,0.15,0.02,Saved,17,Right Foot,,Aïssa Mandi,Pass (Live),Giovani Lo Celso,Take-On
+24,Samuel Chukwueze,Villarreal,0.13,,Off Target,16,Left Foot,,Samuel Chukwueze,Take-On,Samuel Chukwueze,Take-On
+27,Samuel Chukwueze,Villarreal,0.06,,Off Target,27,Left Foot,,Yeremi Pino,Pass (Live),Alex Baena,Pass (Live)
+28,Alex Baena,Villarreal,0.02,0.02,Saved,34,Right Foot,Deflected,Daniel Parejo,Pass (Dead),Pau Torres,Fouled
+29,Giovani Lo Celso,Villarreal,0.04,,Blocked,16,Left Foot,,Giovani Lo Celso,Take-On,Ramón Terrats,Pass (Live)
+34,Giovani Lo Celso,Villarreal,0.05,,Off Target,20,Left Foot,,Alfonso Pedraza,Pass (Live),Daniel Parejo,Pass (Live)
+34,Alex Baena,Villarreal,0.04,,Off Target,24,Right Foot,,Giovani Lo Celso,Pass (Live),Alex Baena,Pass (Live)
+35,Samuel Chukwueze,Villarreal,0.03,0.03,Saved,21,Left Foot,,Giovani Lo Celso,Pass (Live),Daniel Parejo,Pass (Live)
+39,Samuel Chukwueze,Villarreal,0.46,0.73,Goal,14,Left Foot,,Samuel Chukwueze,Take-On,Giovani Lo Celso,Pass (Live)
+45+1,Juan Foyth,Villarreal,0.05,0.22,Saved,14,Left Foot,Deflected,Alex Baena,Pass (Live),Daniel Parejo,Pass (Dead)
+51,Giovani Lo Celso,Villarreal,0.05,0.41,Saved,27,Left Foot,Free kick,Samuel Chukwueze,Fouled,Giovani Lo Celso,Pass (Live)
+58,Juan Foyth,Villarreal,0.06,,Blocked,10,Head,,Daniel Parejo,Pass (Dead),,
+65,Yeremi Pino,Villarreal,0.03,,Off Target,30,Right Foot,,Daniel Parejo,Pass (Live),Yeremi Pino,Pass (Live)
+70,José Luis Morales,Villarreal,0.13,,Blocked,11,Right Foot,,Samuel Chukwueze,Pass (Live),Alex Baena,Pass (Live)
+70,José Luis Morales,Villarreal,0.14,0.10,Goal,10,Left Foot,,José Luis Morales,Shot,,
+77,Juan Foyth,Villarreal,0.03,,Off Target,15,Head,,Daniel Parejo,Pass (Dead),,
+80,Samuel Chukwueze,Villarreal,0.03,0.39,Goal,23,Left Foot,,Alex Baena,Pass (Live),Samuel Chukwueze,Pass (Live)

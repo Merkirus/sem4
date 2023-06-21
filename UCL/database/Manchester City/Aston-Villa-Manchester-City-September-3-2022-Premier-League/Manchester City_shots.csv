@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Kyle Walker,Manchester City,0.32,,Off Target,10,Right Foot,,İlkay Gündoğan,Pass (Live),Bernardo Silva,Pass (Live)
+9,Kevin De Bruyne,Manchester City,0.05,,Off Target,26,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+20,João Cancelo,Manchester City,0.03,,Blocked,23,Right Foot,,Kevin De Bruyne,Pass (Live),João Cancelo,Pass (Live)
+20,João Cancelo,Manchester City,0.03,,Blocked,18,Right Foot,Volley,Kevin De Bruyne,Pass (Dead),João Cancelo,Shot
+50,Erling Haaland,Manchester City,0.58,0.77,Goal,2,Left Foot,Volley,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+62,Rodri,Manchester City,0.04,,Blocked,11,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Pass (Live)
+64,Erling Haaland,Manchester City,0.14,0.05,Saved,11,Left Foot,,Erling Haaland,Pass (Live),Phil Foden,Pass (Live)
+67,Kevin De Bruyne,Manchester City,0.17,,Woodwork,23,Right Foot,Free kick,Erling Haaland,Fouled,İlkay Gündoğan,Pass (Live)
+68,Erling Haaland,Manchester City,0.13,0.11,Saved,16,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+70,Kevin De Bruyne,Manchester City,0.03,,Blocked,30,Right Foot,,Kyle Walker,Pass (Live),Rúben Dias,Pass (Live)
+71,Kevin De Bruyne,Manchester City,0.36,,Off Target,10,Right Foot,,Erling Haaland,Pass (Live),Kevin De Bruyne,Pass (Live)
+87,Rodri,Manchester City,0.06,,Off Target,28,Right Foot,,,,,
+90+1,Phil Foden,Manchester City,0.16,0.12,Saved,11,Left Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)

@@ -1,0 +1,23 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Vinicius Júnior,Real Madrid,0.27,0.10,Goal,21,Right Foot,Volley,David Alaba,Pass (Live),Luka Modrić,Pass (Live)
+18,Vinicius Júnior,Real Madrid,0.38,,Off Target,9,Right Foot,,Rodrygo,Pass (Live),Vinicius Júnior,Pass (Live)
+20,Aurélien Tchouaméni,Real Madrid,0.08,0.18,Saved,10,Head,,Luka Modrić,Pass (Dead),Luka Modrić,Pass (Live)
+20,David Alaba,Real Madrid,0.05,,Off Target,13,Left Foot,,Karim Benzema,Pass (Live),Eduardo Camavinga,Pass (Live)
+24,Karim Benzema,Real Madrid,0.10,,Blocked,14,Right Foot,,Vinicius Júnior,Pass (Live),Eduardo Camavinga,Pass (Live)
+38,Karim Benzema,Real Madrid,0.04,,Off Target,31,Right Foot,Free kick,Eduardo Camavinga,Fouled,Luka Modrić,Pass (Live)
+42,Vinicius Júnior,Real Madrid,0.03,,Off Target,23,Right Foot,,Karim Benzema,Pass (Live),Rodrygo,Pass (Live)
+42,Vinicius Júnior,Real Madrid,0.05,,Blocked,15,Right Foot,,Karim Benzema,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+44,David Alaba,Real Madrid,0.04,,Off Target,33,Left Foot,Free kick,Rodrygo,Fouled,Aurélien Tchouaméni,Pass (Live)
+45+2,Luka Modrić,Real Madrid,0.08,,Blocked,26,Right Foot,,Karim Benzema,Pass (Live),Ferland Mendy,Pass (Live)
+46,David Alaba,Real Madrid,0.04,,Off Target,16,Head,,Vinicius Júnior,Pass (Live),Eduardo Camavinga,Pass (Live)
+48,Karim Benzema,Real Madrid,0.80,,Blocked,3,Right Foot,,Rodrygo,Take-On,Karim Benzema,Pass (Live)
+54,Luka Modrić,Real Madrid,0.06,0.38,Saved,16,Left Foot,,Eduardo Camavinga,Pass (Live),Vinicius Júnior,Pass (Live)
+57,Karim Benzema,Real Madrid,0.06,,Off Target,25,Right Foot,,Rodrygo,Pass (Live),Karim Benzema,Pass (Dead)
+61,Rodrygo,Real Madrid,0.02,,Off Target,32,Right Foot,,Aurélien Tchouaméni,Pass (Live),Karim Benzema,Pass (Live)
+65,Rodrygo,Real Madrid,0.40,0.63,Goal,10,Right Foot,,Federico Valverde,Pass (Live),Dani Carvajal,Pass (Live)
+70,Rodrygo,Real Madrid,0.07,,Woodwork,12,Right Foot,Volley,Luka Modrić,Pass (Live),Ferland Mendy,Pass (Live)
+70,Luka Modrić,Real Madrid,0.05,,Blocked,17,Right Foot,,Ferland Mendy,Pass (Live),Rodrygo,Shot
+71,David Alaba,Real Madrid,0.18,,Off Target,9,Head,,Luka Modrić,Pass (Live),Dani Carvajal,Pass (Live)
+83,Federico Valverde,Real Madrid,0.03,,Blocked,32,Right Foot,Free kick,Toni Kroos,Pass (Dead),Toni Kroos,Fouled
+85,Aurélien Tchouaméni,Real Madrid,0.02,,Off Target,32,Right Foot,,Dani Ceballos,Pass (Live),Dani Carvajal,Pass (Live)
+89,Éder Militão,Real Madrid,0.05,,Off Target,10,Head,,Toni Kroos,Pass (Dead),Karim Benzema,Pass (Live)

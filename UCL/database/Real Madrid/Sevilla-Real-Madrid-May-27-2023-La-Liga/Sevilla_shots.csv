@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Bryan,Sevilla,0.04,,Blocked,16,Left Foot,,Bryan,Pass (Live),Marcos Acuña,Pass (Live)
+3,Rafa Mir,Sevilla,0.14,0.30,Goal,15,Left Foot,,Bryan,Shot,,
+5,Érik Lamela,Sevilla,0.03,,Blocked,23,Left Foot,Deflected,Gonzalo Montiel,Pass (Live),Rafa Mir,Pass (Live)
+16,Ivan Rakitić,Sevilla,0.02,,Off Target,30,Right Foot,,,,,
+24,Karim Rekik,Sevilla,0.05,,Off Target,24,Right Foot,,Papu Gómez,Pass (Live),Karim Rekik,Pass (Live)
+36,Érik Lamela,Sevilla,0.12,,Woodwork,14,Left Foot,,Gonzalo Montiel,Pass (Live),Papu Gómez,Pass (Live)
+41,Marcos Acuña,Sevilla,0.02,,Off Target,28,Left Foot,,Manuel Sebastián,Pass (Live),Karim Rekik,Pass (Live)
+42,Érik Lamela,Sevilla,0.44,,Off Target,8,Left Foot,,Papu Gómez,Pass (Live),Bryan,Pass (Live)
+50,Rafa Mir,Sevilla,0.24,,Off Target,6,Right Foot,,Marcos Acuña,Pass (Live),Marcos Acuña,Take-On
+53,Ivan Rakitić,Sevilla,0.07,,Off Target,21,Right Foot,,Érik Lamela,Pass (Live),Papu Gómez,Pass (Live)
+75,Suso,Sevilla,0.02,,Off Target,27,Left Foot,,Rafa Mir,Pass (Live),Gonzalo Montiel,Pass (Live)

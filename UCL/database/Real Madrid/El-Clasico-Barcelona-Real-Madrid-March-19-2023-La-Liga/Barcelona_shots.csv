@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Robert Lewandowski,Barcelona,0.04,0.19,Saved,30,Right Foot,,Robert Lewandowski,Take-On,Frenkie de Jong,Pass (Live)
+6,Raphinha,Barcelona,0.16,0.36,Saved,11,Head,,Sergio Busquets,Pass (Live),Alejandro Balde,Pass (Live)
+6,Sergi Roberto,Barcelona,0.10,,Off Target,23,Right Foot,,Raphinha,Shot,,
+24,Andreas Christensen,Barcelona,0.11,,Off Target,8,Head,,Raphinha,Pass (Live),Sergi Roberto,Pass (Live)
+32,Andreas Christensen,Barcelona,0.06,0.15,Saved,11,Right Foot,Volley,Frenkie de Jong,Pass (Live),Raphinha,Pass (Dead)
+34,Raphinha,Barcelona,0.04,0.09,Saved,20,Left Foot,,Jules Koundé,Pass (Live),Sergio Busquets,Pass (Live)
+38,Ronald Araújo,Barcelona,0.03,,Off Target,14,Head,,Frenkie de Jong,Pass (Dead),Raphinha,Fouled
+45,Raphinha,Barcelona,0.07,,Blocked,16,Left Foot,,Frenkie de Jong,Pass (Live),Robert Lewandowski,Pass (Live)
+45,Sergi Roberto,Barcelona,0.09,0.33,Goal,15,Right Foot,,Raphinha,Shot,,
+48,Raphinha,Barcelona,0.04,,Blocked,22,Left Foot,,Sergi Roberto,Pass (Live),Raphinha,Pass (Live)
+59,Robert Lewandowski,Barcelona,0.05,,Blocked,22,Left Foot,,Raphinha,Pass (Live),Sergi Roberto,Pass (Live)
+59,Frenkie de Jong,Barcelona,0.02,,Off Target,14,Right Foot,,Raphinha,Pass (Dead),Robert Lewandowski,Shot
+67,Robert Lewandowski,Barcelona,0.38,,Off Target,8,Right Foot,Volley,Sergio Busquets,Pass (Live),Jules Koundé,Pass (Live)
+74,Raphinha,Barcelona,0.06,0.30,Saved,17,Left Foot,"Deflected, Volley",Sergi Roberto,Pass (Live),Raphinha,Pass (Live)
+76,Robert Lewandowski,Barcelona,0.08,,Off Target,15,Left Foot,,Frenkie de Jong,Pass (Live),Gavi,Pass (Live)
+90,Gavi,Barcelona,0.08,,Blocked,21,Right Foot,,Franck Kessié,Pass (Live),Frenkie de Jong,Pass (Live)
+90+2,Franck Kessié,Barcelona,0.21,0.43,Goal,10,Right Foot,,Alejandro Balde,Pass (Live),Robert Lewandowski,Pass (Live)

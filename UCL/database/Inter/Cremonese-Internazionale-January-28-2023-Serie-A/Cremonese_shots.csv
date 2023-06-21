@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,David Okereke,Cremonese,0.02,0.52,Goal,25,Right Foot,,Soualiho Meïté,Pass (Live),Emanuele Valeri,Pass (Dead)
+26,Marco Benassi,Cremonese,0.24,0.15,Saved,4,Right Foot,,Leonardo Sernicola,Pass (Live),Marco Benassi,Pass (Live)
+43,Daniel Ciofani,Cremonese,0.08,,Off Target,11,Right Foot,Volley,Marco Benassi,Pass (Live),Michele Castagnetti,Pass (Live)
+52,Marco Benassi,Cremonese,0.02,,Off Target,28,Right Foot,,Michele Castagnetti,Pass (Live),Soualiho Meïté,Pass (Live)
+53,Leonardo Sernicola,Cremonese,0.01,,Blocked,26,Left Foot,,Daniel Ciofani,Pass (Live),Michele Castagnetti,Pass (Live)
+54,Marco Benassi,Cremonese,0.06,0.35,Saved,17,Left Foot,,Emanuele Valeri,Pass (Dead),Leonardo Sernicola,Shot
+57,Daniel Ciofani,Cremonese,0.08,,Off Target,11,Head,,Michele Castagnetti,Pass (Live),David Okereke,Pass (Live)
+74,Felix Afena-Gyan,Cremonese,0.13,,Blocked,9,Right Foot,Volley,Leonardo Sernicola,Pass (Live),Cristian Buonaiuto,Pass (Live)
+76,Emanuele Valeri,Cremonese,0.02,,Off Target,31,Left Foot,,Luca Zanimacchia,Pass (Live),Soualiho Meïté,Pass (Live)
+78,Cristian Buonaiuto,Cremonese,0.16,,Blocked,8,Right Foot,,Cyriel Dessers,Pass (Live),Cristian Buonaiuto,Pass (Live)
+81,Cyriel Dessers,Cremonese,0.11,,Off Target,9,Right Foot,,Soualiho Meïté,Pass (Live),Leonardo Sernicola,Pass (Live)
+90+3,Luca Zanimacchia,Cremonese,0.03,,Off Target,27,Right Foot,,Emanuele Valeri,Fouled,Luca Zanimacchia,Pass (Live)

@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Federico Dimarco,Inter,0.09,0.12,Saved,9,Left Foot,Volley,Hakan Çalhanoğlu,Pass (Live),Matteo Darmian,Pass (Live)
+21,Nicolò Barella,Inter,0.05,,Blocked,25,Right Foot,,Joaquín Correa,Pass (Live),Lautaro Martínez,Pass (Live)
+24,Federico Dimarco,Inter,0.03,,Off Target,14,Left Foot,Volley,Nicolò Barella,Pass (Live),Matteo Darmian,Pass (Live)
+26,Hakan Çalhanoğlu,Inter,0.05,,Blocked,20,Right Foot,,Henrikh Mkhitaryan,Pass (Live),Stefan de Vrij,Pass (Live)
+27,Alessandro Bastoni,Inter,0.08,,Off Target,12,Head,,Hakan Çalhanoğlu,Pass (Live),Hakan Çalhanoğlu,Shot
+32,Lautaro Martínez,Inter,0.19,,Off Target,5,Left Foot,,Federico Dimarco,Pass (Live),Nicolò Barella,Pass (Live)
+38,Lautaro Martínez,Inter,0.07,,Blocked,15,Left Foot,,Nicolò Barella,Pass (Live),Federico Dimarco,Pass (Live)
+39,Lautaro Martínez,Inter,0.15,,Blocked,6,Head,,Henrikh Mkhitaryan,Pass (Live),Nicolò Barella,Pass (Live)
+53,Henrikh Mkhitaryan,Inter,0.02,,Off Target,24,Right Foot,,,,,
+75,Edin Džeko,Inter,0.10,,Off Target,13,Right Foot,Volley,Hakan Çalhanoğlu,Pass (Live),Lautaro Martínez,Pass (Live)
+77,Stefan de Vrij,Inter,0.16,,Blocked,5,Head,,Kristjan Asllani,Pass (Dead),Alessandro Bastoni,Pass (Live)
+78,Kristjan Asllani,Inter,0.06,,Blocked,30,Right Foot,Free kick,Kristjan Asllani,Fouled,Raoul Bellanova,Pass (Dead)
+84,Robin Gosens,Inter,0.11,,Off Target,12,Left Foot,,Hakan Çalhanoğlu,Fouled,Raoul Bellanova,Pass (Live)
+90+2,Robin Gosens,Inter,0.10,,Off Target,15,Left Foot,Volley,Hakan Çalhanoğlu,Pass (Live),Robin Gosens,Pass (Live)
+90+4,Hakan Çalhanoğlu,Inter,0.05,,Blocked,27,Right Foot,,Kristjan Asllani,Pass (Live),André Onana,Pass (Dead)
+90+4,Edin Džeko,Inter,0.12,,Off Target,11,Right Foot,,Raoul Bellanova,Pass (Live),Lautaro Martínez,Pass (Live)

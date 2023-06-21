@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+58,Olivier Giroud,Milan,0.11,,Off Target,14,Head,,Theo Hernández,Pass (Live),Brahim Díaz,Pass (Live)
+69,Theo Hernández,Milan,0.06,,Off Target,29,Left Foot,Free kick,Sandro Tonali,Fouled,Sandro Tonali,Tackle
+75,Brahim Díaz,Milan,0.09,,Off Target,18,Right Foot,,Rafael Leão,Pass (Live),Rafael Leão,Take-On
+78,Olivier Giroud,Milan,0.06,,Off Target,25,Left Foot,Free kick,Brahim Díaz,Fouled,Alexis Saelemaekers,Pass (Live)

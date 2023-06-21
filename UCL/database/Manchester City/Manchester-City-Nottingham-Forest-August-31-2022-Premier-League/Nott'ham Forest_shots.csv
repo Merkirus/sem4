@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+17,Renan Lodi,Nott'ham Forest,0.24,,Off Target,3,Head,,Neco Williams,Pass (Live),Joe Worrall,Pass (Live)
+54,Brennan Johnson,Nott'ham Forest,0.08,,Off Target,22,Right Foot,,Neco Williams,Pass (Live),Neco Williams,Interception
+57,Morgan Gibbs-White,Nott'ham Forest,0.04,0.11,Saved,22,Right Foot,,Morgan Gibbs-White,Take-On,Remo Freuler,Pass (Live)
+72,Emmanuel Dennis,Nott'ham Forest,0.02,,Blocked,17,Left Foot,,Dean Henderson,Pass (Live),Taiwo Awoniyi,Pass (Live)
+85,Remo Freuler,Nott'ham Forest,0.04,,Blocked,26,Right Foot,,Lewis O'Brien,Pass (Live),Harry Toffolo,Pass (Live)
+87,Emmanuel Dennis,Nott'ham Forest,0.03,,Blocked,28,Right Foot,Free kick,Lewis O'Brien,Fouled,Taiwo Awoniyi,Pass (Live)
+90+2,Taiwo Awoniyi,Nott'ham Forest,0.15,,Off Target,10,Head,,Jack Colback,Pass (Live),Lewis O'Brien,Pass (Live)
+90+3,Harry Toffolo,Nott'ham Forest,0.05,,Off Target,19,Left Foot,,Lewis O'Brien,Pass (Live),Giulian Biancone,Pass (Live)

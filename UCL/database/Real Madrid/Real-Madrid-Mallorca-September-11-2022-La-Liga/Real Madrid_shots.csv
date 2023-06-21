@@ -1,0 +1,23 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Dani Ceballos,Real Madrid,0.03,0.26,Saved,30,Right Foot,,Eden Hazard,Pass (Live),Ferland Mendy,Pass (Live)
+7,Eden Hazard,Real Madrid,0.06,,Blocked,16,Right Foot,,Ferland Mendy,Pass (Live),Federico Valverde,Pass (Live)
+14,Federico Valverde,Real Madrid,0.06,,Blocked,14,Right Foot,,Lucas Vázquez,Pass (Live),Rodrygo,Pass (Live)
+14,Toni Kroos,Real Madrid,0.03,,Off Target,29,Right Foot,,Rodrygo,Pass (Live),Eden Hazard,Pass (Live)
+17,Toni Kroos,Real Madrid,0.20,,Blocked,22,Right Foot,Free kick,Lucas Vázquez,Fouled,Dani Ceballos,Pass (Live)
+20,Rodrygo,Real Madrid,0.11,,Off Target,20,Right Foot,,Dani Ceballos,Pass (Live),,
+22,Toni Kroos,Real Madrid,0.05,0.17,Saved,30,Right Foot,,Lucas Vázquez,Pass (Live),Eden Hazard,Pass (Live)
+26,Antonio Rüdiger,Real Madrid,0.03,,Off Target,26,Right Foot,,Federico Valverde,Pass (Live),Dani Ceballos,Pass (Live)
+27,Rodrygo,Real Madrid,0.13,0.10,Saved,16,Left Foot,,Toni Kroos,Pass (Live),Dani Ceballos,Pass (Live)
+29,Dani Ceballos,Real Madrid,0.09,,Blocked,21,Right Foot,,Federico Valverde,Pass (Live),Lucas Vázquez,Pass (Live)
+33,Federico Valverde,Real Madrid,0.03,,Off Target,28,Right Foot,,Dani Ceballos,Pass (Live),David Alaba,Pass (Live)
+40,Lucas Vázquez,Real Madrid,0.02,,Blocked,34,Right Foot,,Eden Hazard,Pass (Live),Ferland Mendy,Pass (Dead)
+44,Vinicius Júnior,Real Madrid,0.02,,Off Target,27,Right Foot,,Dani Ceballos,Pass (Live),Dani Ceballos,Take-On
+45+1,Rodrygo,Real Madrid,0.03,,Blocked,26,Right Foot,,Rodrygo,Take-On,David Alaba,Pass (Live)
+45+3,Federico Valverde,Real Madrid,0.05,0.47,Goal,22,Left Foot,,Federico Valverde,Take-On,Dani Ceballos,Pass (Live)
+51,Rodrygo,Real Madrid,0.02,,Off Target,26,Right Foot,,Rodrygo,Take-On,Toni Kroos,Pass (Live)
+58,Toni Kroos,Real Madrid,0.03,,Off Target,30,Right Foot,,Rodrygo,Pass (Live),Vinicius Júnior,Pass (Live)
+61,Lucas Vázquez,Real Madrid,0.04,,Off Target,27,Right Foot,,Luka Modrić,Pass (Live),Toni Kroos,Pass (Live)
+67,David Alaba,Real Madrid,0.03,,Blocked,25,Left Foot,Free kick,Lucas Vázquez,Fouled,Vinicius Júnior,Pass (Live)
+72,Vinicius Júnior,Real Madrid,0.35,0.77,Goal,9,Left Foot,,Rodrygo,Pass (Live),Rodrygo,Take-On
+89,Rodrygo,Real Madrid,0.48,0.60,Goal,9,Right Foot,,Rodrygo,Take-On,Rodrygo,Take-On
+90+3,Antonio Rüdiger,Real Madrid,0.42,0.62,Goal,3,Left Foot,Volley,Toni Kroos,Pass (Dead),Eduardo Camavinga,Fouled

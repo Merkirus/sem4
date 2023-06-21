@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Erling Haaland,Manchester City,0.04,,Off Target,26,Left Foot,,Phil Foden,Pass (Live),Julián Álvarez,Pass (Live)
+7,Manuel Akanji,Manchester City,0.11,,Off Target,9,Head,,Riyad Mahrez,Pass (Dead),İlkay Gündoğan,Pass (Live)
+12,Kevin De Bruyne,Manchester City,0.05,,Blocked,24,Right Foot,,Riyad Mahrez,Pass (Live),Phil Foden,Pass (Live)
+16,Julián Álvarez,Manchester City,0.17,,Off Target,12,Right Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+17,Erling Haaland,Manchester City,0.23,0.28,Saved,12,Left Foot,,Nathan Aké,Pass (Live),Aymeric Laporte,Pass (Live)
+19,İlkay Gündoğan,Manchester City,0.11,0.45,Goal,18,Right Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Take-On
+25,Erling Haaland,Manchester City,0.08,,Off Target,15,Left Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+27,İlkay Gündoğan,Manchester City,0.09,0.43,Goal,21,Right Foot,,Riyad Mahrez,Pass (Live),Erling Haaland,Pass (Live)
+32,Julián Álvarez,Manchester City,0.04,0.05,Saved,22,Right Foot,,Julián Álvarez,Take-On,Kevin De Bruyne,Pass (Live)
+35,Erling Haaland,Manchester City,0.08,,Off Target,10,Right Foot,,Kevin De Bruyne,Pass (Live),Rico Lewis,Pass (Live)
+45+2,Phil Foden,Manchester City,0.05,,Off Target,23,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),Riyad Mahrez,Fouled
+53,Erling Haaland,Manchester City,0.14,0.12,Saved,8,Head,,Julián Álvarez,Pass (Live),Rico Lewis,Pass (Live)
+62,Erling Haaland,Manchester City,0.42,,Woodwork,20,Left Foot,,Rico Lewis,Pass (Live),Manuel Akanji,Pass (Live)
+67,Riyad Mahrez,Manchester City,0.06,,Blocked,23,Left Foot,Free kick,Erling Haaland,Fouled,Erling Haaland,Take-On
+68,Manuel Akanji,Manchester City,0.04,,Off Target,11,Head,,Kevin De Bruyne,Pass (Dead),Riyad Mahrez,Shot
+72,Riyad Mahrez,Manchester City,0.04,0.05,Saved,24,Left Foot,Free kick,Kevin De Bruyne,Fouled,Riyad Mahrez,Pass (Live)
+81,Rico Lewis,Manchester City,0.04,,Off Target,25,Right Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Dead)
+84,İlkay Gündoğan (pen),Manchester City,0.79,,Woodwork,13,Right Foot,,Phil Foden,Fouled,Phil Foden,Take-On

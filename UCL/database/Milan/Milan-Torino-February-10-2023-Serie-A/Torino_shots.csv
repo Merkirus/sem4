@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Aleksei Miranchuk,Torino,0.04,,Off Target,30,Left Foot,,Alessandro Buongiorno,Interception,,
+16,Alessandro Buongiorno,Torino,0.04,,Blocked,9,Left Foot,Volley,Nikola Vlašić,Pass (Dead),Gvidas Gineitis,Pass (Live)
+17,Perr Schuurs,Torino,0.02,,Off Target,10,Right Foot,Volley,Nikola Vlašić,Pass (Dead),Alessandro Buongiorno,Shot
+18,Antonio Sanabria,Torino,0.02,,Off Target,30,Left Foot,,Wilfried Singo,Pass (Live),Koffi Djidji,Pass (Live)
+37,Antonio Sanabria,Torino,0.27,0.32,Saved,10,Right Foot,,Ricardo Rodríguez,Pass (Live),,
+47,Michel Ndary Adopo,Torino,0.03,,Blocked,19,Right Foot,,Aleksei Miranchuk,Pass (Live),Michel Ndary Adopo,Pass (Live)
+55,Wilfried Singo,Torino,0.02,0.04,Saved,33,Left Foot,,Aleksei Miranchuk,Pass (Live),,
+58,Antonio Sanabria,Torino,0.05,,Blocked,25,Left Foot,,Michel Ndary Adopo,Pass (Live),Aleksei Miranchuk,Pass (Live)
+59,Antonio Sanabria,Torino,0.01,,Blocked,13,Head,,Aleksei Miranchuk,Pass (Live),Mërgim Vojvoda,Pass (Live)
+60,Mërgim Vojvoda,Torino,0.08,,Off Target,21,Left Foot,,Aleksei Miranchuk,Pass (Live),Wilfried Singo,Pass (Live)
+76,Karol Linetty,Torino,0.03,,Blocked,19,Right Foot,,,,,
+90+3,Aleksei Miranchuk,Torino,0.18,,Off Target,3,Head,,Nemanja Radonjić,Pass (Dead),Mërgim Vojvoda,Pass (Live)

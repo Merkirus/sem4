@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Lautaro Martínez,Inter,0.09,,Blocked,20,Right Foot,,Alessandro Bastoni,Pass (Live),Alessandro Bastoni,Take-On
+12,Edin Džeko,Inter,0.21,,Off Target,10,Head,,Federico Dimarco,Pass (Live),Kristjan Asllani,Pass (Live)
+14,Lautaro Martínez,Inter,0.42,,Off Target,11,Left Foot,,Denzel Dumfries,Pass (Live),,
+24,Federico Dimarco,Inter,0.06,,Off Target,19,Left Foot,,Edin Džeko,Pass (Live),Federico Dimarco,Pass (Live)
+25,Edin Džeko,Inter,0.08,,Off Target,14,Right Foot,,Federico Dimarco,Pass (Live),Danilo D'Ambrosio,Pass (Live)
+27,Hakan Çalhanoğlu,Inter,0.02,,Blocked,33,Right Foot,,Federico Dimarco,Pass (Live),Alessandro Bastoni,Pass (Live)
+34,Kristjan Asllani,Inter,0.04,,Off Target,24,Right Foot,,Hakan Çalhanoğlu,Pass (Dead),Kristjan Asllani,Pass (Live)
+44,Denzel Dumfries,Inter,0.17,,Off Target,9,Other,,Hakan Çalhanoğlu,Pass (Dead),Danilo D'Ambrosio,Pass (Live)
+44,Edin Džeko,Inter,0.40,0.85,Goal,5,Right Foot,Volley,Denzel Dumfries,Shot,,
+67,Hakan Çalhanoğlu,Inter,0.02,,Off Target,32,Right Foot,Free kick,Henrikh Mkhitaryan,Fouled,Federico Dimarco,Pass (Live)
+74,Lautaro Martínez,Inter,0.18,0.62,Saved,7,Head,,Denzel Dumfries,Pass (Live),Edin Džeko,Pass (Live)
+75,Edin Džeko,Inter,0.42,0.50,Goal,4,Head,,Henrikh Mkhitaryan,Pass (Live),Matteo Darmian,Pass (Live)
+80,Lautaro Martínez,Inter,0.07,,Off Target,12,Left Foot,,Matteo Darmian,Pass (Live),Edin Džeko,Pass (Live)
+81,Lautaro Martínez,Inter,0.15,,Off Target,13,Right Foot,,Denzel Dumfries,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+87,Roberto Gagliardini,Inter,0.06,,Blocked,13,Right Foot,,Edin Džeko,Pass (Live),Denzel Dumfries,Pass (Live)
+90+2,Edin Džeko,Inter,0.02,0.07,Saved,28,Left Foot,,Lautaro Martínez,Pass (Live),Denzel Dumfries,Pass (Dead)

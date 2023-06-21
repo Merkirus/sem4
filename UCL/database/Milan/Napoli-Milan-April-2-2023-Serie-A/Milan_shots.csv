@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Brahim Díaz,Milan,0.15,0.08,Saved,16,Left Foot,,Theo Hernández,Pass (Live),Rafael Leão,Pass (Live)
+6,Theo Hernández,Milan,0.02,,Blocked,32,Left Foot,,Brahim Díaz,Pass (Live),Rade Krunić,Pass (Live)
+6,Theo Hernández,Milan,0.04,,Blocked,21,Left Foot,,Theo Hernández,Shot,,
+17,Rafael Leão,Milan,0.52,0.73,Goal,15,Right Foot,,Brahim Díaz,Pass (Live),Brahim Díaz,Take-On
+25,Brahim Díaz,Milan,0.29,0.93,Goal,8,Left Foot,Deflected,Brahim Díaz,Take-On,Rafael Leão,Pass (Live)
+43,Brahim Díaz,Milan,0.04,0.08,Saved,18,Right Foot,,Rafael Leão,Pass (Live),Rafael Leão,Take-On
+47,Rafael Leão,Milan,0.02,,Off Target,32,Left Foot,,Sandro Tonali,Pass (Live),Rade Krunić,Pass (Live)
+50,Olivier Giroud,Milan,0.24,,Off Target,11,Left Foot,,Ismaël Bennacer,Pass (Live),Rafael Leão,Pass (Live)
+59,Rafael Leão,Milan,0.14,0.48,Goal,12,Left Foot,,Sandro Tonali,Pass (Live),Sandro Tonali,Tackle
+67,Alexis Saelemaekers,Milan,0.34,0.58,Goal,8,Right Foot,,Alexis Saelemaekers,Take-On,Davide Calabria,Pass (Live)
+71,Fikayo Tomori,Milan,0.05,,Blocked,11,Head,,Ismaël Bennacer,Pass (Dead),Rafael Leão,Pass (Live)
+73,Alexis Saelemaekers,Milan,0.07,0.25,Saved,29,Right Foot,,Alexis Saelemaekers,Take-On,Alexis Saelemaekers,Take-On
+82,Ismaël Bennacer,Milan,0.14,,Blocked,21,Left Foot,,Divock Origi,Pass (Live),Alexis Saelemaekers,Pass (Live)
+85,Alexis Saelemaekers,Milan,0.09,0.04,Saved,20,Right Foot,,Alexis Saelemaekers,Pass (Live),Theo Hernández,Pass (Dead)

@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+21,Leandro Cabrera,Espanyol,0.04,,Blocked,14,Left Foot,,Fernando Calero,Pass (Live),Sergi Darder,Pass (Dead)
+23,Sergi Darder,Espanyol,0.03,,Off Target,33,Right Foot,,Leandro Cabrera,Pass (Live),,
+26,Javi Puado,Espanyol,0.07,,Blocked,16,Right Foot,,,,,
+27,Rubén,Espanyol,0.14,,Off Target,5,Head,,Sergi Darder,Pass (Dead),Javi Puado,Shot
+38,Vinicius Souza,Espanyol,0.03,0.11,Saved,31,Right Foot,,Edu Expósito,Pass (Live),Óscar Gil,Pass (Live)
+42,Leandro Cabrera,Espanyol,0.15,,Off Target,6,Head,,Sergi Darder,Pass (Dead),,
+43,Joselu,Espanyol,0.20,0.07,Saved,9,Right Foot,Deflected,Óscar Gil,Pass (Live),Rubén,Pass (Live)
+43,Joselu,Espanyol,0.21,0.95,Goal,8,Right Foot,Volley,Joselu,Shot,,
+52,Javi Puado,Espanyol,0.18,,Blocked,10,Right Foot,,Brian Oliván,Pass (Live),Sergi Darder,Pass (Live)
+54,Rubén,Espanyol,0.07,,Blocked,16,Right Foot,,Rubén,Take-On,Benjamin Lecomte,Pass (Live)
+59,Joselu,Espanyol,0.04,,Blocked,10,Right Foot,Volley,Javi Puado,Pass (Live),Brian Oliván,Pass (Live)
+59,Joselu,Espanyol,0.09,0.16,Saved,10,Left Foot,,Joselu,Shot,,
+59,Javi Puado,Espanyol,0.04,,Off Target,17,Right Foot,Volley,Joselu,Shot,,
+79,Joselu,Espanyol,0.03,,Off Target,31,Right Foot,,Rubén,Pass (Live),Keidi Bare,Pass (Live)
+85,Sergi Darder,Espanyol,0.03,,Off Target,25,Right Foot,,Nico Ribaudo,Pass (Live),Sergi Darder,Pass (Live)

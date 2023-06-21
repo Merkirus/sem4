@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Piotr Zieliński,Napoli,0.05,,Blocked,25,Left Foot,,Matteo Politano,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+24,Victor Osimhen,Napoli,0.06,,Blocked,9,Right Foot,,Piotr Zieliński,Pass (Dead),,
+30,Piotr Zieliński,Napoli,0.13,,Off Target,17,Right Foot,,Mathías Olivera,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+45,Andre-Frank Zambo Anguissa,Napoli,0.12,,Off Target,9,Right Foot,Volley,Giovanni Di Lorenzo,Pass (Live),Matteo Politano,Pass (Live)
+52,Victor Osimhen,Napoli,0.25,0.52,Saved,2,Left Foot,,Mathías Olivera,Pass (Live),Khvicha Kvaratskhelia,Pass (Live)
+59,Amir Rrahmani,Napoli,0.02,,Off Target,16,Head,,Piotr Zieliński,Pass (Live),Matteo Politano,Pass (Live)
+61,Khvicha Kvaratskhelia,Napoli,0.06,,Off Target,12,Left Foot,,Mathías Olivera,Pass (Live),Stanislav Lobotka,Pass (Live)
+90,Hirving Lozano,Napoli,0.06,,Blocked,16,Left Foot,,Mathías Olivera,Pass (Live),Mathías Olivera,Pass (Live)
+90,Giacomo Raspadori,Napoli,0.16,0.05,Saved,11,Right Foot,,Hirving Lozano,Shot,,

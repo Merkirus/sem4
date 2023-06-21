@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Federico Dimarco,Inter,0.05,,Blocked,14,Left Foot,Volley,Lautaro Martínez,Pass (Live),Matteo Darmian,Pass (Dead)
+13,Lautaro Martínez,Inter,0.14,,Off Target,11,Head,,Federico Dimarco,Pass (Live),Alessandro Bastoni,Pass (Live)
+15,Nicolò Barella,Inter,0.03,,Off Target,33,Right Foot,Volley,Alessandro Bastoni,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+18,Hakan Çalhanoğlu,Inter,0.01,0.17,Saved,31,Right Foot,,Federico Dimarco,Pass (Live),Hakan Çalhanoğlu,Pass (Dead)
+32,Lautaro Martínez,Inter,0.15,,Off Target,15,Right Foot,Volley,Matteo Darmian,Pass (Live),Alessandro Bastoni,Pass (Live)
+45+3,Alessandro Bastoni,Inter,0.08,0.16,Saved,7,Head,Deflected,Federico Dimarco,Pass (Dead),,Fouled
+52,Nicolò Barella,Inter,0.07,,Off Target,14,Right Foot,Volley,Milan Škriniar,Pass (Live),Francesco Acerbi,Pass (Live)
+63,Lautaro Martínez,Inter,0.16,,Off Target,12,Head,,Robin Gosens,Pass (Live),,
+69,Nicolò Barella,Inter,0.02,,Off Target,26,Right Foot,Volley,Romelu Lukaku,Pass (Live),Francesco Acerbi,Pass (Live)
+76,Marcelo Brozović,Inter,0.04,,Blocked,17,Left Foot,,Marcelo Brozović,Take-On,Hakan Çalhanoğlu,Pass (Dead)
+80,Hakan Çalhanoğlu,Inter,0.05,,Blocked,30,Right Foot,Free kick,Hakan Çalhanoğlu,Fouled,Robin Gosens,Pass (Dead)
+82,Lautaro Martínez,Inter,0.07,,Blocked,16,Right Foot,,Romelu Lukaku,Pass (Live),Alessandro Bastoni,Pass (Live)
+84,Nicolò Barella,Inter,0.01,,Off Target,33,Right Foot,,Marcelo Brozović,Pass (Live),Robin Gosens,Pass (Dead)
+86,Romelu Lukaku,Inter,0.10,,Blocked,9,Head,,Nicolò Barella,Pass (Live),Marcelo Brozović,Pass (Live)
+86,Romelu Lukaku,Inter,0.42,0.55,Goal,9,Left Foot,Volley,Romelu Lukaku,Shot,,
+88,Francesco Acerbi,Inter,0.08,,Off Target,10,Head,,Hakan Çalhanoğlu,Pass (Dead),Marcelo Brozović,Pass (Live)
+88,Romelu Lukaku,Inter,0.09,0.13,Saved,6,Left Foot,Deflected,Francesco Acerbi,Shot,,
+88,Romelu Lukaku,Inter,0.02,,Off Target,11,Right Foot,Volley,Romelu Lukaku,Shot,,

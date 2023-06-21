@@ -1,0 +1,24 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Mário Rui,Napoli,0.08,,Blocked,29,Left Foot,Free kick,Khvicha Kvaratskhelia,Fouled,Tanguy Ndombele,Pass (Live)
+9,Khvicha Kvaratskhelia,Napoli,0.04,0.19,Saved,19,Right Foot,,Stanislav Lobotka,Pass (Live),Tanguy Ndombele,Pass (Dead)
+10,Victor Osimhen,Napoli,0.07,,Blocked,11,Left Foot,Volley,Khvicha Kvaratskhelia,Pass (Dead),Tanguy Ndombele,Pass (Live)
+11,Victor Osimhen,Napoli,0.04,,Off Target,15,Head,,Matteo Politano,Pass (Live),Giovanni Di Lorenzo,Pass (Live)
+13,Matteo Politano,Napoli,0.04,,Off Target,24,Left Foot,,Giovanni Di Lorenzo,Pass (Live),,
+16,Khvicha Kvaratskhelia,Napoli,0.04,,Blocked,16,Right Foot,,Stanislav Lobotka,Pass (Live),Piotr Zieliński,Pass (Live)
+20,Matteo Politano,Napoli,0.03,,Off Target,21,Left Foot,,Matteo Politano,Pass (Live),Mário Rui,Tackle
+26,Piotr Zieliński,Napoli,0.10,0.06,Saved,17,Right Foot,,Giovanni Di Lorenzo,Pass (Live),Tanguy Ndombele,Pass (Live)
+42,Tanguy Ndombele,Napoli,0.03,,Off Target,24,Right Foot,,Giovanni Di Lorenzo,Pass (Live),Stanislav Lobotka,Pass (Live)
+45+3,Stanislav Lobotka,Napoli,0.05,,Blocked,27,Right Foot,,Hirving Lozano,Tackle,,
+46,Khvicha Kvaratskhelia,Napoli,0.09,,Off Target,8,Right Foot,,Khvicha Kvaratskhelia,Take-On,Mathías Olivera,Pass (Live)
+56,Tanguy Ndombele,Napoli,0.06,,Blocked,14,Left Foot,,Khvicha Kvaratskhelia,Pass (Live),Piotr Zieliński,Pass (Live)
+58,Khvicha Kvaratskhelia,Napoli,0.06,,Off Target,12,Left Foot,,Khvicha Kvaratskhelia,Take-On,Khvicha Kvaratskhelia,Take-On
+60,Hirving Lozano,Napoli,0.05,,Off Target,16,Left Foot,,Tanguy Ndombele,Pass (Live),Giovanni Di Lorenzo,Pass (Live)
+64,Mathías Olivera,Napoli,0.12,,Off Target,8,Head,,Khvicha Kvaratskhelia,Pass (Dead),Giovanni Di Lorenzo,Pass (Live)
+72,Piotr Zieliński,Napoli,0.03,,Blocked,23,Left Foot,,Hirving Lozano,Pass (Live),Piotr Zieliński,Pass (Live)
+74,Amir Rrahmani,Napoli,0.05,,Off Target,11,Head,,Giovanni Di Lorenzo,Pass (Live),Stanislav Lobotka,Pass (Live)
+82,Khvicha Kvaratskhelia (pen),Napoli,0.79,0.99,Saved,13,Right Foot,,,Fouled,Hirving Lozano,Pass (Live)
+82,Khvicha Kvaratskhelia,Napoli,0.06,,Blocked,10,Head,,Giacomo Raspadori,Pass (Dead),Khvicha Kvaratskhelia,Shot
+89,Mathías Olivera,Napoli,0.23,,Off Target,5,Head,,Khvicha Kvaratskhelia,Pass (Dead),,
+90,Hirving Lozano,Napoli,0.04,,Blocked,18,Right Foot,,Leo Skiri Østigård,Pass (Live),Hirving Lozano,Pass (Live)
+90+3,Victor Osimhen,Napoli,0.10,,Blocked,9,Head,,Khvicha Kvaratskhelia,Pass (Live),Giacomo Raspadori,Pass (Live)
+90+3,Victor Osimhen,Napoli,0.06,0.76,Goal,10,Head,,Giacomo Raspadori,Pass (Live),Khvicha Kvaratskhelia,Pass (Live)

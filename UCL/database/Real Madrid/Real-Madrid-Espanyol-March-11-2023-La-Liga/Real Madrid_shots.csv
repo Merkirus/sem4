@@ -1,0 +1,23 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Eduardo Camavinga,Real Madrid,0.06,0.04,Saved,15,Left Foot,,Vinicius Júnior,Pass (Live),Luka Modrić,Pass (Live)
+17,Aurélien Tchouaméni,Real Madrid,0.01,,Off Target,32,Right Foot,,Toni Kroos,Pass (Live),Dani Carvajal,Pass (Live)
+19,Luka Modrić,Real Madrid,0.02,,Blocked,30,Right Foot,,Luka Modrić,Take-On,Nacho,Pass (Live)
+21,Vinicius Júnior,Real Madrid,0.01,,Blocked,23,Right Foot,,Federico Valverde,Pass (Live),Luka Modrić,Pass (Live)
+21,Dani Carvajal,Real Madrid,0.05,,Off Target,15,Right Foot,Volley,Vinicius Júnior,Pass (Live),Luka Modrić,Pass (Live)
+22,Vinicius Júnior,Real Madrid,0.04,0.45,Goal,16,Right Foot,,Toni Kroos,Pass (Live),Federico Valverde,Pass (Live)
+25,Rodrygo,Real Madrid,0.05,0.05,Saved,10,Right Foot,,Rodrygo,Take-On,Federico Valverde,Pass (Live)
+25,Toni Kroos,Real Madrid,0.03,,Off Target,28,Right Foot,,Luka Modrić,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+26,Federico Valverde,Real Madrid,0.04,,Off Target,25,Left Foot,,Dani Carvajal,Pass (Live),Luka Modrić,Pass (Live)
+28,Rodrygo,Real Madrid,0.02,,Off Target,28,Right Foot,,Luka Modrić,Pass (Live),Toni Kroos,Pass (Live)
+31,Vinicius Júnior,Real Madrid,0.06,,Blocked,12,Right Foot,,Dani Carvajal,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+33,Vinicius Júnior,Real Madrid,0.03,,Blocked,16,Right Foot,,,,,
+35,Toni Kroos,Real Madrid,0.04,,Blocked,30,Right Foot,Free kick,Rodrygo,Fouled,Aurélien Tchouaméni,Pass (Live)
+39,Éder Militão,Real Madrid,0.34,0.23,Goal,6,Head,,Aurélien Tchouaméni,Pass (Live),Vinicius Júnior,Pass (Live)
+43,Rodrygo,Real Madrid,0.12,,Blocked,8,Right Foot,,Vinicius Júnior,Pass (Live),Luka Modrić,Pass (Live)
+57,Toni Kroos,Real Madrid,0.02,,Blocked,24,Right Foot,,Vinicius Júnior,Pass (Live),Toni Kroos,Pass (Live)
+60,Vinicius Júnior,Real Madrid,0.02,,Blocked,20,Right Foot,,Toni Kroos,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+70,Toni Kroos,Real Madrid,0.05,,Off Target,25,Left Foot,,Vinicius Júnior,Pass (Live),Toni Kroos,Pass (Live)
+75,Rodrygo,Real Madrid,0.07,,Woodwork,25,Right Foot,Free kick,Eduardo Camavinga,Fouled,Marco Asensio,Pass (Live)
+78,Vinicius Júnior,Real Madrid,0.02,0.01,Saved,27,Right Foot,,Rodrygo,Pass (Live),Dani Ceballos,Pass (Live)
+90+3,Marco Asensio,Real Madrid,0.36,0.39,Goal,13,Left Foot,,Nacho,Pass (Live),Nacho,Take-On
+90+4,Federico Valverde,Real Madrid,0.22,0.15,Saved,14,Right Foot,,Marco Asensio,Pass (Live),Nacho,Pass (Live)

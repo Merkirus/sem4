@@ -1,0 +1,24 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+8,Jack Grealish,Manchester City,0.12,,Blocked,12,Right Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+9,İlkay Gündoğan,Manchester City,0.08,,Blocked,14,Left Foot,Volley,Aymeric Laporte,Pass (Live),Kevin De Bruyne,Pass (Dead)
+16,Kevin De Bruyne,Manchester City,0.04,,Blocked,29,Right Foot,Free kick,Jack Grealish,Fouled,,
+25,Kevin De Bruyne,Manchester City,0.02,,Off Target,28,Right Foot,,Jack Grealish,Pass (Live),Aymeric Laporte,Pass (Live)
+27,Aymeric Laporte,Manchester City,0.03,,Blocked,13,Left Foot,Volley,Kevin De Bruyne,Pass (Dead),Phil Foden,Pass (Live)
+28,Kevin De Bruyne,Manchester City,0.04,,Off Target,25,Right Foot,,Jack Grealish,Fouled,Aymeric Laporte,Pass (Live)
+33,Rodri,Manchester City,0.21,,Off Target,10,Head,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+39,Bernardo Silva,Manchester City,0.05,,Off Target,25,Left Foot,,İlkay Gündoğan,Pass (Live),Bernardo Silva,Pass (Live)
+41,Bernardo Silva,Manchester City,0.02,0.09,Goal,24,Left Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+47,İlkay Gündoğan,Manchester City,0.02,,Off Target,25,Right Foot,,Jack Grealish,Pass (Live),Aymeric Laporte,Pass (Live)
+51,Kevin De Bruyne,Manchester City,0.02,,Off Target,28,Left Foot,,Phil Foden,Pass (Live),Aymeric Laporte,Pass (Live)
+52,Aymeric Laporte,Manchester City,0.17,0.07,Saved,7,Head,,Kevin De Bruyne,Pass (Dead),Rodri,Take-On
+52,Rúben Dias,Manchester City,0.37,0.50,Saved,4,Left Foot,,Aymeric Laporte,Shot,,
+56,Kevin De Bruyne,Manchester City,0.04,0.08,Saved,21,Right Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+62,Kevin De Bruyne,Manchester City,0.05,,Off Target,22,Right Foot,,Rodri,Pass (Live),Aymeric Laporte,Pass (Live)
+64,Rodri,Manchester City,0.10,,Off Target,9,Head,,Kevin De Bruyne,Pass (Dead),Rúben Dias,Pass (Live)
+67,Phil Foden,Manchester City,0.03,0.06,Saved,25,Left Foot,,Kyle Walker,Pass (Live),İlkay Gündoğan,Tackle
+67,Erling Haaland,Manchester City,0.44,,Woodwork,10,Left Foot,Volley,Phil Foden,Shot,,
+67,Erling Haaland,Manchester City,0.51,,Off Target,6,Left Foot,,Erling Haaland,Shot,,
+73,İlkay Gündoğan,Manchester City,0.10,0.29,Saved,26,Right Foot,Free kick,Jack Grealish,Fouled,Phil Foden,Pass (Live)
+83,Kevin De Bruyne,Manchester City,0.10,,Off Target,20,Right Foot,,Jack Grealish,Pass (Live),Erling Haaland,Pass (Live)
+86,Jack Grealish,Manchester City,0.05,,Blocked,22,Right Foot,,Jack Grealish,Take-On,Bernardo Silva,Pass (Live)
+90+4,Rúben Dias,Manchester City,0.09,,Blocked,9,Head,,Nathan Aké,Pass (Live),Jack Grealish,Pass (Live)

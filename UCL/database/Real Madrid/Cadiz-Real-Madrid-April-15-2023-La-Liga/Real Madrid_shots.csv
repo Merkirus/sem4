@@ -1,0 +1,36 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Karim Benzema,Real Madrid,0.04,,Blocked,20,Right Foot,,Federico Valverde,Pass (Live),Dani Ceballos,Pass (Live)
+6,Dani Ceballos,Real Madrid,0.02,,Blocked,27,Right Foot,,Aurélien Tchouaméni,Pass (Live),Antonio Rüdiger,Pass (Live)
+10,Federico Valverde,Real Madrid,0.02,,Off Target,26,Right Foot,,Lucas Vázquez,Pass (Live),Karim Benzema,Pass (Live)
+16,Marco Asensio,Real Madrid,0.13,0.13,Saved,14,Left Foot,,Lucas Vázquez,Pass (Live),Federico Valverde,Pass (Live)
+18,Karim Benzema,Real Madrid,0.29,0.56,Saved,12,Right Foot,,Marco Asensio,Pass (Live),Karim Benzema,Pass (Live)
+21,Dani Ceballos,Real Madrid,0.03,,Blocked,16,Right Foot,,,,,
+21,Aurélien Tchouaméni,Real Madrid,0.15,0.12,Saved,9,Other,,Marco Asensio,Pass (Dead),Dani Ceballos,Shot
+25,Rodrygo,Real Madrid,0.04,0.37,Saved,19,Right Foot,Volley,Lucas Vázquez,Pass (Live),Antonio Rüdiger,Pass (Live)
+28,Aurélien Tchouaméni,Real Madrid,0.02,,Blocked,28,Right Foot,,Rodrygo,Pass (Live),Karim Benzema,Pass (Live)
+30,Karim Benzema,Real Madrid,0.04,,Blocked,28,Right Foot,Free kick,Dani Ceballos,Fouled,Dani Ceballos,Take-On
+31,Karim Benzema,Real Madrid,0.03,,Off Target,19,Right Foot,,Nacho,Pass (Live),Rodrygo,Pass (Live)
+35,Dani Ceballos,Real Madrid,0.11,,Blocked,10,Left Foot,,Rodrygo,Pass (Live),Rodrygo,Take-On
+35,Karim Benzema,Real Madrid,0.38,,Woodwork,9,Left Foot,,Dani Ceballos,Shot,,
+38,Lucas Vázquez,Real Madrid,0.03,,Off Target,20,Left Foot,,Marco Asensio,Pass (Live),Rodrygo,Pass (Live)
+40,Rodrygo,Real Madrid,0.31,0.19,Saved,13,Right Foot,,Rodrygo,Take-On,Karim Benzema,Pass (Live)
+42,Dani Ceballos,Real Madrid,0.04,0.06,Saved,9,Left Foot,Volley,Marco Asensio,Pass (Dead),Lucas Vázquez,Pass (Live)
+50,Rodrygo,Real Madrid,0.21,0.43,Saved,10,Right Foot,,Éder Militão,Pass (Live),Antonio Rüdiger,Pass (Live)
+54,Marco Asensio,Real Madrid,0.02,,Off Target,22,Left Foot,,Karim Benzema,Pass (Live),Marco Asensio,Pass (Live)
+57,Rodrygo,Real Madrid,0.52,,Off Target,6,Right Foot,,Federico Valverde,Pass (Live),Marco Asensio,Pass (Live)
+58,Federico Valverde,Real Madrid,0.21,,Off Target,5,Right Foot,,Marco Asensio,Pass (Dead),Lucas Vázquez,Tackle
+64,Karim Benzema,Real Madrid,0.05,,Woodwork,13,Left Foot,,Aurélien Tchouaméni,Pass (Live),Federico Valverde,Pass (Live)
+64,Aurélien Tchouaméni,Real Madrid,0.06,,Blocked,17,Right Foot,,Aurélien Tchouaméni,Take-On,Karim Benzema,Pass (Live)
+65,Rodrygo,Real Madrid,0.05,,Off Target,10,Right Foot,,Karim Benzema,Pass (Live),Karim Benzema,Take-On
+69,Karim Benzema,Real Madrid,0.05,,Off Target,16,Right Foot,Volley,Marco Asensio,Pass (Live),Dani Ceballos,Pass (Live)
+71,Aurélien Tchouaméni,Real Madrid,0.03,,Blocked,27,Right Foot,,Dani Ceballos,Pass (Live),Rodrygo,Pass (Live)
+72,Nacho,Real Madrid,0.02,0.27,Goal,29,Right Foot,,Aurélien Tchouaméni,Pass (Live),Dani Ceballos,Pass (Live)
+76,Marco Asensio,Real Madrid,0.06,0.37,Goal,16,Left Foot,,Federico Valverde,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+80,Nacho,Real Madrid,0.19,0.48,Saved,9,Right Foot,,Nacho,Take-On,Nacho,Take-On
+80,Karim Benzema,Real Madrid,0.09,,Blocked,12,Left Foot,,Federico Valverde,Pass (Live),Nacho,Shot
+80,Aurélien Tchouaméni,Real Madrid,0.04,,Off Target,26,Right Foot,,Karim Benzema,Shot,,
+86,Marco Asensio,Real Madrid,0.08,,Blocked,14,Left Foot,,Karim Benzema,Pass (Live),Eduardo Camavinga,Pass (Live)
+87,Karim Benzema,Real Madrid,0.07,,Blocked,15,Right Foot,,Marco Asensio,Pass (Live),Karim Benzema,Pass (Live)
+88,Marco Asensio,Real Madrid,0.05,0.17,Saved,20,Left Foot,,Eden Hazard,Pass (Dead),Karim Benzema,Shot
+89,Aurélien Tchouaméni,Real Madrid,0.04,,Blocked,14,Right Foot,,Nacho,Pass (Live),Marco Asensio,Pass (Live)
+90+1,Marco Asensio,Real Madrid,0.02,,Off Target,26,Left Foot,,Karim Benzema,Pass (Live),Aurélien Tchouaméni,Pass (Live)

@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Cole Palmer,Manchester City,0.11,0.06,Saved,14,Left Foot,,Cole Palmer,Take-On,Nathan Aké,Pass (Live)
+4,Julián Álvarez,Manchester City,0.07,,Blocked,10,Right Foot,,Rico Lewis,Pass (Live),Riyad Mahrez,Pass (Live)
+8,Kalvin Phillips,Manchester City,0.05,,Off Target,26,Left Foot,,Riyad Mahrez,Pass (Live),Cole Palmer,Pass (Live)
+16,Cole Palmer,Manchester City,0.02,,Blocked,28,Left Foot,,Rico Lewis,Pass (Live),Cole Palmer,Pass (Live)
+16,Julián Álvarez,Manchester City,0.09,,Blocked,15,Right Foot,,Cole Palmer,Shot,,
+44,Sergio Gómez,Manchester City,0.07,,Off Target,22,Left Foot,,Riyad Mahrez,Pass (Live),Kyle Walker,Pass (Live)
+45+1,Julián Álvarez,Manchester City,0.08,,Off Target,10,Head,,Kyle Walker,Pass (Live),Riyad Mahrez,Pass (Live)
+49,Phil Foden,Manchester City,0.03,,Blocked,18,Left Foot,,Julián Álvarez,Pass (Live),Cole Palmer,Pass (Live)
+51,Cole Palmer,Manchester City,0.15,0.38,Saved,10,Left Foot,,Phil Foden,Pass (Live),Riyad Mahrez,Pass (Live)
+58,Julián Álvarez,Manchester City,0.02,,Off Target,29,Right Foot,,Phil Foden,Pass (Live),Nathan Aké,Pass (Live)
+62,Julián Álvarez,Manchester City,0.09,,Blocked,13,Left Foot,,Cole Palmer,Pass (Live),Phil Foden,Pass (Live)
+63,Sergio Gómez,Manchester City,0.02,,Off Target,26,Left Foot,,Julián Álvarez,Shot,,
+90,Cole Palmer,Manchester City,0.21,,Blocked,12,Left Foot,,Sergio Gómez,Pass (Live),Riyad Mahrez,Pass (Live)
+90,Cole Palmer,Manchester City,0.16,,Blocked,9,Left Foot,,Cole Palmer,Shot,,
+90,Cole Palmer,Manchester City,0.65,,Blocked,5,Left Foot,,Sergio Gómez,Pass (Live),Cole Palmer,Shot
+90+1,Aymeric Laporte,Manchester City,0.07,,Blocked,12,Left Foot,Volley,Rico Lewis,Pass (Live),Phil Foden,Pass (Live)
+90+3,Kyle Walker,Manchester City,0.03,,Off Target,28,Right Foot,,Rico Lewis,Pass (Live),Phil Foden,Pass (Live)

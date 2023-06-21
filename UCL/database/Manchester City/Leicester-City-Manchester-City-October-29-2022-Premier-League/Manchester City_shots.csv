@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,İlkay Gündoğan,Manchester City,0.08,0.08,Saved,8,Head,,João Cancelo,Pass (Live),Aymeric Laporte,Pass (Live)
+12,Rodri,Manchester City,0.05,0.04,Saved,14,Head,,Kevin De Bruyne,Pass (Live),Jack Grealish,Pass (Dead)
+14,Kevin De Bruyne,Manchester City,0.05,,Off Target,20,Left Foot,,,,,
+16,Bernardo Silva,Manchester City,0.09,0.19,Saved,14,Left Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+18,Rodri,Manchester City,0.20,,Off Target,9,Head,,Kevin De Bruyne,Pass (Live),Manuel Akanji,Pass (Live)
+26,Kevin De Bruyne,Manchester City,0.04,,Blocked,30,Right Foot,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+28,Kevin De Bruyne,Manchester City,0.05,0.05,Saved,26,Left Foot,,Rodri,Pass (Live),Kevin De Bruyne,Pass (Live)
+32,Manuel Akanji,Manchester City,0.04,,Blocked,32,Right Foot,,Aymeric Laporte,Pass (Live),Julián Álvarez,Pass (Live)
+38,Aymeric Laporte,Manchester City,0.02,,Off Target,13,Head,,Kevin De Bruyne,Pass (Dead),Kevin De Bruyne,Pass (Live)
+45+1,Manuel Akanji,Manchester City,0.16,,Off Target,9,Head,,Jack Grealish,Pass (Dead),Kevin De Bruyne,Pass (Live)
+46,Rodri,Manchester City,0.15,,Off Target,18,Right Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+49,Kevin De Bruyne,Manchester City,0.03,0.29,Goal,30,Right Foot,Free kick,Jack Grealish,Fouled,Rodri,Pass (Live)
+52,João Cancelo,Manchester City,0.02,,Blocked,29,Right Foot,,Jack Grealish,Pass (Live),Manuel Akanji,Pass (Live)
+55,Kevin De Bruyne,Manchester City,0.04,,Blocked,26,Left Foot,,İlkay Gündoğan,Pass (Live),Julián Álvarez,Pass (Live)
+87,João Cancelo,Manchester City,0.02,,Off Target,34,Right Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Pass (Live)

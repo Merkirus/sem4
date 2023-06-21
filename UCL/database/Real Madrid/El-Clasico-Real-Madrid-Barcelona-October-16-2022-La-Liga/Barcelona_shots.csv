@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Raphinha,Barcelona,0.02,0.03,Saved,27,Left Foot,,Pedri,Pass (Live),Frenkie de Jong,Pass (Live)
+25,Robert Lewandowski,Barcelona,0.40,,Off Target,3,Left Foot,,Raphinha,Pass (Live),Pedri,Pass (Live)
+26,Sergi Roberto,Barcelona,0.09,,Blocked,11,Left Foot,,Raphinha,Pass (Live),Sergi Roberto,Pass (Live)
+26,Raphinha,Barcelona,0.10,,Off Target,17,Left Foot,Volley,Sergi Roberto,Shot,,
+27,Ousmane Dembélé,Barcelona,0.06,,Off Target,5,Head,,Sergi Roberto,Pass (Live),Robert Lewandowski,Pass (Live)
+37,Frenkie de Jong,Barcelona,0.15,0.05,Saved,17,Right Foot,,Raphinha,Pass (Live),Frenkie de Jong,Pass (Live)
+43,Robert Lewandowski,Barcelona,0.02,,Off Target,4,Head,,Sergio Busquets,Pass (Live),Alejandro Balde,Pass (Live)
+45+1,Pedri,Barcelona,0.03,,Blocked,23,Right Foot,Volley,Raphinha,Pass (Dead),Jules Koundé,Pass (Live)
+70,Robert Lewandowski,Barcelona,0.02,0.08,Saved,12,Head,,Jordi Alba,Pass (Live),Jordi Alba,Take-On
+72,Robert Lewandowski,Barcelona,0.06,,Blocked,23,Right Foot,Free kick,Ousmane Dembélé,Fouled,Jules Koundé,Pass (Live)
+78,Ansu Fati,Barcelona,0.05,,Off Target,28,Right Foot,,Gavi,Tackle,,
+79,Robert Lewandowski,Barcelona,0.09,0.48,Saved,13,Right Foot,,Jordi Alba,Pass (Live),Ansu Fati,Pass (Live)
+82,Gavi,Barcelona,0.04,,Blocked,25,Left Foot,,Jules Koundé,Pass (Live),Frenkie de Jong,Pass (Live)
+83,Jordi Alba,Barcelona,0.01,,Blocked,30,Left Foot,,Frenkie de Jong,Pass (Live),Ferrán Torres,Pass (Dead)
+83,Robert Lewandowski,Barcelona,0.18,,Off Target,9,Left Foot,,Ansu Fati,Pass (Live),Ansu Fati,Take-On
+83,Ferrán Torres,Barcelona,0.60,0.41,Goal,8,Left Foot,,Robert Lewandowski,Shot,,
+87,Sergi Roberto,Barcelona,0.05,,Blocked,12,Head,,Frenkie de Jong,Pass (Live),Robert Lewandowski,Pass (Live)
+87,Ansu Fati,Barcelona,0.18,,Off Target,12,Right Foot,Volley,Sergi Roberto,Shot,,

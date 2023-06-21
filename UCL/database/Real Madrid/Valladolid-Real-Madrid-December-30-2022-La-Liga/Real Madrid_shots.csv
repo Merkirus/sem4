@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Antonio Rüdiger,Real Madrid,0.04,,Off Target,10,Head,,Marco Asensio,Pass (Dead),Toni Kroos,Pass (Dead)
+10,Marco Asensio,Real Madrid,0.04,0.23,Saved,25,Left Foot,,Karim Benzema,Pass (Live),Federico Valverde,Pass (Live)
+17,Vinicius Júnior,Real Madrid,0.05,0.18,Saved,12,Right Foot,,Toni Kroos,Pass (Live),Marco Asensio,Pass (Live)
+17,Karim Benzema,Real Madrid,0.26,,Off Target,8,Left Foot,,Vinicius Júnior,Shot,,
+27,Karim Benzema,Real Madrid,0.06,,Blocked,12,Left Foot,Volley,Marco Asensio,Pass (Live),Dani Ceballos,Pass (Live)
+27,Toni Kroos,Real Madrid,0.02,,Off Target,30,Right Foot,,Federico Valverde,Pass (Live),Dani Carvajal,Pass (Live)
+32,Vinicius Júnior,Real Madrid,0.06,0.14,Saved,18,Right Foot,,,,,
+43,Marco Asensio,Real Madrid,0.02,,Off Target,26,Left Foot,,Federico Valverde,Pass (Live),Toni Kroos,Pass (Live)
+50,Marco Asensio,Real Madrid,0.03,,Blocked,14,Left Foot,,Karim Benzema,Pass (Live),,
+50,Antonio Rüdiger,Real Madrid,0.11,,Off Target,8,Head,,Toni Kroos,Pass (Dead),Marco Asensio,Shot
+57,Karim Benzema,Real Madrid,0.05,,Off Target,17,Left Foot,,Ferland Mendy,Pass (Live),Vinicius Júnior,Pass (Live)
+68,Vinicius Júnior,Real Madrid,0.20,,Off Target,8,Right Foot,,Vinicius Júnior,Take-On,Rodrygo,Pass (Live)
+73,Rodrygo,Real Madrid,0.04,,Blocked,11,Right Foot,,Lucas Vázquez,Pass (Live),Toni Kroos,Pass (Live)
+79,Karim Benzema,Real Madrid,0.03,0.38,Saved,26,Right Foot,,Rodrygo,Pass (Live),Vinicius Júnior,Pass (Live)
+80,Antonio Rüdiger,Real Madrid,0.02,,Blocked,12,Head,,,Fouled,Toni Kroos,Pass (Dead)
+83,Karim Benzema (pen),Real Madrid,0.79,0.99,Goal,13,Right Foot,,Antonio Rüdiger,Shot,,
+89,Karim Benzema,Real Madrid,0.35,0.88,Goal,11,Right Foot,,Eduardo Camavinga,Pass (Live),Luka Modrić,Pass (Live)
+90+5,Luka Modrić,Real Madrid,0.13,,Off Target,14,Right Foot,,Lucas Vázquez,Pass (Live),Eduardo Camavinga,Pass (Live)
+90+6,Eduardo Camavinga,Real Madrid,0.05,0.10,Saved,14,Left Foot,,Luka Modrić,Pass (Live),Toni Kroos,Pass (Live)

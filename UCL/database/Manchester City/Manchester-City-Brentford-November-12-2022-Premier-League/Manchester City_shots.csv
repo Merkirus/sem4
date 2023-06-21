@@ -1,0 +1,30 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,João Cancelo,Manchester City,0.09,,Blocked,16,Left Foot,,Erling Haaland,Pass (Live),Bernardo Silva,Pass (Live)
+8,İlkay Gündoğan,Manchester City,0.01,,Off Target,40,Right Foot,,,,,
+10,Erling Haaland,Manchester City,0.03,,Blocked,18,Left Foot,,Phil Foden,Pass (Live),İlkay Gündoğan,Interception
+13,Kevin De Bruyne,Manchester City,0.07,,Blocked,16,Left Foot,,Phil Foden,Pass (Live),Kevin De Bruyne,Pass (Live)
+23,Phil Foden,Manchester City,0.02,,Blocked,16,Head,,João Cancelo,Pass (Live),Rodri,Pass (Live)
+23,Phil Foden,Manchester City,0.04,,Blocked,20,Right Foot,,Aymeric Laporte,Pass (Live),Manuel Akanji,Pass (Live)
+23,Rodri,Manchester City,0.03,,Off Target,27,Right Foot,,Phil Foden,Shot,,
+25,Phil Foden,Manchester City,0.10,,Blocked,16,Left Foot,,Erling Haaland,Pass (Live),Phil Foden,Pass (Live)
+33,John Stones,Manchester City,0.08,,Off Target,18,Right Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+39,John Stones,Manchester City,0.05,,Blocked,11,Head,,Kevin De Bruyne,Pass (Dead),Bernardo Silva,Pass (Live)
+39,John Stones,Manchester City,0.03,,Blocked,13,Right Foot,Volley,John Stones,Shot,,
+39,Aymeric Laporte,Manchester City,0.03,,Blocked,16,Right Foot,,John Stones,Shot,,
+41,Phil Foden,Manchester City,0.10,0.03,Saved,17,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+44,Aymeric Laporte,Manchester City,0.03,,Off Target,31,Left Foot,,Manuel Akanji,Pass (Live),Bernardo Silva,Pass (Live)
+45+1,Phil Foden,Manchester City,0.08,0.33,Goal,14,Left Foot,,Kevin De Bruyne,Pass (Dead),Phil Foden,Pass (Live)
+48,Bernardo Silva,Manchester City,0.02,,Blocked,19,Left Foot,,John Stones,Pass (Live),Manuel Akanji,Pass (Live)
+57,João Cancelo,Manchester City,0.04,,Blocked,18,Right Foot,,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+59,Aymeric Laporte,Manchester City,0.02,,Off Target,21,Right Foot,Volley,Bernardo Silva,Pass (Live),João Cancelo,Shot
+66,İlkay Gündoğan,Manchester City,0.37,,Off Target,10,Left Foot,,Erling Haaland,Pass (Live),İlkay Gündoğan,Pass (Live)
+71,Phil Foden,Manchester City,0.03,,Off Target,30,Left Foot,Volley,Manuel Akanji,Pass (Live),,
+73,Rodri,Manchester City,0.02,0.36,Saved,28,Right Foot,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)
+77,João Cancelo,Manchester City,0.03,0.05,Saved,31,Right Foot,,Rodri,Pass (Live),John Stones,Pass (Live)
+78,İlkay Gündoğan,Manchester City,0.06,,Off Target,18,Right Foot,Volley,João Cancelo,Shot,,
+83,Kevin De Bruyne,Manchester City,0.03,0.24,Saved,26,Left Foot,,John Stones,Pass (Live),Bernardo Silva,Pass (Live)
+90,Rodri,Manchester City,0.07,,Blocked,16,Right Foot,,Julián Álvarez,Pass (Live),Rodri,Pass (Live)
+90+2,Manuel Akanji,Manchester City,0.02,,Off Target,28,Left Foot,,Bernardo Silva,Pass (Live),Phil Foden,Pass (Live)
+90+7,Rodri,Manchester City,0.03,,Blocked,29,Left Foot,,John Stones,Pass (Live),Rodri,Pass (Live)
+90+7,Phil Foden,Manchester City,0.06,,Blocked,23,Left Foot,,Aymeric Laporte,Pass (Live),Rodri,Pass (Live)
+90+11,Julián Álvarez,Manchester City,0.02,0.40,Saved,17,Head,,Bernardo Silva,Pass (Live),Phil Foden,Pass (Live)

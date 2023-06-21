@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Patrick Bamford,Leeds United,0.04,,Off Target,12,Head,,Weston McKennie,Pass (Live),Degnand Gnonto,Pass (Live)
+29,Weston McKennie,Leeds United,0.04,0.11,Saved,11,Head,,Marc Roca,Pass (Dead),Marc Roca,Pass (Live)
+58,Patrick Bamford,Leeds United,0.09,,Blocked,6,Head,,Luke Ayling,Pass (Live),Adam Forshaw,Pass (Live)
+85,Rodrigo,Leeds United,0.06,0.24,Goal,19,Left Foot,,Weston McKennie,Pass (Live),,

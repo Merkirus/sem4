@@ -1,0 +1,14 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Bernardo Silva,20,POR,FW,25,72,0,0,0,0,2,1,0,0,43,1,0,0,0.1,0.1,0.0,1,0,28,33,84.8,3,31,2,0,0
+Raheem Sterling,7,ENG,LM,25,18,0,0,0,0,1,1,0,0,12,0,0,0,0.1,0.1,0.0,3,2,9,10,90.0,2,12,2,2,1
+Kevin De Bruyne,17,BEL,FW,28,90,1,1,1,1,2,0,0,0,63,0,2,0,0.9,0.1,1.2,8,2,42,56,75.0,7,48,4,4,3
+Gabriel Jesus,9,BRA,"LM,FW",22,90,1,0,0,0,4,2,0,0,37,2,2,3,1.4,1.4,0.2,5,0,20,21,95.2,2,25,1,5,3
+Rodri,16,ESP,CM,23,90,0,0,0,0,0,0,0,0,97,0,0,1,0.0,0.0,0.0,1,0,88,96,91.7,4,81,1,0,0
+İlkay Gündoğan,8,GER,CM,29,90,0,0,0,0,0,0,0,0,85,1,1,0,0.0,0.0,0.5,3,0,76,79,96.2,7,69,7,2,1
+Riyad Mahrez,26,ALG,RM,29,90,0,0,0,0,4,3,0,0,48,2,2,0,0.6,0.6,0.4,6,0,26,33,78.8,1,39,6,2,2
+Benjamin Mendy,22,FRA,LB,25,90,0,0,0,0,1,0,1,0,82,1,2,0,0.0,0.0,0.0,1,0,64,74,86.5,6,59,3,1,1
+Aymeric Laporte,14,ESP,CB,25,32,0,0,0,0,0,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,26,29,89.7,2,24,0,0,0
+Fernandinho,25,BRA,CB,34,58,0,0,0,0,1,0,0,0,55,0,3,1,0.0,0.0,0.0,1,0,48,51,94.1,2,47,0,0,0
+Nicolás Otamendi,30,ARG,CB,32,90,0,0,0,0,0,0,0,0,53,1,0,1,0.0,0.0,0.0,0,0,38,46,82.6,0,38,0,0,0
+Kyle Walker,2,ENG,RB,29,90,0,0,0,0,0,0,0,0,67,1,2,0,0.0,0.0,0.0,1,0,52,60,86.7,2,45,0,2,1
+Ederson,31,BRA,GK,26,90,0,0,0,0,0,0,0,0,39,0,0,0,0.0,0.0,0.0,0,0,27,38,71.1,0,23,0,0,0

@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Conor Gallagher,Chelsea,0.13,,Blocked,13,Right Foot,,,,,
+33,Raheem Sterling,Chelsea,0.31,0.54,Saved,15,Left Foot,,Kai Havertz,Pass (Live),Enzo Fernández,Pass (Live)
+36,Conor Gallagher,Chelsea,0.16,,Woodwork,6,Head,,Lewis Hall,Pass (Live),Kai Havertz,Pass (Live)
+45+2,Kai Havertz,Chelsea,0.05,,Blocked,28,Left Foot,Free kick,Enzo Fernández,Fouled,Wesley Fofana,Pass (Live)
+45+3,Kai Havertz,Chelsea,0.11,,Off Target,8,Head,,Lewis Hall,Pass (Dead),Kai Havertz,Shot
+51,Lewis Hall,Chelsea,0.07,0.18,Saved,24,Right Foot,,Raheem Sterling,Pass (Live),Enzo Fernández,Pass (Live)
+53,Trevoh Chalobah,Chelsea,0.09,0.07,Saved,9,Head,,Enzo Fernández,Pass (Dead),Raheem Sterling,Fouled
+58,Lewis Hall,Chelsea,0.03,0.31,Saved,18,Left Foot,,Raheem Sterling,Pass (Live),Enzo Fernández,Pass (Live)
+63,Raheem Sterling,Chelsea,0.02,0.06,Saved,28,Right Foot,,Raheem Sterling,Take-On,Ruben Loftus-Cheek,Pass (Live)
+69,Kai Havertz,Chelsea,0.06,0.27,Saved,22,Left Foot,,Noni Madueke,Pass (Live),César Azpilicueta,Pass (Live)
+75,Mykhailo Mudryk,Chelsea,0.04,,Blocked,12,Right Foot,,Noni Madueke,Pass (Live),César Azpilicueta,Pass (Live)
+90,Mykhailo Mudryk,Chelsea,0.06,,Off Target,14,Left Foot,,Carney Chukwuemeka,Pass (Live),Carney Chukwuemeka,Interception
+90+4,Trevoh Chalobah,Chelsea,0.12,,Off Target,5,Head,,Mykhailo Mudryk,Pass (Dead),Enzo Fernández,Pass (Live)

@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+15,Moi Gómez,Osasuna,0.02,0.19,Saved,32,Left Foot,,,,,
+29,Jon Moncayola,Osasuna,0.01,,Off Target,32,Right Foot,,Moi Gómez,Pass (Dead),,Fouled
+43,Ante Budimir,Osasuna,0.10,,Off Target,17,Left Foot,,Manuel Sánchez,Interception,,
+53,Ante Budimir,Osasuna,0.13,0.09,Saved,8,Left Foot,,Darko Brašanac,Pass (Live),Manuel Sánchez,Pass (Live)
+58,Abdessamad Ezzalzouli,Osasuna,0.02,,Off Target,32,Right Foot,,Darko Brašanac,Pass (Live),Ante Budimir,Pass (Live)
+60,Rubén García,Osasuna,0.09,0.03,Saved,18,Left Foot,,Ante Budimir,Pass (Live),Manuel Sánchez,Pass (Live)
+62,Moi Gómez,Osasuna,0.03,,Woodwork,22,Left Foot,,,,,
+65,Jon Moncayola,Osasuna,0.02,,Off Target,25,Right Foot,Volley,Manuel Sánchez,Pass (Live),Abdessamad Ezzalzouli,Pass (Live)
+76,Diego Moreno,Osasuna,0.04,,Off Target,20,Left Foot,,Jon Moncayola,Pass (Live),Aimar Oroz,Pass (Live)
+83,Jon Moncayola,Osasuna,0.01,,Blocked,31,Right Foot,,Lucas Torró,Pass (Live),David García,Pass (Live)
+83,Ante Budimir,Osasuna,0.04,0.18,Saved,12,Head,,Abdessamad Ezzalzouli,Pass (Live),Moi Gómez,Pass (Live)

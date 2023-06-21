@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Jakub Kiwior,Spezia,0.03,0.06,Saved,30,Left Foot,Free kick,Daniel Maldini,Fouled,Kelvin Amian,Pass (Live)
+12,Kevin Agudelo,Spezia,0.02,,Blocked,30,Left Foot,,Emil Holm,Pass (Live),Kelvin Amian,Pass (Live)
+13,Mattia Caldara,Spezia,0.03,0.09,Saved,8,Right Foot,,Jakub Kiwior,Pass (Dead),Kevin Agudelo,Shot
+32,Mattia Caldara,Spezia,0.06,0.15,Saved,10,Head,,Mehdi Bourabia,Pass (Dead),Albin Ekdal,Pass (Live)
+43,M'Bala Nzola,Spezia,0.41,,Off Target,23,Right Foot,,Kevin Agudelo,Pass (Live),Ethan Ampadu,Tackle
+45+5,M'Bala Nzola,Spezia,0.60,,Off Target,5,Left Foot,,Mehdi Bourabia,Pass (Live),Mehdi Bourabia,Take-On
+57,Albin Ekdal,Spezia,0.12,,Off Target,10,Head,,Emil Holm,Pass (Live),M'Bala Nzola,Pass (Live)
+58,Ethan Ampadu,Spezia,0.04,,Blocked,14,Head,,Mehdi Bourabia,Pass (Dead),Mehdi Bourabia,Fouled
+59,Daniel Maldini,Spezia,0.03,0.43,Goal,18,Right Foot,,,,,
+78,Daniele Verde,Spezia,0.11,,Off Target,18,Left Foot,,M'Bala Nzola,Pass (Live),Daniele Verde,Pass (Live)
+85,Daniele Verde,Spezia,0.03,0.03,Saved,26,Left Foot,,Ethan Ampadu,Pass (Live),Emil Holm,Pass (Dead)
+90+2,Arkadiusz Reca,Spezia,0.06,,Off Target,23,Right Foot,Volley,,,,
+90+4,Mattia Caldara,Spezia,0.09,,Blocked,6,Head,,Daniele Verde,Pass (Dead),Ethan Ampadu,Fouled

@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Santi Comesaña,Rayo Vallecano,0.11,0.28,Goal,17,Left Foot,,Fran Garcia,Pass (Live),Álvaro García,Pass (Live)
+9,Óscar Valentín,Rayo Vallecano,0.02,,Off Target,25,Right Foot,,Sergio Camello,Pass (Live),Óscar Valentín,Pass (Live)
+13,Isaac Palazón Camacho,Rayo Vallecano,0.03,,Off Target,29,Left Foot,,Óscar Trejo,Pass (Live),Santi Comesaña,Pass (Live)
+14,Álvaro García,Rayo Vallecano,0.11,0.31,Saved,13,Left Foot,,Óscar Trejo,Pass (Live),Álvaro García,Pass (Live)
+30,Isaac Palazón Camacho,Rayo Vallecano,0.02,0.12,Saved,33,Left Foot,,Iván Balliu,Pass (Live),Santi Comesaña,Pass (Live)
+39,Sergio Camello,Rayo Vallecano,0.03,0.37,Saved,25,Left Foot,,Santi Comesaña,Pass (Live),,
+44,Óscar Trejo,Rayo Vallecano,0.04,,Blocked,16,Right Foot,,Santi Comesaña,Pass (Live),Florian Lejeune,Pass (Live)
+44,Álvaro García,Rayo Vallecano,0.06,0.23,Goal,14,Left Foot,Volley,Isaac Palazón Camacho,Pass (Live),Óscar Trejo,Pass (Live)
+50,Santi Comesaña,Rayo Vallecano,0.05,,Blocked,21,Right Foot,Volley,Óscar Trejo,Pass (Live),Santi Comesaña,Pass (Live)
+59,Sergio Camello,Rayo Vallecano,0.08,,Off Target,12,Head,,Fran Garcia,Pass (Live),Óscar Valentín,Pass (Live)
+61,Fran Garcia,Rayo Vallecano,0.03,,Off Target,32,Left Foot,,Isaac Palazón Camacho,Pass (Live),Iván Balliu,Pass (Dead)
+67,Óscar Trejo (pen),Rayo Vallecano,0.79,0.98,Goal,13,Right Foot,,,Fouled,,
+75,Sergio Camello,Rayo Vallecano,0.11,,Off Target,9,Head,,Unai López,Pass (Live),Isaac Palazón Camacho,Pass (Live)
+76,Isaac Palazón Camacho,Rayo Vallecano,0.05,,Blocked,19,Left Foot,,Santi Comesaña,Pass (Live),Álvaro García,Pass (Live)
+90+10,Florian Lejeune,Rayo Vallecano,0.03,0.23,Saved,34,Right Foot,Free kick,Unai López,Fouled,Pathé Ciss,Pass (Live)

@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+26,Hamed Junior Traorè,Bournemouth,0.13,,Blocked,12,Left Foot,Deflected,Jordan Zemura,Pass (Live),Dominic Solanke,Pass (Live)
+32,Jefferson Lerma,Bournemouth,0.03,,Off Target,26,Right Foot,,Philip Billing,Pass (Live),Jordan Zemura,Pass (Live)
+37,Adam Smith,Bournemouth,0.06,,Blocked,18,Right Foot,,Dango Ouattara,Pass (Live),Adam Smith,Pass (Live)
+38,Jefferson Lerma,Bournemouth,0.02,,Off Target,16,Head,,Hamed Junior Traorè,Pass (Dead),Adam Smith,Shot
+38,Dominic Solanke,Bournemouth,0.06,,Off Target,11,Head,,Jack Stephens,Pass (Live),Jordan Zemura,Pass (Live)
+38,Philip Billing,Bournemouth,0.02,0.09,Saved,27,Left Foot,,Hamed Junior Traorè,Pass (Dead),Dominic Solanke,Shot
+65,Jefferson Lerma,Bournemouth,0.04,,Blocked,11,Head,,Hamed Junior Traorè,Pass (Dead),,
+65,Dominic Solanke,Bournemouth,0.16,,Blocked,7,Right Foot,,,,,
+65,Dominic Solanke,Bournemouth,0.26,,Blocked,5,Right Foot,"Deflected, Volley",Dominic Solanke,Shot,,
+65,Dango Ouattara,Bournemouth,0.03,,Blocked,18,Right Foot,Volley,Dominic Solanke,Shot,,
+66,Marcos Senesi,Bournemouth,0.09,,Off Target,6,Head,,Hamed Junior Traorè,Pass (Live),Hamed Junior Traorè,Take-On
+83,Jefferson Lerma,Bournemouth,0.15,0.59,Goal,10,Right Foot,Volley,Jordan Zemura,Pass (Live),Jaidon Anthony,Pass (Live)
+89,Jaidon Anthony,Bournemouth,0.04,,Off Target,17,Right Foot,,Jaidon Anthony,Take-On,Jordan Zemura,Pass (Live)

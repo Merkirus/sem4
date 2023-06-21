@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Olivier Giroud,Milan,0.13,,Blocked,4,Left Foot,,Rafael Leão,Pass (Live),,
+8,Rafael Leão,Milan,0.26,0.32,Saved,9,Right Foot,,Charles De Ketelaere,Pass (Live),Olivier Giroud,Pass (Live)
+14,Sandro Tonali,Milan,0.02,,Blocked,28,Right Foot,,,,,
+21,Alexis Saelemaekers,Milan,0.22,,Off Target,10,Right Foot,,Rafael Leão,Pass (Live),Rafael Leão,Take-On
+23,Alexis Saelemaekers,Milan,0.13,0.18,Saved,18,Right Foot,,Davide Calabria,Pass (Live),Rafael Leão,Pass (Live)
+34,Davide Calabria,Milan,0.02,,Off Target,32,Right Foot,,Charles De Ketelaere,Pass (Live),Sandro Tonali,Pass (Live)
+42,Rafael Leão,Milan,0.05,,Off Target,14,Right Foot,,Rade Krunić,Pass (Live),,
+57,Olivier Giroud,Milan,0.11,,Woodwork,25,Left Foot,Free kick,Ismaël Bennacer,Fouled,Charles De Ketelaere,Pass (Live)
+60,Sandro Tonali,Milan,0.03,,Off Target,24,Right Foot,,Rafael Leão,Pass (Live),Sandro Tonali,Pass (Live)
+61,Rafael Leão,Milan,0.04,,Blocked,26,Right Foot,,Sandro Tonali,Pass (Live),Pierre Kalulu,Pass (Live)
+64,Sandro Tonali,Milan,0.05,0.12,Saved,32,Right Foot,"Free kick, Deflected",Olivier Giroud,Fouled,Simon Kjær,Pass (Live)
+69,Charles De Ketelaere,Milan,0.05,,Blocked,12,Left Foot,,Rade Krunić,Pass (Live),Fodé Ballo-Touré,Pass (Dead)
+70,Olivier Giroud,Milan,0.03,,Blocked,15,Left Foot,,Fikayo Tomori,Pass (Live),Ismaël Bennacer,Pass (Live)
+74,Brahim Díaz,Milan,0.15,,Blocked,17,Left Foot,,Sergiño Dest,Pass (Live),,
+79,Sandro Tonali,Milan,0.03,,Blocked,30,Right Foot,,Ismaël Bennacer,Pass (Dead),Rafael Leão,Fouled
+79,Ante Rebić,Milan,0.45,0.70,Goal,9,Right Foot,,Rafael Leão,Pass (Live),Rafael Leão,Take-On
+88,Brahim Díaz,Milan,0.05,,Off Target,27,Right Foot,Free kick,Ante Rebić,Fouled,Fikayo Tomori,Pass (Dead)
+90+4,Fodé Ballo-Touré,Milan,0.14,0.72,Goal,9,Left Foot,Volley,Rade Krunić,Pass (Live),Rafael Leão,Pass (Live)
+90+6,Rafael Leão,Milan,0.37,0.33,Goal,21,Right Foot,,Ante Rebić,Pass (Live),,

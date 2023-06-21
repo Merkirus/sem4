@@ -1,0 +1,15 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Diogo Jota,20,POR,FW,25,82,0,0,0,0,0,0,1,0,37,0,0,1,0.0,0.0,0.0,0,0,24,30,80.0,3,20,2,5,1
+Luis Díaz,23,COL,LW,25,8,0,0,0,0,1,0,0,0,6,0,0,0,0.3,0.3,0.0,1,0,5,5,100.0,1,5,0,0,0
+Sadio Mané,10,SEN,"LW,FW",29,90,0,0,0,0,1,0,1,0,44,0,0,1,0.1,0.1,0.3,2,0,30,33,90.9,3,27,1,2,1
+Mohamed Salah,11,EGY,RW,29,90,0,0,0,0,3,0,0,0,53,0,0,0,0.8,0.8,0.1,5,0,30,38,78.9,2,32,6,5,4
+Thiago Alcántara,6,ESP,LM,30,64,0,0,0,0,0,0,0,0,66,2,2,0,0.0,0.0,0.0,0,0,53,58,91.4,4,34,1,1,0
+Jordan Henderson,14,ENG,RM,31,26,0,0,0,0,0,0,0,0,37,0,0,0,0.0,0.0,0.0,0,0,33,36,91.7,4,21,0,0,0
+Fabinho,3,BRA,CM,28,90,0,0,0,0,0,0,0,0,83,3,3,6,0.0,0.0,0.0,1,0,65,68,95.6,6,37,0,0,0
+Curtis Jones,17,ENG,RM,21,64,0,0,0,0,1,0,0,0,52,0,0,1,0.0,0.0,0.0,2,0,41,44,93.2,5,33,2,3,2
+Naby Keïta,8,GUI,LM,27,26,0,0,0,0,1,0,0,0,32,0,0,1,0.1,0.1,0.0,0,0,26,28,92.9,4,21,2,1,0
+Andrew Robertson,26,SCO,LB,27,90,0,0,0,0,0,0,1,0,86,1,0,2,0.0,0.0,0.0,1,0,60,78,76.9,4,51,4,0,0
+Virgil van Dijk,4,NED,CB,30,90,0,0,0,0,2,1,0,0,92,0,0,0,0.3,0.3,0.0,3,0,77,89,86.5,3,48,0,0,0
+Joël Matip,32,CMR,CB,30,90,0,0,0,0,1,0,0,0,91,0,0,1,0.1,0.1,0.0,1,0,69,82,84.1,5,50,0,0,0
+Trent Alexander-Arnold,66,ENG,RB,23,90,0,0,0,0,2,1,0,0,123,2,1,0,0.1,0.1,0.8,5,0,85,116,73.3,8,64,2,2,2
+Alisson,1,BRA,GK,29,90,0,0,0,0,0,0,0,0,60,0,0,0,0.0,0.0,0.0,2,0,54,59,91.5,0,37,0,0,0

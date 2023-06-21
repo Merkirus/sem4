@@ -1,0 +1,16 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Lars Stindl,13,GER,FW,32,73,0,0,0,0,0,0,0,0,33,0,1,0,0.0,0.0,0.0,0,0,24,32,75.0,3,18,0,0,0
+Breel Embolo,36,SUI,FW,24,17,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,0,0,0,0
+Alassane Pléa,14,FRA,LW,27,62,0,0,0,0,1,0,0,0,16,0,1,0,0.1,0.1,0.0,0,0,7,9,77.8,0,4,0,0,0
+Marcus Thuram,10,FRA,LW,23,28,0,0,0,0,0,0,0,0,6,0,0,1,0.0,0.0,0.0,0,0,2,2,100.0,1,4,1,1,1
+Jonas Hofmann,23,GER,RW,28,86,0,0,0,0,1,0,0,0,31,2,0,1,0.0,0.0,0.0,1,0,22,25,88.0,1,14,1,0,0
+Hannes Wolf,11,AUT,RW,21,4,0,0,0,0,1,1,0,0,2,0,0,0,0.2,0.2,0.0,0,0,1,1,100.0,0,1,0,0,0
+Florian Neuhaus,32,GER,LM,23,90,0,0,0,0,0,0,0,0,77,7,2,1,0.0,0.0,0.0,1,0,48,60,80.0,1,37,2,0,0
+Christoph Kramer,6,GER,CM,30,90,0,0,0,0,0,0,0,0,71,2,1,1,0.0,0.0,0.0,0,0,57,64,89.1,1,31,0,1,0
+Denis Zakaria,8,SUI,RM,24,90,0,0,0,0,0,0,0,0,38,3,0,0,0.0,0.0,0.1,1,0,32,36,88.9,3,26,0,3,3
+Ramy Bensebaini,25,ALG,LB,25,90,0,0,0,0,0,0,0,0,65,6,2,2,0.0,0.0,0.0,1,0,34,48,70.8,1,27,1,1,0
+Nico Elvedi,30,SUI,CB,24,90,0,0,0,0,0,0,0,0,104,3,1,2,0.0,0.0,0.0,0,0,86,92,93.5,1,60,0,0,0
+Matthias Ginter,28,GER,CB,27,90,0,0,0,0,0,0,0,0,63,0,2,2,0.0,0.0,0.0,0,0,45,58,77.6,0,34,0,0,0
+Stefan Lainer,18,AUT,RB,28,62,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,2,15,3,2,1
+Valentino Lazaro,19,AUT,RB,24,28,0,0,0,0,0,0,0,0,24,2,0,0,0.0,0.0,0.0,0,0,18,21,85.7,1,5,0,0,0
+Yann Sommer,1,SUI,GK,32,90,0,0,0,0,0,0,0,0,61,0,0,0,0.0,0.0,0.0,0,0,52,61,85.2,0,40,0,0,0

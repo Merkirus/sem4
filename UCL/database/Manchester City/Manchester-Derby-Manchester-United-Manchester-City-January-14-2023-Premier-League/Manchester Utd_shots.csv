@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Bruno Fernandes,Manchester Utd,0.09,,Off Target,13,Right Foot,,Christian Eriksen,Pass (Live),Marcus Rashford,Pass (Live)
+34,Marcus Rashford,Manchester Utd,0.20,,Blocked,16,Right Foot,,Marcus Rashford,Take-On,Bruno Fernandes,Pass (Live)
+34,Anthony Martial,Manchester Utd,0.04,,Blocked,12,Head,,Casemiro,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+37,Marcus Rashford,Manchester Utd,0.33,0.70,Saved,10,Right Foot,,Christian Eriksen,Pass (Live),Fred,Pass (Live)
+67,Aaron Wan-Bissaka,Manchester Utd,0.04,,Blocked,26,Right Foot,,Fred,Pass (Live),Bruno Fernandes,Pass (Live)
+78,Bruno Fernandes,Manchester Utd,0.31,0.15,Goal,21,Right Foot,,Casemiro,Pass (Live),Aaron Wan-Bissaka,Pass (Live)
+82,Marcus Rashford,Manchester Utd,0.67,0.71,Goal,5,Right Foot,,Alejandro Garnacho,Pass (Live),Bruno Fernandes,Pass (Live)
+90+2,Alejandro Garnacho,Manchester Utd,0.04,,Blocked,14,Right Foot,,Marcus Rashford,Pass (Live),Antony,Pass (Live)

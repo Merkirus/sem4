@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Junior Messias,Milan,0.03,,Blocked,19,Left Foot,,Junior Messias,Take-On,Sandro Tonali,Pass (Live)
+16,Rafael Leão,Milan,0.05,,Blocked,24,Right Foot,Deflected,Rafael Leão,Take-On,Sandro Tonali,Pass (Live)
+19,Sandro Tonali,Milan,0.03,0.03,Saved,30,Left Foot,Deflected,Sandro Tonali,Take-On,Sergiño Dest,Pass (Live)
+49,Ismaël Bennacer,Milan,0.04,,Blocked,31,Left Foot,Free kick,Sandro Tonali,Fouled,Junior Messias,Pass (Live)
+60,Rafael Leão,Milan,0.03,,Blocked,20,Right Foot,,Sandro Tonali,Pass (Live),Pierre Kalulu,Pass (Live)
+62,Rafael Leão,Milan,0.31,,Off Target,4,Right Foot,Volley,Alexis Saelemaekers,Pass (Live),Rafael Leão,Pass (Live)
+70,Pierre Kalulu,Milan,0.06,,Off Target,12,Head,,Sandro Tonali,Pass (Dead),Ismaël Bennacer,Fouled
+72,Charles De Ketelaere,Milan,0.08,,Blocked,16,Left Foot,,Ismaël Bennacer,Pass (Live),Davide Calabria,Pass (Live)
+79,Ante Rebić,Milan,0.10,0.05,Saved,15,Right Foot,Volley,Davide Calabria,Pass (Live),Ismaël Bennacer,Pass (Live)
+90,Ante Rebić,Milan,0.02,0.20,Saved,33,Right Foot,Deflected,Sandro Tonali,Pass (Dead),Divock Origi,Fouled

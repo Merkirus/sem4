@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Raphaël Varane,Real Madrid,0.41,,Woodwork,5,Head,,Lucas Vázquez,Pass (Live),Dani Carvajal,Pass (Live)
+10,Vinicius Júnior,Real Madrid,0.03,0.01,Saved,21,Right Foot,,Lucas Vázquez,Pass (Live),Karim Benzema,Pass (Live)
+16,Toni Kroos,Real Madrid,0.04,,Off Target,24,Left Foot,,Luka Modrić,Pass (Live),Dani Carvajal,Pass (Live)
+18,Raphaël Varane,Real Madrid,0.05,0.03,Saved,15,Left Foot,Volley,Lucas Vázquez,Pass (Live),Luka Modrić,Pass (Live)
+23,Lucas Vázquez,Real Madrid,0.07,0.18,Saved,14,Right Foot,,Vinicius Júnior,Pass (Live),Vinicius Júnior,Take-On
+31,Vinicius Júnior,Real Madrid,0.11,,Off Target,11,Left Foot,,Luka Modrić,Pass (Live),Karim Benzema,Pass (Live)
+37,Karim Benzema,Real Madrid,0.05,0.12,Saved,6,Head,,Gareth Bale,Pass (Live),Sergio Reguilón,Pass (Live)
+41,Marco Asensio,Real Madrid,0.10,,Blocked,14,Left Foot,,Gareth Bale,Pass (Live),Gareth Bale,Interception
+42,Gareth Bale,Real Madrid,0.29,,Woodwork,8,Left Foot,,Toni Kroos,Pass (Live),Luka Modrić,Pass (Live)
+45+1,Nacho,Real Madrid,0.07,,Off Target,9,Head,,Toni Kroos,Pass (Dead),Toni Kroos,Pass (Live)
+48,Luka Modrić,Real Madrid,0.07,,Blocked,22,Left Foot,,Luka Modrić,Take-On,Marco Asensio,Pass (Live)
+49,Marco Asensio,Real Madrid,0.04,,Off Target,15,Left Foot,,,,,
+50,Karim Benzema,Real Madrid,0.08,,Off Target,13,Left Foot,Volley,Dani Carvajal,Pass (Live),Dani Carvajal,Pass (Live)
+54,Karim Benzema,Real Madrid,0.06,0.20,Saved,9,Head,,Sergio Reguilón,Pass (Live),Toni Kroos,Pass (Live)
+58,Karim Benzema,Real Madrid,0.09,,Off Target,10,Right Foot,,Karim Benzema,Take-On,Toni Kroos,Pass (Live)
+68,Gareth Bale,Real Madrid,0.28,0.57,Saved,13,Right Foot,,Marco Asensio,Pass (Live),Casemiro,Pass (Live)
+68,Dani Carvajal,Real Madrid,0.06,,Off Target,20,Left Foot,,Gareth Bale,Shot,,
+69,Marco Asensio,Real Madrid,0.13,,Blocked,10,Right Foot,Deflected,Dani Carvajal,Pass (Live),Toni Kroos,Pass (Live)
+70,Marco Asensio,Real Madrid,0.06,0.46,Goal,16,Left Foot,,Sergio Reguilón,Pass (Live),Sergio Reguilón,Take-On
+83,Gareth Bale,Real Madrid,0.38,0.23,Saved,6,Left Foot,,Luka Modrić,Pass (Live),Karim Benzema,Tackle

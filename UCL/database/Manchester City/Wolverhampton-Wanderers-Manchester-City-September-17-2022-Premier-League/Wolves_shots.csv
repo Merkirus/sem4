@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Gonçalo Guedes,Wolves,0.09,0.10,Saved,12,Left Foot,,Daniel Podence,Pass (Live),Matheus Nunes,Pass (Live)
+14,João Moutinho,Wolves,0.04,,Blocked,27,Right Foot,Free kick,Matheus Nunes,Fouled,Jonny Castro,Interception
+23,Pedro Neto,Wolves,0.12,,Off Target,14,Right Foot,,Gonçalo Guedes,Pass (Live),Max Kilman,Pass (Live)
+26,Rúben Neves,Wolves,0.05,,Off Target,26,Right Foot,Free kick,Gonçalo Guedes,Fouled,Rúben Neves,Tackle
+39,Daniel Podence,Wolves,0.02,,Off Target,25,Right Foot,,Rúben Neves,Pass (Live),Gonçalo Guedes,Pass (Live)
+59,Gonçalo Guedes,Wolves,0.09,,Off Target,15,Right Foot,,Rayan Aït Nouri,Pass (Live),João Moutinho,Pass (Live)

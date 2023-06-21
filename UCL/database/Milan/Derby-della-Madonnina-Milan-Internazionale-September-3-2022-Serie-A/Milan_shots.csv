@@ -1,0 +1,22 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+17,Rafael Leão,Milan,0.03,0.41,Saved,24,Right Foot,,Charles De Ketelaere,Pass (Live),Junior Messias,Pass (Live)
+25,Davide Calabria,Milan,0.04,,Off Target,13,Head,,Rafael Leão,Pass (Live),Theo Hernández,Pass (Live)
+26,Olivier Giroud,Milan,0.06,,Off Target,10,Left Foot,,Sandro Tonali,Pass (Live),Ismaël Bennacer,Pass (Live)
+28,Rafael Leão,Milan,0.18,0.88,Goal,11,Left Foot,,Sandro Tonali,Pass (Live),,
+34,Olivier Giroud,Milan,0.02,,Off Target,15,Left Foot,Volley,Sandro Tonali,Pass (Live),Fikayo Tomori,Pass (Live)
+35,Sandro Tonali,Milan,0.13,0.05,Saved,20,Right Foot,,Olivier Giroud,Pass (Live),Sandro Tonali,Pass (Live)
+35,Theo Hernández,Milan,0.04,,Off Target,21,Left Foot,,Theo Hernández,Interception,,
+37,Charles De Ketelaere,Milan,0.07,,Off Target,10,Head,,Ismaël Bennacer,Pass (Dead),Charles De Ketelaere,Pass (Live)
+40,Sandro Tonali,Milan,0.06,,Blocked,22,Right Foot,Free kick,Charles De Ketelaere,Fouled,Davide Calabria,Pass (Live)
+40,Ismaël Bennacer,Milan,0.02,,Off Target,29,Left Foot,Volley,Sandro Tonali,Shot,,
+42,Theo Hernández,Milan,0.05,,Off Target,10,Head,,Ismaël Bennacer,Pass (Dead),Theo Hernández,Fouled
+43,Olivier Giroud,Milan,0.04,,Off Target,11,Head,,Ismaël Bennacer,Pass (Live),Rafael Leão,Pass (Live)
+44,Rafael Leão,Milan,0.09,,Blocked,14,Left Foot,,Ismaël Bennacer,Pass (Live),Fikayo Tomori,Interception
+49,Theo Hernández,Milan,0.03,,Off Target,14,Head,,Junior Messias,Fouled,,
+54,Olivier Giroud,Milan,0.12,0.53,Goal,11,Left Foot,,Rafael Leão,Pass (Live),Theo Hernández,Pass (Dead)
+57,Junior Messias,Milan,0.04,,Blocked,21,Left Foot,,Junior Messias,Pass (Live),,
+60,Rafael Leão,Milan,0.08,0.88,Goal,9,Right Foot,,Sandro Tonali,Pass (Live),Theo Hernández,Pass (Dead)
+82,Divock Origi,Milan,0.02,,Off Target,29,Right Foot,,Divock Origi,Take-On,Theo Hernández,Pass (Live)
+85,Divock Origi,Milan,0.04,,Blocked,22,Left Foot,,Theo Hernández,Pass (Live),Theo Hernández,Take-On
+88,Rafael Leão,Milan,0.11,,Off Target,18,Right Foot,,Brahim Díaz,Pass (Live),Brahim Díaz,Take-On
+90+6,Divock Origi,Milan,0.03,,Off Target,18,Right Foot,,Brahim Díaz,Pass (Live),,

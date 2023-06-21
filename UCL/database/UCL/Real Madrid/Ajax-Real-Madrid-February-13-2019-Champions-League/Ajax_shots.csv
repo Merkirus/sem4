@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Hakim Ziyech,Ajax,0.02,,Off Target,34,Left Foot,,Lasse Schöne,Pass (Live),Frenkie de Jong,Pass (Live)
+7,Hakim Ziyech,Ajax,0.06,,Off Target,16,Left Foot,Volley,Dušan Tadić,Pass (Live),Frenkie de Jong,Pass (Live)
+9,Noussair Mazraoui,Ajax,0.06,,Off Target,13,Right Foot,,Dušan Tadić,Pass (Live),Dušan Tadić,Take-On
+12,Lasse Schöne,Ajax,0.05,,Blocked,31,Right Foot,Free kick,Hakim Ziyech,Fouled,Dušan Tadić,Pass (Live)
+26,Dušan Tadić,Ajax,0.06,,Woodwork,14,Left Foot,,Lasse Schöne,Pass (Live),,
+36,Hakim Ziyech,Ajax,0.43,0.65,Saved,13,Left Foot,,Donny van de Beek,Pass (Live),Dušan Tadić,Pass (Live)
+37,Daley Blind,Ajax,0.03,,Blocked,17,Right Foot,,Dušan Tadić,Pass (Live),Hakim Ziyech,Pass (Live)
+37,Matthijs de Ligt,Ajax,0.06,0.03,Saved,11,Head,,Lasse Schöne,Pass (Dead),Daley Blind,Shot
+41,Lasse Schöne,Ajax,0.04,,Off Target,23,Right Foot,,Donny van de Beek,Pass (Live),David Neres,Pass (Live)
+43,Dušan Tadić,Ajax,0.10,,Off Target,12,Left Foot,,Dušan Tadić,Take-On,Dušan Tadić,Take-On
+45+3,Lasse Schöne,Ajax,0.05,0.56,Saved,23,Right Foot,Free kick,Nicolás Tagliafico,Fouled,Dušan Tadić,Pass (Live)
+52,David Neres,Ajax,0.10,0.06,Saved,13,Right Foot,,Donny van de Beek,Pass (Live),Lasse Schöne,Pass (Live)
+67,Matthijs de Ligt,Ajax,0.07,,Off Target,11,Head,,Lasse Schöne,Pass (Dead),Hakim Ziyech,Fouled
+71,Hakim Ziyech,Ajax,0.06,0.50,Saved,29,Left Foot,Free kick,Noussair Mazraoui,Fouled,Lasse Schöne,Pass (Live)
+74,Kasper Dolberg,Ajax,0.09,,Off Target,15,Right Foot,,David Neres,Pass (Live),Hakim Ziyech,Pass (Live)
+75,Hakim Ziyech,Ajax,0.39,0.83,Goal,12,Left Foot,,David Neres,Pass (Live),Dušan Tadić,Pass (Live)
+85,Kasper Dolberg,Ajax,0.06,,Off Target,10,Head,,Dušan Tadić,Pass (Live),Nicolás Tagliafico,Pass (Live)
+90+1,Hakim Ziyech,Ajax,0.03,,Off Target,25,Left Foot,,Dušan Tadić,Pass (Live),David Neres,Pass (Live)
+90+3,Kasper Dolberg,Ajax,0.44,0.33,Saved,12,Left Foot,,David Neres,Pass (Live),Hakim Ziyech,Pass (Live)

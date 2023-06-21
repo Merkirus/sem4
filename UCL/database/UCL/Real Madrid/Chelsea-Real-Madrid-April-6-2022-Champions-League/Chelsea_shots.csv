@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Kai Havertz,Chelsea,0.05,,Blocked,14,Left Foot,,N'Golo Kanté,Pass (Live),,
+12,Christian Pulisic,Chelsea,0.04,,Off Target,21,Left Foot,,,,,
+15,Reece James,Chelsea,0.05,0.13,Saved,26,Right Foot,Free kick,Kai Havertz,Fouled,,
+20,Mason Mount,Chelsea,0.02,,Saved off Target,12,Head,,Antonio Rüdiger,Pass (Live),Thiago Silva,Pass (Live)
+35,N'Golo Kanté,Chelsea,0.03,,Off Target,30,Right Foot,,Jorginho,Pass (Live),Christian Pulisic,Pass (Live)
+38,Thiago Silva,Chelsea,0.06,,Off Target,13,Head,,Mason Mount,Pass (Dead),,
+40,Kai Havertz,Chelsea,0.14,0.84,Goal,8,Head,,Jorginho,Pass (Live),Reece James,Pass (Live)
+44,Kai Havertz,Chelsea,0.04,,Off Target,24,Left Foot,,Reece James,Pass (Live),Jorginho,Pass (Live)
+50,Kai Havertz,Chelsea,0.10,,Blocked,16,Left Foot,,Jorginho,Pass (Live),Kai Havertz,Pass (Live)
+50,César Azpilicueta,Chelsea,0.03,0.36,Saved,25,Right Foot,,Kai Havertz,Shot,,
+59,Christian Pulisic,Chelsea,0.03,,Saved off Target,18,Left Foot,,Kai Havertz,Pass (Live),Christian Pulisic,Pass (Live)
+68,Romelu Lukaku,Chelsea,0.12,,Off Target,11,Head,,Reece James,Pass (Live),Hakim Ziyech,Pass (Live)
+69,Romelu Lukaku,Chelsea,0.30,,Off Target,9,Head,,Ruben Loftus-Cheek,Pass (Live),Antonio Rüdiger,Pass (Live)
+70,Mason Mount,Chelsea,0.04,,Off Target,27,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Thiago Silva,Pass (Live)
+71,Reece James,Chelsea,0.03,,Blocked,27,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Kai Havertz,Pass (Live)
+71,Kai Havertz,Chelsea,0.04,,Blocked,25,Left Foot,,Thiago Silva,Pass (Live),Mateo Kovačić,Pass (Live)
+79,Kai Havertz,Chelsea,0.08,0.03,Saved,22,Left Foot,,Mateo Kovačić,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+81,Mason Mount,Chelsea,0.05,,Blocked,13,Right Foot,,Mason Mount,Take-On,Kai Havertz,Pass (Live)
+83,Reece James,Chelsea,0.03,0.08,Saved,27,Right Foot,,Ruben Loftus-Cheek,Pass (Live),Mateo Kovačić,Pass (Live)
+90+3,Hakim Ziyech,Chelsea,0.07,,Off Target,17,Left Foot,,Romelu Lukaku,Pass (Live),Mateo Kovačić,Pass (Live)

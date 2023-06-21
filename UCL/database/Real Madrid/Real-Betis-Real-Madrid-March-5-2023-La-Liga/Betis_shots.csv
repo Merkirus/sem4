@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Borja Iglesias,Betis,0.02,,Blocked,31,Right Foot,,Rodrigo,Pass (Live),Aitor Ruibal,Tackle
+9,Ayoze Pérez,Betis,0.05,0.06,Saved,27,Right Foot,,Borja Iglesias,Pass (Live),Juan Miranda,Pass (Live)
+38,Aitor Ruibal,Betis,0.02,0.03,Saved,23,Left Foot,,Aitor Ruibal,Take-On,Rodrigo,Pass (Live)
+42,Youssouf Sabaly,Betis,0.04,,Off Target,13,Right Foot,Volley,Youssouf Sabaly,Take-On,Aitor Ruibal,Pass (Live)
+46,Aitor Ruibal,Betis,0.02,0.06,Saved,28,Right Foot,,Aitor Ruibal,Take-On,Guido Rodríguez,Pass (Live)
+53,Borja Iglesias,Betis,0.27,0.21,Saved,8,Left Foot,,Juan Miranda,Pass (Live),,
+56,Germán Pezzella,Betis,0.02,,Off Target,15,Head,,Juan Miranda,Pass (Dead),,
+90+4,Luiz Henrique,Betis,0.02,,Off Target,34,Left Foot,,Claudio Bravo,Pass (Dead),,

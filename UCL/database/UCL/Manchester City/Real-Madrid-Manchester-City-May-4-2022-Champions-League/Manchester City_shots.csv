@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Riyad Mahrez,Manchester City,0.02,0.04,Saved,35,Left Foot,Free kick,Kevin De Bruyne,Fouled,Kyle Walker,Pass (Dead)
+15,Kevin De Bruyne,Manchester City,0.03,0.02,Saved,28,Left Foot,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+20,Bernardo Silva,Manchester City,0.12,0.23,Saved,8,Right Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+23,Gabriel Jesus,Manchester City,0.05,,Off Target,21,Right Foot,,Riyad Mahrez,Pass (Live),Bernardo Silva,Pass (Live)
+40,Phil Foden,Manchester City,0.03,0.15,Saved,28,Right Foot,Volley,,,,
+45+2,Kevin De Bruyne,Manchester City,0.03,,Blocked,28,Left Foot,,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+50,Gabriel Jesus,Manchester City,0.06,0.02,Saved,17,Left Foot,,Kevin De Bruyne,Pass (Live),Aymeric Laporte,Pass (Live)
+73,Riyad Mahrez,Manchester City,0.08,0.25,Goal,15,Left Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+86,João Cancelo,Manchester City,0.04,0.27,Saved,24,Right Foot,Deflected,Rodri,Pass (Live),Jack Grealish,Pass (Live)
+87,Jack Grealish,Manchester City,0.04,,Blocked,6,Left Foot,,Jack Grealish,Take-On,Oleksandr Zinchenko,Pass (Live)
+87,Jack Grealish,Manchester City,0.12,0.63,Saved,13,Left Foot,,İlkay Gündoğan,Pass (Live),Aymeric Laporte,Pass (Live)
+90+4,Phil Foden,Manchester City,0.10,,Off Target,17,Left Foot,,Fernandinho,Pass (Dead),Fernandinho,Fouled
+98,Fernandinho,Manchester City,0.03,,Off Target,16,Left Foot,Volley,Oleksandr Zinchenko,Pass (Live),Jack Grealish,Fouled
+105+2,Phil Foden,Manchester City,0.09,0.18,Saved,12,Head,,João Cancelo,Pass (Live),Raheem Sterling,Pass (Live)
+105+2,Fernandinho,Manchester City,0.59,,Off Target,2,Left Foot,,Phil Foden,Shot,,

@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+19,Isco,Real Madrid,0.07,,Blocked,21,Right Foot,Free kick,Ferland Mendy,Fouled,Vinicius Júnior,Pass (Live)
+19,Lucas Vázquez,Real Madrid,0.04,,Off Target,22,Left Foot,Volley,Isco,Shot,,
+25,Nacho,Real Madrid,0.10,,Off Target,11,Left Foot,,Nacho,Take-On,Nacho,Take-On
+38,Isco,Real Madrid,0.08,,Blocked,15,Left Foot,,Luka Modrić,Pass (Live),Isco,Pass (Live)
+38,Luka Modrić,Real Madrid,0.03,,Off Target,26,Right Foot,,Toni Kroos,Pass (Live),Isco,Pass (Live)
+39,Vinicius Júnior,Real Madrid,0.05,,Blocked,21,Right Foot,,Isco,Pass (Live),Toni Kroos,Pass (Live)
+40,Marco Asensio,Real Madrid,0.06,0.04,Saved,10,Head,,Luka Modrić,Pass (Live),Lucas Vázquez,Pass (Live)
+45+1,Casemiro,Real Madrid,0.37,0.28,Saved,8,Head,,Toni Kroos,Pass (Dead),Vinicius Júnior,Fouled
+48,Luka Modrić,Real Madrid,0.06,,Blocked,18,Right Foot,,Marco Asensio,Pass (Live),Luka Modrić,Pass (Live)
+53,Vinicius Júnior,Real Madrid,0.12,,Blocked,7,Right Foot,,Toni Kroos,Pass (Live),Marco Asensio,Pass (Live)
+57,Toni Kroos,Real Madrid,0.03,,Blocked,30,Left Foot,,Luka Modrić,Pass (Live),Toni Kroos,Pass (Live)
+65,Luka Modrić,Real Madrid,0.05,,Off Target,21,Right Foot,Volley,Casemiro,Pass (Live),Isco,Pass (Live)
+72,Marco Asensio,Real Madrid,0.06,0.16,Saved,29,Left Foot,Free kick,Lucas Vázquez,Fouled,Toni Kroos,Pass (Live)
+79,Toni Kroos,Real Madrid,0.03,,Off Target,31,Right Foot,,Mariano,Pass (Live),Ferland Mendy,Pass (Live)
+81,Hugo Duro,Real Madrid,0.03,,Blocked,25,Left Foot,,,,,
+86,Ferland Mendy,Real Madrid,0.03,0.26,Goal,27,Right Foot,,Luka Modrić,Pass (Live),Toni Kroos,Pass (Dead)
+88,Casemiro,Real Madrid,0.01,,Off Target,60,Right Foot,,Ferland Mendy,Pass (Live),,
+90,Mariano,Real Madrid,0.13,,Blocked,8,Right Foot,,Lucas Vázquez,Pass (Live),Sergio Arribas,Pass (Live)
+90,Casemiro,Real Madrid,0.16,,Blocked,7,Right Foot,,Mariano,Shot,,

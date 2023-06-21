@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+21,Gianluca Caprari,Monza,0.06,,Blocked,18,Right Foot,,Dany Mota,Pass (Live),,
+22,Patrick Ciurria,Monza,0.03,0.06,Saved,22,Left Foot,,Valentin Antov,Pass (Live),Andrea Barberis,Pass (Live)
+24,Stefano Sensi,Monza,0.03,0.10,Saved,26,Left Foot,,Patrick Ciurria,Pass (Live),Dany Mota,Pass (Live)
+28,Carlos,Monza,0.23,0.13,Saved,10,Head,,Patrick Ciurria,Pass (Live),Matteo Pessina,Pass (Live)
+29,Matteo Pessina,Monza,0.08,,Off Target,11,Head,,Gianluca Caprari,Pass (Live),Carlos,Pass (Live)
+49,Gianluca Caprari,Monza,0.09,,Blocked,21,Right Foot,,Stefano Sensi,Pass (Live),Matteo Pessina,Pass (Live)
+50,Matteo Pessina,Monza,0.02,,Off Target,30,Left Foot,Volley,Patrick Ciurria,Pass (Live),Dany Mota,Pass (Live)
+58,Filippo Ranocchia,Monza,0.02,,Off Target,31,Left Foot,,Gianluca Caprari,Pass (Live),Carlos,Pass (Live)
+70,Filippo Ranocchia,Monza,0.03,0.26,Goal,35,Right Foot,Free kick,Matteo Pessina,Fouled,Filippo Ranocchia,Pass (Live)
+72,Andrea Petagna,Monza,0.05,,Blocked,12,Left Foot,,Matteo Pessina,Pass (Live),Patrick Ciurria,Pass (Live)
+72,Christian Gytkjær,Monza,0.40,0.89,Saved,8,Left Foot,,Andrea Petagna,Shot,,
+74,Filippo Ranocchia,Monza,0.04,,Blocked,29,Right Foot,Free kick,Warren Bondo,Fouled,Carlos,Pass (Live)
+76,Andrea Carboni,Monza,0.05,0.04,Saved,11,Left Foot,,Andrea Carboni,Pass (Live),Filippo Ranocchia,Pass (Dead)
+79,Filippo Ranocchia,Monza,0.04,,Blocked,28,Left Foot,,Andrea Petagna,Pass (Live),Carlos,Pass (Live)
+80,Pablo Marí,Monza,0.03,,Blocked,11,Head,,Patrick Ciurria,Pass (Dead),Filippo Ranocchia,Shot
+90+1,Christian Gytkjær,Monza,0.02,,Off Target,10,Head,,Warren Bondo,Fouled,Andrea Carboni,Pass (Live)

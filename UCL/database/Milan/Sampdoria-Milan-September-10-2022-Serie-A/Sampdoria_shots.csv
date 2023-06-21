@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Mehdi Léris,Sampdoria,0.07,,Blocked,11,Left Foot,Volley,Tommaso Augello,Pass (Live),Francesco Caputo,Pass (Live)
+5,Tomás Rincón,Sampdoria,0.05,,Off Target,24,Right Foot,,Mehdi Léris,Shot,,
+11,Filip Đuričić,Sampdoria,0.04,,Woodwork,24,Right Foot,,Francesco Caputo,Pass (Live),Tommaso Augello,Pass (Live)
+39,Tomás Rincón,Sampdoria,0.02,,Off Target,10,Head,,Abdelhamid Sabiri,Pass (Dead),Mehdi Léris,Fouled
+57,Filip Đuričić,Sampdoria,0.25,0.89,Goal,3,Head,,Tommaso Augello,Pass (Live),Francesco Caputo,Pass (Live)
+73,Manolo Gabbiadini,Sampdoria,0.03,0.06,Saved,21,Left Foot,,,,,
+87,Manolo Gabbiadini,Sampdoria,0.05,0.35,Saved,11,Right Foot,,Fabio Quagliarella,Pass (Live),Tommaso Augello,Pass (Live)
+87,Valerio Verre,Sampdoria,0.08,,Woodwork,8,Left Foot,,Manolo Gabbiadini,Shot,,
+87,Manolo Gabbiadini,Sampdoria,0.11,0.28,Saved,10,Left Foot,Volley,Valerio Verre,Shot,,
+89,Manolo Gabbiadini,Sampdoria,0.08,,Off Target,22,Left Foot,,Alex Ferrari,Pass (Live),Ronaldo Vieira,Pass (Live)

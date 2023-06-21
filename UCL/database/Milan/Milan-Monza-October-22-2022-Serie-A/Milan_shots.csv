@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Brahim Díaz,Milan,0.27,0.81,Goal,9,Left Foot,,Ciprian Tătărușanu,Pass (Live),Junior Messias,Pass (Live)
+23,Divock Origi,Milan,0.07,0.05,Saved,23,Right Foot,Deflected,,,,
+33,Divock Origi,Milan,0.05,,Off Target,15,Left Foot,,Sergiño Dest,Pass (Live),Sergiño Dest,Take-On
+41,Brahim Díaz,Milan,0.10,0.54,Goal,12,Right Foot,,Divock Origi,Pass (Live),Tommaso Pobega,Pass (Live)
+48,Ante Rebić,Milan,0.15,0.17,Saved,10,Right Foot,,Brahim Díaz,Pass (Live),Ismaël Bennacer,Pass (Live)
+59,Tommaso Pobega,Milan,0.04,,Off Target,20,Left Foot,,,,,
+61,Junior Messias,Milan,0.06,,Off Target,16,Right Foot,,Divock Origi,Pass (Live),Divock Origi,Take-On
+63,Rafael Leão,Milan,0.03,,Blocked,24,Right Foot,,Divock Origi,Pass (Live),Tommaso Pobega,Pass (Live)
+65,Divock Origi,Milan,0.07,0.35,Goal,21,Right Foot,,Junior Messias,Pass (Live),Junior Messias,Take-On
+71,Charles De Ketelaere,Milan,0.04,0.06,Saved,24,Left Foot,,Tommaso Pobega,Pass (Live),Tommaso Pobega,Tackle
+84,Rafael Leão,Milan,0.18,0.21,Goal,17,Right Foot,,Theo Hernández,Pass (Live),Theo Hernández,Pass (Live)
+90,Rafael Leão,Milan,0.08,,Off Target,14,Left Foot,,Charles De Ketelaere,Pass (Live),Charles De Ketelaere,Take-On

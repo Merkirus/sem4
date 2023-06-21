@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Federico Dimarco,Inter,0.33,,Off Target,4,Left Foot,,Romelu Lukaku,Pass (Live),Matteo Darmian,Pass (Live)
+26,Matteo Darmian,Inter,0.31,,Off Target,10,Right Foot,,Edin Džeko,Pass (Live),Romelu Lukaku,Pass (Live)
+41,Romelu Lukaku,Inter,0.12,,Off Target,18,Right Foot,,Nicolò Barella,Pass (Live),Edin Džeko,Pass (Live)
+41,Nicolò Barella,Inter,0.10,,Off Target,23,Right Foot,,Alessandro Bastoni,Pass (Live),Federico Dimarco,Pass (Live)
+56,Edin Džeko,Inter,0.51,0.74,Goal,6,Head,,Federico Dimarco,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+70,Edin Džeko,Inter,0.05,,Off Target,11,Head,,Nicolò Barella,Take-On,Matteo Darmian,Pass (Live)

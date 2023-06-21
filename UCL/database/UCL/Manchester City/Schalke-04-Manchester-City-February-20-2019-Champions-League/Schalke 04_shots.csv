@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+25,Mark Uth,Schalke 04,0.06,,Off Target,27,Left Foot,,Mark Uth,Interception,,
+33,Daniel Caligiuri,Schalke 04,0.04,,Blocked,22,Left Foot,,Mark Uth,Pass (Live),Weston McKennie,Pass (Live)
+38,Nabil Bentaleb (pen),Schalke 04,0.79,0.97,Goal,13,Left Foot,,,Fouled,Daniel Caligiuri,Shot
+45,Nabil Bentaleb (pen),Schalke 04,0.79,0.99,Goal,13,Left Foot,,Salif Sané,Fouled,Suat Serdar,Fouled
+59,Suat Serdar,Schalke 04,0.04,,Blocked,23,Right Foot,,Weston McKennie,Pass (Live),Suat Serdar,Pass (Live)
+83,Steven Skrzybski,Schalke 04,0.06,,Blocked,13,Left Foot,,Mark Uth,Pass (Live),Ralf Fährmann,Pass (Live)
+90+3,Steven Skrzybski,Schalke 04,0.05,,Off Target,25,Left Foot,,Salif Sané,Pass (Live),Jeffrey Bruma,Pass (Live)

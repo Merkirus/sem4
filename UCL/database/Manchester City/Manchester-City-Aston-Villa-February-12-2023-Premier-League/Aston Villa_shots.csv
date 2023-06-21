@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Leon Bailey,Aston Villa,0.10,,Off Target,15,Left Foot,,Ollie Watkins,Pass (Live),Lucas Digne,Pass (Live)
+23,Leon Bailey,Aston Villa,0.03,,Blocked,27,Left Foot,,Douglas Luiz,Pass (Live),Ollie Watkins,Pass (Live)
+61,Ollie Watkins,Aston Villa,0.08,0.20,Goal,15,Right Foot,,Douglas Luiz,Pass (Live),Douglas Luiz,Tackle
+79,Jhon Durán,Aston Villa,0.01,,Blocked,35,Left Foot,,Álex Moreno,Pass (Live),Douglas Luiz,Pass (Live)
+81,Philippe Coutinho,Aston Villa,0.02,0.22,Saved,29,Right Foot,,Ollie Watkins,Pass (Live),Ollie Watkins,Pass (Live)
+90+2,Jhon Durán,Aston Villa,0.04,,Woodwork,16,Left Foot,Volley,Ollie Watkins,Pass (Live),Emiliano Martínez,Pass (Dead)

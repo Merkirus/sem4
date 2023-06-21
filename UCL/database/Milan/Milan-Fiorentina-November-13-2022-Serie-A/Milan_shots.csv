@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Rafael Leão,Milan,0.30,0.80,Goal,16,Right Foot,,Olivier Giroud,Pass (Live),Fikayo Tomori,Pass (Live)
+9,Theo Hernández,Milan,0.04,,Off Target,70,Left Foot,,,,,
+43,Sandro Tonali,Milan,0.11,,Blocked,8,Left Foot,,Rafael Leão,Pass (Live),,
+45,Brahim Díaz,Milan,0.19,,Blocked,10,Right Foot,Deflected,Ismaël Bennacer,Pass (Live),,
+50,Olivier Giroud,Milan,0.19,0.52,Saved,5,Left Foot,,Pierre Kalulu,Pass (Live),Brahim Díaz,Pass (Live)
+52,Rafael Leão,Milan,0.08,,Blocked,18,Right Foot,,Theo Hernández,Pass (Live),Rafael Leão,Pass (Live)
+54,Brahim Díaz,Milan,0.04,,Blocked,14,Right Foot,Volley,Theo Hernández,Pass (Live),Fikayo Tomori,Pass (Live)
+72,Olivier Giroud,Milan,0.17,,Off Target,9,Left Foot,Volley,Rafael Leão,Pass (Live),Sergiño Dest,Pass (Live)
+76,Rafael Leão,Milan,0.03,,Blocked,29,Right Foot,,Sandro Tonali,Pass (Live),,
+78,Sandro Tonali,Milan,0.03,,Blocked,28,Right Foot,,Rafael Leão,Pass (Live),Rafael Leão,Take-On
+78,Rafael Leão,Milan,0.27,,Off Target,10,Right Foot,,Fikayo Tomori,Pass (Live),Sandro Tonali,Shot
+84,Rafael Leão,Milan,0.02,,Blocked,32,Right Foot,,Theo Hernández,Pass (Live),Ciprian Tătărușanu,Pass (Live)

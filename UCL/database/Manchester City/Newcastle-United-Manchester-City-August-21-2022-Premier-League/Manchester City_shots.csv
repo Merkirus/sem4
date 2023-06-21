@@ -1,0 +1,22 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Rodri,Manchester City,0.02,,Off Target,30,Right Foot,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)
+5,İlkay Gündoğan,Manchester City,0.15,0.43,Goal,9,Right Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+10,João Cancelo,Manchester City,0.04,,Blocked,19,Right Foot,,İlkay Gündoğan,Pass (Live),Nathan Aké,Pass (Live)
+10,Kevin De Bruyne,Manchester City,0.20,0.38,Saved,12,Right Foot,,Erling Haaland,Pass (Live),Erling Haaland,Take-On
+16,Phil Foden,Manchester City,0.08,0.19,Saved,15,Left Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+20,Kevin De Bruyne,Manchester City,0.08,0.23,Saved,24,Right Foot,Free kick,Erling Haaland,Fouled,Kevin De Bruyne,Pass (Live)
+37,İlkay Gündoğan,Manchester City,0.06,,Blocked,15,Right Foot,,João Cancelo,Pass (Live),İlkay Gündoğan,Pass (Live)
+43,Rodri,Manchester City,0.03,0.42,Saved,30,Right Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+45+4,Rúben Dias,Manchester City,0.17,,Off Target,9,Head,,Kevin De Bruyne,Pass (Dead),Bernardo Silva,Fouled
+52,Erling Haaland,Manchester City,0.10,0.21,Saved,20,Right Foot,,Erling Haaland,Take-On,Rúben Dias,Pass (Live)
+60,Rúben Dias,Manchester City,0.11,0.03,Saved,9,Head,,Phil Foden,Pass (Dead),João Cancelo,Pass (Live)
+60,Rodri,Manchester City,0.04,,Blocked,12,Right Foot,Volley,Rúben Dias,Shot,,
+60,İlkay Gündoğan,Manchester City,0.05,,Blocked,16,Right Foot,,Rodri,Shot,,
+61,Erling Haaland,Manchester City,0.15,0.47,Goal,5,Left Foot,Volley,Rodri,Pass (Live),Kevin De Bruyne,Pass (Live)
+62,Erling Haaland,Manchester City,0.35,0.67,Saved,13,Left Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+64,Bernardo Silva,Manchester City,0.19,0.93,Goal,11,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+66,Kevin De Bruyne,Manchester City,0.03,,Off Target,28,Left Foot,,Bernardo Silva,Pass (Live),Rodri,Pass (Live)
+78,Erling Haaland,Manchester City,0.10,,Off Target,5,Left Foot,,Kevin De Bruyne,Pass (Live),Bernardo Silva,Pass (Live)
+81,Rodri,Manchester City,0.03,,Blocked,23,Right Foot,,Bernardo Silva,Pass (Live),Kyle Walker,Pass (Live)
+90,Phil Foden,Manchester City,0.05,,Blocked,22,Left Foot,,İlkay Gündoğan,Pass (Live),Kevin De Bruyne,Tackle
+90+6,Bernardo Silva,Manchester City,0.10,,Blocked,14,Left Foot,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)

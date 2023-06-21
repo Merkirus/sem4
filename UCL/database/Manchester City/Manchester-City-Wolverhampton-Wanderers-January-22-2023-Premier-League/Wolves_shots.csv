@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+48,Pablo Sarabia,Wolves,0.13,,Blocked,7,Head,,Mario Lemina,Pass (Live),Matheus Cunha,Pass (Live)
+48,Hugo Bueno,Wolves,0.02,,Off Target,22,Left Foot,Volley,Pablo Sarabia,Pass (Dead),Pablo Sarabia,Shot
+63,Pablo Sarabia,Wolves,0.07,,Blocked,11,Left Foot,,Rúben Neves,Pass (Live),Matheus Nunes,Pass (Live)
+65,João Moutinho,Wolves,0.02,,Off Target,25,Right Foot,,Pablo Sarabia,Shot,,
+68,Daniel Podence,Wolves,0.15,0.20,Saved,22,Right Foot,,Matheus Cunha,Pass (Live),João Moutinho,Pass (Live)
+82,Daniel Podence,Wolves,0.11,,Blocked,14,Right Foot,,Matheus Cunha,Pass (Live),Daniel Podence,Pass (Live)
+82,Daniel Podence,Wolves,0.07,,Off Target,16,Right Foot,,Daniel Podence,Shot,,
+85,Pablo Sarabia,Wolves,0.06,,Off Target,20,Left Foot,,Daniel Podence,Pass (Live),Matheus Nunes,Pass (Live)
+86,Max Kilman,Wolves,0.03,,Off Target,9,Head,,João Moutinho,Pass (Live),Pablo Sarabia,Pass (Live)
+90+3,Matheus Nunes,Wolves,0.12,,Blocked,17,Left Foot,,Daniel Podence,Pass (Live),Matheus Cunha,Pass (Dead)

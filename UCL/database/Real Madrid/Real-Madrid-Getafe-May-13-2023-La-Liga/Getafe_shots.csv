@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Nemanja Maksimović,Getafe,0.05,,Off Target,21,Right Foot,,Jaime Mata,Pass (Live),Omar Alderete,Pass (Live)
+4,Iglesias,Getafe,0.03,,Off Target,22,Left Foot,,Iglesias,Pass (Live),,
+5,Carles Aleñá,Getafe,0.13,,Blocked,15,Left Foot,,Portu,Pass (Live),Stefan Mitrović,Pass (Live)
+12,Carles Aleñá,Getafe,0.07,,Off Target,19,Right Foot,Volley,Portu,Pass (Live),Omar Alderete,Pass (Live)
+15,Iglesias,Getafe,0.03,,Off Target,29,Right Foot,,Borja Mayoral,Pass (Live),,
+49,Gastón Álvarez,Getafe,0.04,,Blocked,24,Right Foot,,Jaime Mata,Pass (Live),Carles Aleñá,Pass (Live)
+50,Borja Mayoral,Getafe,0.34,,Off Target,7,Head,,Carles Aleñá,Pass (Dead),Gastón Álvarez,Shot
+66,Iglesias,Getafe,0.04,0.18,Saved,26,Right Foot,,Ángel Algobia,Pass (Live),,
+79,Munir El Haddadi,Getafe,0.03,0.24,Saved,26,Left Foot,,Munir El Haddadi,Take-On,Djené,Pass (Dead)

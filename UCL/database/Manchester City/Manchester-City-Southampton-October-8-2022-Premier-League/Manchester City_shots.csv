@@ -1,0 +1,22 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Riyad Mahrez,Manchester City,0.06,0.08,Saved,13,Left Foot,,João Cancelo,Pass (Live),Bernardo Silva,Pass (Live)
+2,Phil Foden,Manchester City,0.41,0.06,Saved,7,Left Foot,Volley,Riyad Mahrez,Shot,,
+13,Riyad Mahrez,Manchester City,0.06,,Off Target,10,Left Foot,Volley,João Cancelo,Pass (Live),Phil Foden,Pass (Live)
+14,Erling Haaland,Manchester City,0.34,,Woodwork,18,Right Foot,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)
+19,Riyad Mahrez,Manchester City,0.04,,Off Target,20,Left Foot,Volley,,,,
+20,João Cancelo,Manchester City,0.17,0.04,Goal,12,Left Foot,,João Cancelo,Take-On,Phil Foden,Pass (Live)
+29,Erling Haaland,Manchester City,0.06,,Blocked,12,Left Foot,,Riyad Mahrez,Pass (Live),Riyad Mahrez,Take-On
+31,Phil Foden,Manchester City,0.11,0.09,Saved,13,Left Foot,,Rodri,Pass (Live),,
+32,Phil Foden,Manchester City,0.20,0.15,Goal,11,Left Foot,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+39,Erling Haaland,Manchester City,0.09,,Blocked,17,Right Foot,,Kevin De Bruyne,Pass (Live),Manuel Akanji,Pass (Live)
+44,Phil Foden,Manchester City,0.05,,Off Target,15,Left Foot,,,,,
+45+1,Manuel Akanji,Manchester City,0.01,,Off Target,22,Right Foot,Volley,Riyad Mahrez,Pass (Live),Rodri,Pass (Live)
+47,Bernardo Silva,Manchester City,0.05,,Off Target,19,Left Foot,Volley,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)
+49,Riyad Mahrez,Manchester City,0.12,0.51,Goal,11,Left Foot,Volley,Rodri,Pass (Live),João Cancelo,Pass (Live)
+52,Erling Haaland,Manchester City,0.06,,Off Target,15,Left Foot,,Phil Foden,Pass (Live),Rodri,Pass (Live)
+56,Manuel Akanji,Manchester City,0.05,,Blocked,9,Head,,Phil Foden,Pass (Dead),,
+65,Erling Haaland,Manchester City,0.15,0.15,Goal,11,Left Foot,,João Cancelo,Pass (Live),Kevin De Bruyne,Pass (Live)
+77,Jack Grealish,Manchester City,0.21,0.27,Saved,13,Left Foot,,Erling Haaland,Pass (Live),Rodri,Pass (Live)
+78,Rúben Dias,Manchester City,0.16,,Off Target,8,Head,,Jack Grealish,Pass (Dead),Jack Grealish,Shot
+81,Sergio Gómez,Manchester City,0.04,,Off Target,19,Left Foot,,Jack Grealish,Pass (Live),Jack Grealish,Take-On
+90+1,Cole Palmer,Manchester City,0.04,,Blocked,18,Left Foot,,Julián Álvarez,Pass (Live),Rodri,Pass (Live)

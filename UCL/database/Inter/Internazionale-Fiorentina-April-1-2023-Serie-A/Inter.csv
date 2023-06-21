@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Joaquín Correa,11,ARG,FW,28,62,0,0,0,0,0,0,0,0,26,1,0,0,0.0,0.0,0.1,4,0,17,19,89.5,2,18,1,3,1
+Lautaro Martínez,10,ARG,"AM,FW",25,28,0,0,0,0,1,0,0,0,16,0,1,1,0.1,0.1,0.0,0,0,8,9,88.9,1,12,0,1,0
+Romelu Lukaku,90,BEL,FW,29,90,0,0,0,0,3,0,0,0,32,0,0,0,1.0,1.0,0.2,4,0,11,19,57.9,2,19,1,3,3
+Henrikh Mkhitaryan,22,ARM,CM,34,77,0,0,0,0,3,1,0,0,58,2,1,0,0.7,0.7,0.0,4,0,35,44,79.5,2,32,2,3,2
+Kristjan Asllani,14,ALB,CM,21,13,0,0,0,0,0,0,0,0,19,0,1,0,0.0,0.0,0.0,2,0,16,19,84.2,2,15,1,0,0
+Marcelo Brozović,77,CRO,CM,30,77,0,0,0,0,1,0,1,0,62,1,0,2,0.1,0.1,0.3,4,0,44,54,81.5,4,36,0,0,0
+Edin Džeko,9,BIH,FW,37,13,0,0,0,0,1,0,0,0,8,0,0,0,0.0,0.0,0.1,1,0,2,6,33.3,0,6,0,1,0
+Nicolò Barella,23,ITA,CM,26,90,0,0,0,0,1,0,0,0,61,3,0,2,0.0,0.0,0.0,1,0,37,48,77.1,6,41,1,1,1
+Robin Gosens,8,GER,WB,28,62,0,0,0,0,3,0,0,0,42,1,0,2,0.3,0.3,0.2,2,0,26,34,76.5,2,25,0,0,0
+Raoul Bellanova,12,ITA,WB,22,28,0,0,0,0,1,1,0,0,22,1,0,0,0.3,0.3,0.0,0,0,15,18,83.3,0,14,4,2,2
+Denzel Dumfries,2,NED,WB,26,90,0,0,0,0,1,1,0,0,55,3,0,4,0.2,0.2,0.0,1,0,27,44,61.4,6,31,7,6,3
+Alessandro Bastoni,95,ITA,CB,23,62,0,0,0,0,0,0,0,0,48,1,0,1,0.0,0.0,0.9,2,0,37,46,80.4,2,37,1,0,0
+Stefan de Vrij,6,NED,CB,31,28,0,0,0,0,0,0,0,0,28,3,0,1,0.0,0.0,0.0,1,0,22,26,84.6,2,17,2,0,0
+Francesco Acerbi,15,ITA,CB,35,90,0,0,0,0,1,0,1,0,56,2,3,0,0.1,0.1,0.0,1,0,40,47,85.1,3,38,3,0,0
+Matteo Darmian,36,ITA,CB,33,90,0,0,0,0,0,0,0,0,60,2,3,1,0.0,0.0,0.0,0,0,44,51,86.3,1,44,0,0,0
+André Onana,24,CMR,GK,26,90,0,0,0,0,0,0,0,0,51,0,0,0,0.0,0.0,0.0,1,0,40,48,83.3,0,36,0,0,0

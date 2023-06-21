@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Kevin De Bruyne,Manchester City,0.12,0.72,Goal,11,Head,,Riyad Mahrez,Pass (Live),Rúben Dias,Pass (Live)
+11,Gabriel Jesus,Manchester City,0.28,0.40,Goal,8,Right Foot,,Phil Foden,Pass (Live),Phil Foden,Take-On
+21,Phil Foden,Manchester City,0.04,,Blocked,20,Left Foot,,Kevin De Bruyne,Pass (Dead),,
+26,Riyad Mahrez,Manchester City,0.13,,Off Target,14,Right Foot,,Bernardo Silva,Pass (Live),,
+29,Phil Foden,Manchester City,0.28,,Off Target,14,Left Foot,,Kevin De Bruyne,Pass (Live),Gabriel Jesus,Pass (Live)
+31,Oleksandr Zinchenko,Manchester City,0.04,,Off Target,25,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+45,Kevin De Bruyne,Manchester City,0.04,,Blocked,28,Right Foot,Free kick,Gabriel Jesus,Fouled,Phil Foden,Pass (Live)
+48,Riyad Mahrez,Manchester City,0.30,,Woodwork,12,Left Foot,,Riyad Mahrez,Take-On,Rúben Dias,Pass (Live)
+48,Phil Foden,Manchester City,0.36,,Blocked,9,Left Foot,Volley,Riyad Mahrez,Shot,,
+48,Rodri,Manchester City,0.03,,Blocked,26,Right Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Shot
+52,Kevin De Bruyne,Manchester City,0.06,,Blocked,19,Right Foot,,Bernardo Silva,Pass (Live),,
+53,Phil Foden,Manchester City,0.37,0.77,Goal,6,Head,,Fernandinho,Pass (Live),Riyad Mahrez,Pass (Live)
+68,Aymeric Laporte,Manchester City,0.24,0.35,Saved,11,Left Foot,,Oleksandr Zinchenko,Pass (Live),Kevin De Bruyne,Pass (Live)
+74,Bernardo Silva,Manchester City,0.04,0.32,Goal,14,Left Foot,,Rodri,Pass (Live),Fernandinho,Pass (Live)
+76,Riyad Mahrez,Manchester City,0.38,,Off Target,6,Right Foot,,Riyad Mahrez,Take-On,Gabriel Jesus,Pass (Live)
+85,Raheem Sterling,Manchester City,0.11,,Off Target,11,Right Foot,Volley,Riyad Mahrez,Pass (Live),Kevin De Bruyne,Pass (Live)

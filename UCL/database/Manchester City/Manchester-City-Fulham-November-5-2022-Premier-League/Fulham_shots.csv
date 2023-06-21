@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+28,Andreas Pereira (pen),Fulham,0.79,0.99,Goal,13,Right Foot,,Harry Wilson,Fouled,Carlos Vinícius,Pass (Live)
+62,Harry Wilson,Fulham,0.12,,Off Target,16,Left Foot,,Harrison Reed,Pass (Live),Tim Ream,Pass (Live)
+66,Kenny Tete,Fulham,0.03,0.32,Saved,31,Right Foot,,Willian,Pass (Live),Carlos Vinícius,Pass (Live)
+90+7,Issa Diop,Fulham,0.01,,Blocked,18,Head,,Tom Cairney,Pass (Live),,

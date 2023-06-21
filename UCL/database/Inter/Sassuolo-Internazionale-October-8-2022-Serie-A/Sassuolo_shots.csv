@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Davide Frattesi,Sassuolo,0.05,0.06,Saved,11,Right Foot,,Emil Ceide,Pass (Live),Jeremy Toljan,Pass (Live)
+4,Armand Lauriente,Sassuolo,0.05,,Blocked,14,Right Foot,Volley,Davide Frattesi,Shot,,
+10,Andrea Pinamonti,Sassuolo,0.06,,Blocked,23,Right Foot,,Armand Lauriente,Pass (Live),Rogério,Pass (Live)
+31,Davide Frattesi,Sassuolo,0.12,,Off Target,8,Head,,Armand Lauriente,Pass (Dead),Emil Ceide,Pass (Live)
+38,Andrea Pinamonti,Sassuolo,0.03,,Blocked,10,Right Foot,Volley,Emil Ceide,Pass (Live),Davide Frattesi,Pass (Live)
+45+1,Kristian Thorstvedt,Sassuolo,0.05,,Blocked,17,Left Foot,,Armand Lauriente,Pass (Live),Gian Marco Ferrari,Pass (Live)
+45+1,Armand Lauriente,Sassuolo,0.06,0.02,Saved,13,Right Foot,,Kristian Thorstvedt,Shot,,
+51,Armand Lauriente,Sassuolo,0.05,,Blocked,21,Right Foot,,Maxime Lopez,Pass (Live),Davide Frattesi,Pass (Live)
+56,Kristian Thorstvedt,Sassuolo,0.09,,Blocked,9,Left Foot,,Maxime Lopez,Pass (Dead),Armand Lauriente,Fouled
+56,Gian Marco Ferrari,Sassuolo,0.08,,Off Target,9,Head,,Armand Lauriente,Pass (Live),Kristian Thorstvedt,Shot
+58,Emil Ceide,Sassuolo,0.09,,Off Target,10,Head,,Andrea Pinamonti,Pass (Live),Rogério,Pass (Live)
+60,Davide Frattesi,Sassuolo,0.38,0.35,Goal,7,Right Foot,Volley,Rogério,Pass (Live),Gian Marco Ferrari,Pass (Live)
+62,Armand Lauriente,Sassuolo,0.04,,Blocked,21,Right Foot,,Kristian Thorstvedt,Pass (Live),Maxime Lopez,Pass (Live)
+85,Abdou Harroui,Sassuolo,0.02,,Off Target,32,Right Foot,,Jeremy Toljan,Pass (Live),Maxime Lopez,Pass (Live)
+89,Ruan,Sassuolo,0.02,,Off Target,12,Head,,Rogério,Pass (Live),Maxime Lopez,Pass (Live)

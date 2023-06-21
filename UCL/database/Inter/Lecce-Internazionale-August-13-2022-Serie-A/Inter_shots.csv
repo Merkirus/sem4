@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Romelu Lukaku,Inter,0.59,0.91,Goal,3,Head,,Matteo Darmian,Pass (Live),Federico Dimarco,Pass (Live)
+7,Lautaro Martínez,Inter,0.02,,Off Target,30,Right Foot,,Hakan Çalhanoğlu,Pass (Live),Robin Gosens,Pass (Live)
+10,Hakan Çalhanoğlu,Inter,0.02,0.01,Saved,31,Right Foot,,Marcelo Brozović,Pass (Live),Nicolò Barella,Pass (Live)
+20,Nicolò Barella,Inter,0.04,0.03,Saved,14,Right Foot,Volley,Nicolò Barella,Take-On,,
+23,Marcelo Brozović,Inter,0.05,,Blocked,22,Right Foot,Volley,Robin Gosens,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+54,Nicolò Barella,Inter,0.02,0.02,Saved,29,Right Foot,Volley,Marcelo Brozović,Pass (Live),Robin Gosens,Pass (Dead)
+62,Federico Dimarco,Inter,0.03,0.03,Saved,15,Left Foot,Volley,Matteo Darmian,Pass (Live),Nicolò Barella,Pass (Live)
+66,Romelu Lukaku,Inter,0.02,,Blocked,28,Left Foot,,Matteo Darmian,Tackle,,
+68,Nicolò Barella,Inter,0.03,,Off Target,24,Right Foot,Volley,Federico Dimarco,Fouled,,
+69,Denzel Dumfries,Inter,0.01,,Blocked,8,Head,,Henrikh Mkhitaryan,Pass (Live),Lautaro Martínez,Pass (Live)
+71,Lautaro Martínez,Inter,0.20,,Off Target,5,Head,,Alessandro Bastoni,Pass (Live),Federico Dimarco,Pass (Live)
+72,Lautaro Martínez,Inter,0.05,,Blocked,26,Left Foot,,Milan Škriniar,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+73,Denzel Dumfries,Inter,0.04,,Blocked,20,Left Foot,,Alessandro Bastoni,Pass (Live),Stefan de Vrij,Pass (Live)
+74,Nicolò Barella,Inter,0.05,,Off Target,24,Left Foot,Volley,Denzel Dumfries,Shot,,
+78,Stefan de Vrij,Inter,0.16,0.05,Saved,8,Head,,Federico Dimarco,Pass (Dead),Denzel Dumfries,Pass (Live)
+80,Lautaro Martínez,Inter,0.13,0.03,Saved,17,Right Foot,,Edin Džeko,Pass (Live),Alessandro Bastoni,Pass (Live)
+83,Romelu Lukaku,Inter,0.10,0.03,Saved,14,Left Foot,,,,,
+90+5,Lautaro Martínez,Inter,0.03,,Off Target,11,Head,,Nicolò Barella,Pass (Dead),,
+90+5,Denzel Dumfries,Inter,0.49,0.64,Goal,6,Other,,Lautaro Martínez,Shot,,

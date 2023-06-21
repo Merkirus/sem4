@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Musa Barrow,Bologna,0.09,,Off Target,18,Left Foot,,Marko Arnautović,Pass (Live),,
+9,Marko Arnautović,Bologna,0.02,0.08,Saved,10,Right Foot,Volley,Charalambos Lykogiannis,Pass (Live),Gary Medel,Pass (Live)
+22,Riccardo Orsolini,Bologna,0.02,,Off Target,24,Left Foot,Volley,Jhon Lucumí,Pass (Live),Charalambos Lykogiannis,Pass (Live)
+22,Charalambos Lykogiannis,Bologna,0.07,0.11,Goal,17,Other,,Riccardo Orsolini,Shot,,
+53,Lewis Ferguson,Bologna,0.02,,Off Target,15,Head,,Musa Barrow,Pass (Live),Nikola Moro,Pass (Live)
+55,Marko Arnautović,Bologna,0.21,0.05,Saved,15,Right Foot,,Lewis Ferguson,Pass (Live),,
+56,Musa Barrow,Bologna,0.09,,Blocked,16,Right Foot,,Lewis Ferguson,Pass (Live),Musa Barrow,Pass (Live)
+64,Charalambos Lykogiannis,Bologna,0.07,,Off Target,28,Left Foot,Free kick,Roberto Soriano,Fouled,Joshua Zirkzee,Pass (Live)
+83,Charalambos Lykogiannis,Bologna,0.04,,Off Target,25,Left Foot,,Riccardo Orsolini,Pass (Live),Stefan Posch,Pass (Live)
+90+2,Riccardo Orsolini,Bologna,0.01,0.10,Saved,28,Right Foot,Volley,Joshua Zirkzee,Pass (Live),Riccardo Orsolini,Pass (Live)

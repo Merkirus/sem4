@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Malick Thiaw,Milan,0.04,,Off Target,16,Other,,Theo Hernández,Pass (Dead),Rafael Leão,Fouled
+7,Theo Hernández,Milan,0.05,0.07,Saved,12,Left Foot,Deflected,Simon Kjær,Pass (Live),Pierre Kalulu,Pass (Live)
+7,Brahim Díaz,Milan,0.41,0.75,Saved,8,Right Foot,Volley,Theo Hernández,Shot,,
+7,Brahim Díaz,Milan,0.70,0.97,Goal,1,Head,,Brahim Díaz,Shot,,
+43,Rafael Leão,Milan,0.02,,Off Target,23,Right Foot,,Olivier Giroud,Pass (Live),Theo Hernández,Pass (Live)
+53,Brahim Díaz,Milan,0.06,,Blocked,14,Right Foot,,Alexis Saelemaekers,Pass (Live),Brahim Díaz,Pass (Live)
+69,Pierre Kalulu,Milan,0.03,0.02,Saved,17,Head,,Olivier Giroud,Pass (Live),Theo Hernández,Pass (Dead)
+78,Charles De Ketelaere,Milan,0.30,,Off Target,9,Head,,Olivier Giroud,Pass (Live),Rafael Leão,Pass (Live)
+79,Malick Thiaw,Milan,0.60,,Off Target,4,Head,,Rafael Leão,Pass (Live),Rade Krunić,Pass (Live)

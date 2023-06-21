@@ -1,0 +1,4 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+63,Alassane Pléa,M'Gladbach,0.13,,Off Target,9,Right Foot,Volley,Denis Zakaria,Pass (Live),Jonas Hofmann,Pass (Live)
+75,Jonas Hofmann,M'Gladbach,0.03,,Blocked,29,Right Foot,,Florian Neuhaus,Pass (Live),Ramy Bensebaini,Pass (Live)
+90+3,Hannes Wolf,M'Gladbach,0.20,0.17,Saved,21,Left Foot,,,,,

@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Fikayo Tomori,Milan,0.02,,Off Target,23,Right Foot,Volley,Theo Hernández,Pass (Dead),,
+10,Tommaso Pobega,Milan,0.38,0.39,Saved,11,Right Foot,,Brahim Díaz,Pass (Live),Alexis Saelemaekers,Pass (Live)
+10,Olivier Giroud,Milan,0.15,,Off Target,12,Right Foot,,Tommaso Pobega,Shot,,
+14,Theo Hernández,Milan,0.02,,Blocked,28,Left Foot,Volley,Pierre Kalulu,Pass (Live),Ismaël Bennacer,Pass (Live)
+38,Brahim Díaz,Milan,0.02,,Blocked,15,Right Foot,,Alexis Saelemaekers,Pass (Live),Brahim Díaz,Pass (Live)
+39,Tommaso Pobega,Milan,0.03,,Off Target,18,Right Foot,Volley,Alexis Saelemaekers,Pass (Live),Ismaël Bennacer,Pass (Live)
+43,Olivier Giroud,Milan,0.09,0.35,Saved,10,Head,,Davide Calabria,Pass (Live),Ismaël Bennacer,Pass (Live)
+49,Rafael Leão,Milan,0.03,,Blocked,20,Right Foot,,Ismaël Bennacer,Pass (Live),Junior Messias,Pass (Live)
+58,Olivier Giroud,Milan,0.06,0.26,Saved,14,Left Foot,,Tommaso Pobega,Pass (Live),Olivier Giroud,Pass (Live)
+58,Rafael Leão,Milan,0.04,0.11,Goal,13,Right Foot,,Olivier Giroud,Shot,,
+70,Davide Calabria,Milan,0.62,0.98,Goal,4,Head,,Olivier Giroud,Pass (Live),Tommaso Pobega,Pass (Live)
+78,Davide Calabria,Milan,0.04,,Off Target,27,Left Foot,Volley,Rafael Leão,Pass (Dead),Sergiño Dest,Pass (Dead)

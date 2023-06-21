@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+11,Mikel Vesga (pen),Athletic Club,0.79,0.98,Saved,13,Left Foot,,,Fouled,Nico Williams,Pass (Dead)
+30,Yuri Berchiche,Athletic Club,0.03,0.06,Saved,24,Left Foot,,Aitor Paredes,Pass (Live),Ander Herrera,Pass (Live)
+31,Iñaki Williams,Athletic Club,0.02,,Blocked,25,Right Foot,,Yuri Berchiche,Pass (Live),Nico Williams,Pass (Dead)
+32,Gorka Guruzeta,Athletic Club,0.15,0.12,Saved,5,Right Foot,,Iñaki Williams,Shot,,
+34,Nico Williams,Athletic Club,0.06,,Blocked,13,Right Foot,,Nico Williams,Take-On,Nico Williams,Take-On
+34,Iñaki Williams,Athletic Club,0.03,,Blocked,23,Left Foot,,Nico Williams,Shot,,
+38,Iñaki Williams,Athletic Club,0.02,0.10,Saved,18,Right Foot,,Ander Herrera,Pass (Live),Mikel Vesga,Pass (Live)
+49,Oihan Sancet,Athletic Club,0.11,0.27,Saved,12,Right Foot,,Óscar de Marcos,Pass (Live),Óscar de Marcos,Tackle
+49,Oihan Sancet,Athletic Club,0.38,0.86,Goal,4,Right Foot,,Oihan Sancet,Shot,,
+57,Iñaki Williams,Athletic Club,0.60,0.71,Saved,13,Right Foot,,Oihan Sancet,Pass (Live),Gorka Guruzeta,Pass (Live)
+60,Oihan Sancet,Athletic Club,0.04,,Blocked,30,Right Foot,,Yuri Berchiche,Pass (Dead),Nico Williams,Pass (Live)
+77,Álex Berenguer,Athletic Club,0.03,,Off Target,22,Right Foot,,Yuri Berchiche,Pass (Live),Yuri Berchiche,Take-On
+78,Iker Muniain,Athletic Club,0.03,0.28,Saved,23,Right Foot,,Iñaki Williams,Pass (Live),Unai Simón,Pass (Live)
+86,Álex Berenguer,Athletic Club,0.08,,Off Target,10,Head,,Unai Vencedor Paris,Pass (Live),Álex Berenguer,Pass (Live)
+90+3,Iñaki Williams,Athletic Club,0.04,0.22,Saved,26,Left Foot,,Daniel Vivian,Pass (Live),,

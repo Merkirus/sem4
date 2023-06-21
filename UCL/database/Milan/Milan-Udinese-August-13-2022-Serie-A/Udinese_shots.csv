@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Rodrigo Becão,Udinese,0.09,0.05,Goal,4,Head,,Gerard Deulofeu,Pass (Dead),Roberto Pereyra,Pass (Live)
+20,Isaac Success,Udinese,0.03,,Off Target,12,Right Foot,Volley,Rodrigo Becão,Pass (Dead),Gerard Deulofeu,Fouled
+28,Gerard Deulofeu,Udinese,0.14,,Blocked,16,Right Foot,,Brandon Soppy,Pass (Live),Rodrigo Becão,Interception
+45+4,Adam Masina,Udinese,0.03,0.28,Goal,13,Head,,Roberto Pereyra,Pass (Live),Isaac Success,Pass (Live)
+52,Isaac Success,Udinese,0.03,,Off Target,30,Right Foot,,Walace,Pass (Live),Marco Silvestri,Pass (Live)
+88,Lazar Samardzic,Udinese,0.04,0.02,Saved,26,Left Foot,,Sandi Lovrić,Pass (Live),,
+89,Brandon Soppy,Udinese,0.02,,Off Target,32,Right Foot,,Brandon Soppy,Take-On,Brandon Soppy,Pass (Dead)
+90+3,Sandi Lovrić,Udinese,0.05,,Off Target,27,Right Foot,,Brandon Soppy,Pass (Live),Gerard Deulofeu,Pass (Live)
+90+6,Brandon Soppy,Udinese,0.05,0.04,Saved,6,Head,,Gerard Deulofeu,Pass (Live),Roberto Pereyra,Pass (Live)

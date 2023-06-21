@@ -1,0 +1,29 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+12,Kai Havertz,Chelsea,0.06,,Blocked,13,Left Foot,,Kai Havertz,Pass (Live),Timo Werner,Pass (Live)
+13,Antonio Rüdiger,Chelsea,0.04,,Off Target,14,Head,,Marcos Alonso,Pass (Dead),Kai Havertz,Shot
+15,Mason Mount,Chelsea,0.30,0.78,Goal,16,Right Foot,,Timo Werner,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+18,Mason Mount,Chelsea,0.03,0.02,Saved,30,Right Foot,,Mateo Kovačić,Pass (Live),Marcos Alonso,Pass (Live)
+22,Ruben Loftus-Cheek,Chelsea,0.03,,Blocked,29,Left Foot,,Thiago Silva,Pass (Live),Marcos Alonso,Pass (Live)
+28,Mateo Kovačić,Chelsea,0.03,,Off Target,31,Right Foot,,Kai Havertz,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+34,Antonio Rüdiger,Chelsea,0.02,,Off Target,35,Right Foot,,N'Golo Kanté,Pass (Live),N'Golo Kanté,Take-On
+47,Timo Werner,Chelsea,0.05,,Blocked,21,Right Foot,,Mason Mount,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+50,Marcos Alonso,Chelsea,0.02,,Off Target,27,Left Foot,,Mason Mount,Pass (Dead),Reece James,Pass (Live)
+50,Reece James,Chelsea,0.03,,Blocked,21,Left Foot,,Marcos Alonso,Shot,,
+51,Antonio Rüdiger,Chelsea,0.06,0.36,Goal,10,Head,,Mason Mount,Pass (Dead),Reece James,Shot
+57,Kai Havertz,Chelsea,0.11,,Off Target,12,Left Foot,,Mason Mount,Pass (Live),Timo Werner,Pass (Live)
+75,Timo Werner,Chelsea,0.17,0.52,Goal,9,Right Foot,,Timo Werner,Take-On,Mateo Kovačić,Pass (Live)
+78,Kai Havertz,Chelsea,0.26,0.30,Saved,10,Head,,Marcos Alonso,Pass (Dead),,
+83,Mason Mount,Chelsea,0.05,,Off Target,17,Right Foot,,Timo Werner,Pass (Live),Ruben Loftus-Cheek,Pass (Live)
+86,Mason Mount,Chelsea,0.05,,Blocked,16,Right Foot,,Christian Pulisic,Pass (Live),Mason Mount,Pass (Live)
+90+2,Christian Pulisic,Chelsea,0.12,,Off Target,6,Left Foot,Volley,Antonio Rüdiger,Pass (Live),Thiago Silva,Pass (Dead)
+90+4,Christian Pulisic,Chelsea,0.49,,Off Target,7,Right Foot,Volley,Kai Havertz,Pass (Live),Reece James,Pass (Live)
+94,Reece James,Chelsea,0.03,,Off Target,23,Right Foot,,N'Golo Kanté,Pass (Live),Mateo Kovačić,Pass (Live)
+101,Hakim Ziyech,Chelsea,0.04,,Blocked,16,Left Foot,,Ruben Loftus-Cheek,Pass (Live),Mateo Kovačić,Pass (Live)
+102,Kai Havertz,Chelsea,0.04,0.03,Saved,15,Head,,Marcos Alonso,Pass (Dead),Hakim Ziyech,Shot
+105,Kai Havertz,Chelsea,0.03,,Blocked,15,Head,,Marcos Alonso,Pass (Dead),Kai Havertz,Pass (Live)
+114,Hakim Ziyech,Chelsea,0.05,0.09,Saved,16,Left Foot,,Mason Mount,Pass (Live),,
+117,Jorginho,Chelsea,0.07,,Blocked,12,Right Foot,,Thiago Silva,Pass (Live),Marcos Alonso,Pass (Live)
+117,Kai Havertz,Chelsea,0.26,,Off Target,11,Head,,Reece James,Pass (Live),Jorginho,Pass (Live)
+119,Hakim Ziyech,Chelsea,0.02,,Off Target,29,Left Foot,,Marcos Alonso,Pass (Live),Jorginho,Pass (Live)
+119,Jorginho,Chelsea,0.21,,Off Target,15,Left Foot,,Hakim Ziyech,Shot,,
+120+3,Reece James,Chelsea,0.03,,Blocked,34,Right Foot,,,,,

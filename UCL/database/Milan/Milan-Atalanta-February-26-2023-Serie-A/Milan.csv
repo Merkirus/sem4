@@ -1,0 +1,16 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Olivier Giroud,9,FRA,FW,36,73,0,0,0,0,3,1,0,0,44,1,0,0,0.7,0.7,0.1,4,0,22,31,71.0,1,16,1,2,1
+Zlatan Ibrahimović,11,SWE,FW,41,17,0,0,0,0,0,0,0,0,14,0,0,1,0.0,0.0,0.0,0,0,7,9,77.8,1,10,0,1,0
+Rafael Leão,17,POR,AM,23,87,0,1,0,0,3,1,1,0,55,1,1,0,0.2,0.2,1.0,7,1,32,42,76.2,6,37,3,7,4
+Ante Rebić,12,CRO,AM,29,3,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,2,2,100.0,0,1,0,0,0
+Brahim Díaz,10,ESP,AM,23,73,0,0,0,0,1,0,0,0,42,2,0,0,0.1,0.1,0.5,3,0,27,29,93.1,8,28,3,3,1
+Charles De Ketelaere,90,BEL,AM,21,17,0,0,0,0,0,0,0,0,10,2,0,2,0.0,0.0,0.0,0,0,6,6,100.0,1,7,2,0,0
+Sandro Tonali,8,ITA,CM,22,90,0,0,0,0,1,0,0,0,59,2,0,3,0.1,0.1,0.0,2,0,43,52,82.7,10,31,2,0,0
+Rade Krunić,33,BIH,CM,29,90,0,0,0,0,0,0,1,0,67,2,1,1,0.0,0.0,0.0,3,1,53,58,91.4,7,26,0,2,2
+Theo Hernández,19,FRA,WB,25,90,0,0,0,0,1,0,0,0,67,0,1,3,0.0,0.0,0.0,4,0,39,57,68.4,2,35,0,2,1
+Junior Messias,30,BRA,WB,31,88,1,0,0,0,4,1,0,0,64,3,1,0,0.6,0.6,0.0,1,0,36,46,78.3,4,36,2,2,1
+Alexis Saelemaekers,56,BEL,WB,23,2,0,0,0,0,0,0,0,0,3,0,0,0,0.0,0.0,0.0,0,0,3,3,100.0,0,3,0,0,0
+Fikayo Tomori,23,ENG,CB,25,90,0,0,0,0,0,0,0,0,46,3,2,2,0.0,0.0,0.0,0,0,28,36,77.8,2,18,0,0,0
+Malick Thiaw,28,GER,CB,21,90,0,0,0,0,0,0,1,0,47,4,0,1,0.0,0.0,0.0,0,0,34,38,89.5,0,25,0,0,0
+Pierre Kalulu,20,FRA,CB,22,90,0,0,0,0,0,0,0,0,77,3,1,0,0.0,0.0,0.1,2,0,58,70,82.9,6,47,0,0,0
+Mike Maignan,16,FRA,GK,27,90,0,0,0,0,0,0,0,0,44,0,0,0,0.0,0.0,0.0,0,0,31,44,70.5,0,37,0,0,0

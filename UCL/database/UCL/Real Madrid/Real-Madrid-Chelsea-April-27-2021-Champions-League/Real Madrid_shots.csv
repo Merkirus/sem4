@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+23,Karim Benzema,Real Madrid,0.04,,Woodwork,25,Left Foot,,Vinicius Júnior,Pass (Live),Toni Kroos,Pass (Live)
+29,Karim Benzema,Real Madrid,0.38,0.40,Goal,9,Right Foot,Volley,Éder Militão,Pass (Live),Casemiro,Pass (Live)
+32,Toni Kroos,Real Madrid,0.04,,Off Target,25,Right Foot,,Karim Benzema,Pass (Live),Dani Carvajal,Pass (Live)
+50,Karim Benzema,Real Madrid,0.06,,Off Target,23,Right Foot,,Vinicius Júnior,Pass (Live),Toni Kroos,Pass (Live)
+76,Nacho,Real Madrid,0.06,,Off Target,10,Head,,Toni Kroos,Pass (Dead),Toni Kroos,Pass (Dead)
+76,Karim Benzema,Real Madrid,0.04,,Off Target,17,Right Foot,Volley,Casemiro,Pass (Live),Nacho,Shot
+76,Marcelo,Real Madrid,0.02,,Blocked,28,Left Foot,,Casemiro,Pass (Live),Karim Benzema,Shot
+88,Toni Kroos,Real Madrid,0.03,,Blocked,33,Right Foot,,Luka Modrić,Pass (Live),Karim Benzema,Pass (Live)
+88,Raphaël Varane,Real Madrid,0.04,,Off Target,13,Head,,Toni Kroos,Pass (Dead),Toni Kroos,Shot

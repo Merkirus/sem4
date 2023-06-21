@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Aster Vranckx,Milan,0.02,,Off Target,30,Right Foot,,Pierre Kalulu,Pass (Live),Malick Thiaw,Pass (Live)
+20,Ante Rebić,Milan,0.15,0.11,Saved,10,Head,,Alessandro Florenzi,Pass (Live),Charles De Ketelaere,Pass (Dead)
+22,Alessandro Florenzi,Milan,0.11,0.21,Saved,25,Right Foot,Free kick,Tommaso Pobega,Fouled,Alexis Saelemaekers,Pass (Live)
+23,Alexis Saelemaekers,Milan,0.03,,Off Target,25,Right Foot,,Aster Vranckx,Pass (Live),Alessandro Florenzi,Shot
+23,Pierre Kalulu,Milan,0.19,,Off Target,12,Left Foot,,Alexis Saelemaekers,Shot,,
+25,Tommaso Pobega,Milan,0.11,,Off Target,8,Head,,Alessandro Florenzi,Pass (Dead),,
+35,Ante Rebić,Milan,0.07,,Blocked,11,Left Foot,Volley,Fodé Ballo-Touré,Pass (Live),Alexis Saelemaekers,Pass (Live)
+39,Divock Origi,Milan,0.07,0.04,Saved,9,Head,,Fodé Ballo-Touré,Pass (Live),Ante Rebić,Pass (Live)
+40,Tommaso Pobega,Milan,0.05,0.24,Goal,24,Left Foot,,Alexis Saelemaekers,Pass (Live),Fodé Ballo-Touré,Take-On
+48,Alessandro Florenzi,Milan,0.02,,Off Target,29,Right Foot,,Charles De Ketelaere,Pass (Dead),Alessandro Florenzi,Fouled
+53,Tommaso Pobega,Milan,0.04,,Off Target,30,Left Foot,,Charles De Ketelaere,Pass (Live),Charles De Ketelaere,Take-On
+54,Alexis Saelemaekers,Milan,0.02,,Blocked,18,Left Foot,,Alexis Saelemaekers,Pass (Live),Alexis Saelemaekers,Take-On
+56,Fodé Ballo-Touré,Milan,0.09,0.01,Saved,10,Head,,Divock Origi,Pass (Live),Alexis Saelemaekers,Pass (Live)
+65,Aster Vranckx,Milan,0.03,,Off Target,29,Left Foot,,Junior Messias,Pass (Live),Charles De Ketelaere,Pass (Live)
+67,Divock Origi,Milan,0.06,,Blocked,12,Right Foot,,Davide Calabria,Pass (Live),Junior Messias,Pass (Dead)
+75,Tommaso Pobega,Milan,0.12,,Blocked,13,Left Foot,,Rafael Leão,Pass (Live),Tommaso Pobega,Pass (Live)
+76,Davide Calabria,Milan,0.02,,Off Target,24,Left Foot,Volley,Tommaso Pobega,Shot,,
+84,Brahim Díaz,Milan,0.18,,Off Target,20,Right Foot,,Rafael Leão,Pass (Live),Junior Messias,Pass (Live)
+90+3,Fodé Ballo-Touré,Milan,0.07,,Blocked,10,Other,,Ante Rebić,Pass (Live),Rafael Leão,Pass (Live)

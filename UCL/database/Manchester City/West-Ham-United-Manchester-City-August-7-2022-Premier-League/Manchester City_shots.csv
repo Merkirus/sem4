@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Kevin De Bruyne,Manchester City,0.02,,Blocked,26,Left Foot,,Phil Foden,Pass (Live),Erling Haaland,Pass (Live)
+14,Kevin De Bruyne,Manchester City,0.14,,Off Target,17,Right Foot,,João Cancelo,Pass (Live),İlkay Gündoğan,Pass (Live)
+21,Erling Haaland,Manchester City,0.31,,Off Target,7,Head,,Phil Foden,Pass (Live),João Cancelo,Pass (Live)
+36,Erling Haaland (pen),Manchester City,0.79,1.00,Goal,13,Left Foot,,Erling Haaland,Fouled,İlkay Gündoğan,Pass (Live)
+39,İlkay Gündoğan,Manchester City,0.04,,Blocked,31,Right Foot,Free kick,Phil Foden,Fouled,Erling Haaland,Pass (Live)
+42,João Cancelo,Manchester City,0.02,,Off Target,31,Right Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+62,İlkay Gündoğan,Manchester City,0.11,,Off Target,8,Left Foot,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+65,Erling Haaland,Manchester City,0.27,0.69,Goal,16,Left Foot,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+70,Erling Haaland,Manchester City,0.24,,Off Target,4,Head,,Jack Grealish,Pass (Live),,
+76,Erling Haaland,Manchester City,0.05,,Blocked,16,Left Foot,,İlkay Gündoğan,Pass (Live),João Cancelo,Pass (Live)
+77,Jack Grealish,Manchester City,0.10,,Off Target,16,Right Foot,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+81,Rodri,Manchester City,0.03,,Off Target,27,Right Foot,,Jack Grealish,Pass (Live),João Cancelo,Pass (Live)
+90+1,Julián Álvarez,Manchester City,0.08,,Blocked,22,Right Foot,,Riyad Mahrez,Pass (Live),Bernardo Silva,Pass (Live)
+90+2,Nathan Aké,Manchester City,0.04,,Off Target,9,Head,,Riyad Mahrez,Pass (Dead),Julián Álvarez,Shot

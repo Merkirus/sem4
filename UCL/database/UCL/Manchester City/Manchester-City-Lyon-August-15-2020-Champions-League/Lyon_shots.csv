@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Fernando Marçal,Lyon,0.03,0.09,Saved,22,Left Foot,Volley,,,,
+24,Maxwel Cornet,Lyon,0.15,0.39,Goal,23,Left Foot,,Fernando Marçal,Pass (Live),Marcelo,Pass (Live)
+51,Memphis,Lyon,0.05,,Blocked,34,Right Foot,Free kick,Memphis,Fouled,Memphis,Pass (Live)
+63,Fernando Marçal,Lyon,0.03,0.05,Saved,33,Left Foot,,Maxence Caqueret,Pass (Live),Memphis,Pass (Live)
+79,Moussa Dembélé,Lyon,0.23,0.33,Goal,24,Right Foot,,Maxence Caqueret,Pass (Live),Maxence Caqueret,Interception
+87,Houssem Aouar,Lyon,0.05,0.07,Saved,17,Right Foot,,Jeff Reine-Adélaïde,Pass (Live),Maxence Caqueret,Pass (Live)
+87,Moussa Dembélé,Lyon,0.49,0.67,Goal,8,Left Foot,,Houssem Aouar,Shot,,

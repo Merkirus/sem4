@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Antonio Rüdiger,Real Madrid,0.01,,Off Target,14,Head,,Toni Kroos,Pass (Dead),Federico Valverde,Pass (Live)
+9,Marco Asensio,Real Madrid,0.03,0.04,Saved,26,Left Foot,,Dani Carvajal,Pass (Live),Éder Militão,Pass (Live)
+11,Karim Benzema,Real Madrid,0.39,,Off Target,12,Left Foot,,Antonio Rüdiger,Pass (Live),Nacho,Pass (Live)
+15,Vinicius Júnior,Real Madrid,0.03,,Blocked,18,Right Foot,,Vinicius Júnior,Take-On,Nacho,Pass (Live)
+18,Karim Benzema,Real Madrid,0.09,,Off Target,15,Right Foot,Volley,Federico Valverde,Pass (Live),Marco Asensio,Pass (Live)
+23,Antonio Rüdiger,Real Madrid,0.05,0.02,Saved,13,Head,,Toni Kroos,Pass (Dead),Dani Ceballos,Fouled
+25,Dani Ceballos,Real Madrid,0.02,,Off Target,25,Right Foot,,Federico Valverde,Pass (Live),Marco Asensio,Pass (Live)
+33,Marco Asensio,Real Madrid,0.05,,Off Target,22,Left Foot,,Vinicius Júnior,Pass (Live),,
+50,Karim Benzema,Real Madrid,0.48,,Off Target,6,Right Foot,Volley,Vinicius Júnior,Pass (Live),Vinicius Júnior,Take-On
+52,Federico Valverde,Real Madrid,0.06,,Off Target,13,Right Foot,,Karim Benzema,Pass (Live),Federico Valverde,Pass (Live)
+63,Federico Valverde,Real Madrid,0.02,,Off Target,29,Right Foot,Volley,,,,
+76,Eduardo Camavinga,Real Madrid,0.07,,Off Target,24,Left Foot,,Vinicius Júnior,Pass (Live),Luka Modrić,Pass (Live)
+83,Vinicius Júnior,Real Madrid,0.03,,Off Target,26,Right Foot,,Luka Modrić,Pass (Live),Éder Militão,Pass (Live)
+84,Aurélien Tchouaméni,Real Madrid,0.02,0.19,Saved,31,Right Foot,,Vinicius Júnior,Pass (Live),Vinicius Júnior,Take-On
+85,Eduardo Camavinga,Real Madrid,0.06,0.03,Saved,11,Left Foot,,Luka Modrić,Pass (Live),Eduardo Camavinga,Pass (Live)
+85,Álvaro Muñoz,Real Madrid,0.15,0.55,Goal,7,Head,,Luka Modrić,Pass (Dead),Eduardo Camavinga,Shot
+87,Karim Benzema,Real Madrid,0.02,0.03,Saved,25,Left Foot,,Luka Modrić,Pass (Live),Eduardo Camavinga,Pass (Live)
+88,Aurélien Tchouaméni,Real Madrid,0.02,0.04,Saved,29,Right Foot,,Vinicius Júnior,Pass (Live),Luka Modrić,Pass (Live)

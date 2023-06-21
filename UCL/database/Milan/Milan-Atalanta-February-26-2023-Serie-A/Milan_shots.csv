@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Olivier Giroud,Milan,0.05,,Off Target,13,Left Foot,Volley,Rafael Leão,Pass (Live),Rafael Leão,Take-On
+5,Sandro Tonali,Milan,0.09,,Off Target,24,Right Foot,Free kick,Theo Hernández,Fouled,Rafael Leão,Pass (Live)
+7,Olivier Giroud,Milan,0.37,,Off Target,10,Left Foot,Volley,Rafael Leão,Pass (Live),Sandro Tonali,Pass (Live)
+13,Junior Messias,Milan,0.01,,Blocked,33,Left Foot,,Rade Krunić,Pass (Live),Rade Krunić,Pass (Live)
+25,Theo Hernández,Milan,0.03,,Woodwork,27,Left Foot,Volley,Olivier Giroud,Pass (Live),Pierre Kalulu,Pass (Live)
+33,Rafael Leão,Milan,0.06,,Off Target,16,Right Foot,,Olivier Giroud,Pass (Live),Sandro Tonali,Pass (Live)
+37,Rafael Leão,Milan,0.09,,Off Target,14,Right Foot,,Brahim Díaz,Pass (Live),Olivier Giroud,Pass (Live)
+60,Olivier Giroud,Milan,0.32,0.19,Saved,13,Left Foot,,Brahim Díaz,Pass (Live),Junior Messias,Pass (Live)
+61,Rafael Leão,Milan,0.04,0.07,Saved,19,Right Foot,,Olivier Giroud,Pass (Live),Theo Hernández,Pass (Live)
+61,Brahim Díaz,Milan,0.06,,Blocked,18,Right Foot,,Pierre Kalulu,Pass (Live),Rafael Leão,Shot
+65,Junior Messias,Milan,0.04,,Blocked,20,Right Foot,,Brahim Díaz,Pass (Live),Theo Hernández,Pass (Dead)
+71,Junior Messias,Milan,0.22,,Off Target,9,Right Foot,,Rafael Leão,Pass (Live),Theo Hernández,Pass (Live)
+86,Junior Messias,Milan,0.37,0.12,Goal,16,Left Foot,,Rafael Leão,Pass (Live),Rade Krunić,Pass (Live)

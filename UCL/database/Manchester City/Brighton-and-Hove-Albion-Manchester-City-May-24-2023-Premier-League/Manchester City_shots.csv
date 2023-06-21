@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Erling Haaland,Manchester City,0.08,,Off Target,12,Left Foot,Volley,Bernardo Silva,Pass (Live),Phil Foden,Pass (Live)
+6,Erling Haaland,Manchester City,0.50,,Off Target,5,Head,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+21,Erling Haaland,Manchester City,0.33,0.59,Saved,11,Left Foot,,Phil Foden,Pass (Live),Phil Foden,Take-On
+22,Riyad Mahrez,Manchester City,0.05,,Blocked,14,Left Foot,,Phil Foden,Pass (Live),Bernardo Silva,Pass (Live)
+25,Phil Foden,Manchester City,0.38,0.67,Goal,10,Right Foot,Deflected,Erling Haaland,Pass (Live),Riyad Mahrez,Pass (Live)
+45,Phil Foden,Manchester City,0.07,,Woodwork,9,Head,,Kevin De Bruyne,Pass (Live),Riyad Mahrez,Pass (Live)
+48,Erling Haaland,Manchester City,0.11,,Off Target,17,Left Foot,Volley,Bernardo Silva,Pass (Live),Kevin De Bruyne,Pass (Live)
+49,İlkay Gündoğan,Manchester City,0.07,,Blocked,12,Right Foot,,Erling Haaland,Pass (Live),,
+50,Rico Lewis,Manchester City,0.06,0.03,Saved,21,Right Foot,,Phil Foden,Pass (Live),Riyad Mahrez,Pass (Live)
+53,Cole Palmer,Manchester City,0.03,0.19,Saved,19,Left Foot,,İlkay Gündoğan,Pass (Live),Rodri,Pass (Live)
+66,Erling Haaland,Manchester City,0.04,,Off Target,18,Left Foot,,Julián Álvarez,Pass (Live),Kyle Walker,Pass (Live)
+67,Julián Álvarez,Manchester City,0.03,,Blocked,23,Left Foot,,Riyad Mahrez,Pass (Live),Julián Álvarez,Pass (Live)
+89,Erling Haaland,Manchester City,0.07,,Off Target,11,Head,,Riyad Mahrez,Pass (Dead),Cole Palmer,Fouled

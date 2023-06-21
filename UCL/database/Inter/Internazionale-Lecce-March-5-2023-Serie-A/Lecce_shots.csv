@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Youssef Maleh,Lecce,0.07,,Blocked,14,Left Foot,,Gabriel Strefezza,Pass (Live),Morten Hjulmand,Pass (Live)
+17,Assan Ceesay,Lecce,0.02,0.37,Saved,25,Left Foot,,Assan Ceesay,Take-On,,
+34,Joan Gonzàlez,Lecce,0.04,,Off Target,30,Right Foot,,Youssef Maleh,Pass (Live),Federico Di Francesco,Pass (Live)
+57,Alexis Blin,Lecce,0.01,,Off Target,33,Right Foot,Volley,Assan Ceesay,Pass (Live),Alexis Blin,Pass (Live)
+59,Remi Oudin,Lecce,0.02,,Blocked,24,Left Foot,,Joan Gonzàlez,Pass (Live),Morten Hjulmand,Pass (Live)
+73,Federico Di Francesco,Lecce,0.16,,Off Target,6,Right Foot,Volley,Remi Oudin,Pass (Dead),Remi Oudin,Pass (Live)
+77,Alexis Blin,Lecce,0.11,,Off Target,8,Right Foot,,Federico Di Francesco,Pass (Live),Federico Di Francesco,Take-On
+82,Morten Hjulmand,Lecce,0.08,,Off Target,13,Head,,Giuseppe Pezzella,Pass (Live),Joan Gonzàlez,Pass (Live)
+87,Assan Ceesay,Lecce,0.02,,Off Target,23,Left Foot,Volley,Assan Ceesay,Pass (Live),Remi Oudin,Pass (Live)
+90+1,Lameck Banda,Lecce,0.01,,Off Target,34,Right Foot,,Giuseppe Pezzella,Pass (Dead),,
+90+4,Þórir Jóhann Helgason,Lecce,0.01,,Off Target,33,Right Foot,,Lameck Banda,Pass (Live),Morten Hjulmand,Pass (Live)

@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Romelu Lukaku,Inter,0.08,,Blocked,17,Left Foot,,Joaquín Correa,Pass (Live),Samir Handanović,Pass (Live)
+36,Joaquín Correa,Inter,0.19,,Off Target,9,Head,,Federico Dimarco,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+37,Henrikh Mkhitaryan,Inter,0.05,,Blocked,20,Right Foot,,Federico Dimarco,Pass (Live),Marcelo Brozović,Pass (Live)
+39,Romelu Lukaku,Inter,0.04,,Off Target,28,Left Foot,,Federico Dimarco,Pass (Live),,
+41,Romelu Lukaku,Inter,0.03,0.37,Goal,26,Left Foot,,Danilo D'Ambrosio,Pass (Live),Stefan de Vrij,Pass (Live)
+45+1,Romelu Lukaku,Inter,0.10,,Off Target,13,Right Foot,,Francesco Acerbi,Pass (Live),Stefan de Vrij,Pass (Live)
+50,Lautaro Martínez,Inter,0.36,,Off Target,15,Left Foot,,Federico Dimarco,Pass (Live),Romelu Lukaku,Pass (Live)
+54,Federico Dimarco,Inter,0.10,,Blocked,11,Left Foot,Volley,,,,
+58,Lautaro Martínez,Inter,0.06,0.18,Goal,22,Left Foot,Deflected,Henrikh Mkhitaryan,Pass (Live),Marcelo Brozović,Pass (Live)
+72,Robin Gosens,Inter,0.08,,Off Target,12,Left Foot,Volley,Kristjan Asllani,Pass (Live),Lautaro Martínez,Pass (Live)
+89,Romelu Lukaku,Inter,0.28,0.89,Goal,11,Left Foot,,Marcelo Brozović,Pass (Live),Robin Gosens,Pass (Live)

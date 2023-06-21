@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,İlkay Gündoğan,Manchester City,0.35,,Off Target,8,Head,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+12,Kevin De Bruyne,Manchester City,0.09,,Off Target,24,Right Foot,Free kick,İlkay Gündoğan,Fouled,Erling Haaland,Pass (Live)
+15,Phil Foden,Manchester City,0.14,0.90,Goal,6,Right Foot,Deflected,Phil Foden,Take-On,Phil Foden,Take-On
+27,Kevin De Bruyne,Manchester City,0.08,,Blocked,22,Right Foot,,Jack Grealish,Pass (Live),Nathan Aké,Pass (Live)
+28,Phil Foden,Manchester City,0.04,,Blocked,16,Left Foot,,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+34,Erling Haaland,Manchester City,0.29,,Off Target,6,Head,,Kevin De Bruyne,Pass (Live),Kyle Walker,Pass (Live)
+53,Jack Grealish,Manchester City,0.03,,Off Target,23,Right Foot,,Phil Foden,Pass (Live),Rúben Dias,Pass (Live)
+60,Erling Haaland,Manchester City,0.04,,Off Target,14,Left Foot,Volley,Kevin De Bruyne,Pass (Live),İlkay Gündoğan,Pass (Live)
+67,Bernardo Silva,Manchester City,0.07,0.18,Goal,17,Left Foot,,Erling Haaland,Pass (Live),İlkay Gündoğan,Pass (Live)
+77,İlkay Gündoğan,Manchester City,0.06,,Off Target,26,Right Foot,Free kick,,Fouled,,
+86,Phil Foden,Manchester City,0.15,0.09,Saved,13,Left Foot,,Jack Grealish,Pass (Live),Erling Haaland,Pass (Live)

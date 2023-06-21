@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Joakim Mæhle,Atalanta,0.08,,Off Target,12,Right Foot,,Ruslan Malinovskyi,Pass (Live),Hans Hateboer,Pass (Live)
+8,Ruslan Malinovskyi,Atalanta,0.03,,Off Target,24,Left Foot,,Duván Zapata,Pass (Live),Joakim Mæhle,Pass (Live)
+24,Ruslan Malinovskyi,Atalanta,0.01,,Off Target,30,Left Foot,,Joakim Mæhle,Pass (Live),Duván Zapata,Pass (Live)
+29,Mario Pašalić,Atalanta,0.01,,Blocked,16,Head,,Hans Hateboer,Pass (Live),Marten de Roon,Pass (Live)
+29,Ruslan Malinovskyi,Atalanta,0.11,0.02,Goal,20,Left Foot,Deflected,Joakim Mæhle,Pass (Live),Mario Pašalić,Shot
+39,Ruslan Malinovskyi,Atalanta,0.01,,Off Target,31,Left Foot,,Rafael Tolói,Pass (Live),Joakim Mæhle,Pass (Live)
+51,Hans Hateboer,Atalanta,0.08,,Off Target,9,Head,,Mario Pašalić,Pass (Live),Ruslan Malinovskyi,Pass (Live)
+56,Mario Pašalić,Atalanta,0.04,0.22,Saved,10,Head,,Teun Koopmeiners,Pass (Live),Joakim Mæhle,Pass (Live)
+57,Mario Pašalić,Atalanta,0.04,,Off Target,7,Head,,Ruslan Malinovskyi,Pass (Dead),Mario Pašalić,Shot
+67,Duván Zapata,Atalanta,0.06,,Blocked,21,Right Foot,,Ruslan Malinovskyi,Pass (Live),Teun Koopmeiners,Pass (Live)
+67,Ruslan Malinovskyi,Atalanta,0.04,,Off Target,28,Left Foot,,Joakim Mæhle,Pass (Live),Teun Koopmeiners,Pass (Live)

@@ -1,0 +1,15 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Karim Benzema,9,FRA,FW,35,90,0,0,0,0,9,1,0,0,88,1,0,1,1.1,1.1,0.7,13,0,63,73,86.3,9,55,12,5,3
+Rodrygo,21,BRA,LW,22,79,0,0,0,0,5,3,0,0,72,0,0,1,1.1,1.1,0.1,7,0,50,54,92.6,1,62,12,15,9
+Eden Hazard,7,BEL,LW,32,11,0,0,0,0,0,0,0,0,11,0,0,0,0.0,0.0,0.0,1,0,6,7,85.7,1,7,0,2,0
+Marco Asensio,11,ESP,RW,27,90,1,0,0,0,6,3,0,0,64,0,1,0,0.4,0.4,0.8,10,0,43,53,81.1,10,39,6,1,1
+Dani Ceballos,19,ESP,LM,26,90,0,0,0,0,4,1,0,0,109,2,2,1,0.2,0.2,0.0,8,1,90,95,94.7,14,81,4,2,1
+Aurélien Tchouaméni,18,FRA,CM,23,90,0,1,0,0,6,1,0,0,93,3,2,0,0.3,0.3,0.1,6,2,66,72,91.7,5,64,6,2,1
+Federico Valverde,15,URU,RM,24,79,0,1,0,0,2,0,0,0,63,0,0,2,0.2,0.2,0.9,6,1,53,58,91.4,9,51,5,1,0
+Luka Modrić,10,CRO,RM,37,11,0,0,0,0,0,0,0,0,16,0,1,0,0.0,0.0,0.0,0,0,14,16,87.5,1,11,0,0,0
+Nacho,6,ESP,"LB,RB",33,90,1,0,0,0,2,2,0,0,76,0,3,1,0.2,0.2,0.0,5,0,67,70,95.7,6,42,2,2,2
+Antonio Rüdiger,22,GER,CB,30,90,0,0,0,0,0,0,0,0,75,0,0,0,0.0,0.0,0.0,3,0,68,73,93.2,2,59,4,2,2
+Éder Militão,3,BRA,CB,25,90,0,0,0,0,0,0,0,0,83,1,2,2,0.0,0.0,0.2,1,0,62,68,91.2,1,51,1,1,0
+Lucas Vázquez,17,ESP,RB,31,66,0,0,0,0,1,0,0,0,51,1,0,0,0.0,0.0,0.1,5,0,36,47,76.6,1,40,1,2,2
+Eduardo Camavinga,12,FRA,LB,20,24,0,0,0,0,0,0,0,0,29,2,0,1,0.0,0.0,0.0,1,0,22,25,88.0,3,19,0,0,0
+Thibaut Courtois,1,BEL,GK,30,90,0,0,0,0,0,0,0,0,38,0,0,0,0.0,0.0,0.0,0,0,34,37,91.9,0,31,0,0,0

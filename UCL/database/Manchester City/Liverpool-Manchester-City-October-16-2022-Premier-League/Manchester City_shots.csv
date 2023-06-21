@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+15,Erling Haaland,Manchester City,0.06,,Blocked,19,Left Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+15,İlkay Gündoğan,Manchester City,0.02,0.09,Saved,28,Right Foot,Volley,Erling Haaland,Pass (Live),Kevin De Bruyne,Pass (Live)
+20,Kevin De Bruyne,Manchester City,0.03,,Blocked,27,Right Foot,,Phil Foden,Pass (Live),İlkay Gündoğan,Pass (Live)
+30,Bernardo Silva,Manchester City,0.03,,Off Target,27,Left Foot,,Phil Foden,Pass (Live),Erling Haaland,Pass (Live)
+33,Erling Haaland,Manchester City,0.01,0.05,Saved,18,Left Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+35,Erling Haaland,Manchester City,0.08,,Off Target,8,Head,,Kevin De Bruyne,Pass (Live),Phil Foden,Pass (Live)
+40,Erling Haaland,Manchester City,0.07,0.11,Saved,6,Head,,Kevin De Bruyne,Pass (Live),Rodri,Pass (Live)
+45+1,João Cancelo,Manchester City,0.05,,Blocked,19,Right Foot,,Rodri,Pass (Live),Bernardo Silva,Pass (Live)
+58,İlkay Gündoğan,Manchester City,0.05,,Blocked,23,Left Foot,,Phil Foden,Pass (Live),İlkay Gündoğan,Pass (Live)
+59,Rodri,Manchester City,0.03,,Blocked,23,Right Foot,,Nathan Aké,Pass (Live),İlkay Gündoğan,Pass (Dead)
+64,Erling Haaland,Manchester City,0.10,0.13,Saved,17,Left Foot,,İlkay Gündoğan,Pass (Live),Phil Foden,Pass (Live)
+68,Rúben Dias,Manchester City,0.16,,Off Target,7,Head,,İlkay Gündoğan,Pass (Dead),,
+69,İlkay Gündoğan,Manchester City,0.09,,Blocked,17,Right Foot,,Erling Haaland,Pass (Live),İlkay Gündoğan,Pass (Live)
+69,Bernardo Silva,Manchester City,0.02,,Off Target,26,Left Foot,,İlkay Gündoğan,Shot,,
+84,İlkay Gündoğan,Manchester City,0.03,0.25,Saved,20,Right Foot,,Phil Foden,Pass (Live),İlkay Gündoğan,Pass (Dead)
+90+6,Erling Haaland,Manchester City,0.14,0.70,Saved,10,Other,Deflected,Kevin De Bruyne,Pass (Live),Rúben Dias,Pass (Live)

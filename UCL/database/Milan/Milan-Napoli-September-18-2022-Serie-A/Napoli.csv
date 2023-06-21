@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Giacomo Raspadori,81,ITA,FW,22,65,0,0,0,0,0,0,0,0,23,0,0,0,0.0,0.0,0.0,0,0,13,19,68.4,1,21,0,0,0
+Giovanni Simeone,18,ARG,FW,27,25,1,0,0,0,1,1,1,0,8,0,0,0,0.1,0.1,0.0,2,1,5,6,83.3,1,8,0,1,0
+Khvicha Kvaratskhelia,77,GEO,LW,21,86,0,0,0,0,1,0,0,0,46,1,0,0,0.2,0.2,0.0,3,1,25,31,80.6,2,36,5,4,2
+Tanguy Ndombele,91,FRA,LW,25,4,0,0,0,0,1,0,0,0,5,0,0,0,0.0,0.0,0.0,1,0,2,3,66.7,0,4,1,0,0
+Matteo Politano,21,ITA,RW,29,65,1,0,1,1,1,1,0,0,29,1,1,0,0.9,0.1,0.0,1,0,16,22,72.7,2,20,3,2,1
+Alessio Zerbin,23,ITA,RW,23,25,0,0,0,0,1,1,1,0,11,2,0,0,0.0,0.0,0.0,0,0,0,5,0.0,0,8,0,0,0
+Piotr Zieliński,20,POL,LM,28,86,0,0,0,0,2,0,0,0,53,0,1,0,0.1,0.1,0.1,1,0,36,44,81.8,5,37,2,3,1
+Elif Elmas,7,MKD,LM,22,4,0,0,0,0,0,0,0,0,4,0,1,0,0.0,0.0,0.0,0,0,1,3,33.3,0,2,0,0,0
+Stanislav Lobotka,68,SVK,CM,27,90,0,0,0,0,0,0,0,0,50,3,0,1,0.0,0.0,0.0,2,0,45,47,95.7,1,39,1,0,0
+Andre-Frank Zambo Anguissa,99,CMR,RM,26,90,0,0,0,0,1,0,0,0,57,3,0,5,0.0,0.0,0.0,1,0,35,42,83.3,1,36,1,1,0
+Mário Rui,6,POR,LB,31,89,0,1,0,0,0,0,0,0,70,3,2,0,0.0,0.0,0.1,4,2,49,62,79.0,8,37,2,0,0
+Mathías Olivera,17,URU,LB,24,1,0,0,0,0,0,0,0,0,4,0,0,0,0.0,0.0,0.0,0,0,1,1,100.0,0,1,1,1,0
+Kim Min-jae,3,KOR,CB,25,90,0,0,0,0,0,0,0,0,58,3,0,4,0.0,0.0,0.0,0,0,32,41,78.0,4,30,1,0,0
+Amir Rrahmani,13,KVX,CB,28,90,0,0,0,0,0,0,1,0,63,2,0,2,0.0,0.0,0.0,0,0,40,48,83.3,5,33,0,0,0
+Giovanni Di Lorenzo,22,ITA,RB,29,90,0,0,0,0,0,0,0,0,58,0,1,2,0.0,0.0,0.2,1,0,44,50,88.0,4,36,2,1,0
+Alex Meret,1,ITA,GK,25,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,25,30,83.3,0,13,0,0,0

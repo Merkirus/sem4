@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Hakan Çalhanoğlu,Inter,0.04,,Off Target,28,Right Foot,,Lautaro Martínez,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+18,Edin Džeko,Inter,0.11,,Blocked,15,Right Foot,,Lautaro Martínez,Pass (Live),Edin Džeko,Pass (Live)
+26,Edin Džeko,Inter,0.08,0.32,Goal,16,Right Foot,Volley,Edin Džeko,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+36,Federico Dimarco,Inter,0.12,0.24,Goal,22,Left Foot,Free kick,Lautaro Martínez,Fouled,Denzel Dumfries,Pass (Live)
+42,Lautaro Martínez,Inter,0.04,0.10,Goal,4,Head,Deflected,Hakan Çalhanoğlu,Pass (Dead),Federico Dimarco,Pass (Live)
+47,Edin Džeko,Inter,0.67,,Woodwork,4,Head,,Denzel Dumfries,Pass (Live),André Onana,Pass (Live)
+48,Federico Dimarco,Inter,0.03,0.50,Goal,16,Left Foot,,Federico Dimarco,Take-On,Nicolò Barella,Pass (Live)
+57,Denzel Dumfries,Inter,0.08,0.10,Saved,12,Right Foot,,Nicolò Barella,Pass (Live),Edin Džeko,Pass (Live)
+57,Edin Džeko,Inter,0.14,,Blocked,8,Left Foot,,Federico Dimarco,Pass (Live),Denzel Dumfries,Shot
+59,Hakan Çalhanoğlu (pen),Inter,0.79,0.99,Goal,13,Right Foot,,,Fouled,Edin Džeko,Shot
+76,Robin Gosens,Inter,0.46,0.83,Goal,3,Left Foot,"Deflected, Volley",Edin Džeko,Pass (Live),Marcelo Brozović,Pass (Live)
+84,Kristjan Asllani,Inter,0.04,,Blocked,27,Right Foot,,Roberto Gagliardini,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+90,Raoul Bellanova,Inter,0.18,,Blocked,5,Head,,Robin Gosens,Pass (Live),Henrikh Mkhitaryan,Pass (Live)

@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Óscar Valentín,Rayo Vallecano,0.02,,Off Target,32,Right Foot,,,,,
+12,Unai López,Rayo Vallecano,0.05,0.03,Saved,31,Right Foot,,Santi Comesaña,Pass (Live),Isaac Palazón Camacho,Pass (Live)
+14,Unai López,Rayo Vallecano,0.06,,Blocked,18,Right Foot,,Óscar Valentín,Pass (Live),,
+16,Álvaro García,Rayo Vallecano,0.09,,Off Target,10,Head,,Iván Balliu,Pass (Live),Isaac Palazón Camacho,Pass (Live)
+26,Santi Comesaña,Rayo Vallecano,0.04,0.32,Saved,24,Left Foot,,Isaac Palazón Camacho,Pass (Live),Sergio Camello,Pass (Live)
+29,Florian Lejeune,Rayo Vallecano,0.04,0.05,Saved,34,Right Foot,Free kick,Sergio Camello,Fouled,Stole Dimitrievski,Pass (Dead)
+34,Isaac Palazón Camacho,Rayo Vallecano,0.02,0.18,Saved,30,Left Foot,,,,,
+35,Sergio Camello,Rayo Vallecano,0.07,,Off Target,11,Head,,Iván Balliu,Pass (Live),Isaac Palazón Camacho,Pass (Live)
+47,Álvaro García,Rayo Vallecano,0.06,,Off Target,17,Right Foot,,Unai López,Interception,,
+72,Óscar Trejo,Rayo Vallecano,0.05,0.05,Saved,13,Head,,Pep Chavarría,Pass (Live),Fran Garcia,Pass (Live)
+80,Florian Lejeune,Rayo Vallecano,0.02,,Blocked,34,Right Foot,,Unai López,Pass (Live),Pep Chavarría,Pass (Dead)
+84,Raúl de Tomás,Rayo Vallecano,0.07,0.06,Goal,15,Right Foot,,Pep Chavarría,Pass (Live),Fran Garcia,Pass (Live)
+90+1,Pep Chavarría,Rayo Vallecano,0.03,,Off Target,19,Left Foot,,Salvi,Pass (Live),,
+90+3,Pep Chavarría,Rayo Vallecano,0.04,,Blocked,18,Right Foot,,Florian Lejeune,Pass (Live),Florian Lejeune,Take-On
+90+4,Raúl de Tomás,Rayo Vallecano,0.02,,Off Target,32,Right Foot,,Pep Chavarría,Pass (Live),Óscar Trejo,Pass (Live)

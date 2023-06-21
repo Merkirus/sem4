@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Sandi Lovrić,Udinese,0.07,,Off Target,21,Right Foot,,Gerard Deulofeu,Pass (Live),Roberto Pereyra,Pass (Live)
+7,Sandi Lovrić,Udinese,0.05,,Off Target,13,Right Foot,Volley,,,,
+19,Walace,Udinese,0.01,,Blocked,34,Right Foot,,Gerard Deulofeu,Pass (Live),Iyenoma Udogie,Pass (Live)
+34,Gerard Deulofeu,Udinese,0.08,,Blocked,12,Right Foot,,,,,
+34,Walace,Udinese,0.04,,Blocked,23,Right Foot,,Gerard Deulofeu,Shot,,
+45,Gerard Deulofeu,Udinese,0.06,,Blocked,18,Right Foot,,Iyenoma Udogie,Pass (Live),Nehuén Pérez,Pass (Live)
+45+3,Gerard Deulofeu,Udinese,0.04,,Off Target,30,Right Foot,Free kick,Rodrigo Becão,Fouled,Marco Silvestri,Pass (Live)
+49,Roberto Pereyra,Udinese,0.05,,Off Target,23,Right Foot,,Gerard Deulofeu,Pass (Live),Walace,Pass (Live)
+63,Sandi Lovrić,Udinese,0.06,0.44,Saved,23,Right Foot,,Sandi Lovrić,Take-On,,
+64,Rodrigo Becão,Udinese,0.29,,Blocked,6,Head,,Gerard Deulofeu,Pass (Live),Lazar Samardzic,Pass (Dead)
+70,Lazar Samardzic,Udinese,0.03,,Blocked,27,Left Foot,Free kick,Isaac Success,Fouled,Gerard Deulofeu,Pass (Live)
+73,Gerard Deulofeu,Udinese,0.05,,Woodwork,18,Right Foot,,Sandi Lovrić,Pass (Live),,
+73,Lazar Samardzic,Udinese,0.12,,Blocked,14,Left Foot,,Gerard Deulofeu,Shot,,
+73,Kingsley Ehizibue,Udinese,0.06,,Blocked,24,Left Foot,Deflected,Lazar Samardzic,Shot,,
+73,Isaac Success,Udinese,0.04,,Blocked,15,Right Foot,,Iyenoma Udogie,Pass (Live),Nehuén Pérez,Tackle
+73,Sandi Lovrić,Udinese,0.04,0.14,Saved,15,Right Foot,Volley,Isaac Success,Shot,,
+75,Gerard Deulofeu,Udinese,0.15,0.03,Saved,13,Left Foot,,Sandi Lovrić,Pass (Live),,
+78,Walace,Udinese,0.04,0.08,Saved,28,Right Foot,,Lazar Samardzic,Pass (Live),Nehuén Pérez,Pass (Live)
+84,Jaka Bijol,Udinese,0.07,0.59,Goal,8,Head,Deflected,Gerard Deulofeu,Pass (Dead),Kingsley Ehizibue,Fouled
+90+3,Tolgay Arslan,Udinese,0.30,0.36,Goal,5,Head,,Gerard Deulofeu,Pass (Live),Lazar Samardzic,Pass (Live)

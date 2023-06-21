@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+43,Lassana Coulibaly,Salernitana,0.06,0.10,Saved,26,Right Foot,,,,,
+59,Domagoj Bradarić,Salernitana,0.03,,Blocked,21,Left Foot,,,,,
+59,Krzysztof Piątek,Salernitana,0.45,,Off Target,10,Right Foot,,Antonio Candreva,Pass (Live),Domagoj Bradarić,Shot
+62,Boulaye Dia,Salernitana,0.06,,Off Target,23,Right Foot,,Grigoris Kastanos,Pass (Live),Krzysztof Piątek,Pass (Live)
+65,Grigoris Kastanos,Salernitana,0.04,,Off Target,28,Right Foot,,Boulaye Dia,Pass (Live),Antonio Candreva,Pass (Live)
+68,Hans Nicolussi Caviglia,Salernitana,0.03,,Off Target,31,Left Foot,,Hans Nicolussi Caviglia,Take-On,Tonny Vilhena,Pass (Live)
+71,Boulaye Dia,Salernitana,0.18,,Woodwork,7,Right Foot,Volley,Antonio Candreva,Pass (Live),Tonny Vilhena,Pass (Live)
+72,Boulaye Dia,Salernitana,0.06,,Off Target,14,Head,,Antonio Candreva,Pass (Live),,
+83,Boulaye Dia,Salernitana,0.05,0.04,Saved,13,Right Foot,,Flavius Daniliuc,Pass (Live),Boulaye Dia,Pass (Live)
+85,Krzysztof Piątek,Salernitana,0.12,,Off Target,8,Head,,Antonio Candreva,Pass (Live),Erik Botheim,Pass (Live)
+90,Antonio Candreva,Salernitana,0.02,0.66,Goal,30,Right Foot,,Boulaye Dia,Pass (Live),Domagoj Bradarić,Pass (Live)

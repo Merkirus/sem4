@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Carles Aleñá,Getafe,0.02,,Off Target,24,Left Foot,Volley,Ángel Algobia,Pass (Live),Carles Aleñá,Pass (Live)
+22,Fabrizio Angileri,Getafe,0.07,,Off Target,17,Left Foot,,Carles Aleñá,Pass (Live),Damián Suárez,Pass (Live)
+46,Enes Ünal,Getafe,0.02,0.02,Saved,19,Right Foot,Volley,Luis Milla,Pass (Dead),Enes Ünal,Fouled
+49,Carles Aleñá,Getafe,0.05,0.22,Saved,24,Left Foot,,Ángel Algobia,Pass (Live),Borja Mayoral,Pass (Live)
+50,Carles Aleñá,Getafe,0.04,,Blocked,27,Left Foot,Deflected,Carles Aleñá,Shot,,
+50,Domingos Duarte,Getafe,0.02,,Off Target,20,Left Foot,,Carles Aleñá,Shot,,
+60,Enes Ünal,Getafe,0.03,,Blocked,21,Right Foot,,Damián Suárez,Pass (Live),,
+89,Latasa,Getafe,0.03,,Blocked,20,Left Foot,,Portu,Pass (Live),Jaime Seoane,Pass (Live)
+90,Luis Milla,Getafe,0.02,,Off Target,29,Right Foot,Volley,Latasa,Shot,,

@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Mason Mount,Chelsea,0.10,,Blocked,20,Right Foot,,Mason Mount,Take-On,,
+10,Timo Werner,Chelsea,0.82,0.95,Saved,5,Right Foot,Volley,Christian Pulisic,Pass (Live),Mason Mount,Shot
+10,Timo Werner,Chelsea,0.03,0.03,Saved,25,Right Foot,,Ben Chilwell,Pass (Live),Mason Mount,Pass (Live)
+14,Christian Pulisic,Chelsea,0.51,0.52,Goal,11,Right Foot,Deflected,Christian Pulisic,Take-On,Antonio Rüdiger,Pass (Live)
+25,Ben Chilwell,Chelsea,0.06,,Off Target,18,Right Foot,,Christian Pulisic,Pass (Live),N'Golo Kanté,Pass (Live)
+37,Thiago Silva,Chelsea,0.03,,Blocked,35,Right Foot,,Antonio Rüdiger,Pass (Live),Jorginho,Pass (Live)
+41,Timo Werner,Chelsea,0.04,,Off Target,18,Right Foot,,Christian Pulisic,Pass (Live),N'Golo Kanté,Pass (Live)
+48,Timo Werner,Chelsea,0.06,,Blocked,14,Right Foot,,N'Golo Kanté,Pass (Live),Jorginho,Pass (Live)
+68,Mason Mount,Chelsea,0.05,,Blocked,18,Left Foot,,Ben Chilwell,Pass (Live),Hakim Ziyech,Pass (Live)
+74,Hakim Ziyech,Chelsea,0.02,0.64,Saved,24,Left Foot,Volley,,,,
+79,Hakim Ziyech,Chelsea,0.06,0.39,Saved,25,Left Foot,Free kick,Kai Havertz,Fouled,N'Golo Kanté,Pass (Live)

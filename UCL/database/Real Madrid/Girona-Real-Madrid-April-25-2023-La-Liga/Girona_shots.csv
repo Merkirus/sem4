@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Viktor Tsyhankov,Girona,0.02,,Blocked,22,Left Foot,,Yan Couto,Pass (Live),,
+12,Valentín Castellanos,Girona,0.55,0.53,Goal,6,Head,,Miguel Gutiérrez,Pass (Live),Iván Martín,Pass (Live)
+24,Valentín Castellanos,Girona,0.08,0.03,Goal,14,Right Foot,,Arnau Martinez,Pass (Live),Yan Couto,Pass (Live)
+28,Viktor Tsyhankov,Girona,0.18,,Off Target,18,Right Foot,Volley,Paulo Gazzaniga,Pass (Dead),,
+37,Valentín Castellanos,Girona,0.05,0.47,Saved,23,Right Foot,,Yan Couto,Pass (Live),Viktor Tsyhankov,Pass (Live)
+38,Rodrigo Riquelme,Girona,0.06,,Off Target,16,Right Foot,,Arnau Martinez,Pass (Live),Oriol Romeu,Pass (Live)
+45+1,Yan Couto,Girona,0.08,,Off Target,16,Right Foot,,Viktor Tsyhankov,Pass (Live),Viktor Tsyhankov,Take-On
+46,Valentín Castellanos,Girona,0.53,0.52,Goal,8,Right Foot,,Yan Couto,Pass (Live),Santiago Bueno,Pass (Live)
+50,Valentín Castellanos,Girona,0.07,,Off Target,10,Head,,Rodrigo Riquelme,Pass (Dead),Yan Couto,Pass (Live)
+62,Rodrigo Riquelme,Girona,0.01,,Blocked,31,Right Foot,,Viktor Tsyhankov,Pass (Dead),,
+62,Valentín Castellanos,Girona,0.32,0.08,Goal,6,Head,,Rodrigo Riquelme,Shot,,
+71,Viktor Tsyhankov,Girona,0.06,,Blocked,16,Left Foot,,Viktor Tsyhankov,Pass (Live),Yan Couto,Pass (Live)
+76,Valery,Girona,0.32,,Off Target,4,Left Foot,Volley,Iván Martín,Pass (Live),Iván Martín,Pass (Live)

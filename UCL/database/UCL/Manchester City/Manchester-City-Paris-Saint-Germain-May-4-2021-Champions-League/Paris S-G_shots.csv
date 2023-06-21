@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Neymar,Paris S-G,0.05,,Blocked,16,Right Foot,,Marco Verratti,Pass (Live),Marquinhos,Pass (Live)
+6,Ángel Di María,Paris S-G,0.05,,Blocked,16,Left Foot,,,,,
+16,Neymar,Paris S-G,0.06,,Blocked,29,Right Foot,Free kick,Neymar,Fouled,Marco Verratti,Pass (Live)
+16,Marquinhos,Paris S-G,0.14,,Woodwork,3,Head,,Ángel Di María,Pass (Live),Neymar,Pass (Live)
+19,Ángel Di María,Paris S-G,0.03,,Off Target,31,Left Foot,,Ángel Di María,Take-On,,
+36,Ander Herrera,Paris S-G,0.05,,Off Target,17,Left Foot,,Abdou Diallo,Pass (Live),Marquinhos,Pass (Live)
+43,Neymar,Paris S-G,0.04,,Blocked,25,Right Foot,,Ángel Di María,Pass (Live),Alessandro Florenzi,Pass (Live)
+49,Ángel Di María,Paris S-G,0.03,,Blocked,26,Left Foot,,Marco Verratti,Pass (Live),Marco Verratti,Take-On
+55,Neymar,Paris S-G,0.07,,Blocked,11,Right Foot,,Ángel Di María,Pass (Live),,
+61,Ander Herrera,Paris S-G,0.05,,Blocked,19,Right Foot,Volley,Neymar,Pass (Live),Neymar,Pass (Live)
+66,Leandro Paredes,Paris S-G,0.03,,Off Target,34,Right Foot,,Neymar,Pass (Live),Marco Verratti,Pass (Live)
+66,Julian Draxler,Paris S-G,0.05,,Blocked,17,Right Foot,,,,,
+89,Marquinhos,Paris S-G,0.11,,Blocked,11,Right Foot,Volley,Neymar,Pass (Live),Julian Draxler,Pass (Live)
+90+2,Neymar,Paris S-G,0.07,,Off Target,26,Right Foot,Free kick,Neymar,Fouled,Neymar,Take-On

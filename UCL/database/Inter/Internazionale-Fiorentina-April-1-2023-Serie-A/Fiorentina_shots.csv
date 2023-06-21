@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+1,Jonathan Ikone,Fiorentina,0.05,,Blocked,17,Left Foot,,Gaetano Castrovilli,Pass (Live),Lucas Martínez Quarta,Pass (Live)
+2,Giacomo Bonaventura,Fiorentina,0.04,,Off Target,29,Right Foot,,Riccardo Saponara,Pass (Live),Rolando Mandragora,Pass (Live)
+13,Arthur,Fiorentina,0.03,,Off Target,15,Right Foot,Volley,Jonathan Ikone,Pass (Live),Cristiano Biraghi,Pass (Live)
+13,Gaetano Castrovilli,Fiorentina,0.06,0.06,Saved,16,Right Foot,Volley,Cristiano Biraghi,Pass (Live),Riccardo Saponara,Pass (Live)
+15,Riccardo Saponara,Fiorentina,0.04,,Blocked,23,Right Foot,,,,,
+35,Rolando Mandragora,Fiorentina,0.02,,Off Target,30,Left Foot,Volley,Arthur,Pass (Live),Lucas Martínez Quarta,Pass (Live)
+36,Lucas Martínez Quarta,Fiorentina,0.04,,Off Target,24,Left Foot,Volley,Riccardo Saponara,Pass (Live),Lucas Martínez Quarta,Pass (Live)
+38,Riccardo Saponara,Fiorentina,0.08,,Blocked,11,Right Foot,,Giacomo Bonaventura,Pass (Live),Arthur,Pass (Live)
+40,Rolando Mandragora,Fiorentina,0.02,,Blocked,30,Left Foot,,Giacomo Bonaventura,Pass (Live),Dodô,Pass (Live)
+48,Gaetano Castrovilli,Fiorentina,0.02,,Off Target,28,Right Foot,,Cristiano Biraghi,Pass (Dead),Riccardo Saponara,Fouled
+51,Arthur,Fiorentina,0.04,,Off Target,12,Right Foot,Volley,Rolando Mandragora,Pass (Live),Giacomo Bonaventura,Pass (Live)
+52,Giacomo Bonaventura,Fiorentina,0.04,,Blocked,25,Right Foot,Deflected,,,,
+53,Arthur,Fiorentina,0.07,0.18,Saved,5,Other,,Cristiano Biraghi,Pass (Dead),Giacomo Bonaventura,Shot
+53,Giacomo Bonaventura,Fiorentina,0.33,0.74,Goal,3,Head,,Arthur,Shot,,
+57,Giacomo Bonaventura,Fiorentina,0.04,,Blocked,15,Right Foot,,Riccardo Saponara,Pass (Live),Arthur,Pass (Live)
+60,Arthur,Fiorentina,0.03,,Blocked,12,Head,,Dodô,Pass (Live),Giacomo Bonaventura,Pass (Live)
+62,Jonathan Ikone,Fiorentina,0.09,,Off Target,16,Left Foot,,Giacomo Bonaventura,Pass (Live),Rolando Mandragora,Pass (Live)
+81,Dodô,Fiorentina,0.02,,Off Target,35,Right Foot,,Antonín Barák,Pass (Live),Antonín Barák,Take-On
+90+4,Arthur,Fiorentina,0.08,,Off Target,13,Head,,Dodô,Pass (Live),Arthur,Pass (Live)

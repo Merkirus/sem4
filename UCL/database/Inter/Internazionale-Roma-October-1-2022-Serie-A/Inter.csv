@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Lautaro Martínez,10,ARG,"FW,RW",25,90,0,0,0,0,2,1,0,0,25,0,0,0,0.1,0.1,0.1,2,0,13,16,81.3,1,17,1,4,2
+Edin Džeko,9,BIH,FW,36,90,0,0,0,0,0,0,0,0,21,0,0,0,0.0,0.0,0.1,2,0,13,16,81.3,4,9,1,1,0
+Hakan Çalhanoğlu,20,TUR,CM,28,77,0,0,0,0,3,0,0,0,60,1,0,0,0.1,0.1,0.2,6,1,44,51,86.3,5,37,1,0,0
+Joaquín Correa,11,ARG,LW,28,13,0,0,0,0,0,0,1,0,6,0,0,0,0.0,0.0,0.0,0,0,3,5,60.0,0,4,0,1,0
+Kristjan Asllani,14,ALB,CM,20,76,0,0,0,0,2,0,1,0,59,1,0,1,0.1,0.1,0.0,0,0,50,52,96.2,2,42,0,0,0
+Henrikh Mkhitaryan,22,ARM,CM,33,14,0,0,0,0,1,0,0,0,15,1,0,0,0.1,0.1,0.0,1,0,11,13,84.6,4,11,1,0,0
+Nicolò Barella,23,ITA,CM,25,90,0,1,0,0,1,0,1,0,76,3,0,0,0.0,0.0,0.2,8,1,54,68,79.4,9,59,3,2,0
+Federico Dimarco,32,ITA,"WB,LM",24,87,1,0,0,0,2,1,0,0,41,0,1,0,0.2,0.2,0.2,3,0,22,36,61.1,3,21,0,1,0
+Valentin Carboni,45,ARG,LM,17,3,0,0,0,0,0,0,0,0,8,0,0,1,0.0,0.0,0.0,0,0,5,7,71.4,0,6,0,0,0
+Denzel Dumfries,2,NED,"WB,RM",26,80,0,0,0,0,1,0,0,0,36,0,0,1,0.2,0.2,0.0,1,0,21,28,75.0,1,22,2,4,0
+Raoul Bellanova,12,ITA,RM,22,10,0,0,0,0,1,0,0,0,11,0,0,0,0.1,0.1,0.0,0,0,9,10,90.0,1,8,1,0,0
+Alessandro Bastoni,95,ITA,CB,23,80,0,0,0,0,0,0,0,0,65,2,4,1,0.0,0.0,0.0,3,0,47,62,75.8,4,36,1,0,0
+Robin Gosens,8,GER,CB,28,10,0,0,0,0,0,0,1,0,9,1,0,1,0.0,0.0,0.0,0,0,3,7,42.9,0,4,1,0,0
+Francesco Acerbi,15,ITA,CB,34,90,0,0,0,0,1,0,0,0,107,0,0,0,0.1,0.1,0.0,3,0,95,104,91.3,8,69,3,1,0
+Milan Škriniar,37,SVK,CB,27,90,0,0,0,0,1,0,0,0,90,2,1,0,0.1,0.1,0.1,1,0,78,83,94.0,2,60,0,0,0
+Samir Handanović,1,SVN,GK,38,90,0,0,0,0,0,0,0,0,34,0,0,0,0.0,0.0,0.0,0,0,33,34,97.1,0,18,0,0,0

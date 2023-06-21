@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+21,James Maddison,Leicester City,0.10,,Blocked,17,Left Foot,,Kiernan Dewsbury-Hall,Pass (Live),Jamie Vardy,Pass (Live)
+34,James Maddison,Leicester City,0.09,,Blocked,22,Right Foot,,James Maddison,Take-On,Kiernan Dewsbury-Hall,Pass (Live)
+39,Wout Faes,Leicester City,0.04,,Off Target,17,Right Foot,Volley,Harry Souttar,Pass (Live),James Maddison,Pass (Dead)
+71,Dennis Praet,Leicester City,0.38,0.62,Saved,11,Right Foot,,Timothy Castagne,Pass (Live),James Maddison,Pass (Live)
+75,Harry Souttar,Leicester City,0.11,0.10,Saved,8,Head,,James Maddison,Pass (Dead),,
+75,Kelechi Iheanacho,Leicester City,0.94,0.92,Goal,3,Left Foot,Volley,Harry Souttar,Shot,,
+79,Kelechi Iheanacho,Leicester City,0.05,,Off Target,22,Right Foot,,Kelechi Iheanacho,Take-On,Çağlar Söyüncü,Pass (Live)
+85,James Maddison,Leicester City,0.36,0.68,Saved,12,Right Foot,,,,,
+86,Çağlar Söyüncü,Leicester City,0.09,,Blocked,8,Head,,Timothy Castagne,Pass (Live),James Maddison,Pass (Dead)
+90+1,Kelechi Iheanacho,Leicester City,0.25,,Woodwork,22,Left Foot,,James Maddison,Pass (Live),Patson Daka,Pass (Live)
+90+1,Timothy Castagne,Leicester City,0.05,,Off Target,15,Head,,Luke Thomas,Pass (Live),Dennis Praet,Pass (Live)

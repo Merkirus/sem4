@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Sandro Tonali,Milan,0.08,,Off Target,11,Head,,Rafael Leão,Pass (Live),Brahim Díaz,Pass (Live)
+3,Olivier Giroud,Milan,0.09,,Off Target,10,Head,,Sandro Tonali,Shot,,
+25,Olivier Giroud,Milan,0.05,,Off Target,11,Left Foot,Volley,Ismaël Bennacer,Pass (Dead),,
+29,Brahim Díaz,Milan,0.05,0.04,Saved,25,Right Foot,,Theo Hernández,Pass (Live),Brahim Díaz,Pass (Live)
+30,Pierre Kalulu,Milan,0.09,0.31,Goal,10,Head,,Sandro Tonali,Pass (Dead),Brahim Díaz,Shot
+37,Alexis Saelemaekers,Milan,0.03,,Off Target,22,Right Foot,Volley,Olivier Giroud,Pass (Live),Rafael Leão,Pass (Live)
+48,Rafael Leão,Milan,0.05,,Off Target,14,Left Foot,,Ismaël Bennacer,Pass (Live),Davide Calabria,Pass (Live)
+52,Theo Hernández,Milan,0.03,0.12,Saved,28,Left Foot,,Olivier Giroud,Pass (Live),Brahim Díaz,Pass (Live)
+54,Olivier Giroud,Milan,0.06,0.06,Saved,11,Head,,Davide Calabria,Pass (Live),Alexis Saelemaekers,Pass (Live)
+61,Brahim Díaz,Milan,0.04,,Off Target,27,Right Foot,,Ismaël Bennacer,Pass (Live),Brahim Díaz,Pass (Live)
+77,Tommaso Pobega,Milan,0.24,0.50,Goal,14,Left Foot,Deflected,Rafael Leão,Pass (Live),Theo Hernández,Pass (Live)
+83,Olivier Giroud,Milan,0.06,,Blocked,25,Left Foot,Free kick,Theo Hernández,Fouled,Olivier Giroud,Pass (Live)

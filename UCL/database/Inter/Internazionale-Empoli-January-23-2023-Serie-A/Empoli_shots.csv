@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+12,Nicolò Cambiaghi,Empoli,0.12,0.08,Saved,13,Right Foot,,Koni De Winter,Pass (Live),Liam Henderson,Pass (Live)
+17,Francesco Caputo,Empoli,0.09,,Blocked,15,Left Foot,,Filippo Bandinelli,Pass (Live),Nedim Bajrami,Pass (Live)
+26,Liam Henderson,Empoli,0.02,,Off Target,33,Right Foot,,Filippo Bandinelli,Tackle,,
+30,Filippo Bandinelli,Empoli,0.01,,Blocked,24,Left Foot,Volley,Tyronne Ebuehi,Pass (Live),Tyronne Ebuehi,Pass (Live)
+30,Jean-Daniel Akpa-Akpro,Empoli,0.03,0.04,Saved,20,Left Foot,Volley,Filippo Bandinelli,Shot,,
+42,Tyronne Ebuehi,Empoli,0.06,,Off Target,7,Head,,Filippo Bandinelli,Pass (Live),Nedim Bajrami,Pass (Dead)
+45,Nedim Bajrami,Empoli,0.04,0.07,Saved,26,Right Foot,Free kick,Fabiano Parisi,Fouled,Filippo Bandinelli,Pass (Live)
+45+1,Francesco Caputo,Empoli,0.17,0.07,Saved,11,Head,,Tyronne Ebuehi,Pass (Live),Nicolò Cambiaghi,Pass (Live)
+46,Nicolò Cambiaghi,Empoli,0.04,0.02,Saved,17,Left Foot,,Nicolas Haas,Pass (Live),,
+58,Nedim Bajrami,Empoli,0.03,0.13,Saved,16,Right Foot,,Nicolò Cambiaghi,Pass (Live),Nicolas Haas,Pass (Live)
+58,Liam Henderson,Empoli,0.05,0.05,Saved,26,Right Foot,,Francesco Caputo,Pass (Live),Nedim Bajrami,Pass (Live)
+66,Tommaso Baldanzi,Empoli,0.07,0.06,Goal,17,Left Foot,,Nedim Bajrami,Pass (Live),Tommaso Baldanzi,Pass (Live)
+79,Francesco Caputo,Empoli,0.08,,Off Target,13,Head,,Filippo Bandinelli,Pass (Live),Martin Satriano,Pass (Live)

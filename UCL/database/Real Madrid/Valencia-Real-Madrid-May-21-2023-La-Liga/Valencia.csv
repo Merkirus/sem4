@@ -1,0 +1,17 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Edinson Cavani,7,URU,FW,36,57,0,0,0,0,0,0,0,0,11,1,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,7,0,0,0
+Samuel,16,BRA,LW,23,33,0,0,0,0,0,0,0,0,12,2,0,0,0.0,0.0,0.0,0,0,5,7,71.4,1,8,4,0,0
+Justin Kluivert,9,NED,"LW,FW",24,89,0,0,0,0,3,0,1,0,26,0,1,0,0.1,0.1,0.2,5,1,11,12,91.7,4,23,4,3,1
+Hugo Duro,19,ESP,FW,23,1,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0,0,0,0,,0,0,0,0,0
+Diego Noguerol,40,ESP,RW,21,57,1,0,0,0,3,2,0,0,24,0,2,0,0.5,0.5,0.0,1,0,9,14,64.3,0,19,2,1,1
+Dimitri Foulquier,20,FRA,RB,30,33,0,0,0,0,0,0,0,0,15,1,0,0,0.0,0.0,0.0,0,0,3,6,50.0,0,5,0,1,0
+Domingos André Ribeiro Almeida,18,POR,"AM,CM",22,90,0,0,0,0,1,1,0,0,45,3,1,2,0.0,0.0,0.3,6,0,30,38,78.9,5,31,2,1,1
+Nicolás González,17,ESP,"DM,CM",21,90,0,0,0,0,1,0,0,0,43,3,3,3,0.1,0.1,0.0,2,0,27,30,90.0,4,22,1,1,1
+Javier Guerra,36,ESP,"DM,CM",20,90,0,0,0,0,3,3,0,0,46,3,2,2,0.3,0.3,0.0,3,0,19,25,76.0,5,27,3,3,0
+José Luis Gayà,14,ESP,LB,27,89,0,0,0,0,0,0,0,0,40,2,2,2,0.0,0.0,0.0,2,0,20,31,64.5,3,24,0,4,3
+Yunus Musah,4,USA,RW,20,1,0,0,0,0,0,0,1,0,2,0,0,0,0.0,0.0,0.0,0,0,0,1,0.0,0,0,0,0,0
+Cenk Özkacar,15,TUR,CB,22,90,0,0,0,0,0,0,0,0,24,1,2,0,0.0,0.0,0.0,0,0,10,14,71.4,4,9,2,1,1
+Eray Cömert,24,SUI,CB,25,90,0,0,0,0,0,0,1,0,33,3,2,1,0.0,0.0,0.0,0,0,17,22,77.3,2,14,0,0,0
+Thierry Correia,2,POR,"RB,RW",24,67,0,0,0,0,0,0,0,0,40,6,0,1,0.0,0.0,0.0,1,0,23,29,79.3,1,17,0,0,0
+Toni Lato,3,ESP,"RW,LB",25,23,0,0,0,0,0,0,0,0,7,0,0,0,0.0,0.0,0.0,0,0,2,3,66.7,0,4,0,0,0
+Giorgi Mamardashvili,25,GEO,GK,22,90,0,0,0,0,0,0,1,0,32,0,0,0,0.0,0.0,0.0,0,0,6,28,21.4,0,14,0,0,0

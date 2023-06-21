@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Kevin De Bruyne,Manchester City,0.09,0.25,Goal,24,Right Foot,,Erling Haaland,Pass (Live),John Stones,Pass (Live)
+22,Bernardo Silva,Manchester City,0.04,0.16,Saved,15,Left Foot,,,,,
+26,Kevin De Bruyne,Manchester City,0.24,,Blocked,14,Left Foot,,Kevin De Bruyne,Take-On,Erling Haaland,Pass (Live)
+28,Erling Haaland,Manchester City,0.46,0.74,Saved,12,Left Foot,,Erling Haaland,Take-On,Erling Haaland,Take-On
+32,Erling Haaland,Manchester City,0.03,0.03,Saved,13,Left Foot,Volley,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+36,Erling Haaland,Manchester City,0.17,,Off Target,17,Left Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+41,Erling Haaland,Manchester City,0.18,0.35,Saved,10,Left Foot,,İlkay Gündoğan,Pass (Live),İlkay Gündoğan,Take-On
+45+1,John Stones,Manchester City,0.16,0.27,Goal,7,Head,,Kevin De Bruyne,Pass (Dead),Erling Haaland,Fouled
+46,Kevin De Bruyne,Manchester City,0.12,,Off Target,14,Right Foot,Volley,Bernardo Silva,Pass (Live),Erling Haaland,Pass (Live)
+53,Erling Haaland,Manchester City,0.46,0.26,Saved,19,Left Foot,,Rúben Dias,Pass (Dead),,
+53,Bernardo Silva,Manchester City,0.10,,Blocked,20,Left Foot,,Jack Grealish,Pass (Live),Erling Haaland,Shot
+54,Kevin De Bruyne,Manchester City,0.10,0.24,Goal,13,Right Foot,,Erling Haaland,Pass (Live),Kevin De Bruyne,Pass (Live)
+64,İlkay Gündoğan,Manchester City,0.04,,Off Target,27,Right Foot,,Jack Grealish,Pass (Live),Erling Haaland,Pass (Live)
+90+5,Erling Haaland,Manchester City,0.33,0.32,Goal,16,Left Foot,,John Stones,Pass (Live),,

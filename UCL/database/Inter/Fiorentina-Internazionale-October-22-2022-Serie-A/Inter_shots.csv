@@ -1,0 +1,9 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Nicolò Barella,Inter,0.39,0.83,Goal,15,Right Foot,,Lautaro Martínez,Pass (Live),,
+15,Lautaro Martínez,Inter,0.13,0.41,Goal,17,Left Foot,,Lautaro Martínez,Take-On,Henrikh Mkhitaryan,Interception
+34,Federico Dimarco,Inter,0.05,0.43,Saved,9,Left Foot,,Lautaro Martínez,Pass (Live),,
+36,Stefan de Vrij,Inter,0.03,,Off Target,12,Head,,Federico Dimarco,Pass (Dead),Henrikh Mkhitaryan,Fouled
+48,Lautaro Martínez,Inter,0.07,0.06,Saved,9,Head,,Federico Dimarco,Pass (Dead),Henrikh Mkhitaryan,Pass (Live)
+67,Nicolò Barella,Inter,0.53,0.18,Saved,13,Right Foot,,Edin Džeko,Pass (Live),Nicolò Barella,Pass (Live)
+73,Lautaro Martínez (pen),Inter,0.79,0.99,Goal,13,Right Foot,,Lautaro Martínez,Fouled,Edin Džeko,Pass (Live)
+90+5,Henrikh Mkhitaryan,Inter,0.38,0.90,Goal,12,Left Foot,,Edin Džeko,Pass (Live),Denzel Dumfries,Pass (Live)

@@ -1,0 +1,12 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Vinicius Júnior,Real Madrid,0.28,0.30,Saved,10,Right Foot,,,,,
+11,Éder Militão,Real Madrid,0.05,,Blocked,15,Left Foot,Volley,Vinicius Júnior,Shot,,
+17,Federico Valverde,Real Madrid,0.01,,Off Target,26,Right Foot,Volley,Eduardo Camavinga,Pass (Live),Federico Valverde,Pass (Live)
+46,Rodrygo,Real Madrid,0.06,,Off Target,18,Right Foot,,Dani Ceballos,Pass (Live),Vinicius Júnior,Pass (Live)
+55,Rodrygo,Real Madrid,0.05,0.02,Saved,23,Right Foot,,Vinicius Júnior,Pass (Live),Dani Ceballos,Pass (Live)
+70,Federico Valverde,Real Madrid,0.01,,Blocked,26,Right Foot,Volley,Federico Valverde,Pass (Live),Marco Asensio,Pass (Live)
+72,Federico Valverde,Real Madrid,0.01,,Blocked,29,Right Foot,Volley,Eduardo Camavinga,Fouled,Thibaut Courtois,Pass (Live)
+74,Vinicius Júnior,Real Madrid,0.12,0.36,Saved,12,Right Foot,,,,,
+78,Federico Valverde,Real Madrid,0.37,0.90,Goal,10,Right Foot,,Vinicius Júnior,Pass (Live),Luka Modrić,Pass (Live)
+88,David Alaba,Real Madrid,0.06,0.04,Saved,12,Left Foot,,Vinicius Júnior,Pass (Live),Marco Asensio,Pass (Live)
+90+2,Marco Asensio,Real Madrid,0.29,0.33,Goal,12,Left Foot,,Álvaro Muñoz,Pass (Live),,

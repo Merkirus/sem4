@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Lorenzo Pellegrini,Roma,0.05,,Off Target,22,Right Foot,,Nicola Zalewski,Pass (Live),Lorenzo Pellegrini,Pass (Live)
+18,Lorenzo Pellegrini,Roma,0.06,,Blocked,22,Left Foot,,Edoardo Bove,Pass (Live),,
+18,Lorenzo Pellegrini,Roma,0.05,0.11,Saved,22,Right Foot,"Deflected, Volley",Lorenzo Pellegrini,Shot,,
+30,Bryan Cristante,Roma,0.03,,Off Target,8,Right Foot,Volley,Lorenzo Pellegrini,Pass (Dead),,
+38,Roger Ibanez,Roma,0.06,,Off Target,11,Head,,Lorenzo Pellegrini,Pass (Dead),Nicola Zalewski,Fouled
+49,Nicola Zalewski,Roma,0.04,0.14,Saved,21,Left Foot,,Mohamed Camara,Pass (Live),Edoardo Bove,Pass (Live)
+55,Nemanja Matić,Roma,0.05,,Blocked,18,Right Foot,,Leonardo Spinazzola,Pass (Live),Nicola Zalewski,Pass (Live)
+55,Gianluca Mancini,Roma,0.09,,Off Target,9,Head,,Lorenzo Pellegrini,Pass (Dead),Nemanja Matić,Shot
+57,Bryan Cristante,Roma,0.04,,Blocked,14,Right Foot,Volley,Gianluca Mancini,Shot,,
+57,Roger Ibanez,Roma,0.08,0.07,Saved,13,Right Foot,,Bryan Cristante,Shot,,
+79,Lorenzo Pellegrini,Roma,0.09,,Blocked,19,Left Foot,,Paulo Dybala,Pass (Live),Nemanja Matić,Pass (Live)
+82,Paulo Dybala,Roma,0.04,,Off Target,19,Left Foot,,Nicola Zalewski,Pass (Live),,
+88,Mohamed Camara,Roma,0.14,,Off Target,16,Right Foot,,Nemanja Matić,Pass (Live),Nemanja Matić,Take-On
+90+4,Lorenzo Pellegrini,Roma,0.03,,Off Target,33,Right Foot,Free kick,Paulo Dybala,Fouled,,
+90+5,Bryan Cristante,Roma,0.08,,Blocked,5,Head,,Lorenzo Pellegrini,Pass (Dead),Bryan Cristante,Pass (Live)

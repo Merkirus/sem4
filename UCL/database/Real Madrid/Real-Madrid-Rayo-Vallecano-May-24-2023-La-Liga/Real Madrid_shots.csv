@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+16,Antonio Rüdiger,Real Madrid,0.01,,Off Target,33,Right Foot,,Rodrygo,Pass (Live),Antonio Rüdiger,Pass (Live)
+27,Federico Valverde,Real Madrid,0.07,,Blocked,9,Head,,Rodrygo,Pass (Live),Rodrygo,Take-On
+28,Eduardo Camavinga,Real Madrid,0.03,,Off Target,28,Left Foot,,Dani Carvajal,Pass (Live),Luka Modrić,Pass (Dead)
+31,Karim Benzema,Real Madrid,0.63,0.87,Goal,4,Right Foot,Deflected,Karim Benzema,Take-On,Federico Valverde,Pass (Live)
+36,Antonio Rüdiger,Real Madrid,0.04,,Off Target,18,Left Foot,,Dani Carvajal,Pass (Live),David Alaba,Pass (Live)
+40,Rodrygo,Real Madrid,0.02,,Off Target,28,Right Foot,,Nacho,Pass (Live),Toni Kroos,Pass (Live)
+56,Dani Carvajal,Real Madrid,0.25,,Off Target,4,Right Foot,,Luka Modrić,Pass (Live),Karim Benzema,Pass (Live)
+68,Toni Kroos,Real Madrid,0.02,,Blocked,29,Left Foot,,Eduardo Camavinga,Pass (Live),Karim Benzema,Pass (Live)
+82,Antonio Rüdiger,Real Madrid,0.04,,Off Target,11,Head,,Toni Kroos,Pass (Dead),Rodrygo,Fouled
+87,Aurélien Tchouaméni,Real Madrid,0.02,,Blocked,32,Right Foot,,Dani Ceballos,Take-On,Karim Benzema,Pass (Live)
+89,Rodrygo,Real Madrid,0.07,0.32,Goal,22,Right Foot,,Dani Ceballos,Pass (Live),Aurélien Tchouaméni,Pass (Live)
+90,Dani Ceballos,Real Madrid,0.08,0.22,Saved,11,Right Foot,Volley,Toni Kroos,Pass (Live),Rodrygo,Pass (Live)

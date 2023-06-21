@@ -1,0 +1,6 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+45,Stuart Armstrong,Southampton,0.05,,Off Target,28,Right Foot,,Adam Armstrong,Pass (Live),Romain Perraud,Pass (Live)
+84,Romain Perraud,Southampton,0.01,,Blocked,31,Left Foot,,,,,
+84,Romain Perraud,Southampton,0.03,,Blocked,28,Right Foot,,Romain Perraud,Shot,,
+84,Romain Perraud,Southampton,0.02,,Off Target,24,Left Foot,Volley,Romain Perraud,Shot,,
+86,Mohamed Elyounoussi,Southampton,0.04,,Off Target,30,Left Foot,,James Ward-Prowse,Pass (Live),,

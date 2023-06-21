@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Brahim Díaz,Milan,0.04,0.11,Saved,29,Right Foot,Deflected,Divock Origi,Fouled,Ismaël Bennacer,Pass (Live)
+16,Divock Origi,Milan,0.02,,Off Target,26,Left Foot,,Malick Thiaw,Pass (Live),Ismaël Bennacer,Pass (Live)
+17,Ante Rebić,Milan,0.02,,Blocked,28,Right Foot,,Junior Messias,Pass (Live),Sandro Tonali,Pass (Live)
+23,Brahim Díaz,Milan,0.05,,Off Target,8,Left Foot,Volley,Junior Messias,Pass (Live),Brahim Díaz,Pass (Live)
+25,Ante Rebić,Milan,0.12,,Off Target,7,Head,,Sandro Tonali,Pass (Live),Ismaël Bennacer,Pass (Live)
+26,Divock Origi,Milan,0.32,0.88,Saved,15,Right Foot,,Ante Rebić,Pass (Live),Ante Rebić,Tackle
+34,Junior Messias,Milan,0.03,,Off Target,13,Head,,Ismaël Bennacer,Pass (Dead),Ismaël Bennacer,Pass (Live)
+36,Malick Thiaw,Milan,0.07,0.13,Saved,12,Head,,Sandro Tonali,Pass (Dead),Brahim Díaz,Pass (Dead)
+40,Junior Messias,Milan,0.02,0.01,Saved,18,Left Foot,,Brahim Díaz,Pass (Live),Ante Rebić,Pass (Live)
+40,Ante Rebić,Milan,0.07,,Blocked,21,Left Foot,Volley,Junior Messias,Shot,,
+52,Sandro Tonali,Milan,0.02,0.15,Saved,21,Head,,Ismaël Bennacer,Pass (Live),Junior Messias,Pass (Live)
+56,Sandro Tonali,Milan,0.04,,Blocked,24,Right Foot,,Ismaël Bennacer,Pass (Dead),Junior Messias,Fouled
+59,Fikayo Tomori,Milan,0.04,,Off Target,31,Right Foot,,Simon Kjær,Pass (Live),Fikayo Tomori,Pass (Live)
+65,Junior Messias,Milan,0.07,,Blocked,8,Head,,Ismaël Bennacer,Pass (Dead),,
+89,Pierre Kalulu,Milan,0.04,,Off Target,23,Left Foot,Volley,Fodé Ballo-Touré,Fouled,Junior Messias,Pass (Live)
+90+6,Marko Lazetić,Milan,0.06,,Off Target,13,Left Foot,,Ismaël Bennacer,Pass (Live),Junior Messias,Pass (Live)

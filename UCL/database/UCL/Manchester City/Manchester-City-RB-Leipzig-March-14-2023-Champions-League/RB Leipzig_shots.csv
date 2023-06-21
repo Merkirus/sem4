@@ -1,0 +1,5 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+30,Amadou Haidara,RB Leipzig,0.12,0.02,Saved,14,Right Foot,,David Raum,Pass (Dead),Dominik Szoboszlai,Fouled
+35,Timo Werner,RB Leipzig,0.36,,Off Target,8,Right Foot,,Konrad Laimer,Pass (Live),,
+59,Dominik Szoboszlai,RB Leipzig,0.02,,Off Target,34,Right Foot,,,,,
+79,André Silva,RB Leipzig,0.05,,Off Target,22,Left Foot,,Willi Orban,Pass (Live),Konrad Laimer,Interception

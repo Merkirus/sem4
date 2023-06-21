@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Óscar Rodríguez Arnaiz,Celta Vigo,0.04,0.24,Saved,27,Right Foot,Free kick,Gonçalo Paciência,Fouled,Óscar Rodríguez Arnaiz,Pass (Live)
+8,Franco Cervi,Celta Vigo,0.05,,Off Target,25,Left Foot,,Hugo Mallo,Take-On,Iago Aspas,Pass (Live)
+22,Gonçalo Paciência,Celta Vigo,0.00,,Blocked,14,Head,,Hugo Mallo,Pass (Live),Fran Beltrán,Pass (Live)
+23,Iago Aspas (pen),Celta Vigo,0.79,1.00,Goal,13,Left Foot,,,Fouled,Gonçalo Paciência,Shot
+29,Javi Galán,Celta Vigo,0.06,,Off Target,19,Left Foot,,Renato Tapia,Pass (Live),Franco Cervi,Pass (Live)
+33,Franco Cervi,Celta Vigo,0.03,,Off Target,23,Left Foot,,,,,
+35,Gonçalo Paciência,Celta Vigo,0.11,,Off Target,10,Head,,Javi Galán,Pass (Live),Óscar Rodríguez Arnaiz,Pass (Live)
+37,Gonçalo Paciência,Celta Vigo,0.03,,Blocked,14,Right Foot,Volley,Iago Aspas,Pass (Live),Hugo Mallo,Pass (Dead)
+53,Gonçalo Paciência,Celta Vigo,0.03,,Off Target,17,Right Foot,,Iago Aspas,Pass (Live),Franco Cervi,Pass (Live)
+63,Joseph Aidoo,Celta Vigo,0.09,,Off Target,10,Head,,Óscar Rodríguez Arnaiz,Pass (Dead),Fran Beltrán,Pass (Live)
+66,Fran Beltrán,Celta Vigo,0.02,,Blocked,29,Right Foot,,Javi Galán,Pass (Live),Óscar Rodríguez Arnaiz,Pass (Live)
+71,Óscar Rodríguez Arnaiz,Celta Vigo,0.05,,Blocked,18,Right Foot,,Iago Aspas,Pass (Live),Fran Beltrán,Pass (Live)
+73,Carles Pérez,Celta Vigo,0.07,,Blocked,17,Left Foot,,Fran Beltrán,Pass (Live),Carles Pérez,Pass (Live)
+73,Fran Beltrán,Celta Vigo,0.02,,Off Target,28,Right Foot,,Óscar Rodríguez Arnaiz,Pass (Live),,
+76,Óscar Rodríguez Arnaiz,Celta Vigo,0.02,,Off Target,34,Right Foot,,Carles Pérez,Pass (Live),Fran Beltrán,Pass (Live)

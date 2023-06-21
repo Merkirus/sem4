@@ -1,0 +1,10 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+9,Rade Krunić,Milan,0.06,,Off Target,7,Head,,Sandro Tonali,Pass (Dead),Brahim Díaz,Pass (Live)
+12,Junior Messias,Milan,0.03,0.06,Saved,20,Left Foot,,Brahim Díaz,Pass (Live),Rade Krunić,Pass (Live)
+22,Sandro Tonali,Milan,0.05,,Off Target,11,Head,,Junior Messias,Pass (Live),Brahim Díaz,Pass (Live)
+39,Junior Messias,Milan,0.04,,Blocked,28,Left Foot,,Brahim Díaz,Pass (Live),Theo Hernández,Pass (Live)
+40,Olivier Giroud,Milan,0.13,0.65,Goal,12,Head,,Davide Calabria,Pass (Live),Rade Krunić,Pass (Live)
+62,Olivier Giroud,Milan,0.05,,Off Target,29,Left Foot,Free kick,Brahim Díaz,Fouled,Malick Thiaw,Pass (Live)
+69,Alexis Saelemaekers,Milan,0.03,,Blocked,15,Left Foot,,Rafael Leão,Pass (Live),Olivier Giroud,Pass (Live)
+71,Alexis Saelemaekers,Milan,0.06,0.09,Saved,13,Right Foot,,Olivier Giroud,Pass (Live),Rafael Leão,Pass (Live)
+78,Rafael Leão,Milan,0.06,,Off Target,18,Right Foot,,Theo Hernández,Pass (Live),,

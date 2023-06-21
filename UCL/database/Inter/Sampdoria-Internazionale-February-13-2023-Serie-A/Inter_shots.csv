@@ -1,0 +1,26 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Romelu Lukaku,Inter,0.08,0.08,Saved,16,Left Foot,,Nicolò Barella,Pass (Live),,
+3,Henrikh Mkhitaryan,Inter,0.03,,Off Target,27,Left Foot,,Romelu Lukaku,Shot,,
+5,Lautaro Martínez,Inter,0.06,0.05,Saved,18,Right Foot,,Matteo Darmian,Pass (Live),Romelu Lukaku,Pass (Live)
+10,Matteo Darmian,Inter,0.02,,Blocked,24,Left Foot,,Hakan Çalhanoğlu,Pass (Live),Lautaro Martínez,Pass (Live)
+12,Hakan Çalhanoğlu,Inter,0.05,,Off Target,25,Right Foot,,Henrikh Mkhitaryan,Pass (Live),Stefan de Vrij,Interception
+18,Lautaro Martínez,Inter,0.12,,Blocked,14,Right Foot,,Romelu Lukaku,Pass (Live),Nicolò Barella,Pass (Live)
+20,Matteo Darmian,Inter,0.11,,Off Target,12,Right Foot,,Nicolò Barella,Pass (Live),Matteo Darmian,Pass (Live)
+24,Lautaro Martínez,Inter,0.12,,Blocked,15,Right Foot,,Milan Škriniar,Pass (Live),Nicolò Barella,Pass (Live)
+25,Romelu Lukaku,Inter,0.06,,Off Target,11,Head,,Henrikh Mkhitaryan,Pass (Live),Robin Gosens,Pass (Live)
+28,Milan Škriniar,Inter,0.05,,Off Target,21,Right Foot,,Hakan Çalhanoğlu,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+37,Robin Gosens,Inter,0.02,,Off Target,12,Head,,Hakan Çalhanoğlu,Pass (Dead),Lautaro Martínez,Fouled
+45,Hakan Çalhanoğlu,Inter,0.02,,Blocked,35,Right Foot,,Milan Škriniar,Pass (Live),,
+45+1,Lautaro Martínez,Inter,0.16,0.41,Saved,19,Left Foot,,Francesco Acerbi,Pass (Live),Stefan de Vrij,Pass (Live)
+46,Henrikh Mkhitaryan,Inter,0.05,,Off Target,10,Head,,Nicolò Barella,Pass (Live),Romelu Lukaku,Pass (Live)
+48,Lautaro Martínez,Inter,0.16,,Blocked,7,Right Foot,,Stefan de Vrij,Pass (Live),Hakan Çalhanoğlu,Pass (Dead)
+50,Stefan de Vrij,Inter,0.14,,Off Target,8,Head,,Francesco Acerbi,Pass (Live),Hakan Çalhanoğlu,Pass (Dead)
+54,Federico Dimarco,Inter,0.03,,Off Target,21,Right Foot,,Romelu Lukaku,Pass (Live),Nicolò Barella,Pass (Live)
+60,Federico Dimarco,Inter,0.16,,Off Target,8,Left Foot,,Matteo Darmian,Pass (Live),Nicolò Barella,Pass (Live)
+69,Lautaro Martínez,Inter,0.02,,Blocked,14,Head,,Federico Dimarco,Pass (Live),Francesco Acerbi,Pass (Live)
+69,Denzel Dumfries,Inter,0.07,,Blocked,15,Left Foot,Volley,Lautaro Martínez,Shot,,
+77,Hakan Çalhanoğlu,Inter,0.08,0.12,Saved,17,Right Foot,,Federico Dimarco,Pass (Live),Francesco Acerbi,Pass (Live)
+79,Federico Dimarco,Inter,0.04,,Off Target,32,Left Foot,Free kick,Lautaro Martínez,Fouled,Edin Džeko,Pass (Live)
+83,Hakan Çalhanoğlu,Inter,0.05,,Off Target,27,Right Foot,,Edin Džeko,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+90+2,Francesco Acerbi,Inter,0.03,0.34,Saved,32,Left Foot,,Valentin Carboni,Pass (Live),Marcelo Brozović,Pass (Live)
+90+4,Edin Džeko,Inter,0.11,,Off Target,10,Head,,Federico Dimarco,Pass (Live),Valentin Carboni,Pass (Live)

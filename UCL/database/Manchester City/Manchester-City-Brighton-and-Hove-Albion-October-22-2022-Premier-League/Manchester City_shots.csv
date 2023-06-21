@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+22,Erling Haaland,Manchester City,0.25,0.30,Goal,11,Right Foot,,Ederson,Pass (Live),Bernardo Silva,Pass (Live)
+32,Kevin De Bruyne,Manchester City,0.10,,Blocked,16,Left Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+33,Rodri,Manchester City,0.11,,Off Target,9,Head,,Riyad Mahrez,Pass (Dead),Kevin De Bruyne,Shot
+43,Erling Haaland (pen),Manchester City,0.79,0.99,Goal,13,Left Foot,,Bernardo Silva,Fouled,João Cancelo,Pass (Live)
+52,Riyad Mahrez,Manchester City,0.16,0.23,Saved,10,Left Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Take-On
+58,Riyad Mahrez,Manchester City,0.06,,Blocked,10,Right Foot,Volley,Erling Haaland,Pass (Live),Kevin De Bruyne,Pass (Live)
+62,Aymeric Laporte,Manchester City,0.00,,Off Target,12,Head,,Kevin De Bruyne,Pass (Dead),Rodri,Fouled
+71,Erling Haaland,Manchester City,0.09,,Blocked,13,Right Foot,,Phil Foden,Pass (Live),Manuel Akanji,Pass (Live)
+72,Aymeric Laporte,Manchester City,0.03,,Off Target,13,Head,,Kevin De Bruyne,Pass (Dead),Erling Haaland,Shot
+75,Kevin De Bruyne,Manchester City,0.05,0.47,Goal,28,Right Foot,,Bernardo Silva,Pass (Live),João Cancelo,Pass (Live)

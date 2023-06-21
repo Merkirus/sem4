@@ -1,0 +1,13 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Erling Haaland,9,NOR,FW,22,90,1,1,0,0,5,2,0,0,27,0,1,1,0.8,0.8,0.1,2,1,12,15,80.0,1,16,2,0,0
+Jack Grealish,10,ENG,LW,27,90,0,0,0,0,1,0,0,0,56,0,0,1,0.1,0.1,0.2,4,1,37,44,84.1,1,37,3,6,3
+Bernardo Silva,20,POR,RW,28,90,1,1,0,0,1,1,1,0,48,8,1,1,0.1,0.1,0.1,6,1,29,35,82.9,5,28,2,7,3
+İlkay Gündoğan,8,GER,CM,32,90,0,0,0,0,2,1,0,0,43,1,0,2,0.4,0.4,0.1,5,0,29,36,80.6,4,26,1,1,0
+Kevin De Bruyne,17,BEL,CM,31,67,0,0,0,0,0,0,0,0,44,2,0,0,0.0,0.0,0.4,3,0,24,37,64.9,4,22,2,1,0
+Julián Álvarez,19,ARG,CM,23,23,0,0,0,0,2,1,0,0,15,1,0,0,0.1,0.1,0.0,2,1,6,10,60.0,1,9,0,0,0
+Rodri,16,ESP,DM,26,90,1,0,0,0,2,2,0,0,73,4,1,1,0.1,0.1,0.0,1,1,50,61,82.0,5,44,1,3,3
+John Stones,5,ENG,DM,28,90,0,1,0,0,1,0,0,0,38,0,0,0,0.0,0.0,0.5,2,1,28,35,80.0,1,23,0,0,0
+Nathan Aké,6,NED,LB,28,90,0,0,0,0,1,1,0,0,58,3,1,1,0.0,0.0,0.0,2,0,38,46,82.6,2,27,2,0,0
+Rúben Dias,3,POR,CB,25,90,0,0,0,0,2,1,0,0,76,3,0,3,0.3,0.3,0.0,0,0,55,63,87.3,1,49,1,0,0
+Manuel Akanji,25,SUI,RB,27,90,0,0,0,0,0,0,0,0,68,7,2,1,0.0,0.0,0.0,2,0,45,59,76.3,8,36,3,0,0
+Ederson,31,BRA,GK,29,90,0,0,0,0,0,0,0,0,32,0,0,0,0.0,0.0,0.0,0,0,20,27,74.1,0,19,0,0,0

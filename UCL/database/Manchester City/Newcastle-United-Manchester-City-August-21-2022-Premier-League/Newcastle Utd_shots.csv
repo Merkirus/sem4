@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+17,Miguel Almirón,Newcastle Utd,0.26,,Off Target,12,Left Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+24,Allan Saint-Maximin,Newcastle Utd,0.14,0.02,Saved,12,Left Foot,,Miguel Almirón,Pass (Live),Fabian Schär,Pass (Live)
+26,Callum Wilson,Newcastle Utd,0.04,,Blocked,13,Right Foot,,Allan Saint-Maximin,Pass (Live),Joelinton,Pass (Live)
+27,Callum Wilson,Newcastle Utd,0.47,0.23,Saved,6,Left Foot,Volley,Sven Botman,Pass (Live),Kieran Trippier,Pass (Dead)
+28,Miguel Almirón,Newcastle Utd,0.43,0.95,Goal,5,Right Foot,,Allan Saint-Maximin,Pass (Live),Allan Saint-Maximin,Take-On
+31,Callum Wilson,Newcastle Utd,0.03,,Off Target,14,Left Foot,Volley,Joe Willock,Pass (Live),Allan Saint-Maximin,Pass (Live)
+37,Miguel Almirón,Newcastle Utd,0.02,,Blocked,18,Left Foot,,Joelinton,Pass (Live),Bruno Guimarães,Pass (Live)
+39,Callum Wilson,Newcastle Utd,0.24,0.55,Goal,17,Right Foot,,Allan Saint-Maximin,Pass (Live),,
+54,Kieran Trippier,Newcastle Utd,0.05,0.59,Goal,29,Right Foot,Free kick,Allan Saint-Maximin,Fouled,Bruno Guimarães,Pass (Live)
+73,Allan Saint-Maximin,Newcastle Utd,0.07,,Off Target,16,Right Foot,,Bruno Guimarães,Tackle,,
+79,Allan Saint-Maximin,Newcastle Utd,0.03,,Blocked,25,Right Foot,,Allan Saint-Maximin,Take-On,Joelinton,Pass (Live)
+83,Sven Botman,Newcastle Utd,0.03,,Off Target,13,Left Foot,Volley,Dan Burn,Pass (Live),Kieran Trippier,Pass (Dead)

@@ -1,0 +1,11 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+10,Jonathan Ikone,Fiorentina,0.05,,Off Target,14,Left Foot,,Christian Kouamé,Pass (Live),Nikola Milenković,Pass (Live)
+12,Jonathan Ikone,Fiorentina,0.09,,Off Target,10,Right Foot,Volley,Christian Kouamé,Pass (Live),Alfred Duncan,Pass (Live)
+33,Arthur (pen),Fiorentina,0.79,0.98,Goal,13,Right Foot,,Giacomo Bonaventura,Fouled,Cristiano Biraghi,Pass (Live)
+43,Cristiano Biraghi,Fiorentina,0.03,,Off Target,29,Left Foot,Free kick,Christian Kouamé,Fouled,Alfred Duncan,Pass (Live)
+47,Christian Kouamé,Fiorentina,0.02,0.08,Saved,27,Right Foot,,Cristiano Biraghi,Pass (Live),Christian Kouamé,Pass (Live)
+60,Jonathan Ikone,Fiorentina,0.05,0.77,Goal,13,Left Foot,,Christian Kouamé,Pass (Live),Nikola Milenković,Pass (Live)
+82,Christian Kouamé,Fiorentina,0.05,,Off Target,22,Right Foot,,Arthur,Pass (Live),Nikola Milenković,Pass (Live)
+89,Arthur,Fiorentina,0.09,,Blocked,11,Left Foot,Volley,Lorenzo Venuti,Pass (Dead),Christian Kouamé,Fouled
+89,Jonathan Ikone,Fiorentina,0.04,,Blocked,22,Right Foot,,Antonín Barák,Pass (Live),Arthur,Shot
+90,Luka Jović,Fiorentina,0.07,0.11,Goal,8,Right Foot,"Deflected, Volley",Nikola Milenković,Pass (Live),Aleksa Terzić,Pass (Dead)

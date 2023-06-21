@@ -1,0 +1,16 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,Mohamed Salah,Liverpool,0.26,0.17,Saved,16,Left Foot,,Ozan Kabak,Pass (Live),,
+4,Sadio Mané,Liverpool,0.03,,Off Target,12,Head,,Trent Alexander-Arnold,Pass (Dead),Sadio Mané,Pass (Live)
+11,James Milner,Liverpool,0.04,0.46,Saved,26,Right Foot,,Roberto Firmino,Pass (Live),Mohamed Salah,Pass (Live)
+18,Ozan Kabak,Liverpool,0.05,,Off Target,9,Head,,Andrew Robertson,Pass (Dead),Sadio Mané,Fouled
+41,Mohamed Salah,Liverpool,0.08,,Off Target,15,Left Foot,,Sadio Mané,Pass (Live),Georginio Wijnaldum,Pass (Live)
+42,Georginio Wijnaldum,Liverpool,0.10,,Off Target,13,Right Foot,,Trent Alexander-Arnold,Pass (Live),Georginio Wijnaldum,Pass (Live)
+46,Roberto Firmino,Liverpool,0.07,0.15,Saved,11,Right Foot,,Trent Alexander-Arnold,Pass (Live),Georginio Wijnaldum,Pass (Live)
+48,Roberto Firmino,Liverpool,0.06,,Off Target,9,Head,,Trent Alexander-Arnold,Pass (Live),Georginio Wijnaldum,Pass (Live)
+57,Roberto Firmino,Liverpool,0.05,,Off Target,28,Left Foot,,Roberto Firmino,Take-On,Trent Alexander-Arnold,Pass (Dead)
+68,Mohamed Salah,Liverpool,0.08,,Blocked,15,Left Foot,,Trent Alexander-Arnold,Pass (Live),,
+68,Nathaniel Phillips,Liverpool,0.07,,Off Target,8,Head,,Diogo Jota,Pass (Live),Fabinho,Pass (Live)
+69,Roberto Firmino,Liverpool,0.10,,Blocked,10,Left Foot,,Andrew Robertson,Pass (Live),Trent Alexander-Arnold,Pass (Live)
+70,Diogo Jota,Liverpool,0.11,,Blocked,10,Left Foot,,Diogo Jota,Take-On,Andrew Robertson,Pass (Live)
+80,Nathaniel Phillips,Liverpool,0.04,,Off Target,12,Head,,Andrew Robertson,Pass (Dead),,
+90+2,Mohamed Salah,Liverpool,0.08,0.10,Saved,9,Right Foot,,Thiago Alcántara,Pass (Live),Thiago Alcántara,Interception

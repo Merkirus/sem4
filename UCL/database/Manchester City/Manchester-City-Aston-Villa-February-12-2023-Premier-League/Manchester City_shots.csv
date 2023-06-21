@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Rodri,Manchester City,0.07,0.16,Goal,6,Head,,Riyad Mahrez,Pass (Dead),Rúben Dias,Pass (Live)
+11,İlkay Gündoğan,Manchester City,0.53,0.88,Saved,15,Left Foot,,Rodri,Pass (Live),Kevin De Bruyne,Pass (Live)
+20,Jack Grealish,Manchester City,0.03,,Blocked,21,Right Foot,Volley,Kevin De Bruyne,Pass (Dead),Kyle Walker,Pass (Live)
+21,Rúben Dias,Manchester City,0.06,,Off Target,9,Head,,Riyad Mahrez,Pass (Dead),Jack Grealish,Shot
+21,Erling Haaland,Manchester City,0.16,,Off Target,7,Left Foot,,Rúben Dias,Shot,,
+27,Bernardo Silva,Manchester City,0.03,,Blocked,14,Left Foot,Volley,İlkay Gündoğan,Fouled,Kyle Walker,Pass (Live)
+29,Jack Grealish,Manchester City,0.05,0.34,Saved,15,Right Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Take-On
+38,Rodri,Manchester City,0.04,,Blocked,13,Head,,Kevin De Bruyne,Pass (Dead),Riyad Mahrez,Fouled
+39,İlkay Gündoğan,Manchester City,0.65,0.28,Goal,4,Left Foot,,Erling Haaland,Pass (Live),,
+42,Riyad Mahrez,Manchester City,0.03,,Blocked,34,Left Foot,Free kick,Kevin De Bruyne,Fouled,İlkay Gündoğan,Pass (Live)
+45+1,Riyad Mahrez (pen),Manchester City,0.79,0.97,Goal,13,Left Foot,,Jack Grealish,Fouled,Bernardo Silva,Pass (Live)
+48,Rodri,Manchester City,0.16,0.10,Saved,17,Left Foot,,Julián Álvarez,Pass (Live),Jack Grealish,Pass (Live)
+58,Julián Álvarez,Manchester City,0.11,,Blocked,13,Right Foot,Volley,Rodri,Pass (Live),Rodri,Take-On
+66,Julián Álvarez,Manchester City,0.13,,Blocked,5,Head,,Jack Grealish,Pass (Live),İlkay Gündoğan,Pass (Live)
+68,İlkay Gündoğan,Manchester City,0.05,0.26,Saved,25,Right Foot,,Rodri,Pass (Live),Aymeric Laporte,Pass (Live)
+72,İlkay Gündoğan,Manchester City,0.04,0.05,Saved,27,Right Foot,,Rodri,Pass (Live),Riyad Mahrez,Pass (Live)
+84,Riyad Mahrez,Manchester City,0.42,,Off Target,10,Left Foot,,Julián Álvarez,Pass (Live),Kevin De Bruyne,Pass (Live)

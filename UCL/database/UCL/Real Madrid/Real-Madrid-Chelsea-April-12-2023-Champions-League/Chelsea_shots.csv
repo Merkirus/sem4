@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+2,João Félix,Chelsea,0.11,0.36,Saved,15,Right Foot,,N'Golo Kanté,Pass (Live),Raheem Sterling,Pass (Live)
+23,Raheem Sterling,Chelsea,0.30,0.97,Saved,5,Left Foot,,N'Golo Kanté,Pass (Live),Thiago Silva,Pass (Live)
+28,João Félix,Chelsea,0.05,,Blocked,25,Right Foot,,João Félix,Take-On,Enzo Fernández,Pass (Live)
+48,João Félix,Chelsea,0.03,0.05,Saved,18,Right Foot,,Enzo Fernández,Pass (Live),N'Golo Kanté,Pass (Live)
+50,Enzo Fernández,Chelsea,0.01,,Off Target,34,Right Foot,,Ben Chilwell,Pass (Dead),João Félix,Fouled
+90+3,Mason Mount,Chelsea,0.13,,Blocked,11,Left Foot,,Kai Havertz,Pass (Live),Enzo Fernández,Pass (Live)
+90+3,Kai Havertz,Chelsea,0.02,,Off Target,22,Left Foot,,Mason Mount,Shot,,

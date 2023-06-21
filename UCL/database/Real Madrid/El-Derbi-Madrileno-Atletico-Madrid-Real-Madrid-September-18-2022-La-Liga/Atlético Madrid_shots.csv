@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+6,Felipe,Atlético Madrid,0.03,,Off Target,11,Head,,Rodrigo De Paul,Pass (Dead),Antoine Griezmann,Fouled
+12,Yannick Carrasco,Atlético Madrid,0.16,,Blocked,14,Right Foot,,Koke,Pass (Live),Koke,Pass (Live)
+13,João Félix,Atlético Madrid,0.05,,Blocked,10,Right Foot,Volley,Yannick Carrasco,Shot,,
+17,Geoffrey Kondogbia,Atlético Madrid,0.02,,Off Target,35,Left Foot,,Antoine Griezmann,Pass (Live),Marcos Llorente,Pass (Live)
+25,Antoine Griezmann,Atlético Madrid,0.06,0.19,Saved,23,Left Foot,,Antoine Griezmann,Take-On,,
+25,Geoffrey Kondogbia,Atlético Madrid,0.18,,Off Target,8,Head,,Rodrigo De Paul,Pass (Live),Antoine Griezmann,Pass (Dead)
+40,Yannick Carrasco,Atlético Madrid,0.04,0.11,Saved,12,Left Foot,,Antoine Griezmann,Pass (Live),Koke,Pass (Live)
+42,Rodrigo De Paul,Atlético Madrid,0.01,0.03,Saved,33,Right Foot,,João Félix,Pass (Live),Geoffrey Kondogbia,Pass (Live)
+64,Yannick Carrasco,Atlético Madrid,0.04,,Blocked,29,Right Foot,,Koke,Pass (Live),Matheus Cunha,Pass (Live)
+78,Ángel Correa,Atlético Madrid,0.01,,Off Target,17,Right Foot,,Antoine Griezmann,Pass (Live),Ángel Correa,Pass (Dead)
+83,Mario Hermoso,Atlético Madrid,0.41,0.15,Goal,6,Other,,,,,
+85,Reinildo Mandava,Atlético Madrid,0.01,,Blocked,35,Left Foot,,Ángel Correa,Fouled,Felipe,Pass (Live)

@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Rolando Mandragora,Fiorentina,0.03,,Off Target,18,Left Foot,,Jonathan Ikone,Pass (Live),Arthur,Pass (Live)
+8,Igor,Fiorentina,0.04,,Off Target,8,Head,,Cristiano Biraghi,Pass (Dead),Rolando Mandragora,Shot
+10,Jonathan Ikone,Fiorentina,0.06,,Blocked,11,Left Foot,Volley,Giacomo Bonaventura,Pass (Live),Cristiano Biraghi,Pass (Dead)
+13,Giacomo Bonaventura,Fiorentina,0.09,0.20,Saved,20,Right Foot,Free kick,Arthur,Fouled,,
+18,Nicolás González,Fiorentina,0.03,0.05,Saved,29,Left Foot,,,,,
+19,Nicolás González,Fiorentina,0.03,0.09,Saved,21,Left Foot,,Rolando Mandragora,Pass (Live),Arthur,Pass (Live)
+26,Giacomo Bonaventura,Fiorentina,0.23,,Blocked,11,Right Foot,Deflected,Giacomo Bonaventura,Take-On,Rolando Mandragora,Pass (Live)
+38,Nicolás González,Fiorentina,0.07,,Off Target,10,Head,,Giacomo Bonaventura,Pass (Dead),Arthur,Fouled
+49,Nicolás González (pen),Fiorentina,0.79,0.98,Goal,13,Left Foot,,Jonathan Ikone,Fouled,Jonathan Ikone,Take-On
+64,Arthur,Fiorentina,0.03,,Blocked,21,Right Foot,,Giacomo Bonaventura,Pass (Live),Rolando Mandragora,Pass (Live)
+67,Dodô,Fiorentina,0.10,0.10,Saved,8,Right Foot,Deflected,Arthur,Pass (Live),Dodô,Pass (Live)
+68,Giacomo Bonaventura,Fiorentina,0.07,,Off Target,22,Left Foot,,Arthur,Pass (Live),Cristiano Biraghi,Pass (Live)
+73,Arthur,Fiorentina,0.14,,Off Target,9,Head,,Cristiano Biraghi,Pass (Live),Rolando Mandragora,Pass (Live)
+81,Luka Jović,Fiorentina,0.07,0.15,Saved,9,Head,,Rolando Mandragora,Pass (Dead),Nicolás González,Fouled
+85,Igor,Fiorentina,0.03,,Off Target,28,Left Foot,,Igor,Take-On,Sofyan Amrabat,Pass (Live)
+87,Luka Jović,Fiorentina,0.33,0.16,Goal,8,Head,,Dodô,Pass (Live),Jonathan Ikone,Pass (Live)

@@ -1,0 +1,19 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+14,Vinicius Júnior,Real Madrid,0.09,,Off Target,11,Right Foot,,Aurélien Tchouaméni,Pass (Dead),Vinicius Júnior,Fouled
+19,Karim Benzema,Real Madrid,0.09,0.04,Saved,11,Left Foot,,Rodrygo,Pass (Live),Dani Ceballos,Pass (Live)
+19,Rodrygo,Real Madrid,0.25,0.20,Saved,11,Right Foot,,Aurélien Tchouaméni,Pass (Live),Aurélien Tchouaméni,Take-On
+26,Aurélien Tchouaméni,Real Madrid,0.16,,Off Target,10,Head,,Vinicius Júnior,Pass (Live),Antonio Rüdiger,Fouled
+45+3,Nacho,Real Madrid,0.19,,Off Target,6,Head,,Marco Asensio,Pass (Live),Vinicius Júnior,Fouled
+47,Aurélien Tchouaméni,Real Madrid,0.03,,Blocked,28,Right Foot,,Vinicius Júnior,Take-On,Éder Militão,Pass (Live)
+48,Vinicius Júnior,Real Madrid,0.60,0.79,Goal,10,Right Foot,,Vinicius Júnior,Take-On,Dani Ceballos,Pass (Live)
+54,Vinicius Júnior,Real Madrid,0.13,,Off Target,14,Right Foot,,Karim Benzema,Pass (Live),Dani Ceballos,Tackle
+63,Vinicius Júnior,Real Madrid,0.16,,Blocked,14,Right Foot,,Federico Valverde,Pass (Live),Marco Asensio,Pass (Live)
+64,Rodrygo,Real Madrid,0.08,,Off Target,6,Other,,Dani Ceballos,Pass (Dead),Vinicius Júnior,Shot
+73,Vinicius Júnior,Real Madrid,0.03,,Off Target,15,Right Foot,,Dani Ceballos,Pass (Live),Vinicius Júnior,Pass (Live)
+73,Rodrygo,Real Madrid,0.05,,Off Target,14,Left Foot,,Luka Modrić,Pass (Live),Dani Ceballos,Pass (Live)
+78,Marco Asensio,Real Madrid,0.16,0.07,Saved,14,Left Foot,Volley,Luka Modrić,Pass (Live),Vinicius Júnior,Pass (Live)
+86,Rodrygo,Real Madrid,0.14,,Blocked,5,Left Foot,,Vinicius Júnior,Pass (Live),Vinicius Júnior,Take-On
+90,Nacho,Real Madrid,0.04,,Off Target,27,Right Foot,,Luka Modrić,Pass (Live),Eduardo Camavinga,Pass (Live)
+90+3,Rodrygo,Real Madrid,0.07,,Blocked,24,Right Foot,Free kick,Vinicius Júnior,Fouled,Luka Modrić,Pass (Live)
+90+3,Luka Modrić,Real Madrid,0.03,,Off Target,21,Right Foot,,Rodrygo,Pass (Live),Rodrygo,Pass (Dead)
+90+7,Marco Asensio,Real Madrid,0.15,,Off Target,22,Left Foot,Free kick,Vinicius Júnior,Fouled,Vinicius Júnior,Take-On

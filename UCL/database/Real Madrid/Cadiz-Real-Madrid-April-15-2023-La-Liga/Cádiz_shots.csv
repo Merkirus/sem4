@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+12,Alfonso Espino,Cádiz,0.06,,Woodwork,16,Left Foot,,Rubén Sobrino,Pass (Live),Sergi Guardiola,Pass (Live)
+19,Chris Ramos,Cádiz,0.04,,Blocked,14,Head,,Raúl Parra,Pass (Live),Fali,Pass (Live)
+23,Chris Ramos,Cádiz,0.06,,Off Target,11,Right Foot,,Rubén Alcaraz,Pass (Live),Sergi Guardiola,Pass (Live)
+54,Rubén Alcaraz,Cádiz,0.02,0.03,Saved,32,Right Foot,,Alfonso Espino,Pass (Live),Rubén Sobrino,Pass (Live)
+62,Sergi Guardiola,Cádiz,0.04,,Blocked,20,Left Foot,,Rubén Alcaraz,Pass (Live),Jorge Meré,Pass (Live)
+64,Chris Ramos,Cádiz,0.03,0.02,Saved,24,Right Foot,Deflected,Rubén Alcaraz,Pass (Live),Theo Bongonda,Pass (Live)
+74,Chris Ramos,Cádiz,0.07,,Off Target,13,Right Foot,,Theo Bongonda,Pass (Live),Iván Alejo,Pass (Live)
+83,Álvaro Negredo,Cádiz,0.07,,Off Target,21,Right Foot,,Theo Bongonda,Pass (Live),Álex Fernández,Pass (Live)
+83,Roger Martí,Cádiz,0.13,,Off Target,8,Right Foot,,Iván Alejo,Pass (Live),Luis Hernández,Pass (Live)
+85,Álvaro Negredo,Cádiz,0.07,,Off Target,9,Head,,Iván Alejo,Pass (Live),Theo Bongonda,Pass (Live)
+86,Alfonso Espino,Cádiz,0.05,,Off Target,12,Head,,Álvaro Negredo,Pass (Live),,
+90+4,Álvaro Negredo,Cádiz,0.03,0.03,Saved,25,Left Foot,,Theo Bongonda,Pass (Live),Fali,Pass (Live)

@@ -1,0 +1,8 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+25,Jack Grealish,Manchester City,0.02,,Blocked,20,Right Foot,,Jack Grealish,Take-On,Jack Grealish,Take-On
+27,Nathan Aké,Manchester City,0.02,,Off Target,26,Left Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+35,İlkay Gündoğan,Manchester City,0.03,,Blocked,22,Right Foot,,Jack Grealish,Pass (Live),Rodri,Pass (Live)
+37,Erling Haaland (pen),Manchester City,0.79,,Off Target,13,Left Foot,,,Fouled,İlkay Gündoğan,Shot
+55,Erling Haaland,Manchester City,0.14,0.42,Saved,14,Left Foot,,Jack Grealish,Pass (Live),Kevin De Bruyne,Pass (Live)
+57,Erling Haaland,Manchester City,0.33,0.90,Goal,10,Left Foot,,Erling Haaland,Take-On,Kevin De Bruyne,Pass (Live)
+62,Erling Haaland,Manchester City,0.01,,Blocked,21,Left Foot,,Erling Haaland,Take-On,Jack Grealish,Pass (Live)

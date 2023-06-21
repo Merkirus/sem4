@@ -1,0 +1,18 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,İlkay Gündoğan,Manchester City,0.03,,Off Target,27,Left Foot,,Rodri,Pass (Live),Phil Foden,Pass (Live)
+6,Julián Álvarez,Manchester City,0.02,,Blocked,15,Right Foot,,İlkay Gündoğan,Pass (Dead),Bernardo Silva,Take-On
+6,Rodri,Manchester City,0.07,,Off Target,8,Other,,İlkay Gündoğan,Pass (Dead),Julián Álvarez,Shot
+6,Julián Álvarez,Manchester City,0.18,0.13,Saved,8,Right Foot,,Rodri,Shot,,
+12,Erling Haaland,Manchester City,0.27,0.75,Goal,6,Left Foot,Volley,İlkay Gündoğan,Pass (Dead),Phil Foden,Pass (Live)
+23,Erling Haaland,Manchester City,0.84,0.56,Goal,9,Right Foot,,Erling Haaland,Pass (Live),İlkay Gündoğan,Pass (Live)
+29,Erling Haaland,Manchester City,0.07,,Off Target,9,Head,,İlkay Gündoğan,Pass (Dead),João Cancelo,Fouled
+38,Erling Haaland,Manchester City,0.45,0.91,Goal,2,Head,,John Stones,Pass (Live),Phil Foden,Pass (Live)
+44,Julián Álvarez,Manchester City,0.07,,Woodwork,21,Left Foot,,Julián Álvarez,Take-On,Phil Foden,Pass (Live)
+46,İlkay Gündoğan,Manchester City,0.02,,Off Target,30,Left Foot,,Julián Álvarez,Pass (Live),İlkay Gündoğan,Pass (Live)
+50,João Cancelo,Manchester City,0.05,0.31,Goal,22,Right Foot,,Bernardo Silva,Pass (Live),İlkay Gündoğan,Pass (Live)
+60,Bernardo Silva,Manchester City,0.05,0.05,Saved,23,Left Foot,,Riyad Mahrez,Pass (Live),Cole Palmer,Pass (Live)
+65,Julián Álvarez,Manchester City,0.27,0.72,Goal,11,Right Foot,,,,,
+70,Riyad Mahrez,Manchester City,0.45,,Off Target,17,Left Foot,,İlkay Gündoğan,Pass (Live),Ederson,Pass (Live)
+87,Riyad Mahrez,Manchester City,0.08,,Blocked,18,Left Foot,,Kevin De Bruyne,Pass (Live),Kevin De Bruyne,Tackle
+87,Julián Álvarez,Manchester City,0.15,0.43,Goal,14,Left Foot,,Riyad Mahrez,Shot,,
+89,Kevin De Bruyne,Manchester City,0.25,0.32,Saved,11,Right Foot,,Julián Álvarez,Pass (Live),Riyad Mahrez,Pass (Live)

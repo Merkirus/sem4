@@ -1,0 +1,7 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+20,Felix Afena-Gyan,Cremonese,0.02,,Off Target,25,Left Foot,,Emanuele Valeri,Pass (Live),,
+44,Michele Castagnetti,Cremonese,0.02,,Blocked,32,Left Foot,,Emanuele Valeri,Pass (Dead),,Fouled
+80,Cristian Buonaiuto,Cremonese,0.03,,Blocked,22,Right Foot,,,,,
+84,David Okereke,Cremonese,0.15,,Blocked,16,Right Foot,,Emanuel Aiwum,Pass (Live),,
+84,Johan Vásquez,Cremonese,0.04,,Off Target,12,Head,,Leonardo Sernicola,Pass (Dead),David Okereke,Shot
+90+4,Cristian Buonaiuto,Cremonese,0.03,0.01,Saved,18,Right Foot,,Matteo Bianchetti,Pass (Dead),Leonardo Sernicola,Fouled

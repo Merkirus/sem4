@@ -1,0 +1,15 @@
+player,shirtnumber,nationality,position,age,minutes,goals,assists,pens_made,pens_att,shots,shots_on_target,cards_yellow,cards_red,touches,tackles,interceptions,blocks,xg,npxg,xg_assist,sca,gca,passes_completed,passes,passes_pct,progressive_passes,carries,progressive_carries,take_ons,take_ons_won
+Karim Benzema,9,FRA,FW,35,90,0,0,0,0,5,1,0,0,55,0,0,0,0.6,0.6,0.0,3,0,43,48,89.6,5,38,2,2,1
+Vinicius Júnior,20,BRA,LW,22,80,0,1,0,0,1,1,0,0,66,0,0,0,0.0,0.0,0.3,10,1,33,45,73.3,4,54,11,15,6
+Rodrygo,21,BRA,LW,22,10,0,0,0,0,0,0,0,0,15,0,0,0,0.0,0.0,0.0,1,0,11,14,78.6,1,12,2,2,1
+Marco Asensio,11,ESP,RW,27,75,1,1,0,0,4,2,0,0,63,1,1,1,0.3,0.3,0.6,9,2,43,52,82.7,1,38,2,0,0
+Lucas Vázquez,17,ESP,RB,31,15,0,0,0,0,1,0,0,0,30,0,0,0,0.0,0.0,0.0,0,0,22,28,78.6,2,16,1,0,0
+Dani Ceballos,19,ESP,"LM,RM",26,80,0,0,0,0,1,0,1,0,96,3,1,4,0.0,0.0,0.0,4,1,82,87,94.3,12,71,1,2,2
+Luka Modrić,10,CRO,RM,37,10,0,0,0,0,0,0,0,0,14,0,0,0,0.0,0.0,0.0,0,0,13,14,92.9,0,12,1,0,0
+Aurélien Tchouaméni,18,FRA,CM,23,90,0,0,0,0,2,0,0,0,99,3,5,2,0.2,0.2,0.0,0,0,77,82,93.9,7,63,1,0,0
+Federico Valverde,15,URU,"RM,RW",24,90,0,0,0,0,0,0,0,0,69,1,0,1,0.0,0.0,0.0,0,0,55,65,84.6,6,50,0,2,2
+Eduardo Camavinga,12,FRA,"LB,LM",20,90,0,0,0,0,0,0,0,0,106,6,2,5,0.0,0.0,0.0,0,0,81,88,92.0,8,72,5,7,6
+Antonio Rüdiger,22,GER,CB,30,90,0,0,0,0,1,0,0,0,69,1,0,1,0.1,0.1,0.0,0,0,61,64,95.3,0,55,0,0,0
+Éder Militão,3,BRA,CB,25,90,1,0,0,0,1,1,0,0,78,0,0,1,0.1,0.1,0.0,1,0,68,74,91.9,5,60,1,0,0
+Nacho,6,ESP,"RB,LB",33,90,0,0,0,0,1,0,0,0,78,0,2,0,0.0,0.0,0.2,3,0,69,74,93.2,4,52,0,2,1
+Thibaut Courtois,1,BEL,GK,30,90,0,0,0,0,0,0,0,0,35,0,0,0,0.0,0.0,0.0,0,0,31,34,91.2,0,26,0,0,0

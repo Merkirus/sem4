@@ -1,0 +1,17 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+5,Lautaro Martínez,Inter,0.07,,Off Target,24,Right Foot,,Nicolò Barella,Pass (Live),Edin Džeko,Pass (Live)
+28,Lautaro Martínez,Inter,0.06,,Blocked,23,Left Foot,,Hakan Çalhanoğlu,Pass (Live),,
+34,Edin Džeko,Inter,0.05,,Blocked,26,Left Foot,,Lautaro Martínez,Pass (Live),Matteo Darmian,Pass (Live)
+35,Lautaro Martínez,Inter,0.02,,Off Target,29,Right Foot,,Matteo Darmian,Pass (Live),Lautaro Martínez,Pass (Dead)
+39,Federico Dimarco,Inter,0.15,,Blocked,20,Left Foot,,,,,
+44,Marcelo Brozović,Inter,0.01,,Off Target,34,Right Foot,,Federico Dimarco,Pass (Dead),Lautaro Martínez,Fouled
+53,Hakan Çalhanoğlu,Inter,0.04,,Blocked,31,Right Foot,Free kick,Hakan Çalhanoğlu,Fouled,,
+53,Federico Dimarco,Inter,0.02,,Off Target,29,Left Foot,Volley,,,,
+57,Denzel Dumfries,Inter,0.04,,Off Target,6,Head,,,,,
+63,Edin Džeko,Inter,0.12,,Off Target,10,Head,,Matteo Darmian,Pass (Live),Marcelo Brozović,Pass (Live)
+66,Edin Džeko,Inter,0.06,0.03,Saved,22,Right Foot,,Lautaro Martínez,Pass (Live),Hakan Çalhanoğlu,Pass (Live)
+70,Lautaro Martínez,Inter,0.07,,Blocked,18,Right Foot,Volley,Lautaro Martínez,Take-On,Joaquín Correa,Pass (Live)
+75,Milan Škriniar,Inter,0.08,0.14,Saved,9,Head,,Federico Dimarco,Pass (Dead),Federico Dimarco,Pass (Live)
+78,Henrikh Mkhitaryan,Inter,0.04,,Blocked,15,Right Foot,,Nicolò Barella,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+79,Lautaro Martínez,Inter,0.04,,Off Target,14,Head,,Alessandro Bastoni,Pass (Live),,
+89,Marcelo Brozović,Inter,0.66,0.99,Goal,4,Right Foot,Volley,Nicolò Barella,Pass (Live),Joaquín Correa,Pass (Live)

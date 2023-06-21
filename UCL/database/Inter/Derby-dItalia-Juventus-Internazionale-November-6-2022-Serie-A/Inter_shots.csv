@@ -1,0 +1,15 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Federico Dimarco,Inter,0.03,,Blocked,26,Left Foot,,Milan Škriniar,Pass (Live),Denzel Dumfries,Pass (Live)
+5,Lautaro Martínez,Inter,0.07,,Off Target,16,Left Foot,Volley,Lautaro Martínez,Pass (Live),Edin Džeko,Pass (Live)
+10,Hakan Çalhanoğlu,Inter,0.02,0.05,Saved,33,Right Foot,,Hakan Çalhanoğlu,Interception,,
+26,Edin Džeko,Inter,0.27,,Off Target,5,Head,,Lautaro Martínez,Pass (Live),Federico Dimarco,Pass (Dead)
+33,Denzel Dumfries,Inter,0.03,0.13,Saved,19,Left Foot,,,,,
+42,Denzel Dumfries,Inter,0.38,,Off Target,12,Left Foot,,Nicolò Barella,Pass (Live),Henrikh Mkhitaryan,Pass (Live)
+45,Francesco Acerbi,Inter,0.03,,Blocked,22,Left Foot,Volley,,,,
+47,Hakan Çalhanoğlu,Inter,0.01,0.14,Saved,29,Right Foot,,Lautaro Martínez,Pass (Live),Federico Dimarco,Pass (Live)
+60,Stefan de Vrij,Inter,0.02,,Off Target,15,Head,,Hakan Çalhanoğlu,Pass (Dead),Federico Dimarco,Pass (Live)
+72,Hakan Çalhanoğlu,Inter,0.04,,Blocked,14,Left Foot,,Edin Džeko,Pass (Live),Nicolò Barella,Pass (Live)
+74,Lautaro Martínez,Inter,0.13,0.71,Saved,14,Right Foot,,Joaquín Correa,Pass (Live),,
+80,Edin Džeko,Inter,0.13,,Off Target,4,Head,,Robin Gosens,Pass (Live),Nicolò Barella,Pass (Live)
+90+2,Joaquín Correa,Inter,0.04,,Blocked,16,Left Foot,Volley,Lautaro Martínez,Pass (Live),Lautaro Martínez,Pass (Live)
+90+2,Nicolò Barella,Inter,0.02,,Off Target,28,Right Foot,Volley,Joaquín Correa,Shot,,

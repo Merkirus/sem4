@@ -1,0 +1,20 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Davide Faraoni,Hellas Verona,0.09,0.29,Saved,21,Left Foot,,,,,
+8,Ajdin Hrustic,Hellas Verona,0.03,,Blocked,29,Left Foot,,Koray Günter,Pass (Live),Simone Verdi,Pass (Live)
+19,Thomas Henry,Hellas Verona,0.04,,Blocked,15,Right Foot,,Ajdin Hrustic,Pass (Live),Simone Verdi,Pass (Live)
+19,Koray Günter,Hellas Verona,0.08,0.15,Goal,16,Right Foot,Deflected,Fabio Depaoli,Pass (Live),Adrien Tameze,Pass (Live)
+23,Ajdin Hrustic,Hellas Verona,0.05,,Blocked,17,Left Foot,,Fabio Depaoli,Pass (Live),Ajdin Hrustic,Pass (Live)
+26,Davide Faraoni,Hellas Verona,0.04,,Blocked,11,Head,,Simone Verdi,Pass (Dead),Simone Verdi,Fouled
+38,Simone Verdi,Hellas Verona,0.14,,Blocked,23,Right Foot,,Koray Günter,Pass (Live),Simone Verdi,Pass (Live)
+43,Davide Faraoni,Hellas Verona,0.01,,Off Target,36,Right Foot,Volley,Thomas Henry,Pass (Live),,
+45,Koray Günter,Hellas Verona,0.52,,Off Target,3,Head,,Ajdin Hrustic,Pass (Live),Simone Verdi,Pass (Live)
+45,Miguel Veloso,Hellas Verona,0.03,,Blocked,11,Left Foot,Volley,Koray Günter,Shot,,
+47,Ajdin Hrustic,Hellas Verona,0.26,,Off Target,13,Left Foot,,Simone Verdi,Pass (Live),Fabio Depaoli,Pass (Live)
+56,Roberto Piccoli,Hellas Verona,0.16,,Woodwork,9,Head,,Miguel Veloso,Pass (Live),Fabio Depaoli,Pass (Live)
+56,Koray Günter,Hellas Verona,0.10,,Off Target,22,Right Foot,Volley,Roberto Piccoli,Shot,,
+64,Roberto Piccoli,Hellas Verona,0.08,0.05,Saved,11,Right Foot,Volley,Adrien Tameze,Pass (Live),Davide Faraoni,Pass (Live)
+85,Roberto Piccoli,Hellas Verona,0.11,,Off Target,15,Left Foot,,Yayah Kallon,Pass (Live),Juan Cabal,Pass (Dead)
+87,Milan Đurić,Hellas Verona,0.02,,Off Target,16,Head,,Miguel Veloso,Pass (Live),Juan Cabal,Pass (Live)
+87,Fabio Depaoli,Hellas Verona,0.17,,Blocked,7,Right Foot,,Milan Đurić,Shot,,
+90,Davide Faraoni,Hellas Verona,0.25,0.12,Saved,6,Head,,Miguel Veloso,Pass (Live),,
+90,Milan Đurić,Hellas Verona,0.00,,Blocked,3,Right Foot,Volley,Davide Faraoni,Shot,,

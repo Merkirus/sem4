@@ -1,0 +1,13 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+3,Gabriel Veiga,Celta Vigo,0.02,,Off Target,26,Right Foot,,Augusto Solari,Pass (Live),,
+45+2,Gabriel Veiga,Celta Vigo,0.02,,Off Target,32,Right Foot,,Javi Galán,Pass (Dead),Gabriel Veiga,Fouled
+51,Haris Seferović,Celta Vigo,0.09,,Blocked,17,Right Foot,,Iago Aspas,Pass (Live),Gabriel Veiga,Pass (Live)
+53,Gabriel Veiga,Celta Vigo,0.01,,Blocked,23,Right Foot,Volley,Luca de la Torre,Pass (Live),,
+56,Iago Aspas,Celta Vigo,0.13,,Off Target,17,Left Foot,,Javi Galán,Pass (Live),Franco Cervi,Pass (Live)
+62,Luca de la Torre,Celta Vigo,0.11,,Blocked,13,Left Foot,Volley,Javi Galán,Pass (Live),Fran Beltrán,Pass (Live)
+63,Óscar Rodríguez Arnaiz,Celta Vigo,0.03,,Off Target,29,Right Foot,,Iago Aspas,Pass (Live),Javi Galán,Pass (Live)
+69,Luca de la Torre,Celta Vigo,0.02,,Off Target,27,Right Foot,,Unai Núñez,Tackle,,
+77,Iago Aspas,Celta Vigo,0.33,0.85,Saved,5,Right Foot,,Iago Aspas,Take-On,Óscar Rodríguez Arnaiz,Pass (Live)
+78,Gonçalo Paciência,Celta Vigo,0.15,,Off Target,5,Head,,Óscar Rodríguez Arnaiz,Pass (Live),Iago Aspas,Pass (Dead)
+90,Iago Aspas,Celta Vigo,0.04,0.06,Saved,14,Right Foot,Deflected,Óscar Rodríguez Arnaiz,Pass (Live),,
+90+3,Unai Núñez,Celta Vigo,0.02,,Off Target,15,Head,,Iago Aspas,Pass (Dead),Iago Aspas,Fouled

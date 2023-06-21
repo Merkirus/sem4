@@ -1,0 +1,21 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+7,Giovanni Simeone,Napoli,0.14,,Off Target,15,Left Foot,,Piotr Zieliński,Pass (Live),Mário Rui,Pass (Live)
+14,Matteo Politano,Napoli,0.01,,Blocked,32,Left Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Kim Min-jae,Pass (Live)
+28,Stanislav Lobotka,Napoli,0.02,0.06,Saved,34,Right Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Piotr Zieliński,Pass (Live)
+28,Matteo Politano,Napoli,0.03,,Blocked,15,Right Foot,Volley,Stanislav Lobotka,Shot,,
+34,Khvicha Kvaratskhelia,Napoli,0.03,,Blocked,18,Right Foot,,Stanislav Lobotka,Pass (Live),Giovanni Simeone,Pass (Live)
+36,Amir Rrahmani,Napoli,0.03,,Blocked,14,Head,,Piotr Zieliński,Pass (Dead),Matteo Politano,Fouled
+45+3,Piotr Zieliński,Napoli,0.04,0.13,Saved,21,Left Foot,,Khvicha Kvaratskhelia,Pass (Live),Mário Rui,Pass (Live)
+45+4,Andre-Frank Zambo Anguissa,Napoli,0.02,,Off Target,21,Right Foot,Volley,Piotr Zieliński,Pass (Live),Mário Rui,Pass (Live)
+45+4,Matteo Politano,Napoli,0.01,,Blocked,22,Left Foot,Volley,Andre-Frank Zambo Anguissa,Shot,,
+51,Giovanni Simeone,Napoli,0.03,,Off Target,28,Right Foot,,Stanislav Lobotka,Tackle,,
+53,Stanislav Lobotka,Napoli,0.02,,Off Target,24,Right Foot,,Khvicha Kvaratskhelia,Pass (Live),Stanislav Lobotka,Pass (Live)
+56,Mário Rui,Napoli,0.06,0.13,Saved,12,Left Foot,,Khvicha Kvaratskhelia,Pass (Live),Andre-Frank Zambo Anguissa,Pass (Live)
+58,Giovanni Di Lorenzo,Napoli,0.24,,Blocked,6,Head,,Mário Rui,Pass (Live),Khvicha Kvaratskhelia,Pass (Live)
+73,Hirving Lozano,Napoli,0.04,,Blocked,26,Left Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Amir Rrahmani,Pass (Live)
+76,Khvicha Kvaratskhelia,Napoli,0.07,,Blocked,7,Head,,Hirving Lozano,Pass (Live),,
+76,Khvicha Kvaratskhelia,Napoli,0.16,,Off Target,10,Right Foot,,Khvicha Kvaratskhelia,Shot,,
+77,Giacomo Raspadori,Napoli,0.17,,Blocked,12,Left Foot,,Andre-Frank Zambo Anguissa,Pass (Live),Andre-Frank Zambo Anguissa,Interception
+84,Giacomo Raspadori,Napoli,0.08,,Off Target,14,Right Foot,,Giacomo Raspadori,Take-On,Khvicha Kvaratskhelia,Pass (Live)
+89,Hirving Lozano,Napoli,0.03,,Off Target,21,Right Foot,,Giovanni Di Lorenzo,Pass (Live),Khvicha Kvaratskhelia,Pass (Live)
+90+2,Hirving Lozano,Napoli,0.02,0.25,Saved,25,Right Foot,,Tanguy Ndombele,Pass (Live),Tanguy Ndombele,Take-On

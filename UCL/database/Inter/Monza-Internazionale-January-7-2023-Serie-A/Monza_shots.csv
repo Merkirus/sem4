@@ -1,0 +1,14 @@
+minute,player,team,xg_shot,psxg_shot,outcome,distance,body_part,notes,sca_1_player,sca_1_type,sca_2_player,sca_2_type
+4,Dany Mota,Monza,0.33,,Off Target,5,Head,,Matteo Pessina,Pass (Live),Dany Mota,Pass (Live)
+11,Patrick Ciurria,Monza,0.10,0.62,Goal,13,Left Foot,,Matteo Pessina,Pass (Live),Samuele Birindelli,Pass (Live)
+19,Andrea Petagna,Monza,0.44,,Off Target,5,Head,,Pepín,Pass (Live),,
+45+2,Carlos,Monza,0.03,,Off Target,22,Left Foot,,Andrea Petagna,Pass (Live),Samuele Birindelli,Pass (Live)
+47,Carlos,Monza,0.05,,Blocked,16,Right Foot,,Carlos,Take-On,Pepín,Pass (Live)
+47,Matteo Pessina,Monza,0.03,,Off Target,28,Left Foot,,Andrea Petagna,Pass (Live),Carlos,Pass (Live)
+60,Patrick Ciurria,Monza,0.06,,Blocked,16,Right Foot,,Carlos,Pass (Live),Pepín,Pass (Live)
+61,Dany Mota,Monza,0.06,,Off Target,11,Head,,Patrick Ciurria,Pass (Live),Armando Izzo,Pass (Live)
+68,Filippo Ranocchia,Monza,0.03,0.22,Saved,35,Right Foot,Free kick,,Fouled,Patrick Ciurria,Pass (Live)
+72,Pablo Marí,Monza,0.06,0.15,Saved,11,Head,Deflected,Filippo Ranocchia,Pass (Dead),Matteo Pessina,Fouled
+78,Patrick Ciurria,Monza,0.04,,Blocked,17,Left Foot,,Matteo Pessina,Pass (Live),Carlos,Pass (Live)
+90+3,Luca Caldirola,Monza,0.05,,Off Target,9,Head,,Patrick Ciurria,Pass (Live),Pablo Marí,Pass (Live)
+90+6,Luca Caldirola,Monza,0.23,0.30,Saved,7,Head,,Andrea Colpani,Pass (Dead),Andrea Colpani,Pass (Live)
